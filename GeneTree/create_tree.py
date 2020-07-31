@@ -161,9 +161,9 @@ def readmatrix(filename):
 ########
 ##### CREATION    
 
-def newickTreatment(newick,coreDict,varDict,out_tree,output,speciesname,ngn=None):
+def newickTreatment(newick,coreDict,varDict,out_tree,output,speciesname,out_dir,ngn=None):
     
-    repositryname = '_'.join(speciesname.split(' '))+'_data'
+    repositryname = out_dir+'/'+'_'.join(speciesname.split(' '))+'_data'
     if not os.path.exists(repositryname):
         createDir(repositryname)
     else:
@@ -186,7 +186,7 @@ def newickTreatment(newick,coreDict,varDict,out_tree,output,speciesname,ngn=None
                 pass
             elif node.name == 'root':
                 with open(str(repositryname)+'/root.txt','w') as out:
-                    itol_str += f"{node.name}\t {node.name} \t <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='https://raw.githubusercontent.com/gsiekaniec/Streptococcus_thermophilus_data/master/root.txt'>&dagger;</a> </p>"
+                    itol_str += f"{node.name}\t {node.name} \t <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='https://raw.githubusercontent.com/gsiekaniec/GeneTree/master/Streptococcus_thermophilus/Streptococcus_thermophilus_data/root.txt'>&dagger;</a> </p>"
                     for gene in coreDict['core']:
                         if not ngn:
                             itol_str += f"id: {gene[0]} - name: {gene[1]} "
@@ -198,7 +198,7 @@ def newickTreatment(newick,coreDict,varDict,out_tree,output,speciesname,ngn=None
             elif node.is_leaf():
                 filename = '_'.join(str(node.name).split(' '))+'.txt'
                 with open(str(repositryname)+'/'+filename,'w') as out:
-                    itol_str += f"{node.name}\t {node.name} \t  <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='https://raw.githubusercontent.com/gsiekaniec/Streptococcus_thermophilus_data/master/{filename}'>&dagger;</a></p>"
+                    itol_str += f"{node.name}\t {node.name} \t  <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='https://raw.githubusercontent.com/gsiekaniec/GeneTree/master/Streptococcus_thermophilus/Streptococcus_thermophilus_data/{filename}'>&dagger;</a></p>"
                     name = node.name.strip()
                     if name in sorted(list(coreDict['spe'].keys())):
                         for i,gene in enumerate(coreDict['spe'][name]):
@@ -220,7 +220,7 @@ def newickTreatment(newick,coreDict,varDict,out_tree,output,speciesname,ngn=None
                 with open(str(repositryname)+'/'+filename,'w') as out:
                     strains = set()
                     genes = ''
-                    itol_str = f"node {str(number)}\tnode {str(number)}\t  <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='https://raw.githubusercontent.com/gsiekaniec/Streptococcus_thermophilus_data/master/{filename}'>&dagger;</a></p>"
+                    itol_str = f"node {str(number)}\tnode {str(number)}\t  <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='https://raw.githubusercontent.com/gsiekaniec/GeneTree/master/Streptococcus_thermophilus/Streptococcus_thermophilus_data/{filename}'>&dagger;</a></p>"
                     for leaf in node:
                         strains.add(str(leaf.name).strip())
                     try :
@@ -318,7 +318,7 @@ def main(args):
             ngn = None
             
         with Timer() as tree_creation_time:
-            newickTreatment(args.newick_file,coreSpe,var,args.outtree,args.outfile,args.speciesname,ngn)
+            newickTreatment(args.newick_file,coreSpe,var,args.outtree,args.outfile,args.speciesname,args.output_directory,ngn)
         GeneTree.info(f'tree creation done in: {tree_creation_time.t}')
         
     GeneTree.info(f'done in: {full_time.t}')
