@@ -1,1016 +1,1016 @@
-id: 244208 - name: clpE / Unknow / clpL / clpB / clpC
-id: 1325469 - name: Unknow
-id: 244904 - name: Unknow / rsh / relA / spoT
-id: 1325985 - name: trxB1 / Unknow / trxB / trxB_2
-id: 61586 - name: Unknow / rpsS
-id: 1326357 - name: Unknow / yfkN_2
-id: 1323281 - name: lysP_2 / Unknow / yfnA / mtrA
-id: 1327045 - name: Unknow
-id: 244034 - name: folEA / Unknow / arcT / folE
-id: 1319705 - name: comX / comX1_2 / Unknow
-id: 77115 - name: ykgM / rpmE / rpmE2 / Unknow / rpmEB
-id: 243672 - name: Unknow / recR
-id: 1325654 - name: rplS-1 / Unknow / yqeG
-id: 1319930 - name: Unknow / mvaD
-id: 1321150 - name: hmuV / abcX / Unknow
-id: 1320158 - name: Unknow / hk04
-id: 1321115 - name: Unknow
-id: 1326048 - name: Unknow
-id: 1319978 - name: aroE / Unknow / ydiB
-id: 1325589 - name: Unknow
-id: 1319659 - name: Unknow / pcsB
-id: 1319983 - name: Unknow / pheA2 / pheA
-id: 243155 - name: Unknow / rpoB
-id: 1328355 - name: Unknow / ecfT
-id: 243698 - name: sodA / Unknow
-id: 1310577 - name: Unknow / fabF
-id: 243852 - name: Unknow / guaA
-id: 243726 - name: nrdA / Unknow / nrdE
-id: 1319941 - name: dhfR / Unknow / folA
-id: 583313 - name: thrC / Unknow
-id: 687003 - name: Unknow
-id: 1323294 - name: Unknow
-id: 1321479 - name: mutS / mutS2 / Unknow
-id: 93426 - name: rplL / rpiL / Unknow
-id: 1323228 - name: Unknow
-id: 1319926 - name: ytzG / rsuA1 / Unknow / rsuA
-id: 1309820 - name: argH / Unknow
-id: 1322371 - name: ykuT / Unknow / mscS
-id: 1309830 - name: rlmCD / Unknow / rlmD / rumA
-id: 244786 - name: Unknow / rnmV
-id: 1326895 - name: Unknow
-id: 244106 - name: potA / livG / Unknow / potA_1
-id: 582445 - name: lmrA / yfiC / Unknow / msbA
-id: 244796 - name: Unknow / dltA
-id: 1323119 - name: rssA / Unknow
-id: 244116 - name: Unknow / mutT / mutT_2 / mutX
-id: 582342 - name: Unknow / leuA / leuA_1
-id: 244097 - name: deoD_3 / Unknow / deoD
-id: 245804 - name: Unknow
-id: 1319660 - name: recO / Unknow
-id: 1323172 - name: miaA / Unknow / trmD
-id: 1311986 - name: amd-1 / rsfS / ybeB / Unknow
-id: 243648 - name: Unknow
-id: 245028 - name: Unknow / recA
-id: 79253 - name: spsJ / Unknow / rffG / rmlB / rfbB
-id: 1319841 - name: Unknow / gtf1 / gtf / tagE / gtfA
-id: 1319655 - name: tilS / Unknow
-id: 1314171 - name: Unknow / xseA
-id: 1319873 - name: argB / Unknow
-id: 1327275 - name: Unknow / rmuC
-id: 1324607 - name: Unknow / yusI / spxA_2
-id: 583243 - name: Unknow / tadA
-id: 244012 - name: relA-1 / relP / Unknow / yjbM
-id: 1327969 - name: Unknow / comGF
-id: 243402 - name: galE1 / Unknow / galE_3 / galE / galE_2
-id: 1323211 - name: Unknow
-id: 1323963 - name: ppnKA / Unknow / nadK / ppnK
-id: 1320041 - name: Unknow / msbA
-id: 1314253 - name: Unknow / glyS
-id: 1319788 - name: Unknow / ureQ
-id: 1313643 - name: pdhA / acoA / Unknow
-id: 1319940 - name: Unknow
-id: 244840 - name: nifR / Unknow / dusB
-id: 1325399 - name: Unknow / dnaQ
-id: 1319820 - name: Unknow
-id: 244426 - name: uvrB / Unknow
-id: 244681 - name: efp / Unknow
-id: 1319891 - name: amt / Unknow / amtB
-id: 244030 - name: murB / Unknow
-id: 1323166 - name: Unknow
-id: 1323215 - name: ossG / cdaA / Unknow
-id: 1327877 - name: Unknow
-id: 1320884 - name: Unknow
-id: 244499 - name: msrA2 / msrA / Unknow
-id: 1326540 - name: Unknow / proA
-id: 1326200 - name: pbpX_1 / Unknow
-id: 1319796 - name: metI / Unknow / metP
-id: 1323288 - name: Unknow / catE
-id: 1320439 - name: mdtK / Unknow / norM
-id: 243828 - name: pfkA / Unknow / pfk
-id: 1310527 - name: pheT_1 / Unknow / pheT
-id: 78125 - name: Unknow / rpsH
-id: 1319935 - name: mtnN / Unknow / pfs
-id: 243244 - name: mraW / rsmH / Unknow
-id: 1322958 - name: Unknow
-id: 243242 - name: Unknow / proB
-id: 1322178 - name: cbpD / Unknow / cbpD1
-id: 1324834 - name: Unknow / folP
-id: 243258 - name: Unknow / recU
-id: 1319756 - name: gpsB / Unknow
-id: 1323156 - name: Unknow / ftsX
-id: 1323239 - name: Unknow / cls
-id: 244573 - name: Unknow / trmL / yibK
-id: 1326640 - name: Unknow / rr06-1
-id: 582719 - name: Unknow / aroB
-id: 243784 - name: trmE / Unknow / mnmE
-id: 244662 - name: aspC2 / Unknow / alaA / yfbQ
-id: 1319761 - name: Unknow / pabC / mltG
-id: 1309852 - name: yecS_4 / Unknow / yecS
-id: 243683 - name: deaD / rheA / deaD_2 / Unknow / cshA
-id: 1319878 - name: Unknow
-id: 78131 - name: rplB / Unknow
-id: 1325945 - name: Unknow / atpH-1 / lon
-id: 77254 - name: Unknow / clpP
-id: 1319876 - name: Unknow / rarD
-id: 243989 - name: manB / Unknow / pgmA / pgcA
-id: 1319854 - name: Unknow / yheH / lmrA2
-id: 79294 - name: tnp / orF00044-1 / Unknow / tnp1216 / orF00044 / tnpA2
-id: 582539 - name: Unknow / pyrD1 / pyrD
-id: 1324326 - name: artP_3 / glnH / Unknow / ackA / artP
-id: 1322092 - name: adcR / Unknow / adcR-1
-id: 105749 - name: Unknow / typA / bipA
-id: 1322750 - name: Unknow / trkH2
-id: 1320231 - name: Unknow
-id: 243111 - name: gltX / Unknow
-id: 1323153 - name: Unknow / lepB / sipB
-id: 1323151 - name: Unknow
-id: 244744 - name: ybaB / Unknow
-id: 1322961 - name: Unknow / apbE
-id: 244757 - name: gcp / Unknow / tsaD
-id: 1319908 - name: oxyR / cpsY / cpsY2 / Unknow
-id: 1319980 - name: Unknow
-id: 243973 - name: ybiT / Unknow / ettM
-id: 1320274 - name: yfmL / deaD / Unknow / deaD_1
-id: 1319888 - name: sip / Unknow / ricT / tpl
-id: 1319882 - name: atpH / Unknow
-id: 1322944 - name: e1 / Unknow
-id: 1324302 - name: glnH / Unknow / glnH_3 / artP_2 / artP / fliY
-id: 244130 - name: elaC / Unknow / rnz
-id: 1319772 - name: Unknow / ribU
-id: 243684 - name: Unknow / yazA
-id: 1319799 - name: Unknow / ykoD / sdcBA
-id: 243199 - name: Unknow / yjfH / rlmB
-id: 1319764 - name: Unknow
-id: 582986 - name: exp / exp5 / Unknow / ptsG_2 / ptsG
-id: 1319654 - name: yaaD / Unknow
-id: 581860 - name: fliY / Unknow / glnH_1 / glnH
-id: 1322430 - name: Unknow
-id: 77930 - name: Unknow / rplU
-id: 244769 - name: Unknow / glnA / gnlA
-id: 1320030 - name: ylmE / yggS / Unknow
-id: 1320058 - name: bmpB / tmpC / Unknow / nupN
-id: 1325376 - name: Unknow
-id: 1321718 - name: Unknow / frvX / pepA / ytoP / tig-1
-id: 582503 - name: dapA / Unknow
-id: 1328347 - name: Unknow / isaA
-id: 243689 - name: Unknow / purK
-id: 1319749 - name: Unknow / bcrC_1
-id: 66531 - name: rplP / Unknow
-id: 1324316 - name: aspC / Unknow
-id: 244661 - name: codY / Unknow
-id: 1326033 - name: Unknow / tcyA_2 / tcyA
-id: 243842 - name: nupO / Unknow / rbsA / mglA
-id: 244649 - name: yqeH / rgpH / Unknow
-id: 1326064 - name: Unknow / dinB
-id: 243318 - name: Unknow / manX / manL
-id: 1319386 - name: yaaC / Unknow
-id: 1323301 - name: Unknow
-id: 1319707 - name: rsmE / Unknow
 id: 243420 - name: Unknow / asnA
-id: 1325478 - name: Unknow
-id: 117284 - name: rpmG / rpmGA / Unknow
-id: 77323 - name: atpA / Unknow
-id: 243467 - name: tlyA / Unknow / yqxC
-id: 243833 - name: Unknow / glmS
-id: 243041 - name: Unknow / purM
-id: 583056 - name: mip / Unknow
-id: 1322692 - name: Unknow
-id: 117334 - name: Unknow / ygaC
-id: 1323290 - name: Unknow
-id: 77970 - name: Unknow / rplT
-id: 106504 - name: Unknow / queF
-id: 1325181 - name: Unknow / copZ
-id: 1319806 - name: yjeE / ydiB / Unknow / tsaE
-id: 1322962 - name: Unknow / nrnA
-id: 243104 - name: Unknow / tig
-id: 582343 - name: Unknow / leuB
-id: 1326762 - name: pmi1 / Unknow / manA
-id: 106896 - name: Unknow / mnmA / trmU
-id: 243251 - name: tcyN_2 / Unknow / tcyN / yecC
-id: 1323195 - name: metA / metAA / Unknow
-id: 1319819 - name: Unknow
-id: 1322893 - name: Unknow
-id: 1327945 - name: mleP-1 / Unknow / mleP
-id: 1327741 - name: Unknow / fthC / yqgN
-id: 1322041 - name: amaP / Unknow
-id: 244690 - name: Unknow / comEB
-id: 77248 - name: uvrA / Unknow
-id: 1319982 - name: aroL / Unknow / aroK
-id: 78211 - name: Unknow / ymgE
-id: 243301 - name: Unknow / acpP2 / acpB / acpP / acpA
-id: 243032 - name: Unknow / araT / dapX / patA / yfdZ
-id: 581792 - name: Unknow / glnR
-id: 244217 - name: Unknow / clpX
-id: 78042 - name: PTSH / Unknow / ptsH
-id: 1325285 - name: Unknow / trpD
-id: 1319713 - name: dex_1 / Unknow / dex
-id: 1323174 - name: aroH / Unknow
-id: 1321316 - name: ansA / Unknow / aspQ / ansB
-id: 687830 - name: Unknow / lplA / lplJ
-id: 245019 - name: Unknow / nrdG
-id: 1319807 - name: Unknow / yhhY
-id: 1319863 - name: Unknow / pepF / pepB
-id: 581861 - name: glnQ_3 / Unknow / glnQ / tcyC
-id: 582255 - name: Unknow / yidA
-id: 582585 - name: Unknow / pepT
-id: 1322976 - name: panT / panT_2 / Unknow
-id: 1319885 - name: Unknow / ftsW
-id: 244794 - name: Unknow / dltC
-id: 1320157 - name: baeR / spaR / Unknow / rr04
-id: 1319773 - name: bcrC / Unknow / bcrC_2
-id: 1319747 - name: Unknow / pbp2A
-id: 1324802 - name: Unknow / folK
-id: 77619 - name: glyQ / Unknow
-id: 1322632 - name: yidC / Unknow / oxaA1
-id: 244601 - name: Unknow / murC
-id: 1320228 - name: ribC / Unknow / ribF
-id: 1319847 - name: Unknow
-id: 1319787 - name: larMN / Unknow / ureM / cbiM / nikMN
-id: 1320028 - name: divIB / Unknow
-id: 1319910 - name: Unknow / pyrR
-id: 1320059 - name: ytfT / Unknow / mglC / nupP
-id: 1320038 - name: Unknow / ywlC / rimN
-id: 746515 - name: Unknow / queE
-id: 1322957 - name: Unknow
-id: 1323179 - name: estA / Unknow
-id: 78136 - name: Unknow / rpsG
-id: 1326791 - name: scrA / Unknow / bglF
-id: 243292 - name: yvyE / Unknow / yigZ
-id: 1319766 - name: ysnB / Unknow / yfcE
-id: 77888 - name: fabK-1 / Unknow / rpsP / rpsP_2
-id: 243360 - name: gpsA / Unknow
-id: 78130 - name: Unknow / rplV
-id: 1324444 - name: rsuA2 / ytzG / Unknow / rsuA
-id: 1320313 - name: Unknow
-id: 1319833 - name: Unknow / accB
-id: 243465 - name: xseB / Unknow
-id: 244861 - name: defB / Unknow / def / def_1
-id: 1326837 - name: pepP / Unknow / papA / ypdF
-id: 1322939 - name: Unknow / mvaA
-id: 1322025 - name: Unknow
-id: 1319826 - name: comFC / Unknow
-id: 1327035 - name: Unknow
-id: 1323292 - name: Unknow / celB
-id: 243992 - name: Unknow / ndpA
-id: 1325960 - name: Unknow / kdtB / coaD
-id: 244068 - name: ilvE / Unknow / bcaT
-id: 1324814 - name: folQ_2 / Unknow / folQ / folB
-id: 1323190 - name: Unknow / recN
-id: 583084 - name: Unknow / ilvA
-id: 1322785 - name: murE_1 / Unknow / murE / mure
-id: 1326405 - name: Unknow / ftsL
-id: 243149 - name: adcC / Unknow / znuC
-id: 244461 - name: Unknow / rnr
-id: 243137 - name: sufS / Unknow / nifS1
-id: 244877 - name: Unknow / proS / parS
-id: 77906 - name: rpmB / Unknow
-id: 243993 - name: Unknow / glyA / glyA-1
-id: 1319762 - name: Unknow / ysgA / spoU
-id: 1325064 - name: corA1 / Unknow / corA
-id: 1319845 - name: Unknow
-id: 1319774 - name: Unknow / plcR
-id: 1072881 - name: Unknow / ybbL
-id: 1323209 - name: thiO / Unknow / yurR
-id: 583050 - name: Unknow / manO
-id: 1319931 - name: mvaK2 / Unknow
-id: 1323120 - name: neuA / Unknow
-id: 1327100 - name: rimI / Unknow
-id: 1322747 - name: trkA2 / Unknow
-id: 582087 - name: murD / Unknow
-id: 1320035 - name: Unknow / add / ada
-id: 1323198 - name: Unknow
-id: 243174 - name: ssb_4 / Unknow / ssb / ssbA
-id: 1319992 - name: Unknow
-id: 244107 - name: Unknow / lsrC_2
-id: 1319900 - name: Unknow / aapA / serP / cycA
-id: 1326703 - name: Unknow / acpS
-id: 1319911 - name: rsmJ / Unknow
-id: 1320238 - name: pepN / Unknow
-id: 1319853 - name: lmrA1 / Unknow / msbA_1 / lmrA / msbA
-id: 243718 - name: aarS / Unknow / alaS
-id: 244999 - name: Unknow / nusG
-id: 77784 - name: sufC / Unknow
-id: 1310563 - name: lysA / Unknow
-id: 1328310 - name: Unknow / smc_3
-id: 1313445 - name: Unknow / nth
-id: 243310 - name: Unknow / accD
-id: 1323168 - name: galE_1 / galE / Unknow / galE2
-id: 244272 - name: rluD / Unknow
-id: 1325547 - name: Unknow / tmcAL
-id: 1319657 - name: mreC / Unknow
-id: 1319545 - name: Unknow
-id: 582347 - name: Unknow / yebC-1
-id: 1319804 - name: dnaB_1 / Unknow / dnaB
-id: 1319735 - name: Unknow / znuB / adcB
-id: 1322406 - name: yeiL / Unknow
-id: 243197 - name: cysS / Unknow
-id: 1319968 - name: Unknow / coaE
-id: 244317 - name: hlyX / Unknow / tlyC
-id: 243338 - name: Unknow / rbfA
-id: 244777 - name: yhaM / cbf / Unknow
-id: 243624 - name: gltL / glnQ / Unknow / artP / artM_3
-id: 78115 - name: Unknow / rplQ
-id: 1321530 - name: yrrC / Unknow / recD
-id: 583147 - name: repS / Unknow / ampS / pepS
-id: 1327540 - name: yidC / Unknow / misCA
-id: 118071 - name: nrdD_2 / nrdD / Unknow
-id: 1313293 - name: Unknow / rpiA
-id: 243317 - name: manY / manM / Unknow / levF
-id: 1324539 - name: ezrA / Unknow
-id: 581725 - name: miaA / Unknow
-id: 1322950 - name: Unknow
-id: 1319842 - name: gtfB / gtf2 / Unknow / gtf
-id: 583118 - name: Unknow
-id: 1327987 - name: Unknow / rsuA1-1 / comGD
-id: 243484 - name: aa23 / Unknow / queG
-id: 243910 - name: Unknow / topA
-id: 1319884 - name: atpC / Unknow
-id: 1325993 - name: trxA / Unknow / trxA1
-id: 1319706 - name: Unknow / mutT
-id: 582076 - name: trpB / Unknow
-id: 746070 - name: Unknow / pyrF
-id: 1328362 - name: ecfA / cbiO / Unknow / cbiO_1 / ecfAB
-id: 1309983 - name: tnp / tnp-IS1193_6 / tnp-IS1193 / tnp-IS1193_5 / tnp-IS1193_1 / tnp4 / tnp1193-2 / tnp-IS / Unknow / tnp1193-3 / tnp1193 / tnp1193-1 / tnp3 / tnp-IS1193_4 / tnp-IS1193_2 / tnp-IS1193_3
-id: 1218499 - name: Unknow / ureA
-id: 1319993 - name: Unknow / lgt
-id: 1323154 - name: Unknow
-id: 1320154 - name: bglK / Unknow / bglK_1
-id: 243642 - name: Unknow / hprK / PTSK
-id: 1319653 - name: Unknow / divIC
-id: 1320023 - name: dps_2 / dpr / Unknow / dps_1 / dps
-id: 1319933 - name: yffH / nudF / Unknow / act
-id: 243481 - name: pacL / pacL2 / Unknow
-id: 1323221 - name: Unknow
-id: 1325296 - name: pabA / Unknow / trpG
-id: 1324577 - name: Unknow / yohK / lrgB
-id: 77315 - name: upp / Unknow
-id: 1319658 - name: mreD / Unknow
-id: 78140 - name: Unknow / rpoC
-id: 243455 - name: iarS / Unknow / ileS
-id: 582345 - name: valS-1 / Unknow / leuC
-id: 244360 - name: spsK / Unknow / rmlD / rfbD
-id: 1320057 - name: Unknow / cdd_1 / cdd
-id: 1323163 - name: hpk2 / Unknow / hpk / vicK
-id: 1320262 - name: Unknow
-id: 243313 - name: serS / Unknow
-id: 1320018 - name: Unknow
-id: 1321097 - name: hinT / hit / Unknow
-id: 1319817 - name: hly / patB / malY / Unknow
-id: 243097 - name: Unknow / dnaJ
-id: 244252 - name: fruA / Unknow
-id: 1320224 - name: psaD / tpx / Unknow
-id: 243458 - name: Unknow
-id: 243442 - name: Unknow / glk / glcK
-id: 78134 - name: Unknow / rplC
-id: 1323233 - name: Unknow / rncS / rnc
-id: 686978 - name: pyrB / Unknow
-id: 244283 - name: iscS / Unknow / nifS2 / iscS_1 / iscSB
-id: 244780 - name: rpe / Unknow
-id: 1319893 - name: Unknow / mur / mur1
-id: 1325857 - name: Unknow
-id: 1321737 - name: proC / Unknow
-id: 1321134 - name: Unknow
-id: 244321 - name: yhcC / Unknow / ytqA / miaB
-id: 244578 - name: Unknow / rluB / yjbC
-id: 243264 - name: Unknow / rny
-id: 1322979 - name: coaA / Unknow
-id: 243335 - name: ylxR / rulR / Unknow
-id: 582248 - name: cysD / mdeA / Unknow / metY / metB
-id: 244680 - name: Unknow / asp2
-id: 244947 - name: cshA / Unknow / ycaJ / rarA
-id: 1319782 - name: Unknow / ureB
-id: 243460 - name: artM_2 / gltL / glnQ / Unknow / artR / glnQ2
-id: 1322824 - name: Unknow
-id: 583207 - name: Unknow
-id: 1319950 - name: murN / Unknow
-id: 77780 - name: sufB / Unknow
-id: 244216 - name: engB / Unknow / yihA / ysxC
-id: 1319828 - name: rlmCD / Unknow / rlmD / yfjO / rumA
-id: 243996 - name: Unknow / prfA
-id: 244875 - name: polC / Unknow
-id: 4192 - name: rpmA / Unknow
-id: 582965 - name: racE / Unknow / rcmE / murI
-id: 26 - name: Unknow / rpsK
-id: 243424 - name: rsmD / Unknow
-id: 243880 - name: pstC1 / Unknow / pstC
-id: 244849 - name: Unknow / qacE
-id: 1309824 - name: Unknow / argJ
-id: 1319465 - name: Unknow
-id: 61878 - name: yjdM / Unknow / phnA
-id: 244029 - name: potA / Unknow / cysA / potA_2
-id: 1321659 - name: Unknow
-id: 1309814 - name: hipO1 / Unknow / yxeP / sndB / hipO2 / ytnL
-id: 1319946 - name: Unknow
-id: 244065 - name: Unknow / rpsA
-id: 1313665 - name: Unknow / uvrC
-id: 746513 - name: queC / Unknow
-id: 1326660 - name: Unknow / yidA
-id: 1320232 - name: suhB / Unknow
-id: 1311598 - name: ytpR / Unknow / pheT_2
-id: 1322120 - name: Unknow / recF
-id: 1324968 - name: yihY / Unknow
-id: 1319972 - name: gsp13 / Unknow
-id: 76931 - name: rplK / Unknow
-id: 751315 - name: Unknow / dsg-2 / yvgN / dkgA
-id: 1320144 - name: aatB / artP_1 / Unknow / artJ
-id: 243105 - name: Unknow / rpoE
-id: 1323309 - name: csp2K_3 / hyaD_1 / Unknow / glyA
-id: 243026 - name: hprT / Unknow / hpt
-id: 746547 - name: Unknow / bmrC / mdlA / yheI
-id: 244604 - name: der / engA / Unknow
-id: 244496 - name: phoH / Unknow / ybeZ
-id: 1319786 - name: Unknow / ureD
-id: 117996 - name: mioC / Unknow / fldP / fld
-id: 243303 - name: fabK / Unknow
-id: 243250 - name: Unknow / yxeN_2 / tcyB
-id: 245045 - name: Unknow / rpmF
-id: 1322949 - name: Unknow / ycgR
-id: 1322942 - name: Unknow
-id: 1323227 - name: Unknow
-id: 77612 - name: hstH-1 / Unknow / rpsU
-id: 1320270 - name: Unknow / glnP / tcyB / gltK
-id: 583087 - name: Unknow / ilvI / ilvB
-id: 582346 - name: leuD / Unknow
-id: 244652 - name: gatB / Unknow
-id: 244648 - name: yhbY / yqeI / Unknow
-id: 243685 - name: trmNF / Unknow
-id: 582603 - name: pyrAA / Unknow / carA
-id: 1319890 - name: yraL / Unknow / rsmI
-id: 1323122 - name: Unknow
-id: 243834 - name: yecS_2 / Unknow / yecS
-id: 1319995 - name: Unknow
-id: 1322708 - name: Unknow / trkH1 / trkH
-id: 15535 - name: Unknow / fusA
-id: 244590 - name: Unknow
-id: 244609 - name: yedW / Unknow / ykoG / rr01 / arlR
-id: 116971 - name: gyrB / Unknow
-id: 117476 - name: rpmI / Unknow
-id: 1325021 - name: comEC / Unknow
-id: 1319840 - name: Unknow / gsr / gor
-id: 1319769 - name: scpA / Unknow
-id: 1320152 - name: umuD / Unknow
-id: 1325118 - name: Unknow / murF
-id: 244647 - name: trxB2-1 / nadD / Unknow
-id: 1320227 - name: truB / Unknow
-id: 243799 - name: Unknow / hemW / hemN
-id: 244598 - name: Unknow / greA
-id: 1319880 - name: Unknow / atpB
-id: 1322953 - name: Unknow
-id: 243449 - name: Unknow / ftsZ
-id: 1322943 - name: Unknow / mutT / mutT_1
-id: 1310580 - name: Unknow / fabD
-id: 745802 - name: Unknow
-id: 1319698 - name: Unknow / hrcA
-id: 244776 - name: Unknow / purR
-id: 1324989 - name: str1558 / Unknow
-id: 77654 - name: Unknow / hbs / hupB / hstH
-id: 1328255 - name: Unknow
-id: 243256 - name: pepC / Unknow
-id: 243486 - name: Unknow / ftsE
-id: 1309825 - name: Unknow / gabD / gapN
-id: 1322870 - name: cynR / Unknow / cpsY_2
-id: 1322978 - name: Unknow / dfp2
-id: 1319571 - name: Unknow
-id: 1319967 - name: Unknow / mutM
-id: 1319814 - name: ytgP / mviN / Unknow
-id: 1319652 - name: mfd / Unknow
-id: 1319661 - name: plsX / Unknow
-id: 1325328 - name: tyrA / Unknow
-id: 243138 - name: nifU / Unknow / sufU / iscU
-id: 1325913 - name: Unknow
-id: 583134 - name: Unknow / mrnC
-id: 244056 - name: Unknow / pcrA / uvrD
-id: 1319669 - name: Unknow
-id: 1323304 - name: Unknow
-id: 1319877 - name: Unknow
-id: 244207 - name: rpIJ / Unknow / rplJ
-id: 1319856 - name: Unknow
-id: 243830 - name: Unknow / pyk / pykF
-id: 1321452 - name: Unknow
-id: 243058 - name: purE / Unknow / pure
-id: 77465 - name: Unknow / rpsO / rpso
-id: 1323180 - name: Unknow
-id: 244210 - name: mmuP / Unknow / lysP_1 / rocE / ybgF
-id: 244569 - name: Unknow / livH
-id: 244288 - name: aroC / Unknow / aroF
-id: 243854 - name: gid / Unknow / trmFO
-id: 1319767 - name: Unknow / ykuL
-id: 118546 - name: pstA / Unknow / pstC2
-id: 243316 - name: manN / levG / Unknow / manZ
-id: 1320037 - name: Unknow / hemK / prmC
-id: 1320032 - name: Unknow / ylmG
-id: 243071 - name: rplW / Unknow
-id: 243130 - name: artM_1 / Unknow / hisP / artR / glnQ2
-id: 1321332 - name: sacA / scrB / Unknow
-id: 1319683 - name: Unknow
-id: 1319850 - name: cca / papL / Unknow
-id: 1321497 - name: rnhC / Unknow
-id: 1323990 - name: yicR / Unknow / radC
-id: 116973 - name: Unknow / rpsF
-id: 1323929 - name: Unknow / pta / eutD
-id: 243978 - name: fhs / Unknow
-id: 1584 - name: groEL / Unknow / groL
-id: 78129 - name: rpsC / Unknow
-id: 1321198 - name: pepXP / Unknow / pepX
-id: 582458 - name: Unknow / nox
-id: 1323949 - name: rluD / Unknow / yjbO
-id: 244135 - name: Unknow / ORF 3
-id: 582047 - name: Unknow / lemA
-id: 244783 - name: Unknow / rsmA / ksgA
-id: 37 - name: Unknow / atpD
-id: 244508 - name: Unknow / rplA
-id: 244253 - name: fruB / pfkB / Unknow / fruK
-id: 243200 - name: Unknow / raeA
-id: 1323147 - name: Unknow / ung
-id: 245130 - name: Unknow
-id: 244027 - name: Unknow / potC
-id: 243074 - name: rplF / Unknow
-id: 1319746 - name: Unknow / groES / groS
-id: 1322148 - name: Unknow
-id: 1328045 - name: Unknow / norN
-id: 243788 - name: Unknow / acoB
-id: 244014 - name: prsA / Unknow / prs / prsA2
-id: 1324674 - name: nanK / Unknow
-id: 245043 - name: Unknow / aspS
-id: 1319768 - name: xerD / xerD_1 / Unknow
-id: 78126 - name: rplE / Unknow
-id: 1325032 - name: Unknow / comEA
-id: 1327403 - name: bta / Unknow
-id: 243727 - name: nrdH / Unknow
-id: 1321641 - name: ymdB / Unknow / ymdB_2
-id: 582504 - name: asd / Unknow / usg
-id: 243263 - name: luxS / Unknow
-id: 244220 - name: thyA / Unknow
-id: 1319650 - name: Unknow / dnaN
-id: 1327887 - name: Unknow
-id: 1326984 - name: Unknow
-id: 1319994 - name: Unknow
-id: 243042 - name: Unknow / purN
-id: 243075 - name: Unknow / rpmD
-id: 1323144 - name: yfeJ / Unknow / gat_1 / gat
-id: 1319795 - name: metN / Unknow
-id: 244653 - name: Unknow / gatA
-id: 244069 - name: Unknow / parC / gyrA
-id: 1321058 - name: Unknow
-id: 1328330 - name: Unknow
-id: 1322940 - name: Unknow / mvaS
-id: 1326799 - name: nusB / Unknow
-id: 684135 - name: Mobile element protein / Unknow / insK
-id: 1326388 - name: ftsI / pbp2X / Unknow / pbpX
-id: 1319783 - name: ureE / Unknow
-id: 1320196 - name: thiJ / yajL / Unknow
-id: 1319821 - name: Unknow / livK / livJ
-id: 243847 - name: Unknow / gyrA
-id: 77563 - name: lepA / Unknow
-id: 1323094 - name: Unknow / malQ
-id: 243077 - name: Unknow / adk
-id: 1322061 - name: Unknow
-id: 243926 - name: rbgA / Unknow / ylqF
-id: 1323155 - name: Unknow / yhhT
-id: 244522 - name: Unknow / glmU / gcaD
-id: 1323143 - name: eps3A / ywtF / Unknow / eps5A
-id: 1319803 - name: Unknow / nrdR
-id: 1320268 - name: fliY / Unknow / peb1 / peb1A
-id: 1328204 - name: Unknow
-id: 243751 - name: murAB / Unknow / murZ / murA
-id: 243136 - name: Unknow / sufD
-id: 244850 - name: Unknow / tsf
-id: 1320027 - name: murG / Unknow
-id: 244787 - name: dayD / ycfH / Unknow / yabD / tatD
-id: 118416 - name: yitW / paaD / Unknow
-id: 4 - name: rplNA / Unknow / rplN
-id: 1322977 - name: Unknow / dfp1 / coaC
-id: 243493 - name: asnC / Unknow / asnS
-id: 1323186 - name: ORF3-1 / Unknow
-id: 1322963 - name: Unknow / yghU
-id: 1309837 - name: hom / Unknow
-id: 1319865 - name: prsA / Unknow / prtM
-id: 1323191 - name: argR1 / Unknow / argR / argR_2
-id: 1327980 - name: Unknow / pulG
-id: 244639 - name: Unknow
-id: 1325488 - name: Unknow / ecsA / ecsA_2
-id: 1319789 - name: cbiO / Unknow / ureO
-id: 1319754 - name: yhaI_1 / yhaI / Unknow / yhaH
-id: 1319492 - name: Unknow
-id: 1319759 - name: Unknow / SalivA0238
-id: 1319808 - name: Unknow / brpA
-id: 15198 - name: Unknow / rpmH
-id: 1324267 - name: dnaG / Unknow / dnaG_2
-id: 243796 - name: Unknow / glmM
-id: 117683 - name: ruvX / yqgF / ybeB / Unknow / yrrK / rimF
-id: 583004 - name: cysM1 / Unknow / cysK
-id: 244714 - name: Unknow / pfl / pflB
-id: 1323189 - name: Unknow
-id: 1325925 - name: ytqB / Unknow
-id: 16 - name: rpsJ / Unknow
-id: 1323170 - name: dnaX / Unknow / folC2
-id: 77234 - name: Unknow / galU / cap4C / gtaB
-id: 244376 - name: ybfQ / Unknow / glpE
-id: 78122 - name: rpsE / Unknow
-id: 1319579 - name: Unknow
-id: 119429 - name: Unknow / houQ / yegQ / yrrO / yhbU
-id: 1323232 - name: smc / Unknow
-id: 78019 - name: Unknow / metK
-id: 1319875 - name: thrB / Unknow
-id: 243612 - name: Unknow / ccpA
-id: 1218501 - name: Unknow / ureC
-id: 244567 - name: Unknow / livG
-id: 1310010 - name: Unknow / mutY
-id: 244996 - name: Unknow / leuS
-id: 243759 - name: dagK / Unknow
-id: 1328004 - name: Unknow
-id: 582716 - name: Unknow / aroA
-id: 582432 - name: Unknow / dapB
-id: 1324587 - name: Unknow / yohJ
-id: 1319830 - name: paaG / fabM / Unknow / phaB
-id: 1320237 - name: Unknow / phoU
-id: 1319955 - name: argF / Unknow / argI
-id: 688043 - name: TnpIS204-1 / tnpIS / Unknow / TnpIS204
-id: 243308 - name: fabZ / Unknow
-id: 243076 - name: Unknow / secY
-id: 245026 - name: Unknow
-id: 1325897 - name: Unknow / nha
-id: 1324942 - name: ligA_2 / ligA / Unknow
-id: 1319829 - name: ycjU / Unknow
-id: 243731 - name: Unknow / udk
-id: 118721 - name: yfgB / rlmN / Unknow
-id: 244547 - name: metS / Unknow / metG
-id: 243031 - name: prsA / Unknow / prs / prsA1
-id: 1319934 - name: Unknow
-id: 1319630 - name: Unknow
-id: 1319974 - name: mmcQ / Unknow
-id: 1320160 - name: Unknow / pspE
-id: 1320046 - name: Unknow
-id: 243474 - name: pyrDa / Unknow / pyrD2 / pyrD
-id: 684110 - name: tra / tnp1191_1 / tnp1191_7 / tnp1191_10 / tnp-IS1191 / tnp-IS1191-1 / tnp1191_6 / tnp1191_11 / tnp1191_5 / tnp1191_8 / tnp1191_4 / tnp-1 / tnp / Unknow / tnp1191_9 / tnp1191_3 / xis / tnp1191_13 / tnp1191_12 / tnp1191_2 / tnp1191 / tnp-2
-id: 243879 - name: pstB1 / pstB_1 / Unknow / pstBA / pstB
-id: 1320043 - name: Unknow / dltD
-id: 1319721 - name: rgpG / Unknow / wecA
-id: 1319909 - name: Unknow / lspA / lspA_1
-id: 1319699 - name: Unknow / truA
-id: 243611 - name: pepQ / Unknow
-id: 1322563 - name: Unknow / glcR / glpR
-id: 1327738 - name: Unknow / gluP
-id: 244456 - name: Unknow / gloA
-id: 1310673 - name: Unknow
-id: 1323086 - name: rqcH / fbp / Unknow
-id: 1322945 - name: ltaS2 / Unknow / ltaS
-id: 244654 - name: Unknow / gatC
-id: 1322959 - name: Unknow
-id: 1319810 - name: Unknow / infB
-id: 746695 - name: Unknow / insJ
-id: 1319944 - name: Unknow
-id: 243255 - name: NADE / Unknow / nadE
-id: 1314427 - name: ruvA / Unknow
-id: 244695 - name: corA2 / Unknow / corA
-id: 1319883 - name: atpG / Unknow
-id: 243128 - name: spfH_1 / Unknow
-id: 1319715 - name: Unknow
-id: 1319676 - name: Unknow
-id: 1319892 - name: glnB / gnlB / Unknow / glnK
-id: 1323285 - name: Unknow
-id: 1327116 - name: yeaZ / Unknow / ydiC / tsaB
-id: 243044 - name: purH / Unknow
-id: 1309819 - name: dapI / Unknow / hipO3
 id: 1319966 - name: Unknow / dgk / dgkA
-id: 1320703 - name: Unknow / gnlP / gnlP_1
-id: 747580 - name: Unknow
-id: 1319962 - name: Unknow / nnrD
-id: 243628 - name: Unknow / walJ / vicX
-id: 244566 - name: Unknow / livF
-id: 119509 - name: Unknow / rplM
-id: 1323171 - name: fabG-1 / Unknow / ytsP / msrC
-id: 1327996 - name: Unknow / comGA
-id: 1319943 - name: mmuM / ybgG / Unknow
-id: 1319693 - name: pgsA / Unknow / pgsA_1
-id: 581880 - name: Unknow / metF
-id: 1319741 - name: yajC / Unknow
-id: 1319957 - name: Unknow / feoA
-id: 243867 - name: Unknow / ffh
-id: 78109 - name: Unknow / rpsI
-id: 687825 - name: gmuE / Unknow / scrK
-id: 1327864 - name: trxA_2 / Unknow / trxA2 / ytpP
-id: 244481 - name: Unknow / era
-id: 1320026 - name: Unknow
-id: 1319961 - name: Unknow / folD
-id: 582213 - name: Unknow / ridA / tdcF / yjgF / yabJ
-id: 244070 - name: gyrB / parE / Unknow
-id: 243096 - name: Unknow / grpE
-id: 1322941 - name: Unknow / plsY
-id: 1320162 - name: butA_1 / Unknow / butA / ucpA
-id: 1328366 - name: ecfA / cbiO_2 / Unknow / cbiO
-id: 1319662 - name: acpP1 / Unknow / acpP
-id: 1323220 - name: gltA / Unknow / citZ / prpC
-id: 244485 - name: ybeY / Unknow / rnrY / ykjF
-id: 1323203 - name: yutF / Unknow / nucF / pho2 / nagD
-id: 1320149 - name: mngR / gntR / Unknow / gntR_1
-id: 1320033 - name: Unknow
-id: 243153 - name: tyrS / Unknow
-id: 243492 - name: aspC1 / aspB / Unknow / aatA
-id: 1319881 - name: Unknow / atpF
-id: 1320156 - name: Unknow
-id: 582605 - name: uraA / pyrP / Unknow
-id: 1319456 - name: Unknow
-id: 244460 - name: Unknow / smpB
-id: 78133 - name: Unknow / rplD
-id: 1326372 - name: Unknow / mraY
-id: 1320029 - name: ftsA / Unknow
-id: 1322948 - name: Unknow
-id: 581989 - name: aroG2 / Unknow / aroH / aroG / aroG1 / aroF
-id: 1326559 - name: Unknow
-id: 1322897 - name: Unknow / ppiA
-id: 243673 - name: ddlA / Unknow / ddl
-id: 245184 - name: yheS_2 / Unknow / ykpA / ybiT
-id: 1319733 - name: dsg / Unknow
-id: 1327013 - name: Unknow / polA
-id: 244939 - name: prmA / Unknow
-id: 88141 - name: yebC / Unknow / yeeN / yeeI
-id: 1327791 - name: rrmA / Unknow / rlmA
-id: 243846 - name: ldhA / ldh / Unknow / lctE
-id: 1322107 - name: Unknow / yaaA
-id: 244554 - name: exoA / Unknow / xth / xthA
-id: 244095 - name: cysB / cmhR / Unknow / cpsY
-id: 583086 - name: ilvN / Unknow / ilvH
-id: 1323152 - name: Unknow
-id: 1323278 - name: brnQ / Unknow
-id: 1323196 - name: recJ / Unknow
-id: 1324334 - name: artP_4 / Unknow / artP
-id: 243754 - name: pepM / Unknow / map
-id: 1319929 - name: Unknow / mvk / mvaK1
-id: 119220 - name: Unknow / valS
-id: 1319686 - name: panE / Unknow
-id: 244099 - name: pnp / Unknow / punA / pupG / xapA
-id: 243248 - name: Unknow / cshB / rheB
-id: 1319797 - name: dctA / Unknow / sstT
-id: 8 - name: Unknow / rpsL
-id: 1322448 - name: Unknow / glnP
-id: 245025 - name: Unknow / yrzB
-id: 1323164 - name: endA / endA-1 / endA_3 / Unknow
-id: 1319711 - name: cpdB / yfkN / cpdB_2 / Unknow
-id: 1323121 - name: abc1 / Unknow / ubiB
-id: 1322980 - name: Unknow / ycbL
-id: 1310522 - name: hisK / Unknow / hisJ
-id: 1319862 - name: coiA / Unknow
-id: 1320034 - name: Unknow / divIVA
-id: 1320039 - name: pvaA / Unknow
-id: 1321401 - name: Unknow
-id: 581879 - name: metE / Unknow
-id: 1319755 - name: Unknow / ypsA
-id: 77113 - name: Unknow / pyrG
-id: 1328080 - name: treB / Unknow
-id: 1310405 - name: Unknow / serB
-id: 244124 - name: aptA / Unknow / apt
-id: 1326564 - name: Unknow / addA / rexA
-id: 1326227 - name: gla / Unknow
-id: 243792 - name: cobQ / Unknow / gatD
-id: 1326677 - name: recG / Unknow
-id: 243626 - name: vicR / Unknow / rr05 / walR / cpxR
-id: 66562 - name: rpsQ / Unknow
-id: 1319851 - name: def_2 / defA / Unknow / def
-id: 1319672 - name: Unknow / cinA
-id: 583155 - name: tktA / Unknow / tkt
-id: 1319903 - name: bglF_2 / Unknow / bglF / nagE / bglP / ptbA
-id: 1309832 - name: Unknow / csbB / yfdH / gt
-id: 1319835 - name: Unknow / ygbI / fruR
-id: 1323127 - name: cpsX / Unknow / epsX
-id: 244263 - name: Unknow / rgg2-1
-id: 1319977 - name: aroD / Unknow / arod
-id: 243109 - name: cynT / mtcA / Unknow / cah
-id: 1327829 - name: yeeD / Unknow
-id: 1319864 - name: Unknow
-id: 1319990 - name: Unknow
-id: 1323157 - name: nfsA / Unknow / nfrA
-id: 581862 - name: yecS_5 / Unknow / glnP / glnP_2
-id: 244501 - name: frr / Unknow
-id: 243073 - name: Unknow / rplX
-id: 1319651 - name: pth / Unknow / pth1
-id: 1319603 - name: Unknow
-id: 1319743 - name: cdsA / Unknow / cds1
-id: 118845 - name: purB / Unknow / purB1
-id: 243332 - name: Unknow / trmB
-id: 1319827 - name: Unknow
-id: 1323216 - name: Unknow / mprF
-id: 244294 - name: Unknow / infC
-id: 117342 - name: ptsP / Unknow / ptsI / PTSI
-id: 1319928 - name: Unknow / rclA / merA / ykgC
-id: 243126 - name: Unknow / yloU / asp
-id: 1319720 - name: Unknow / mecA
-id: 244838 - name: hslO / Unknow
-id: 243078 - name: rpoA / Unknow
-id: 78117 - name: Unknow / rpsM
-id: 1325796 - name: Unknow / metQ
-id: 1320192 - name: laaN / Unknow
-id: 1326347 - name: Unknow / yutD
-id: 244101 - name: Unknow / deoB
-id: 1322814 - name: folC1 / Unknow / folC
-id: 1319927 - name: alaD-tr2 / Unknow / ald / ald2
-id: 243772 - name: Unknow / murAA / murA
-id: 1319696 - name: dacB / Unknow
-id: 582537 - name: Unknow / pyrE
-id: 245134 - name: rplI / Unknow
-id: 1323199 - name: mrdB / Unknow / rodA
-id: 1319712 - name: Unknow / dtd
-id: 1320062 - name: Unknow
-id: 1327527 - name: jag / Unknow
-id: 1320019 - name: Unknow
-id: 1323231 - name: Unknow / paiA
-id: 1323185 - name: Unknow / dnaE
-id: 1320225 - name: hsdS2 / Unknow / hsdS
-id: 243974 - name: Unknow / nrdD_1 / rnhB
-id: 371595 - name: Unknow / ilvD_2 / ilvD
-id: 1319667 - name: Unknow
-id: 1320159 - name: Unknow / ndk
-id: 244119 - name: cps19fO / Unknow / rmlC / rfbC
-id: 244315 - name: pflA / Unknow / act
-id: 98622 - name: eno / Unknow
-id: 1325416 - name: Unknow
-id: 1319785 - name: Unknow / ureG
-id: 1323213 - name: Unknow
-id: 1320651 - name: Unknow
-id: 244313 - name: Unknow / ppaC / ppa
-id: 1328388 - name: Unknow
-id: 243775 - name: Unknow / pheS
-id: 1319832 - name: Unknow / fabHA / fabH
-id: 243669 - name: tpiA / Unknow
-id: 118514 - name: pyrAB / Unknow / carB
-id: 1320020 - name: Unknow / ppc
-id: 582816 - name: ugtP / SPT14 / Unknow
-id: 243040 - name: purF / Unknow
-id: 1319886 - name: tmk / Unknow
-id: 243656 - name: Unknow / lysS / lysU
-id: 244498 - name: Unknow / yozE
-id: 244282 - name: trmG / thiI / Unknow
-id: 244945 - name: Unknow
-id: 1319770 - name: Unknow / scpB / spcB
-id: 1319887 - name: holB / Unknow / dnaH
-id: 1322783 - name: yhaX / Unknow / yidA
-id: 245044 - name: Unknow / hisS
-id: 243356 - name: pgi / Unknow
-id: 1327704 - name: Unknow
-id: 1320632 - name: yjbK / Unknow / cyaA
-id: 1319872 - name: argC / Unknow
-id: 243617 - name: Unknow / thrS
-id: 582121 - name: acnA / Unknow / citB
-id: 1319745 - name: lsrC_1 / Unknow / lsrC
-id: 1320022 - name: Unknow
-id: 582074 - name: trpC / Unknow
-id: 1320837 - name: amyS / Unknow / amyA / amyL
-id: 746514 - name: ptpS / Unknow / queD / ygcM
-id: 1323293 - name: yodC / Unknow / ydgI / nrd
-id: 76951 - name: rpsR / Unknow
-id: 1319716 - name: msf / Unknow
-id: 244673 - name: Unknow / secA
-id: 118263 - name: clpE_1 / Unknow / clpA / clpE
-id: 243039 - name: Unknow / purL
-id: 244438 - name: obg / Unknow / obgE
-id: 1326690 - name: dadX / alrA / Unknow / alr
-id: 1319784 - name: Unknow / ureF
-id: 118226 - name: Unknow / nrdF2 / nrdF
-id: 243107 - name: dut / Unknow
-id: 243334 - name: nusA / Unknow
-id: 1324562 - name: Unknow
-id: 1319428 - name: Unknow
-id: 244765 - name: Unknow / rnjA
-id: 1319801 - name: Unknow
-id: 1322947 - name: acrC / Unknow
-id: 1323148 - name: pepV / Unknow
-id: 1320040 - name: Unknow / msbA_3 / msbA
-id: 243195 - name: Unknow / cysE / cysE1
-id: 77559 - name: Unknow / dnaK
-id: 1323123 - name: Unknow / bglH / bglB
-id: 1320644 - name: nifS3 / Unknow / iscS_2 / iscS
-id: 1327285 - name: Unknow / thiN
-id: 1327029 - name: Unknow / cvpA
-id: 1319825 - name: comFA / Unknow
-id: 243309 - name: Unknow / accC
-id: 1326577 - name: rexB / Unknow
-id: 1319452 - name: Unknow
-id: 1323217 - name: pip / Unknow / cpo
-id: 583412 - name: dltB / Unknow
-id: 1319809 - name: Unknow / rulQ
-id: 1323267 - name: msrA / Unknow / msrAB / msrA1 / msrB
-id: 243305 - name: fabG / Unknow / fabG2
-id: 244241 - name: Unknow / gdhA
-id: 243231 - name: Unknow / ynzC
-id: 1325357 - name: Unknow / ctpE / CTPE / exp
-id: 1325206 - name: copY / Unknow
-id: 583085 - name: ilvC / Unknow
 id: 1320025 - name: ORF 2 / Unknow / yqgQ
-id: 1319932 - name: fni / Unknow / idi
-id: 1320060 - name: Unknow / nupQ
-id: 1328086 - name: Unknow / ywlG
-id: 1323093 - name: dagA / Unknow / yaaJ
-id: 79251 - name: rmlA / Unknow / rfbA / spsI
-id: 1323289 - name: ywnA / Unknow
-id: 1319781 - name: ureI / Unknow
-id: 1323219 - name: icd / icd_1 / Unknow
-id: 77622 - name: lysS-1 / Unknow / rpoD / dnaG_1 / sigA
-id: 1325219 - name: trpA / Unknow
-id: 1323192 - name: ispA / Unknow
-id: 1319976 - name: ywbD / Unknow / rlmI / mtt
-id: 1322951 - name: bioY1 / Unknow / bioY
-id: 244781 - name: rsgA / Unknow
-id: 1319714 - name: Unknow / dex / dex_2
-id: 1319415 - name: Unknow
-id: 1322508 - name: Unknow
-id: 1320031 - name: sepF / Unknow
-id: 243021 - name: hslR / yaab / Unknow
-id: 582915 - name: Unknow / serC
-id: 1320155 - name: Unknow / smf / dprA
-id: 1321512 - name: sipA / Unknow / lepB
-id: 243038 - name: purC / Unknow
-id: 67578 - name: Unknow / rplS
-id: 243765 - name: atpE / Unknow
-id: 1323158 - name: Unknow
-id: 243016 - name: yyzM / Unknow / yaaA
-id: 1322964 - name: pabB / Unknow
-id: 244502 - name: Unknow / pyrH
-id: 1323238 - name: pat / Unknow / yncA
-id: 117446 - name: queA / Unknow
-id: 1320849 - name: Unknow / tehB
-id: 1322522 - name: rluD / Unknow / rluC
-id: 1319744 - name: Unknow / rseP / eep
-id: 106911 - name: Unknow / tgt
-id: 119436 - name: Unknow / guaB
-id: 1320036 - name: Unknow / tdk
-id: 1323194 - name: dNAD / Unknow / dnaD_2
-id: 1322547 - name: Unknow
-id: 1327992 - name: Unknow / cglC / comGC
-id: 244028 - name: Unknow / potB
-id: 243485 - name: Unknow / prfB / prfA
-id: 243678 - name: prfC / Unknow
-id: 1323201 - name: Unknow
-id: 244004 - name: Unknow / xpt
-id: 1319602 - name: Unknow
-id: 1322956 - name: Unknow / ytjC / gpmC
-id: 1319956 - name: yecS_1 / artQ / Unknow / yecS
-id: 1323202 - name: Unknow
-id: 1325254 - name: Unknow / trpF
-id: 582914 - name: Unknow / serA
-id: 1320234 - name: Unknow / pstS
-id: 1319734 - name: adcR / Unknow
-id: 1320442 - name: rpsD / Unknow / rpsD_1
-id: 1319923 - name: Unknow
-id: 243063 - name: Unknow / ruvB
-id: 1319996 - name: yuhB / Unknow
-id: 1324997 - name: rimL / Unknow
-id: 244763 - name: Unknow / rnpZA
-id: 582817 - name: Unknow / dgs
-id: 1322379 - name: Unknow / nrdI
-id: 243670 - name: Unknow / gpmA / gpmA_2
-id: 1319765 - name: rdgB / Unknow
-id: 245156 - name: pgsA / Unknow / pgsA_2
-id: 119027 - name: Unknow / pncB
+id: 1321150 - name: hmuV / abcX / Unknow
+id: 1327035 - name: Unknow
 id: 1319628 - name: Unknow
+id: 243031 - name: prsA / Unknow / prs / prsA1
+id: 244070 - name: gyrB / parE / Unknow
+id: 1319415 - name: Unknow
+id: 1319782 - name: Unknow / ureB
+id: 243301 - name: Unknow / acpP2 / acpB / acpP / acpA
+id: 245130 - name: Unknow
+id: 243678 - name: prfC / Unknow
+id: 243128 - name: spfH_1 / Unknow
+id: 1319744 - name: Unknow / rseP / eep
+id: 1325118 - name: Unknow / murF
+id: 1319762 - name: Unknow / ysgA / spoU
+id: 1319875 - name: thrB / Unknow
+id: 1319545 - name: Unknow
+id: 244460 - name: Unknow / smpB
 id: 244696 - name: ssb / ssbA / Unknow / ssb_3 / ssbB
-id: 107403 - name: Unknow / rplO
-id: 1323177 - name: Unknow
-id: 243790 - name: lpdA / Unknow / acoL / lpd
-id: 243679 - name: yjqA / Unknow
-id: 1324728 - name: Unknow / potD / potD-1
-id: 1319805 - name: Unknow / dnaI
-id: 15197 - name: Unknow / infA
-id: 1319656 - name: Unknow / ftsH
-id: 1321419 - name: gor-1 / Unknow / gor
-id: 1320199 - name: pyrK / Unknow
-id: 687025 - name: Unknow / hlyIII / yqfA
-id: 244436 - name: Unknow
-id: 1320021 - name: holA / Unknow
-id: 243657 - name: Unknow / yjjG
-id: 1325194 - name: Unknow / copA
-id: 687154 - name: lysC / Unknow / thrD
-id: 1319700 - name: Unknow / thiD
-id: 244246 - name: yfmR / yjjK / Unknow / uup
-id: 243490 - name: Unknow / ucpA / butA_2
-id: 243311 - name: Unknow / accA
-id: 1319822 - name: braE / Unknow / livM
-id: 1319760 - name: Unknow
-id: 1319681 - name: Unknow
-id: 243122 - name: Unknow / argG
-id: 1319918 - name: Unknow / nagB / gamA
-id: 1319684 - name: degV / Unknow / degV_1
-id: 243072 - name: rpmC / Unknow
-id: 1320024 - name: Unknow / perR / fur
+id: 1319885 - name: Unknow / ftsW
+id: 582816 - name: ugtP / SPT14 / Unknow
+id: 684110 - name: tra / tnp1191_1 / tnp1191_7 / tnp1191_10 / tnp-IS1191 / tnp-IS1191-1 / tnp1191_6 / tnp1191_11 / tnp1191_5 / tnp1191_8 / tnp1191_4 / tnp-1 / tnp / Unknow / tnp1191_9 / tnp1191_3 / xis / tnp1191_13 / tnp1191_12 / tnp1191_2 / tnp1191 / tnp-2
 id: 1323204 - name: Unknow / fat
-id: 1319889 - name: yabA / Unknow
-id: 1323165 - name: Unknow / epuA
-id: 1323118 - name: Unknow / ung
-id: 1319763 - name: fstH / Unknow / ybhL
-id: 243998 - name: 4-OT / xylH / Unknow
-id: 1323214 - name: Unknow
-id: 15 - name: Unknow / tufB / tuf / tufA
-id: 1327961 - name: Unknow
-id: 1319849 - name: fakBA / degV / degV_3 / Unknow
-id: 1319970 - name: Unknow / secG
-id: 583236 - name: dapD / Unknow / dapH
-id: 77343 - name: rpsD / Unknow / rpsD_2
-id: 1324959 - name: queT / Unknow
-id: 116978 - name: Unknow / purA
+id: 244124 - name: aptA / Unknow / apt
+id: 1319652 - name: mfd / Unknow
+id: 1319799 - name: Unknow / ykoD / sdcBA
+id: 1319826 - name: comFC / Unknow
+id: 1319931 - name: mvaK2 / Unknow
+id: 1325913 - name: Unknow
+id: 243016 - name: yyzM / Unknow / yaaA
+id: 371595 - name: Unknow / ilvD_2 / ilvD
+id: 1322951 - name: bioY1 / Unknow / bioY
+id: 1323156 - name: Unknow / ftsX
+id: 243669 - name: tpiA / Unknow
+id: 1327029 - name: Unknow / cvpA
+id: 1322949 - name: Unknow / ycgR
+id: 77115 - name: ykgM / rpmE / rpmE2 / Unknow / rpmEB
+id: 243107 - name: dut / Unknow
+id: 1327540 - name: yidC / Unknow / misCA
+id: 78136 - name: Unknow / rpsG
+id: 582915 - name: Unknow / serC
+id: 1319833 - name: Unknow / accB
+id: 244461 - name: Unknow / rnr
+id: 243248 - name: Unknow / cshB / rheB
+id: 1319820 - name: Unknow
+id: 1320029 - name: ftsA / Unknow
+id: 243078 - name: rpoA / Unknow
+id: 117284 - name: rpmG / rpmGA / Unknow
+id: 1328255 - name: Unknow
+id: 243449 - name: Unknow / ftsZ
+id: 1319571 - name: Unknow
+id: 1319808 - name: Unknow / brpA
+id: 1319891 - name: amt / Unknow / amtB
 id: 243877 - name: pstB_2 / Unknow / pstB2 / pstBA / pstB
-id: 243868 - name: Unknow / ylxM
+id: 1323281 - name: lysP_2 / Unknow / yfnA / mtrA
+id: 243910 - name: Unknow / topA
+id: 1319977 - name: aroD / Unknow / arod
+id: 1319707 - name: rsmE / Unknow
+id: 1324577 - name: Unknow / yohK / lrgB
+id: 1322976 - name: panT / panT_2 / Unknow
+id: 1325416 - name: Unknow
+id: 1319699 - name: Unknow / truA
+id: 1319745 - name: lsrC_1 / Unknow / lsrC
+id: 1319878 - name: Unknow
+id: 243063 - name: Unknow / ruvB
+id: 1320162 - name: butA_1 / Unknow / butA / ucpA
+id: 244283 - name: iscS / Unknow / nifS2 / iscS_1 / iscSB
+id: 1322942 - name: Unknow
+id: 243727 - name: nrdH / Unknow
+id: 1323189 - name: Unknow
+id: 1319759 - name: Unknow / SalivA0238
+id: 244547 - name: metS / Unknow / metG
+id: 118071 - name: nrdD_2 / nrdD / Unknow
+id: 117342 - name: ptsP / Unknow / ptsI / PTSI
+id: 1319918 - name: Unknow / nagB / gamA
+id: 1319890 - name: yraL / Unknow / rsmI
+id: 244690 - name: Unknow / comEB
+id: 1320154 - name: bglK / Unknow / bglK_1
+id: 1319827 - name: Unknow
+id: 1323290 - name: Unknow
+id: 243759 - name: dagK / Unknow
+id: 1323163 - name: hpk2 / Unknow / hpk / vicK
+id: 582539 - name: Unknow / pyrD1 / pyrD
+id: 1319881 - name: Unknow / atpF
+id: 243992 - name: Unknow / ndpA
+id: 244508 - name: Unknow / rplA
+id: 243830 - name: Unknow / pyk / pykF
+id: 1320158 - name: Unknow / hk04
+id: 117446 - name: queA / Unknow
+id: 1326791 - name: scrA / Unknow / bglF
+id: 1319877 - name: Unknow
+id: 1327100 - name: rimI / Unknow
+id: 1323278 - name: brnQ / Unknow
+id: 582074 - name: trpC / Unknow
+id: 1319756 - name: gpsB / Unknow
+id: 1319734 - name: adcR / Unknow
+id: 582445 - name: lmrA / yfiC / Unknow / msbA
+id: 1322870 - name: cynR / Unknow / cpsY_2
+id: 1320439 - name: mdtK / Unknow / norM
+id: 243242 - name: Unknow / proB
+id: 1320703 - name: Unknow / gnlP / gnlP_1
+id: 1325925 - name: ytqB / Unknow
+id: 1321097 - name: hinT / hit / Unknow
+id: 1323152 - name: Unknow
+id: 1324834 - name: Unknow / folP
+id: 244014 - name: prsA / Unknow / prs / prsA2
+id: 1320032 - name: Unknow / ylmG
+id: 244569 - name: Unknow / livH
+id: 1324814 - name: folQ_2 / Unknow / folQ / folB
+id: 243648 - name: Unknow
+id: 1327045 - name: Unknow
+id: 243493 - name: asnC / Unknow / asnS
+id: 243308 - name: fabZ / Unknow
+id: 78115 - name: Unknow / rplQ
+id: 244034 - name: folEA / Unknow / arcT / folE
+id: 1319603 - name: Unknow
+id: 1325032 - name: Unknow / comEA
+id: 243074 - name: rplF / Unknow
+id: 1326405 - name: Unknow / ftsL
+id: 1319712 - name: Unknow / dtd
+id: 1319658 - name: mreD / Unknow
+id: 243356 - name: pgi / Unknow
+id: 243316 - name: manN / levG / Unknow / manZ
+id: 1072881 - name: Unknow / ybbL
+id: 1322897 - name: Unknow / ppiA
+id: 1314427 - name: ruvA / Unknow
+id: 1320313 - name: Unknow
+id: 582716 - name: Unknow / aroA
+id: 1310522 - name: hisK / Unknow / hisJ
+id: 243642 - name: Unknow / hprK / PTSK
+id: 1314171 - name: Unknow / xseA
+id: 1327403 - name: bta / Unknow
+id: 244780 - name: rpe / Unknow
+id: 1320159 - name: Unknow / ndk
+id: 244208 - name: clpE / Unknow / clpL / clpB / clpC
+id: 243138 - name: nifU / Unknow / sufU / iscU
+id: 582248 - name: cysD / mdeA / Unknow / metY / metB
+id: 1319456 - name: Unknow
+id: 1319926 - name: ytzG / rsuA1 / Unknow / rsuA
+id: 76931 - name: rplK / Unknow
+id: 244714 - name: Unknow / pfl / pflB
+id: 77930 - name: Unknow / rplU
+id: 244095 - name: cysB / cmhR / Unknow / cpsY
+id: 244875 - name: polC / Unknow
+id: 1319996 - name: yuhB / Unknow
+id: 1313665 - name: Unknow / uvrC
+id: 582817 - name: Unknow / dgs
+id: 1319930 - name: Unknow / mvaD
+id: 243096 - name: Unknow / grpE
+id: 245019 - name: Unknow / nrdG
+id: 77906 - name: rpmB / Unknow
+id: 1322953 - name: Unknow
+id: 1319995 - name: Unknow
+id: 1328310 - name: Unknow / smc_3
+id: 1309983 - name: tnp / tnp-IS1193_6 / tnp-IS1193 / tnp-IS1193_5 / tnp-IS1193_1 / tnp4 / tnp1193-2 / tnp-IS / Unknow / tnp1193-3 / tnp1193 / tnp1193-1 / tnp3 / tnp-IS1193_4 / tnp-IS1193_2 / tnp-IS1193_3
+id: 1323094 - name: Unknow / malQ
+id: 1319928 - name: Unknow / rclA / merA / ykgC
+id: 1322178 - name: cbpD / Unknow / cbpD1
+id: 1323239 - name: Unknow / cls
+id: 1323191 - name: argR1 / Unknow / argR / argR_2
+id: 1325993 - name: trxA / Unknow / trxA1
+id: 77465 - name: Unknow / rpsO / rpso
+id: 1319743 - name: cdsA / Unknow / cds1
+id: 1326564 - name: Unknow / addA / rexA
+id: 244796 - name: Unknow / dltA
+id: 1324959 - name: queT / Unknow
+id: 117683 - name: ruvX / yqgF / ybeB / Unknow / yrrK / rimF
+id: 1320270 - name: Unknow / glnP / tcyB / gltK
+id: 1324607 - name: Unknow / yusI / spxA_2
+id: 1321115 - name: Unknow
+id: 1320274 - name: yfmL / deaD / Unknow / deaD_1
+id: 1327741 - name: Unknow / fthC / yqgN
+id: 1327969 - name: Unknow / comGF
+id: 1323227 - name: Unknow
+id: 1323166 - name: Unknow
+id: 1323199 - name: mrdB / Unknow / rodA
+id: 1319770 - name: Unknow / scpB / spcB
+id: 1327791 - name: rrmA / Unknow / rlmA
+id: 243481 - name: pacL / pacL2 / Unknow
+id: 1328347 - name: Unknow / isaA
+id: 1319849 - name: fakBA / degV / degV_3 / Unknow
+id: 1319863 - name: Unknow / pepF / pepB
+id: 1309837 - name: hom / Unknow
+id: 79294 - name: tnp / orF00044-1 / Unknow / tnp1216 / orF00044 / tnpA2
+id: 245026 - name: Unknow
+id: 76951 - name: rpsR / Unknow
+id: 243973 - name: ybiT / Unknow / ettM
+id: 1325357 - name: Unknow / ctpE / CTPE / exp
+id: 1322430 - name: Unknow
+id: 1320644 - name: nifS3 / Unknow / iscS_2 / iscS
+id: 1325021 - name: comEC / Unknow
+id: 244653 - name: Unknow / gatA
+id: 1319923 - name: Unknow
+id: 118416 - name: yitW / paaD / Unknow
+id: 244294 - name: Unknow / infC
+id: 243879 - name: pstB1 / pstB_1 / Unknow / pstBA / pstB
+id: 1319974 - name: mmcQ / Unknow
+id: 1328388 - name: Unknow
+id: 1320224 - name: psaD / tpx / Unknow
+id: 78126 - name: rplE / Unknow
+id: 1323168 - name: galE_1 / galE / Unknow / galE2
+id: 1325547 - name: Unknow / tmcAL
+id: 243854 - name: gid / Unknow / trmFO
+id: 243673 - name: ddlA / Unknow / ddl
+id: 244604 - name: der / engA / Unknow
+id: 1322947 - name: acrC / Unknow
+id: 1323285 - name: Unknow
+id: 244252 - name: fruA / Unknow
+id: 1323216 - name: Unknow / mprF
+id: 244317 - name: hlyX / Unknow / tlyC
+id: 1320043 - name: Unknow / dltD
+id: 1319873 - name: argB / Unknow
+id: 243846 - name: ldhA / ldh / Unknow / lctE
+id: 244794 - name: Unknow / dltC
+id: 583243 - name: Unknow / tadA
+id: 119027 - name: Unknow / pncB
 id: 583381 - name: Unknow / ilvD1 / ilvD / ilvD_1
-id: 1319742 - name: uppS / Unknow / ispU
-id: 78123 - name: rl18 / Unknow / rplR
+id: 1327527 - name: jag / Unknow
+id: 1320228 - name: ribC / Unknow / ribF
+id: 1311986 - name: amd-1 / rsfS / ybeB / Unknow
+id: 1326200 - name: pbpX_1 / Unknow
+id: 1321641 - name: ymdB / Unknow / ymdB_2
+id: 1322692 - name: Unknow
+id: 244436 - name: Unknow
+id: 581880 - name: Unknow / metF
+id: 1319807 - name: Unknow / yhhY
+id: 77343 - name: rpsD / Unknow / rpsD_2
+id: 1319884 - name: atpC / Unknow
+id: 243670 - name: Unknow / gpmA / gpmA_2
+id: 106504 - name: Unknow / queF
+id: 1320849 - name: Unknow / tehB
+id: 1319797 - name: dctA / Unknow / sstT
+id: 1319655 - name: tilS / Unknow
+id: 583004 - name: cysM1 / Unknow / cysK
+id: 78125 - name: Unknow / rpsH
+id: 244777 - name: yhaM / cbf / Unknow
+id: 244501 - name: frr / Unknow
+id: 1326762 - name: pmi1 / Unknow / manA
+id: 244861 - name: defB / Unknow / def / def_1
+id: 244027 - name: Unknow / potC
+id: 1319630 - name: Unknow
+id: 1321530 - name: yrrC / Unknow / recD
+id: 1319946 - name: Unknow
+id: 116978 - name: Unknow / purA
+id: 1320884 - name: Unknow
+id: 1319850 - name: cca / papL / Unknow
+id: 1322563 - name: Unknow / glcR / glpR
+id: 1322941 - name: Unknow / plsY
+id: 243989 - name: manB / Unknow / pgmA / pgcA
+id: 77559 - name: Unknow / dnaK
+id: 244253 - name: fruB / pfkB / Unknow / fruK
+id: 1319829 - name: ycjU / Unknow
+id: 1319796 - name: metI / Unknow / metP
+id: 1320268 - name: fliY / Unknow / peb1 / peb1A
+id: 1320034 - name: Unknow / divIVA
+id: 1319880 - name: Unknow / atpB
+id: 1319822 - name: braE / Unknow / livM
+id: 583084 - name: Unknow / ilvA
+id: 1319781 - name: ureI / Unknow
+id: 1319962 - name: Unknow / nnrD
+id: 1321332 - name: sacA / scrB / Unknow
+id: 1319766 - name: ysnB / Unknow / yfcE
+id: 583155 - name: tktA / Unknow / tkt
+id: 1321659 - name: Unknow
+id: 244030 - name: murB / Unknow
+id: 1319711 - name: cpdB / yfkN / cpdB_2 / Unknow
+id: 118263 - name: clpE_1 / Unknow / clpA / clpE
+id: 1323228 - name: Unknow
+id: 243852 - name: Unknow / guaA
+id: 1321058 - name: Unknow
+id: 1319933 - name: yffH / nudF / Unknow / act
+id: 243313 - name: serS / Unknow
+id: 244029 - name: potA / Unknow / cysA / potA_2
+id: 1323267 - name: msrA / Unknow / msrAB / msrA1 / msrB
+id: 746515 - name: Unknow / queE
+id: 1323192 - name: ispA / Unknow
+id: 1319684 - name: degV / Unknow / degV_1
+id: 1323155 - name: Unknow / yhhT
+id: 244028 - name: Unknow / potB
+id: 1322508 - name: Unknow
+id: 1322959 - name: Unknow
+id: 1322120 - name: Unknow / recF
+id: 1321737 - name: proC / Unknow
+id: 1325376 - name: Unknow
+id: 243698 - name: sodA / Unknow
+id: 243021 - name: hslR / yaab / Unknow
+id: 1313643 - name: pdhA / acoA / Unknow
+id: 1319872 - name: argC / Unknow
+id: 244263 - name: Unknow / rgg2-1
+id: 244757 - name: gcp / Unknow / tsaD
+id: 1319970 - name: Unknow / secG
+id: 243195 - name: Unknow / cysE / cysE1
+id: 1322785 - name: murE_1 / Unknow / murE / mure
+id: 1325469 - name: Unknow
+id: 581989 - name: aroG2 / Unknow / aroH / aroG / aroG1 / aroF
+id: 244106 - name: potA / livG / Unknow / potA_1
+id: 1326033 - name: Unknow / tcyA_2 / tcyA
+id: 1323127 - name: cpsX / Unknow / epsX
+id: 582343 - name: Unknow / leuB
+id: 1320837 - name: amyS / Unknow / amyA / amyL
+id: 1319773 - name: bcrC / Unknow / bcrC_2
+id: 1324444 - name: rsuA2 / ytzG / Unknow / rsuA
+id: 1310563 - name: lysA / Unknow
+id: 1319705 - name: comX / comX1_2 / Unknow
+id: 1325296 - name: pabA / Unknow / trpG
+id: 1321479 - name: mutS / mutS2 / Unknow
+id: 1326064 - name: Unknow / dinB
+id: 1323118 - name: Unknow / ung
+id: 244376 - name: ybfQ / Unknow / glpE
+id: 1326048 - name: Unknow
+id: 1322371 - name: ykuT / Unknow / mscS
+id: 1323194 - name: dNAD / Unknow / dnaD_2
+id: 243974 - name: Unknow / nrdD_1 / rnhB
+id: 1327864 - name: trxA_2 / Unknow / trxA2 / ytpP
+id: 244996 - name: Unknow / leuS
+id: 244609 - name: yedW / Unknow / ykoG / rr01 / arlR
+id: 1323292 - name: Unknow / celB
+id: 1319667 - name: Unknow
+id: 243828 - name: pfkA / Unknow / pfk
+id: 1323233 - name: Unknow / rncS / rnc
+id: 244648 - name: yhbY / yqeI / Unknow
+id: 1328355 - name: Unknow / ecfT
+id: 1320199 - name: pyrK / Unknow
+id: 1323289 - name: ywnA / Unknow
+id: 582047 - name: Unknow / lemA
+id: 1320039 - name: pvaA / Unknow
+id: 243867 - name: Unknow / ffh
+id: 1327704 - name: Unknow
+id: 1319819 - name: Unknow
+id: 244246 - name: yfmR / yjjK / Unknow / uup
+id: 581879 - name: metE / Unknow
+id: 1319761 - name: Unknow / pabC / mltG
+id: 1319749 - name: Unknow / bcrC_1
+id: 1319940 - name: Unknow
+id: 1320026 - name: Unknow
+id: 1319492 - name: Unknow
+id: 1324562 - name: Unknow
+id: 244272 - name: rluD / Unknow
+id: 78140 - name: Unknow / rpoC
+id: 243111 - name: gltX / Unknow
+id: 244313 - name: Unknow / ppaC / ppa
+id: 583412 - name: dltB / Unknow
+id: 1323231 - name: Unknow / paiA
+id: 243311 - name: Unknow / accA
+id: 243424 - name: rsmD / Unknow
+id: 582504 - name: asd / Unknow / usg
+id: 243199 - name: Unknow / yjfH / rlmB
+id: 1323217 - name: pip / Unknow / cpo
+id: 243611 - name: pepQ / Unknow
+id: 1319801 - name: Unknow
+id: 1319804 - name: dnaB_1 / Unknow / dnaB
+id: 1324539 - name: ezrA / Unknow
+id: 1319994 - name: Unknow
+id: 244210 - name: mmuP / Unknow / lysP_1 / rocE / ybgF
+id: 1319851 - name: def_2 / defA / Unknow / def
+id: 243993 - name: Unknow / glyA / glyA-1
+id: 244590 - name: Unknow
+id: 1322956 - name: Unknow / ytjC / gpmC
+id: 245184 - name: yheS_2 / Unknow / ykpA / ybiT
+id: 1319715 - name: Unknow
+id: 1328330 - name: Unknow
+id: 1323196 - name: recJ / Unknow
+id: 77612 - name: hstH-1 / Unknow / rpsU
+id: 1327992 - name: Unknow / cglC / comGC
+id: 243256 - name: pepC / Unknow
+id: 244207 - name: rpIJ / Unknow / rplJ
+id: 1323144 - name: yfeJ / Unknow / gat_1 / gat
+id: 244680 - name: Unknow / asp2
+id: 1322092 - name: adcR / Unknow / adcR-1
+id: 1319961 - name: Unknow / folD
+id: 106896 - name: Unknow / mnmA / trmU
+id: 1319910 - name: Unknow / pyrR
+id: 1328080 - name: treB / Unknow
+id: 1324802 - name: Unknow / folK
+id: 1326559 - name: Unknow
+id: 1327987 - name: Unknow / rsuA1-1 / comGD
+id: 244849 - name: Unknow / qacE
+id: 245045 - name: Unknow / rpmF
+id: 244321 - name: yhcC / Unknow / ytqA / miaB
+id: 244662 - name: aspC2 / Unknow / alaA / yfbQ
+id: 243109 - name: cynT / mtcA / Unknow / cah
+id: 1322041 - name: amaP / Unknow
+id: 243137 - name: sufS / Unknow / nifS1
+id: 1319769 - name: scpA / Unknow
+id: 243880 - name: pstC1 / Unknow / pstC
+id: 243998 - name: 4-OT / xylH / Unknow
+id: 687003 - name: Unknow
+id: 1320057 - name: Unknow / cdd_1 / cdd
+id: 1324942 - name: ligA_2 / ligA / Unknow
+id: 244904 - name: Unknow / rsh / relA / spoT
+id: 1320231 - name: Unknow
+id: 1321452 - name: Unknow
+id: 1322963 - name: Unknow / yghU
+id: 1319706 - name: Unknow / mutT
+id: 1320225 - name: hsdS2 / Unknow / hsdS
+id: 1322750 - name: Unknow / trkH2
+id: 1320024 - name: Unknow / perR / fur
+id: 1326703 - name: Unknow / acpS
+id: 1319579 - name: Unknow
+id: 1322824 - name: Unknow
+id: 244485 - name: ybeY / Unknow / rnrY / ykjF
+id: 1323309 - name: csp2K_3 / hyaD_1 / Unknow / glyA
+id: 16 - name: rpsJ / Unknow
+id: 1325488 - name: Unknow / ecsA / ecsA_2
+id: 1319683 - name: Unknow
+id: 243072 - name: rpmC / Unknow
+id: 1322814 - name: folC1 / Unknow / folC
+id: 581792 - name: Unknow / glnR
+id: 1320040 - name: Unknow / msbA_3 / msbA
+id: 1323202 - name: Unknow
+id: 243039 - name: Unknow / purL
+id: 243244 - name: mraW / rsmH / Unknow
+id: 243318 - name: Unknow / manX / manL
+id: 1325796 - name: Unknow / metQ
+id: 583236 - name: dapD / Unknow / dapH
+id: 1319795 - name: metN / Unknow
+id: 1322940 - name: Unknow / mvaS
+id: 1327877 - name: Unknow
+id: 1319876 - name: Unknow / rarD
+id: 1319976 - name: ywbD / Unknow / rlmI / mtt
+id: 1320262 - name: Unknow
+id: 582432 - name: Unknow / dapB
+id: 1309852 - name: yecS_4 / Unknow / yecS
+id: 746547 - name: Unknow / bmrC / mdlA / yheI
+id: 1323172 - name: miaA / Unknow / trmD
+id: 243772 - name: Unknow / murAA / murA
+id: 1321401 - name: Unknow
+id: 1319934 - name: Unknow
+id: 582345 - name: valS-1 / Unknow / leuC
+id: 117476 - name: rpmI / Unknow
+id: 1320237 - name: Unknow / phoU
+id: 1322747 - name: trkA2 / Unknow
+id: 1322945 - name: ltaS2 / Unknow / ltaS
+id: 582605 - name: uraA / pyrP / Unknow
+id: 244360 - name: spsK / Unknow / rmlD / rfbD
+id: 1319911 - name: rsmJ / Unknow
+id: 244578 - name: Unknow / rluB / yjbC
+id: 243751 - name: murAB / Unknow / murZ / murA
+id: 1319983 - name: Unknow / pheA2 / pheA
+id: 243672 - name: Unknow / recR
+id: 1319785 - name: Unknow / ureG
+id: 1325194 - name: Unknow / copA
+id: 1324334 - name: artP_4 / Unknow / artP
+id: 243683 - name: deaD / rheA / deaD_2 / Unknow / cshA
+id: 1319806 - name: yjeE / ydiB / Unknow / tsaE
+id: 581862 - name: yecS_5 / Unknow / glnP / glnP_2
+id: 583087 - name: Unknow / ilvI / ilvB
+id: 581860 - name: fliY / Unknow / glnH_1 / glnH
+id: 1320021 - name: holA / Unknow
+id: 15535 - name: Unknow / fusA
+id: 244065 - name: Unknow / rpsA
+id: 1326577 - name: rexB / Unknow
+id: 1320018 - name: Unknow
+id: 1323211 - name: Unknow
+id: 244567 - name: Unknow / livG
+id: 1319845 - name: Unknow
+id: 1323219 - name: icd / icd_1 / Unknow
+id: 1319696 - name: dacB / Unknow
+id: 119436 - name: Unknow / guaB
+id: 1323221 - name: Unknow
+id: 1325985 - name: trxB1 / Unknow / trxB / trxB_2
+id: 1323288 - name: Unknow / catE
+id: 244661 - name: codY / Unknow
+id: 1323165 - name: Unknow / epuA
+id: 243799 - name: Unknow / hemW / hemN
+id: 243754 - name: pepM / Unknow / map
+id: 1323990 - name: yicR / Unknow / radC
+id: 243073 - name: Unknow / rplX
+id: 1319821 - name: Unknow / livK / livJ
+id: 244496 - name: phoH / Unknow / ybeZ
+id: 1319763 - name: fstH / Unknow / ybhL
+id: 1327275 - name: Unknow / rmuC
+id: 1319957 - name: Unknow / feoA
+id: 1319788 - name: Unknow / ureQ
+id: 77248 - name: uvrA / Unknow
+id: 1322978 - name: Unknow / dfp2
+id: 244481 - name: Unknow / era
+id: 1322406 - name: yeiL / Unknow
+id: 244004 - name: Unknow / xpt
+id: 1322979 - name: coaA / Unknow
+id: 243657 - name: Unknow / yjjG
+id: 1319847 - name: Unknow
+id: 244999 - name: Unknow / nusG
 id: 243863 - name: Unknow / xerS / xerC
+id: 1322950 - name: Unknow
+id: 1319993 - name: Unknow / lgt
+id: 582458 - name: Unknow / nox
+id: 1320036 - name: Unknow / tdk
+id: 119429 - name: Unknow / houQ / yegQ / yrrO / yhbU
+id: 243360 - name: gpsA / Unknow
+id: 243792 - name: cobQ / Unknow / gatD
+id: 1319452 - name: Unknow
+id: 1322025 - name: Unknow
+id: 117334 - name: Unknow / ygaC
+id: 244217 - name: Unknow / clpX
+id: 1323929 - name: Unknow / pta / eutD
+id: 1325206 - name: copY / Unknow
+id: 243790 - name: lpdA / Unknow / acoL / lpd
+id: 1319944 - name: Unknow
+id: 8 - name: Unknow / rpsL
+id: 1323180 - name: Unknow
+id: 243041 - name: Unknow / purM
+id: 244765 - name: Unknow / rnjA
+id: 583050 - name: Unknow / manO
+id: 1325285 - name: Unknow / trpD
+id: 1310527 - name: pheT_1 / Unknow / pheT
+id: 244681 - name: efp / Unknow
+id: 1319814 - name: ytgP / mviN / Unknow
+id: 1319716 - name: msf / Unknow
+id: 1313445 - name: Unknow / nth
+id: 244947 - name: cshA / Unknow / ycaJ / rarA
+id: 582076 - name: trpB / Unknow
+id: 243097 - name: Unknow / dnaJ
+id: 1319810 - name: Unknow / infB
+id: 1319853 - name: lmrA1 / Unknow / msbA_1 / lmrA / msbA
+id: 243332 - name: Unknow / trmB
+id: 1325478 - name: Unknow
+id: 244654 - name: Unknow / gatC
+id: 118546 - name: pstA / Unknow / pstC2
+id: 686978 - name: pyrB / Unknow
+id: 244838 - name: hslO / Unknow
+id: 244056 - name: Unknow / pcrA / uvrD
+id: 751315 - name: Unknow / dsg-2 / yvgN / dkgA
+id: 1324997 - name: rimL / Unknow
+id: 119220 - name: Unknow / valS
+id: 244598 - name: Unknow / greA
+id: 1319746 - name: Unknow / groES / groS
+id: 1320157 - name: baeR / spaR / Unknow / rr04
+id: 1319651 - name: pth / Unknow / pth1
+id: 243492 - name: aspC1 / aspB / Unknow / aatA
+id: 1320155 - name: Unknow / smf / dprA
+id: 1320059 - name: ytfT / Unknow / mglC / nupP
+id: 61586 - name: Unknow / rpsS
+id: 244499 - name: msrA2 / msrA / Unknow
+id: 1319982 - name: aroL / Unknow / aroK
+id: 243628 - name: Unknow / walJ / vicX
+id: 1323147 - name: Unknow / ung
+id: 78117 - name: Unknow / rpsM
+id: 243026 - name: hprT / Unknow / hpt
+id: 243130 - name: artM_1 / Unknow / hisP / artR / glnQ2
+id: 1327961 - name: Unknow
+id: 1319817 - name: hly / patB / malY / Unknow
+id: 243317 - name: manY / manM / Unknow / levF
+id: 1323121 - name: abc1 / Unknow / ubiB
+id: 1322939 - name: Unknow / mvaA
+id: 1326984 - name: Unknow
+id: 746514 - name: ptpS / Unknow / queD / ygcM
+id: 106911 - name: Unknow / tgt
+id: 1319660 - name: recO / Unknow
+id: 687154 - name: lysC / Unknow / thrD
+id: 1319882 - name: atpH / Unknow
+id: 1310673 - name: Unknow
+id: 244639 - name: Unknow
+id: 244282 - name: trmG / thiI / Unknow
+id: 1322061 - name: Unknow
+id: 1320060 - name: Unknow / nupQ
+id: 1323179 - name: estA / Unknow
+id: 1309820 - name: argH / Unknow
+id: 1323209 - name: thiO / Unknow / yurR
+id: 1319672 - name: Unknow / cinA
+id: 1322943 - name: Unknow / mutT / mutT_1
+id: 243251 - name: tcyN_2 / Unknow / tcyN / yecC
+id: 243071 - name: rplW / Unknow
+id: 88141 - name: yebC / Unknow / yeeN / yeeI
+id: 1319835 - name: Unknow / ygbI / fruR
+id: 244850 - name: Unknow / tsf
+id: 243842 - name: nupO / Unknow / rbsA / mglA
+id: 244288 - name: aroC / Unknow / aroF
+id: 687025 - name: Unknow / hlyIII / yqfA
+id: 1323186 - name: ORF3-1 / Unknow
+id: 244241 - name: Unknow / gdhA
+id: 1327829 - name: yeeD / Unknow
+id: 1319784 - name: Unknow / ureF
+id: 243149 - name: adcC / Unknow / znuC
+id: 243718 - name: aarS / Unknow / alaS
+id: 1323949 - name: rluD / Unknow / yjbO
+id: 244107 - name: Unknow / lsrC_2
+id: 245044 - name: Unknow / hisS
+id: 1323304 - name: Unknow
+id: 15 - name: Unknow / tufB / tuf / tufA
+id: 583147 - name: repS / Unknow / ampS / pepS
+id: 117996 - name: mioC / Unknow / fldP / fld
+id: 1320156 - name: Unknow
+id: 244945 - name: Unknow
+id: 245134 - name: rplI / Unknow
+id: 1326640 - name: Unknow / rr06-1
+id: 1323143 - name: eps3A / ywtF / Unknow / eps5A
+id: 244554 - name: exoA / Unknow / xth / xthA
+id: 1324989 - name: str1558 / Unknow
+id: 118721 - name: yfgB / rlmN / Unknow
+id: 1320058 - name: bmpB / tmpC / Unknow / nupN
+id: 1309825 - name: Unknow / gabD / gapN
+id: 78134 - name: Unknow / rplC
+id: 243338 - name: Unknow / rbfA
+id: 243153 - name: tyrS / Unknow
+id: 77888 - name: fabK-1 / Unknow / rpsP / rpsP_2
+id: 244652 - name: gatB / Unknow
+id: 582719 - name: Unknow / aroB
+id: 583313 - name: thrC / Unknow
+id: 1324587 - name: Unknow / yohJ
+id: 244099 - name: pnp / Unknow / punA / pupG / xapA
+id: 1319909 - name: Unknow / lspA / lspA_1
 id: 245132 - name: dnaB_2 / Unknow / dnaC / dnaB / cppA
+id: 1314253 - name: Unknow / glyS
+id: 1326227 - name: gla / Unknow
+id: 1319656 - name: Unknow / ftsH
+id: 244601 - name: Unknow / murC
+id: 1323185 - name: Unknow / dnaE
+id: 1320038 - name: Unknow / ywlC / rimN
+id: 77113 - name: Unknow / pyrG
+id: 1320022 - name: Unknow
+id: 118845 - name: purB / Unknow / purB1
+id: 77784 - name: sufC / Unknow
+id: 243402 - name: galE1 / Unknow / galE_3 / galE / galE_2
+id: 1319772 - name: Unknow / ribU
+id: 78133 - name: Unknow / rplD
+id: 244130 - name: elaC / Unknow / rnz
+id: 581725 - name: miaA / Unknow
+id: 1309830 - name: rlmCD / Unknow / rlmD / rumA
+id: 582537 - name: Unknow / pyrE
+id: 1323203 - name: yutF / Unknow / nucF / pho2 / nagD
+id: 244781 - name: rsgA / Unknow
+id: 1322893 - name: Unknow
+id: 1319840 - name: Unknow / gsr / gor
+id: 1320037 - name: Unknow / hemK / prmC
+id: 77619 - name: glyQ / Unknow
+id: 1323151 - name: Unknow
+id: 1319956 - name: yecS_1 / artQ / Unknow / yecS
+id: 243490 - name: Unknow / ucpA / butA_2
+id: 105749 - name: Unknow / typA / bipA
+id: 1319889 - name: yabA / Unknow
+id: 1319856 - name: Unknow
+id: 1319972 - name: gsp13 / Unknow
+id: 243784 - name: trmE / Unknow / mnmE
+id: 1323301 - name: Unknow
+id: 243689 - name: Unknow / purK
+id: 66531 - name: rplP / Unknow
+id: 1322783 - name: yhaX / Unknow / yidA
+id: 1324316 - name: aspC / Unknow
+id: 1319654 - name: yaaD / Unknow
+id: 1319941 - name: dhfR / Unknow / folA
+id: 1320030 - name: ylmE / yggS / Unknow
+id: 1321718 - name: Unknow / frvX / pepA / ytoP / tig-1
+id: 1319809 - name: Unknow / rulQ
+id: 67578 - name: Unknow / rplS
+id: 1323190 - name: Unknow / recN
+id: 243765 - name: atpE / Unknow
+id: 243679 - name: yjqA / Unknow
+id: 687830 - name: Unknow / lplA / lplJ
+id: 1319854 - name: Unknow / yheH / lmrA2
+id: 243197 - name: cysS / Unknow
+id: 244498 - name: Unknow / yozE
+id: 243136 - name: Unknow / sufD
+id: 1326895 - name: Unknow
+id: 243303 - name: fabK / Unknow
+id: 747580 - name: Unknow
+id: 1322522 - name: rluD / Unknow / rluC
+id: 1319681 - name: Unknow
+id: 1322708 - name: Unknow / trkH1 / trkH
+id: 1319862 - name: coiA / Unknow
+id: 1319927 - name: alaD-tr2 / Unknow / ald / ald2
+id: 1319428 - name: Unknow
+id: 1328004 - name: Unknow
+id: 243731 - name: Unknow / udk
+id: 1328045 - name: Unknow / norN
+id: 582087 - name: murD / Unknow
+id: 1311598 - name: ytpR / Unknow / pheT_2
+id: 1310405 - name: Unknow / serB
+id: 77323 - name: atpA / Unknow
+id: 243335 - name: ylxR / rulR / Unknow
+id: 244216 - name: engB / Unknow / yihA / ysxC
+id: 77780 - name: sufB / Unknow
+id: 1319864 - name: Unknow
+id: 1325897 - name: Unknow / nha
+id: 1319733 - name: dsg / Unknow
+id: 1321134 - name: Unknow
+id: 1325945 - name: Unknow / atpH-1 / lon
+id: 116973 - name: Unknow / rpsF
+id: 1319888 - name: sip / Unknow / ricT / tpl
+id: 1325654 - name: rplS-1 / Unknow / yqeG
+id: 1320442 - name: rpsD / Unknow / rpsD_1
+id: 243978 - name: fhs / Unknow
+id: 1324302 - name: glnH / Unknow / glnH_3 / artP_2 / artP / fliY
+id: 1319386 - name: yaaC / Unknow
+id: 1322958 - name: Unknow
+id: 1319650 - name: Unknow / dnaN
+id: 1319805 - name: Unknow / dnaI
+id: 1323164 - name: endA / endA-1 / endA_3 / Unknow
+id: 1326837 - name: pepP / Unknow / papA / ypdF
+id: 1326799 - name: nusB / Unknow
+id: 244068 - name: ilvE / Unknow / bcaT
+id: 244119 - name: cps19fO / Unknow / rmlC / rfbC
+id: 1320020 - name: Unknow / ppc
+id: 1326347 - name: Unknow / yutD
+id: 4 - name: rplNA / Unknow / rplN
+id: 244783 - name: Unknow / rsmA / ksgA
+id: 1309814 - name: hipO1 / Unknow / yxeP / sndB / hipO2 / ytnL
+id: 1326372 - name: Unknow / mraY
+id: 745802 - name: Unknow
+id: 1325219 - name: trpA / Unknow
+id: 243996 - name: Unknow / prfA
+id: 1322632 - name: yidC / Unknow / oxaA1
+id: 1319908 - name: oxyR / cpsY / cpsY2 / Unknow
+id: 1319700 - name: Unknow / thiD
+id: 244502 - name: Unknow / pyrH
+id: 4192 - name: rpmA / Unknow
+id: 1319865 - name: prsA / Unknow / prtM
+id: 1319713 - name: dex_1 / Unknow / dex
+id: 1323238 - name: pat / Unknow / yncA
+id: 1322977 - name: Unknow / dfp1 / coaC
+id: 1322961 - name: Unknow / apbE
+id: 116971 - name: gyrB / Unknow
+id: 581861 - name: glnQ_3 / Unknow / glnQ / tcyC
+id: 582121 - name: acnA / Unknow / citB
+id: 244315 - name: pflA / Unknow / act
+id: 107403 - name: Unknow / rplO
+id: 1310580 - name: Unknow / fabD
+id: 243042 - name: Unknow / purN
+id: 1319943 - name: mmuM / ybgG / Unknow
+id: 243077 - name: Unknow / adk
+id: 1584 - name: groEL / Unknow / groL
+id: 1319955 - name: argF / Unknow / argI
+id: 243126 - name: Unknow / yloU / asp
+id: 78019 - name: Unknow / metK
+id: 244220 - name: thyA / Unknow
+id: 1319832 - name: Unknow / fabHA / fabH
+id: 1322964 - name: pabB / Unknow
+id: 15198 - name: Unknow / rpmH
+id: 1325328 - name: tyrA / Unknow
+id: 1323174 - name: aroH / Unknow
+id: 1319825 - name: comFA / Unknow
+id: 37 - name: Unknow / atpD
+id: 1323213 - name: Unknow
+id: 1324728 - name: Unknow / potD / potD-1
+id: 243044 - name: purH / Unknow
+id: 77654 - name: Unknow / hbs / hupB / hstH
+id: 1319698 - name: Unknow / hrcA
+id: 1323123 - name: Unknow / bglH / bglB
+id: 583056 - name: mip / Unknow
+id: 1323195 - name: metA / metAA / Unknow
+id: 1326660 - name: Unknow / yidA
+id: 1309819 - name: dapI / Unknow / hipO3
+id: 1320227 - name: truB / Unknow
+id: 118514 - name: pyrAB / Unknow / carB
+id: 1320062 - name: Unknow
+id: 98622 - name: eno / Unknow
+id: 77970 - name: Unknow / rplT
+id: 244776 - name: Unknow / purR
+id: 1325589 - name: Unknow
+id: 243624 - name: gltL / glnQ / Unknow / artP / artM_3
+id: 1322957 - name: Unknow
+id: 243075 - name: Unknow / rpmD
+id: 244573 - name: Unknow / trmL / yibK
+id: 244116 - name: Unknow / mutT / mutT_2 / mutX
+id: 1319764 - name: Unknow
+id: 1319767 - name: Unknow / ykuL
+id: 582503 - name: dapA / Unknow
+id: 1323119 - name: rssA / Unknow
+id: 1327887 - name: Unknow
+id: 243455 - name: iarS / Unknow / ileS
+id: 244426 - name: uvrB / Unknow
+id: 1319789 - name: cbiO / Unknow / ureO
+id: 244769 - name: Unknow / glnA / gnlA
+id: 1319686 - name: panE / Unknow
+id: 1319841 - name: Unknow / gtf1 / gtf / tagE / gtfA
+id: 244649 - name: yqeH / rgpH / Unknow
+id: 1325064 - name: corA1 / Unknow / corA
+id: 1319929 - name: Unknow / mvk / mvaK1
+id: 1327116 - name: yeaZ / Unknow / ydiC / tsaB
+id: 1320144 - name: aatB / artP_1 / Unknow / artJ
+id: 243617 - name: Unknow / thrS
+id: 1319742 - name: uppS / Unknow / ispU
+id: 243105 - name: Unknow / rpoE
+id: 1319754 - name: yhaI_1 / yhaI / Unknow / yhaH
+id: 244522 - name: Unknow / glmU / gcaD
+id: 1319828 - name: rlmCD / Unknow / rlmD / yfjO / rumA
+id: 1319830 - name: paaG / fabM / Unknow / phaB
+id: 119509 - name: Unknow / rplM
+id: 1325399 - name: Unknow / dnaQ
+id: 1319760 - name: Unknow
+id: 1319693 - name: pgsA / Unknow / pgsA_1
+id: 583086 - name: ilvN / Unknow / ilvH
+id: 243626 - name: vicR / Unknow / rr05 / walR / cpxR
+id: 243200 - name: Unknow / raeA
+id: 1320035 - name: Unknow / add / ada
+id: 1322379 - name: Unknow / nrdI
+id: 1328366 - name: ecfA / cbiO_2 / Unknow / cbiO
+id: 243250 - name: Unknow / yxeN_2 / tcyB
+id: 1319659 - name: Unknow / pcsB
+id: 244744 - name: ybaB / Unknow
+id: 1322448 - name: Unknow / glnP
+id: 1324326 - name: artP_3 / glnH / Unknow / ackA / artP
+id: 243264 - name: Unknow / rny
+id: 1327945 - name: mleP-1 / Unknow / mleP
+id: 1327738 - name: Unknow / gluP
+id: 1323093 - name: dagA / Unknow / yaaJ
+id: 1328204 - name: Unknow
+id: 1319602 - name: Unknow
+id: 1319465 - name: Unknow
+id: 583207 - name: Unknow
+id: 1319741 - name: yajC / Unknow
+id: 1326690 - name: dadX / alrA / Unknow / alr
+id: 244673 - name: Unknow / secA
+id: 1323232 - name: smc / Unknow
+id: 243155 - name: Unknow / rpoB
+id: 244939 - name: prmA / Unknow
+id: 244069 - name: Unknow / parC / gyrA
+id: 688043 - name: TnpIS204-1 / tnpIS / Unknow / TnpIS204
+id: 1323170 - name: dnaX / Unknow / folC2
+id: 1319676 - name: Unknow
+id: 1320041 - name: Unknow / msbA
+id: 244787 - name: dayD / ycfH / Unknow / yabD / tatD
+id: 1324968 - name: yihY / Unknow
+id: 1320232 - name: suhB / Unknow
+id: 93426 - name: rplL / rpiL / Unknow
+id: 582585 - name: Unknow / pepT
+id: 1321512 - name: sipA / Unknow / lepB
+id: 1320234 - name: Unknow / pstS
+id: 1328086 - name: Unknow / ywlG
+id: 687825 - name: gmuE / Unknow / scrK
+id: 66562 - name: rpsQ / Unknow
+id: 243122 - name: Unknow / argG
+id: 1325254 - name: Unknow / trpF
+id: 243058 - name: purE / Unknow / pure
+id: 243174 - name: ssb_4 / Unknow / ssb / ssbA
+id: 1319990 - name: Unknow
+id: 1322980 - name: Unknow / ycbL
+id: 746070 - name: Unknow / pyrF
+id: 243310 - name: Unknow / accD
+id: 15197 - name: Unknow / infA
+id: 1323177 - name: Unknow
+id: 1322962 - name: Unknow / nrnA
+id: 1322148 - name: Unknow
+id: 1319774 - name: Unknow / plcR
+id: 243474 - name: pyrDa / Unknow / pyrD2 / pyrD
+id: 1320031 - name: sepF / Unknow
+id: 1323293 - name: yodC / Unknow / ydgI / nrd
+id: 1320196 - name: thiJ / yajL / Unknow
+id: 243726 - name: nrdA / Unknow / nrdE
+id: 583118 - name: Unknow
+id: 118226 - name: Unknow / nrdF2 / nrdF
+id: 244786 - name: Unknow / rnmV
+id: 1319783 - name: ureE / Unknow
+id: 1323215 - name: ossG / cdaA / Unknow
+id: 582914 - name: Unknow / serA
+id: 1218499 - name: Unknow / ureA
+id: 244877 - name: Unknow / proS / parS
+id: 243038 - name: purC / Unknow
+id: 243485 - name: Unknow / prfB / prfA
+id: 244566 - name: Unknow / livF
+id: 1319714 - name: Unknow / dex / dex_2
+id: 1327980 - name: Unknow / pulG
+id: 1322948 - name: Unknow
+id: 1319786 - name: Unknow / ureD
+id: 243305 - name: fabG / Unknow / fabG2
+id: 1319765 - name: rdgB / Unknow
+id: 1319669 - name: Unknow
+id: 78042 - name: PTSH / Unknow / ptsH
+id: 243484 - name: aa23 / Unknow / queG
+id: 1319887 - name: holB / Unknow / dnaH
+id: 1320651 - name: Unknow
+id: 243032 - name: Unknow / araT / dapX / patA / yfdZ
+id: 746513 - name: queC / Unknow
+id: 1323220 - name: gltA / Unknow / citZ / prpC
+id: 1320033 - name: Unknow
+id: 1320023 - name: dps_2 / dpr / Unknow / dps_1 / dps
+id: 1323154 - name: Unknow
+id: 1327996 - name: Unknow / comGA
+id: 78129 - name: rpsC / Unknow
+id: 243612 - name: Unknow / ccpA
+id: 1319653 - name: Unknow / divIC
+id: 1319892 - name: glnB / gnlB / Unknow / glnK
+id: 1326677 - name: recG / Unknow
+id: 1323201 - name: Unknow
+id: 1319657 - name: mreC / Unknow
+id: 245025 - name: Unknow / yrzB
+id: 79251 - name: rmlA / Unknow / rfbA / spsI
+id: 1323153 - name: Unknow / lepB / sipB
+id: 78130 - name: Unknow / rplV
+id: 243788 - name: Unknow / acoB
+id: 77622 - name: lysS-1 / Unknow / rpoD / dnaG_1 / sigA
+id: 582346 - name: leuD / Unknow
+id: 1327285 - name: Unknow / thiN
+id: 1320192 - name: laaN / Unknow
+id: 244647 - name: trxB2-1 / nadD / Unknow
+id: 1319787 - name: larMN / Unknow / ureM / cbiM / nikMN
+id: 1319992 - name: Unknow
+id: 1218501 - name: Unknow / ureC
+id: 1328362 - name: ecfA / cbiO / Unknow / cbiO_1 / ecfAB
+id: 1321419 - name: gor-1 / Unknow / gor
+id: 1320046 - name: Unknow
+id: 244695 - name: corA2 / Unknow / corA
+id: 582255 - name: Unknow / yidA
+id: 1319883 - name: atpG / Unknow
+id: 1319893 - name: Unknow / mur / mur1
+id: 582342 - name: Unknow / leuA / leuA_1
+id: 243467 - name: tlyA / Unknow / yqxC
+id: 1319721 - name: rgpG / Unknow / wecA
+id: 1321198 - name: pepXP / Unknow / pepX
+id: 1320152 - name: umuD / Unknow
+id: 1322944 - name: e1 / Unknow
+id: 243775 - name: Unknow / pheS
+id: 244438 - name: obg / Unknow / obgE
+id: 79253 - name: spsJ / Unknow / rffG / rmlB / rfbB
+id: 1320632 - name: yjbK / Unknow / cyaA
+id: 243258 - name: Unknow / recU
+id: 1319803 - name: Unknow / nrdR
+id: 1325960 - name: Unknow / kdtB / coaD
+id: 244097 - name: deoD_3 / Unknow / deoD
+id: 1319747 - name: Unknow / pbp2A
+id: 1323963 - name: ppnKA / Unknow / nadK / ppnK
+id: 1324674 - name: nanK / Unknow
+id: 77234 - name: Unknow / galU / cap4C / gtaB
+id: 245043 - name: Unknow / aspS
+id: 582603 - name: pyrAA / Unknow / carA
+id: 746695 - name: Unknow / insJ
+id: 1321497 - name: rnhC / Unknow
+id: 1320238 - name: pepN / Unknow
+id: 78109 - name: Unknow / rpsI
+id: 1323158 - name: Unknow
+id: 243656 - name: Unknow / lysS / lysU
+id: 1319755 - name: Unknow / ypsA
+id: 1320149 - name: mngR / gntR / Unknow / gntR_1
+id: 243263 - name: luxS / Unknow
+id: 243684 - name: Unknow / yazA
+id: 1319978 - name: aroE / Unknow / ydiB
+id: 583134 - name: Unknow / mrnC
+id: 243926 - name: rbgA / Unknow / ylqF
+id: 1319768 - name: xerD / xerD_1 / Unknow
+id: 1313293 - name: Unknow / rpiA
+id: 1319932 - name: fni / Unknow / idi
+id: 244101 - name: Unknow / deoB
+id: 684135 - name: Mobile element protein / Unknow / insK
+id: 243309 - name: Unknow / accC
+id: 1323086 - name: rqcH / fbp / Unknow
+id: 582965 - name: racE / Unknow / rcmE / murI
+id: 1310577 - name: Unknow / fabF
+id: 244456 - name: Unknow / gloA
+id: 1309824 - name: Unknow / argJ
+id: 245156 - name: pgsA / Unknow / pgsA_2
+id: 1322107 - name: Unknow / yaaA
+id: 77315 - name: upp / Unknow
+id: 26 - name: Unknow / rpsK
+id: 1320028 - name: divIB / Unknow
+id: 1327013 - name: Unknow / polA
+id: 1323294 - name: Unknow
+id: 1319968 - name: Unknow / coaE
+id: 243465 - name: xseB / Unknow
+id: 1319662 - name: acpP1 / Unknow / acpP
+id: 1323157 - name: nfsA / Unknow / nfrA
+id: 77563 - name: lepA / Unknow
+id: 1319903 - name: bglF_2 / Unknow / bglF / nagE / bglP / ptbA
+id: 1325857 - name: Unknow
+id: 1320027 - name: murG / Unknow
+id: 243255 - name: NADE / Unknow / nadE
+id: 582213 - name: Unknow / ridA / tdcF / yjgF / yabJ
+id: 1319980 - name: Unknow
+id: 245804 - name: Unknow
+id: 1323198 - name: Unknow
+id: 1326357 - name: Unknow / yfkN_2
+id: 61878 - name: yjdM / Unknow / phnA
+id: 243847 - name: Unknow / gyrA
+id: 243833 - name: Unknow / glmS
+id: 244012 - name: relA-1 / relP / Unknow / yjbM
+id: 243292 - name: yvyE / Unknow / yigZ
+id: 245028 - name: Unknow / recA
+id: 243458 - name: Unknow
+id: 77254 - name: Unknow / clpP
+id: 1319900 - name: Unknow / aapA / serP / cycA
+id: 243460 - name: artM_2 / gltL / glnQ / Unknow / artR / glnQ2
+id: 1319842 - name: gtfB / gtf2 / Unknow / gtf
+id: 1319935 - name: mtnN / Unknow / pfs
+id: 243834 - name: yecS_2 / Unknow / yecS
+id: 243685 - name: trmNF / Unknow
+id: 1323214 - name: Unknow
+id: 1309832 - name: Unknow / csbB / yfdH / gt
+id: 78122 - name: rpsE / Unknow
+id: 1321316 - name: ansA / Unknow / aspQ / ansB
+id: 78123 - name: rl18 / Unknow / rplR
+id: 1322547 - name: Unknow
+id: 1319720 - name: Unknow / mecA
+id: 243040 - name: purF / Unknow
+id: 1310010 - name: Unknow / mutY
+id: 1319967 - name: Unknow / mutM
+id: 582986 - name: exp / exp5 / Unknow / ptsG_2 / ptsG
+id: 1319950 - name: murN / Unknow
+id: 582347 - name: Unknow / yebC-1
+id: 1323171 - name: fabG-1 / Unknow / ytsP / msrC
+id: 583085 - name: ilvC / Unknow
+id: 244840 - name: nifR / Unknow / dusB
+id: 1325181 - name: Unknow / copZ
+id: 1326540 - name: Unknow / proA
+id: 1323120 - name: neuA / Unknow
+id: 1323122 - name: Unknow
+id: 1319735 - name: Unknow / znuB / adcB
+id: 1323148 - name: pepV / Unknow
+id: 243486 - name: Unknow / ftsE
+id: 244135 - name: Unknow / ORF 3
+id: 1326388 - name: ftsI / pbp2X / Unknow / pbpX
+id: 243442 - name: Unknow / glk / glcK
+id: 78131 - name: rplB / Unknow
+id: 243231 - name: Unknow / ynzC
+id: 244763 - name: Unknow / rnpZA
+id: 1324267 - name: dnaG / Unknow / dnaG_2
+id: 243104 - name: Unknow / tig
+id: 243076 - name: Unknow / secY
+id: 243868 - name: Unknow / ylxM
+id: 243334 - name: nusA / Unknow
+id: 1320019 - name: Unknow
+id: 243796 - name: Unknow / glmM
+id: 78211 - name: Unknow / ymgE
+id: 1320160 - name: Unknow / pspE
+id: 1319661 - name: plsX / Unknow
+id: 1319886 - name: tmk / Unknow

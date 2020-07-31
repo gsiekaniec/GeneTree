@@ -1,155 +1,155 @@
-id: 4258053 - name: Unknow
-id: 4258030 - name: Unknow
-id: 4257978 - name: Unknow
-id: 1571431 - name: Unknow
+id: 4257945 - name: Unknow
+id: 4257976 - name: Unknow
 id: 4258006 - name: Unknow
-id: 4258038 - name: yicL / yicL_1
-id: 4257930 - name: Unknow
-id: 4258022 - name: Unknow
-id: 4257993 - name: Unknow
-id: 1571428 - name: Unknow
-id: 4257992 - name: Unknow
-id: 4257995 - name: Unknow
-id: 4258054 - name: Unknow
-id: 1571451 - name: Unknow
-id: 1571417 - name: Unknow
-id: 4257908 - name: Unknow
-id: 4258005 - name: Unknow
-id: 4257988 - name: Unknow
-id: 4257986 - name: Unknow
-id: 4257919 - name: Unknow
-id: 4258033 - name: Unknow / malR_2
-id: 4205082 - name: Unknow
-id: 4258050 - name: Unknow
-id: 4257998 - name: hsdS1 / Unknow
-id: 4232904 - name: Unknow
-id: 1571424 - name: Unknow
-id: 4257964 - name: Unknow
-id: 4257918 - name: Unknow
-id: 4258019 - name: Unknow / ssb_2
-id: 4258023 - name: Unknow
-id: 4258043 - name: Unknow
-id: 1571410 - name: Unknow
-id: 4258039 - name: yicL / yicL_2
-id: 4257924 - name: Unknow
-id: 1571443 - name: traG_3 / traG
-id: 4257934 - name: Unknow
-id: 4257987 - name: immR / immR_2
-id: 4257973 - name: sivG
-id: 4258010 - name: Unknow
-id: 1571449 - name: Unknow
-id: 4257926 - name: mutR / mutR2
-id: 4257940 - name: yfkN / cpdB_1
-id: 3986341 - name: Unknow
-id: 4258057 - name: Unknow
-id: 4258004 - name: Unknow
-id: 4258049 - name: Unknow
-id: 4258011 - name: Unknow
-id: 4257907 - name: Unknow
-id: 4257922 - name: Unknow
-id: 688802 - name: Unknow
-id: 4258021 - name: Unknow
-id: 4257927 - name: rgg
-id: 4232765 - name: Unknow
-id: 4258008 - name: Unknow
-id: 4257933 - name: Unknow
-id: 4258029 - name: Unknow
-id: 4258028 - name: Unknow
-id: 4257970 - name: sivT
-id: 4257984 - name: Unknow
-id: 4232902 - name: Unknow
-id: 4257989 - name: Unknow
-id: 4258000 - name: Unknow
-id: 4257920 - name: Unknow
-id: 4257991 - name: Unknow
-id: 4257957 - name: Unknow
-id: 4257917 - name: Unknow
-id: 4257979 - name: Unknow
-id: 4257997 - name: Unknow
-id: 4258044 - name: Unknow
-id: 1571415 - name: Unknow / repR
-id: 4257967 - name: sivK
-id: 4258002 - name: Unknow
-id: 4258017 - name: Unknow
-id: 4257981 - name: ssb_1 / ssbA
-id: 4257999 - name: Unknow
-id: 4257975 - name: Unknow
-id: 4258051 - name: Unknow
-id: 1571429 - name: endA / endA_2
 id: 4258003 - name: Unknow
-id: 4257944 - name: Unknow
-id: 3986334 - name: Unknow
-id: 4258056 - name: Unknow
-id: 4258014 - name: Unknow
-id: 4257928 - name: Unknow
-id: 3986333 - name: Unknow
-id: 4257985 - name: Unknow
-id: 3692727 - name: Unknow
-id: 4257914 - name: Unknow
-id: 4258009 - name: Unknow
-id: 4257972 - name: sivE
-id: 4258016 - name: Unknow
-id: 4257915 - name: Unknow
-id: 4257923 - name: Unknow
-id: 4258036 - name: Unknow
-id: 4258037 - name: Unknow
-id: 4258048 - name: Unknow
-id: 1571436 - name: clpE_2 / clpE
-id: 4257996 - name: Unknow
-id: 1571447 - name: Unknow
-id: 4257938 - name: Unknow
-id: 4258041 - name: Unknow
-id: 4258046 - name: soj_2 / Unknow
-id: 1571448 - name: Unknow
-id: 3986346 - name: Unknow
-id: 4258031 - name: Unknow
+id: 4258044 - name: Unknow
+id: 4257991 - name: Unknow
+id: 4257995 - name: Unknow
 id: 4257965 - name: Unknow
+id: 4257981 - name: ssb_1 / ssbA
+id: 4258043 - name: Unknow
+id: 4258014 - name: Unknow
+id: 1571451 - name: Unknow
+id: 1571436 - name: clpE_2 / clpE
+id: 4258046 - name: soj_2 / Unknow
+id: 4257920 - name: Unknow
+id: 4258051 - name: Unknow
+id: 4257998 - name: hsdS1 / Unknow
+id: 4257957 - name: Unknow
 id: 4257977 - name: Unknow
+id: 4258010 - name: Unknow
+id: 4258030 - name: Unknow
+id: 4258017 - name: Unknow
+id: 4258023 - name: Unknow
+id: 4258031 - name: Unknow
+id: 4258004 - name: Unknow
+id: 4257980 - name: dnaD_1 / dnaD
+id: 4257932 - name: vrlS
+id: 4258022 - name: Unknow
+id: 4257931 - name: pezA
+id: 4257900 - name: Unknow
+id: 4257988 - name: Unknow
+id: 4257924 - name: Unknow
+id: 4258029 - name: Unknow
+id: 4257906 - name: Unknow
+id: 1571431 - name: Unknow
+id: 1571448 - name: Unknow
+id: 4257929 - name: Unknow
+id: 4257916 - name: Unknow
+id: 4257982 - name: Unknow
+id: 4257910 - name: Unknow
+id: 1571428 - name: Unknow
+id: 1571447 - name: Unknow
+id: 4257928 - name: Unknow
+id: 4257985 - name: Unknow
+id: 4257904 - name: Unknow
+id: 2029499 - name: lspA_2 / lspA
+id: 4257930 - name: Unknow
+id: 4258045 - name: Unknow
+id: 4258015 - name: Unknow
+id: 4257944 - name: Unknow
 id: 4258025 - name: ligA / ligA_1
-id: 4258027 - name: Unknow
+id: 4258001 - name: Unknow
+id: 3986348 - name: dnaC
+id: 4257987 - name: immR / immR_2
+id: 4257971 - name: sivF / ycbN
+id: 4257997 - name: Unknow
+id: 4232904 - name: Unknow
+id: 4258011 - name: Unknow
+id: 4258026 - name: Unknow
+id: 3692727 - name: Unknow
+id: 4257923 - name: Unknow
+id: 4258028 - name: Unknow
+id: 1571424 - name: Unknow
+id: 1571449 - name: Unknow
+id: 4258033 - name: Unknow / malR_2
+id: 4258036 - name: Unknow
+id: 4257972 - name: sivE
+id: 4257967 - name: sivK
+id: 4257970 - name: sivT
+id: 4257992 - name: Unknow
+id: 4257907 - name: Unknow
+id: 3986345 - name: Unknow
+id: 1571410 - name: Unknow
+id: 688802 - name: Unknow
+id: 4258007 - name: Unknow
+id: 1571415 - name: Unknow / repR
+id: 4232765 - name: Unknow
+id: 4258024 - name: Unknow
 id: 4257974 - name: licT / licT_1
 id: 4257921 - name: Unknow
-id: 4258012 - name: Unknow
-id: 1571427 - name: Unknow
-id: 4257935 - name: Unknow
-id: 4257932 - name: vrlS
-id: 746678 - name: Unknow
-id: 4257910 - name: Unknow
-id: 4257906 - name: Unknow
-id: 4257939 - name: Unknow
-id: 4258045 - name: Unknow
-id: 4258001 - name: Unknow
-id: 4257971 - name: sivF / ycbN
-id: 4257983 - name: Unknow
-id: 4257968 - name: sivR
-id: 4257976 - name: Unknow
-id: 4258013 - name: Unknow
+id: 4258056 - name: Unknow
+id: 4232902 - name: Unknow
+id: 4258027 - name: Unknow
+id: 4257926 - name: mutR / mutR2
+id: 4258005 - name: Unknow
 id: 4257994 - name: Unknow
-id: 4257900 - name: Unknow
-id: 4257945 - name: Unknow
-id: 4258026 - name: Unknow
-id: 4257931 - name: pezA
-id: 4258020 - name: ybbD
-id: 2029499 - name: lspA_2 / lspA
-id: 1571453 - name: Unknow
-id: 4258015 - name: Unknow
-id: 4257916 - name: Unknow
-id: 3986345 - name: Unknow
-id: 1571435 - name: topB / topB_2
-id: 4257990 - name: Unknow
-id: 4258047 - name: Unknow
-id: 4257929 - name: Unknow
-id: 3986347 - name: Unknow
-id: 4258007 - name: Unknow
-id: 4257969 - name: sivA / Unknow
-id: 4257966 - name: Unknow
-id: 3643846 - name: Unknow
-id: 245213 - name: Unknow
-id: 4257980 - name: dnaD_1 / dnaD
-id: 4258024 - name: Unknow
-id: 4257904 - name: Unknow
-id: 4257982 - name: Unknow
+id: 746678 - name: Unknow
+id: 4258050 - name: Unknow
+id: 4257979 - name: Unknow
+id: 4257973 - name: sivG
+id: 4257999 - name: Unknow
+id: 4257989 - name: Unknow
 id: 4258034 - name: epsH
-id: 4258052 - name: Unknow
+id: 1571453 - name: Unknow
+id: 4257927 - name: rgg
 id: 1571421 - name: Unknow
-id: 3986348 - name: dnaC
+id: 4257964 - name: Unknow
+id: 4205082 - name: Unknow
+id: 4258038 - name: yicL / yicL_1
+id: 4257986 - name: Unknow
+id: 3986341 - name: Unknow
+id: 3643846 - name: Unknow
+id: 4257934 - name: Unknow
+id: 4258020 - name: ybbD
+id: 4257940 - name: yfkN / cpdB_1
+id: 4258041 - name: Unknow
+id: 3986333 - name: Unknow
+id: 1571435 - name: topB / topB_2
+id: 4258039 - name: yicL / yicL_2
+id: 245213 - name: Unknow
+id: 4258053 - name: Unknow
+id: 4257935 - name: Unknow
+id: 4257915 - name: Unknow
+id: 3986334 - name: Unknow
+id: 4258037 - name: Unknow
+id: 4257919 - name: Unknow
+id: 1571429 - name: endA / endA_2
+id: 4257908 - name: Unknow
+id: 1571417 - name: Unknow
+id: 4257990 - name: Unknow
+id: 4257966 - name: Unknow
+id: 4257983 - name: Unknow
+id: 4258048 - name: Unknow
+id: 4258000 - name: Unknow
+id: 4257993 - name: Unknow
+id: 4258012 - name: Unknow
+id: 4258057 - name: Unknow
+id: 4258008 - name: Unknow
+id: 4258019 - name: Unknow / ssb_2
+id: 4258009 - name: Unknow
+id: 4257922 - name: Unknow
+id: 4258049 - name: Unknow
+id: 4258047 - name: Unknow
+id: 4257918 - name: Unknow
+id: 1571427 - name: Unknow
+id: 4258052 - name: Unknow
+id: 4258054 - name: Unknow
+id: 4257938 - name: Unknow
+id: 4257914 - name: Unknow
+id: 4257975 - name: Unknow
+id: 1571443 - name: traG_3 / traG
+id: 4257996 - name: Unknow
+id: 4257968 - name: sivR
+id: 4257933 - name: Unknow
+id: 3986346 - name: Unknow
+id: 4258021 - name: Unknow
+id: 4257939 - name: Unknow
+id: 4257969 - name: sivA / Unknow
+id: 4257978 - name: Unknow
+id: 4258013 - name: Unknow
+id: 4258016 - name: Unknow
+id: 4258002 - name: Unknow
+id: 4257984 - name: Unknow
+id: 4257917 - name: Unknow
+id: 3986347 - name: Unknow
