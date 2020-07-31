@@ -1,0 +1,7159 @@
+105000	Unknow
+105138	Unknow / tnp657 / tnp657-1 / tnpA
+105144	Unknow
+1072880	Unknow / ybbM / lp_3224 / fetB
+107373	lacG
+107375	lacF
+107378	lacB
+1084924	lacX
+1086120	Unknow
+1122330	Unknow
+1165025	Unknow
+1165027	Unknow
+116885	Unknow
+116891	Unknow
+116898	tra
+117119	arb / Unknow / bglH / ascB
+118133	Unknow
+118135	Unknow
+118136	Unknow
+118348	Unknow
+118673	gap / Unknow / gapA / gapA1
+119452	gidA / trmF / Unknow / mnmG
+1217597	Unknow
+1236597	lacR
+1236599	lacC
+124787	yozG / Unknow
+1253284	Unknow / epsF / eps5F
+1254072	flr / Unknow
+1256148	Unknow
+1256197	Unknow
+1256333	Unknow
+1256363	Unknow
+1258226	Unknow / czcD
+1258884	cdd_2 / Unknow / cdd
+1259543	Unknow
+1259566	comA / Unknow / lagD_1
+1259570	Unknow
+1259609	Unknow / ald / ald-truncation
+1309398	Unknow
+1309463	Unknow
+1309469	Unknow
+1309474	Unknow
+1309792	Unknow
+1309797	Unknow
+1309813	Unknow
+1309815	Unknow
+1309823	yocS / Unknow
+1309831	Unknow / mutT / mutX / mutT_3
+1309942	acyP / Unknow / yccX
+1310335	Unknow
+1310406	hisD / Unknow
+1310485	tnpSth1 / Unknow / tnpSth / tnpSth1-1 / tnpSth1orf1
+1310499	yheS_1 / Unknow / ydiF / yheS
+1310618	Unknow
+1310653	cas1-3 / Unknow
+1311216	Unknow / prfB
+1312604	yhgF / Unknow / tex
+1313850	padR / Unknow
+1316	cspB / Unknow / cspA
+1317446	Unknow
+1319375	Unknow
+1319376	Unknow
+1319377	Unknow
+1319381	Unknow
+1319383	rep / Unknow
+1319384	Unknow
+1319388	Unknow
+1319389	Unknow
+1319390	Unknow
+1319391	Unknow
+1319393	Unknow
+1319394	Unknow
+1319395	Unknow
+1319396	Unknow
+1319397	Unknow
+1319398	Unknow
+1319399	Unknow
+1319400	Unknow
+1319401	Unknow
+1319402	Unknow
+1319403	Unknow / rpsP / rpsP_1
+1319404	Unknow
+1319405	Unknow
+1319406	Unknow
+1319407	Unknow
+1319408	Unknow
+1319409	Unknow
+1319410	Unknow
+1319411	Unknow
+1319412	Unknow
+1319413	Unknow
+1319414	Unknow
+1319416	Unknow
+1319417	Unknow
+1319418	Unknow
+1319419	Unknow
+1319420	Unknow
+1319421	Unknow
+1319422	Unknow / ulaG
+1319423	Unknow
+1319424	Unknow
+1319425	Unknow
+1319426	Unknow
+1319427	Unknow
+1319429	Unknow
+1319430	Unknow
+1319431	Unknow
+1319432	Unknow
+1319433	Unknow
+1319434	Unknow
+1319435	Unknow
+1319436	Unknow
+1319437	Unknow
+1319438	Unknow
+1319439	Unknow
+1319440	Unknow
+1319441	ykvI / Unknow
+1319442	Unknow
+1319443	Unknow
+1319444	Unknow / bglP
+1319445	Unknow
+1319446	Unknow
+1319447	Unknow
+1319448	Unknow
+1319449	Unknow
+1319450	Unknow
+1319451	Unknow
+1319453	Unknow
+1319454	Unknow
+1319455	Unknow
+1319457	Unknow
+1319458	Unknow
+1319459	licT / Unknow
+1319460	Unknow
+1319461	Unknow
+1319462	Unknow / llaIC
+1319463	Unknow
+1319464	Unknow
+1319466	Unknow
+1319467	Unknow
+1319468	Unknow
+1319469	Unknow
+1319470	Unknow
+1319471	Unknow
+1319472	Unknow
+1319473	Unknow
+1319474	Unknow
+1319475	Unknow
+1319476	Unknow
+1319477	Unknow
+1319478	Unknow
+1319479	Unknow
+1319480	Unknow
+1319481	Unknow
+1319482	Unknow
+1319483	Unknow
+1319484	Unknow
+1319486	Unknow
+1319489	Unknow
+1319493	Unknow
+1319495	Unknow
+1319497	Unknow
+1319498	Unknow
+1319500	Unknow
+1319501	Unknow
+1319502	Unknow
+1319508	Unknow
+1319509	Unknow
+1319511	Unknow
+1319512	Unknow
+1319513	Unknow
+1319514	Unknow
+1319515	Unknow
+1319516	Unknow
+1319517	Unknow
+1319518	malE / malE_1 / Unknow
+1319519	Unknow
+1319521	Unknow
+1319522	Unknow
+1319523	Unknow
+1319524	Unknow
+1319525	Unknow
+1319526	Unknow
+1319527	Unknow
+1319528	Unknow
+1319529	Unknow
+1319530	Unknow
+1319532	Unknow
+1319534	Unknow
+1319536	Unknow
+1319537	Unknow
+1319539	Unknow
+1319540	Unknow
+1319541	Unknow
+1319542	Unknow
+1319543	Unknow
+1319544	Unknow
+1319546	Unknow
+1319547	Unknow
+1319548	Unknow
+1319549	Unknow
+1319551	Unknow
+1319552	Unknow
+1319553	Unknow
+1319554	Unknow
+1319555	Unknow
+1319556	Unknow
+1319557	Unknow
+1319558	Unknow
+1319559	Unknow
+1319560	Unknow
+1319561	Unknow
+1319562	Unknow
+1319563	Unknow
+1319564	Unknow
+1319565	Unknow
+1319566	Unknow
+1319567	Unknow
+1319568	Unknow
+1319569	Unknow
+1319570	Unknow
+1319572	Unknow
+1319573	Unknow
+1319574	Unknow
+1319575	Unknow
+1319576	Unknow
+1319577	Unknow
+1319578	Unknow
+1319580	Unknow
+1319581	Unknow
+1319582	Unknow
+1319584	Unknow
+1319585	Unknow
+1319587	Unknow
+1319588	Unknow
+1319589	Unknow
+1319590	Unknow
+1319591	Unknow
+1319593	Unknow
+1319594	Unknow
+1319595	parC-1 / Unknow / parC
+1319596	Unknow
+1319597	Unknow
+1319598	Unknow
+1319599	Unknow
+1319600	Unknow
+1319601	Unknow
+1319604	Unknow
+1319605	Unknow
+1319606	Unknow
+1319608	Unknow
+1319609	Unknow
+1319610	yqgA / Unknow
+1319611	Unknow
+1319612	Unknow
+1319613	rocE / Unknow / rocE-1
+1319614	Unknow
+1319615	dnaG / Unknow / dnaG_3
+1319616	Unknow
+1319617	Unknow
+1319618	Unknow
+1319619	Unknow
+1319621	Unknow
+1319623	Unknow
+1319625	Unknow
+1319627	Unknow
+1319629	Unknow
+1319631	Unknow
+1319632	Unknow
+1319633	Unknow
+1319634	Unknow / ilvD
+1319635	Unknow
+1319637	adhE / Unknow
+1319639	Unknow
+1319640	Unknow
+1319641	insI / Unknow
+1319642	Unknow
+1319643	Unknow
+1319644	Unknow
+1319645	Unknow
+1319646	Unknow
+1319647	Unknow
+1319648	Unknow
+1319649	dnaA / Unknow
+1319663	Unknow
+1319665	Unknow / argR / argR_1
+1319666	Unknow / ymcA
+1319668	Unknow / mutL
+1319670	Unknow / tag
+1319671	Unknow / tag
+1319677	sarZ / Unknow / marR
+1319678	azr / Unknow / azr_1
+1319679	ctsR / Unknow
+1319680	Unknow / clpC / clpB
+1319682	Unknow
+1319685	Unknow
+1319687	Unknow
+1319688	Unknow / labB
+1319689	Unknow / labC
+1319690	Unknow / labT
+1319691	Unknow
+1319692	Unknow
+1319694	Unknow
+1319695	Unknow / gpmA_1
+1319697	mur3 / Unknow
+1319701	Unknow / hmpT
+1319702	amiA_1 / amiA3 / obp1 / Unknow / obp3 / amiA / amiA1
+1319703	amd / Unknow
+1319704	Unknow / cfa
+1319708	yfkN / Unknow
+1319709	cpdB / yfkN / Unknow
+1319710	yfkN / Unknow
+1319717	Unknow
+1319718	Unknow
+1319719	bacA / Unknow / uppP
+1319722	Unknow
+1319723	Unknow / oppA
+1319724	Unknow / dppB
+1319725	Unknow
+1319726	Unknow / gsiA_1
+1319727	Unknow / gsiA_2
+1319728	Unknow / gsiA_3
+1319729	Unknow
+1319730	Unknow
+1319731	Unknow
+1319732	Unknow
+1319736	Unknow / mleP
+1319737	Unknow / ptsG_1
+1319738	glcB / Unknow / ptsG
+1319739	Unknow / crr / ptsG
+1319740	mapP / Unknow / rgfB
+1319748	Unknow / secE
+1319750	Unknow
+1319751	Unknow
+1319752	Unknow
+1319753	acot4 / Unknow
+1319757	mapZ / Unknow
+1319758	snf / Unknow
+1319771	yidD / Unknow / ytjA
+1319775	lagD / lagD_2 / Unknow / plnG
+1319776	lagD / Unknow / lagD_3
+1319777	Unknow
+1319778	Unknow
+1319779	comA / Unknow / comA_2
+1319780	yhaI_2 / yhaI / Unknow
+1319790	Unknow / yxeM_1 / yxeM / tcyA_1 / atmA / tcyA
+1319791	Unknow / metQ
+1319792	argE / Unknow
+1319793	dapE / Unknow
+1319794	Unknow
+1319798	Unknow
+1319800	Unknow / cbiQ
+1319802	arlS_1 / Unknow / hk01
+1319811	yvdD / Unknow
+1319812	yvdD / Unknow
+1319813	murO / Unknow
+1319815	Unknow / ctpF
+1319816	metI / metB / Unknow / metB1
+1319818	Unknow
+1319823	yhcV / Unknow
+1319824	Unknow
+1319831	Unknow / marR
+1319834	Unknow
+1319836	fruA / Unknow
+1319837	Unknow
+1319838	fruA / Unknow
+1319839	fruA / Unknow
+1319843	yndA / Unknow
+1319844	Unknow
+1319846	Unknow
+1319848	degV / degV_2 / Unknow
+1319852	Unknow
+1319855	Unknow
+1319857	Unknow
+1319858	Unknow
+1319859	Unknow
+1319860	Unknow
+1319861	Unknow
+1319866	Unknow
+1319867	Unknow
+1319868	Unknow
+1319869	cbpD / Unknow / cbpD3
+1319870	yafV / cnhA / Unknow / mtnU
+1319871	mtnE / yfdZ / Unknow / dapL
+1319874	astC / Unknow / argD
+1319879	Unknow
+1319894	Unknow
+1319895	Unknow
+1319896	Unknow
+1319897	Unknow / manD / nagA
+1319898	Unknow / ykvI
+1319899	Unknow
+1319901	bglF_1 / bglF / Unknow / bglP
+1319902	bglF / Unknow / bglP
+1319904	Unknow
+1319905	Unknow
+1319906	Unknow
+1319907	Unknow
+1319912	Unknow
+1319913	Unknow
+1319914	Unknow
+1319915	Unknow
+1319916	macB_1 / Unknow / skiZ
+1319917	Unknow / skiZ
+1319919	Unknow
+1319920	thiF_2 / Unknow / moeZ
+1319921	ybhF_2 / Unknow / drrA_2
+1319922	Unknow
+1319924	Unknow / deoD_1
+1319925	Unknow
+1319936	Unknow
+1319937	Unknow
+1319938	Unknow
+1319939	Unknow
+1319945	Unknow
+1319947	Unknow
+1319948	Unknow
+1319949	Unknow
+1319951	iolU / Unknow
+1319953	iolU / Unknow
+1319954	Unknow
+1319958	Unknow / feoB
+1319959	Unknow
+1319960	Unknow
+1319963	pbp2B / pbp2b / Unknow / penA
+1319964	licT / Unknow / licT2
+1319965	licT / Unknow / licT_2
+1319969	pmrA / Unknow / tetA / mdtG
+1319971	pplB / Unknow / ppiB
+1319973	Unknow
+1319975	glxK / Unknow / grk / garK
+1319979	tyrA / Unknow / tyrA2
+1319981	Unknow / hdhL
+1319984	Unknow
+1319985	Unknow / msrR
+1319986	msrA / Unknow
+1319987	m.HpyI / Unknow
+1319988	Unknow
+1319989	csn1 / Unknow / cas9
+1319991	sprL / Unknow
+1319997	Unknow
+1319998	Unknow
+1319999	Unknow
+1320000	Unknow
+1320001	Unknow
+1320002	Unknow
+1320003	Unknow
+1320004	Unknow
+1320005	munIC / Unknow
+1320006	Unknow
+1320007	Unknow
+1320008	Unknow
+1320009	Unknow
+1320010	Unknow
+1320011	Unknow
+1320012	Unknow
+1320013	Unknow
+1320014	Unknow
+1320015	Unknow
+1320016	Unknow
+1320017	endA / Unknow / endA_1
+1320042	dltX / Unknow
+1320044	Unknow
+1320045	int2_1 / Unknow / int2
+1320047	Unknow
+1320048	ciaH / Unknow
+1320049	arlS / Unknow / arlS_2 / ciaH / ciaH-1 trunc
+1320050	rsmC / Unknow
+1320051	pdp / Unknow / pdp_1
+1320052	pdp / deoA / Unknow / pdp_2
+1320053	pdp / Unknow
+1320054	pdp / deoA / pdp_3 / Unknow
+1320055	deoC1 / Unknow / deoC
+1320056	Unknow / deoC
+1320061	Unknow / dinG
+1320063	Unknow
+1320065	Unknow
+1320066	Unknow
+1320067	Unknow
+1320068	Unknow
+1320069	Unknow
+1320070	Unknow
+1320071	Unknow
+1320072	Unknow
+1320073	Unknow
+1320074	Unknow
+1320075	Unknow
+1320076	Unknow
+1320077	Unknow
+1320078	Unknow
+1320079	Unknow
+1320080	Unknow
+1320081	Unknow
+1320082	Unknow
+1320083	Unknow
+1320084	Unknow
+1320085	Unknow
+1320086	Unknow
+1320087	Unknow
+1320088	tnp / Unknow / tnp3
+1320089	Unknow
+1320090	Unknow
+1320091	Unknow
+1320092	Unknow
+1320093	Unknow
+1320094	umuC / Unknow / umuC_1
+1320095	Unknow
+1320096	Unknow
+1320097	Unknow
+1320098	Unknow / whiA
+1320099	Unknow
+1320100	Unknow
+1320101	Unknow
+1320102	Unknow
+1320103	Unknow
+1320104	Unknow
+1320105	Unknow
+1320106	Unknow
+1320107	Unknow
+1320108	Unknow
+1320109	Unknow
+1320110	Unknow
+1320111	Unknow
+1320112	Unknow
+1320113	Unknow
+1320114	Unknow
+1320115	Unknow
+1320116	pepDA / pepDA_1 / Unknow
+1320117	Unknow
+1320118	Unknow
+1320119	Unknow
+1320120	Unknow
+1320121	Unknow
+1320122	Unknow
+1320123	Unknow
+1320124	Unknow
+1320125	Unknow / pepDA_2
+1320126	Unknow
+1320127	Unknow
+1320128	Unknow
+1320129	Unknow
+1320130	cspA / cspG / Unknow / csp / cspC
+1320131	Unknow
+1320132	adhE / Unknow
+1320133	Unknow
+1320134	Unknow
+1320135	Unknow
+1320136	Unknow
+1320137	Unknow
+1320138	Unknow / hsdM
+1320139	Unknow
+1320140	Unknow / znuA / adcA
+1320141	Unknow
+1320142	mur2 / Unknow / mur / amiD2
+1320143	Unknow / glnQ_1 / artR / glnQ
+1320145	Unknow
+1320146	adhP / Unknow / adhA_1
+1320147	adhP / Unknow
+1320148	Unknow
+1320150	niaX / Unknow
+1320151	Unknow / birA / niaR
+1320153	Unknow / rnhA / rnhB
+1320161	Unknow
+1320163	Unknow
+1320164	Unknow
+1320165	higA / Unknow
+1320166	Unknow / mutR2
+1320167	Unknow
+1320168	Unknow / moaA
+1320169	speB / Unknow
+1320170	Unknow
+1320171	Unknow
+1320172	Unknow
+1320173	hemH / Unknow
+1320174	Unknow
+1320178	Unknow
+1320184	Unknow
+1320186	deoD_2 / Unknow
+1320188	Unknow
+1320189	Unknow
+1320190	Unknow
+1320193	Unknow / tag
+1320194	Unknow
+1320200	cas1-2 / Unknow / cas1 / cas
+1320201	Unknow / cas2 / cas
+1320203	csm3 / Unknow / csm
+1320204	Unknow / csm / csm4
+1320205	csm5 / Unknow / csm
+1320206	csm6 / Unknow / csm
+1320207	nylA / Unknow / nylA_1
+1320208	Unknow
+1320210	nylA / nylA_2 / Unknow
+1320211	yckB_1 / Unknow / yckB
+1320213	yckB_2 / Unknow / yckB
+1320215	Unknow
+1320216	Unknow
+1320217	Unknow
+1320219	Unknow
+1320220	Unknow
+1320221	Unknow
+1320222	Unknow
+1320226	Unknow
+1320233	sunL like / Unknow / rsmF
+1320239	Unknow
+1320240	Unknow
+1320241	Unknow
+1320242	Unknow
+1320245	ganP / Unknow
+1320246	Unknow
+1320247	Unknow
+1320249	Unknow
+1320250	Unknow
+1320251	Unknow
+1320253	Unknow / fieF
+1320254	Unknow
+1320255	Unknow
+1320257	dacA_3 / Unknow / dacA
+1320259	Unknow / cpsO / waaB
+1320260	orf14.9 / Unknow
+1320261	Unknow
+1320265	Unknow / murM
+1320271	Unknow / birA / birA-1
+1320272	Unknow
+1320316	Unknow
+1320328	ydcR / Unknow
+1320357	bioY / Unknow
+1320409	cpdB / yfkN / Unknow / yfkN_1
+1320418	Unknow / pucK
+1320432	pbuX / Unknow / pucK
+1320438	pbuX / ygfU_2 / Unknow
+1320441	cpdB / Unknow
+1320471	Unknow
+1320490	Unknow
+1320507	Unknow
+1320515	Unknow
+1320516	Unknow
+1320517	galR_2 / Unknow / ebgR / galR
+1320518	Unknow
+1320519	gshA / gshAB / gshB / Unknow
+1320545	gntR / Unknow / gntR_2
+1320559	Unknow / ecsA_1 / ecsA
+1320578	Unknow
+1320618	oxlT / Unknow / yhjX
+1320658	Unknow / rex
+1320671	puuD / Unknow / ntpR
+1320732	Unknow
+1320753	Unknow
+1320757	Unknow
+1320763	Unknow
+1320773	Unknow
+1320774	Unknow
+1320785	Unknow
+1320800	Unknow
+1320844	Unknow / ptsG
+1320902	Unknow
+1320921	Unknow
+1320975	thiT / Unknow / yuaJ
+1320986	Unknow / rgg
+1320994	Unknow
+1321010	pcrA-1 / Unknow / pcrA-1_1
+1321030	Unknow
+1321147	Unknow
+1321154	Unknow / acaP / cah
+1321173	Unknow
+1321196	Unknow
+1321225	tnpISSth1,orf2 / tnpISSth1-1 / tnpSth1 / Unknow / insK / tnpSth1orf2 / tnpISSth1-2
+1321241	rr09 / Unknow / rr
+1321256	hk09 / Unknow / citS
+1321275	Unknow
+1321290	yqgA / Unknow
+1321350	Unknow
+1321367	Unknow
+1321435	Unknow
+1321672	Unknow
+1321673	Unknow
+1321675	Unknow
+1321679	Unknow
+1321687	Unknow / nirC
+1321693	Unknow
+1321705	Unknow
+1321753	Unknow / phnF
+1321758	treR / Unknow
+1321772	Unknow
+1321795	pps / Unknow
+1321812	folQ_1 / Unknow / folQ
+1321831	Unknow / mefE
+1321840	rgg-1 / Unknow
+1321860	Unknow
+1321876	Unknow / msbA
+1321896	Unknow / mutR2
+1321910	ydeM / Unknow / moaA / ydeM_2
+1321956	Unknow
+1321984	Unknow
+1321998	Unknow
+1322018	Unknow
+1322029	Unknow
+1322073	Unknow
+1322078	Unknow
+1322080	Unknow
+1322084	Unknow
+1322136	Unknow
+1322166	yvdD / Unknow
+1322175	degP / Unknow / htrA
+1322177	parB / Unknow / spoJ
+1322179	ftf / Unknow
+1322180	Unknow
+1322181	lytR / Unknow
+1322201	Unknow
+1322203	Unknow
+1322213	yocD / Unknow
+1322232	Unknow / dacA1 / dacA_1 / dacA1-2 / dacA
+1322247	Unknow / dacA_2 / dacA
+1322258	dacC / Unknow / dacA1-1 / dacA1 / dacA
+1322278	Unknow
+1322291	Unknow
+1322292	Unknow
+1322294	Unknow
+1322459	Unknow
+1322476	Unknow
+1322492	Unknow
+1322530	Unknow
+1322599	pbp1a / Unknow / pbp1A / ponA
+1322664	Unknow
+1322682	Unknow
+1322730	trkA / Unknow / trkA1
+1322742	Unknow
+1322744	fruA / Unknow
+1322746	Unknow
+1322748	fruA / Unknow
+1322757	gidB / Unknow / rsmG
+1322762	Unknow
+1322763	Unknow
+1322765	Unknow
+1322797	recX / Unknow
+1322803	Unknow
+1322830	Unknow
+1322838	Unknow
+1322840	NADR / Unknow / nadR
+1322865	cse / Unknow / ssaA2 / ssaA
+1322879	Unknow / icaB
+1322918	Unknow
+1322925	rr02 / Unknow
+1322930	Unknow
+1322946	shetA / Unknow
+1322952	Unknow
+1322954	Unknow
+1322955	Unknow
+1322960	pilD / Unknow
+1322965	Unknow
+1322966	Unknow
+1322967	Unknow
+1322968	Unknow
+1322969	Unknow
+1322970	Unknow
+1322971	Unknow
+1322972	Unknow
+1322973	Unknow
+1322974	Unknow
+1322975	Unknow
+1322981	Unknow
+1322982	actP / Unknow / copB
+1322983	Unknow
+1322984	Unknow
+1322985	Unknow
+1322986	Unknow / hsdS
+1322987	Unknow / hsdM
+1322988	Unknow
+1322989	Unknow
+1322992	Unknow
+1322997	yeiH / Unknow
+1323014	Unknow / sthIM
+1323024	Unknow / yxjG
+1323036	Unknow
+1323047	Unknow
+1323050	Unknow
+1323056	Unknow
+1323060	gph / Unknow
+1323065	Unknow
+1323073	Unknow
+1323081	Unknow
+1323083	Unknow
+1323089	Unknow / dtpT / yjdL
+1323090	Unknow
+1323091	Unknow / marA
+1323092	Unknow
+1323095	Unknow
+1323096	Unknow / tatAd / tatA
+1323097	Unknow / tatC / tatCD
+1323098	efeU / Unknow
+1323099	fatB / Unknow
+1323100	pbtP / Unknow / fecE
+1323101	fatC / Unknow
+1323102	Unknow
+1323103	Unknow
+1323104	Unknow
+1323105	Unknow
+1323106	Unknow
+1323107	Unknow
+1323108	Unknow
+1323109	Unknow
+1323110	Unknow
+1323111	tyrS / Unknow
+1323112	Unknow
+1323113	lysA / Unknow / lysA-1
+1323114	Unknow
+1323115	acoC / Unknow / pdhC
+1323116	Unknow
+1323117	Unknow
+1323124	bglH / Unknow
+1323125	Unknow / bglH / bglB / bglA
+1323126	bglH / Unknow
+1323128	pgm / Unknow
+1323129	ybjI / Unknow / supH
+1323130	Unknow
+1323131	epsL / Unknow
+1323132	Unknow / cpsK
+1323133	epsJ / Unknow
+1323134	epsI / Unknow
+1323135	Unknow / epsH
+1323136	Unknow
+1323137	Unknow
+1323138	Unknow / cpsF
+1323139	Unknow
+1323140	epsD / Unknow / epsB / ptkA / cpsD
+1323141	eps5C / Unknow / cpsC / epsC / eps10C
+1323142	epsB / Unknow / cpsB / eps10B
+1323145	Unknow
+1323146	Unknow
+1323149	Unknow
+1323150	Unknow
+1323159	Unknow
+1323160	Unknow
+1323161	Unknow
+1323162	Unknow / ybaN
+1323167	Unknow
+1323169	Unknow
+1323173	Unknow / clcA / clcA_1
+1323175	Unknow / clcA / clcA_2 / rnhB
+1323176	Unknow
+1323178	Unknow
+1323181	Unknow
+1323182	Unknow
+1323183	Unknow
+1323184	Unknow
+1323187	ORF 2 / Unknow
+1323188	ORF 1 / Unknow
+1323193	Unknow
+1323197	Unknow / yqjQ
+1323200	Unknow
+1323205	Unknow
+1323206	Unknow
+1323207	Unknow
+1323208	Unknow
+1323210	Unknow / zupT
+1323212	Unknow / trmK
+1323218	Unknow
+1323222	yaeR / Unknow / ywkD
+1323223	Unknow
+1323224	Unknow
+1323225	Unknow
+1323226	Unknow
+1323229	Unknow
+1323237	alkD / Unknow
+1323240	yfnB / Unknow / yjjG
+1323241	Unknow / proWX
+1323243	proV / Unknow
+1323244	Unknow / proWY / yehZ
+1323245	opuCB / Unknow / proWZ
+1323246	hutH / Unknow
+1323247	Unknow
+1323248	Unknow / hutU
+1323249	Unknow
+1323250	Unknow
+1323251	Unknow
+1323252	Unknow
+1323254	Unknow
+1323255	Unknow
+1323256	Unknow
+1323257	Unknow
+1323258	Unknow / rr06 / yvfU / desR / nreC
+1323259	hk06 / Unknow / hk11
+1323260	Unknow
+1323261	Unknow / ybhF
+1323262	Unknow
+1323263	Unknow
+1323264	Unknow
+1323265	Unknow / hk / hk07 / graS
+1323268	Unknow / yxeM_2 / yxeM
+1323269	purB / Unknow / purB2
+1323270	yxeO / Unknow / yecC
+1323271	yxeN_1 / Unknow / yecS / yxeN
+1323272	Unknow / ytmI
+1323273	Unknow
+1323274	mtnE / bacF / Unknow / dapL
+1323275	Unknow
+1323276	Unknow
+1323277	Unknow
+1323279	gmuF_1 / Unknow / manA
+1323280	gmuF_2 / Unknow / manA
+1323282	Unknow / cas6 / cas
+1323283	Unknow
+1323284	Unknow / cas10 / cas
+1323286	csm2 / Unknow / csm
+1323287	Unknow
+1323291	Unknow
+1323295	Unknow
+1323296	Unknow
+1323297	Unknow
+1323298	Unknow
+1323300	Unknow / llaBIIM
+1323302	Unknow
+1323303	saeR / Unknow / cfa-1
+1323306	Unknow
+1323307	Unknow
+1323308	Unknow
+1323310	Unknow / sbcC
+1323311	Unknow / sbcD
+1323312	Unknow / lacZ
+1323313	lacS / Unknow
+1323314	Unknow / galM
+1323330	Unknow / galT
+1323356	Unknow
+1323370	Unknow
+1323383	zmpB / Unknow
+1323397	Unknow
+1323405	Unknow
+1323424	Unknow
+1323439	msbA_4 / Unknow / msbA
+1323453	Unknow
+1323465	Unknow / ftsK
+1323475	Unknow / trxB_1 / trxB2
+1323512	Unknow
+1323573	Unknow / yvqE / hk08
+1323594	Unknow
+1323605	Unknow
+1323622	Unknow
+1323635	Unknow / stkP / pknB
+1323652	pppL / Unknow / prpC
+1323663	sunL / Unknow / rsmB
+1323673	Unknow / fmt
+1323686	Unknow / priA
+1323735	Unknow / yidA
+1323745	ybjI / Unknow
+1323792	Unknow
+1323809	Unknow
+1323817	Unknow
+1323842	Unknow / amiF1
+1323859	Unknow / gsiA / gsiA_7
+1323874	yjjV / Unknow
+1324010	Unknow
+1324026	Unknow / rgpFc / rgpF
+1324041	Unknow
+1324059	rgpD / Unknow
+1324071	rgpC / Unknow
+1324080	rgpB / Unknow / rgpBc
+1324094	rgpAc / Unknow / rgpA
+1324111	Unknow
+1324119	Unknow / xpt
+1324127	Unknow
+1324141	Unknow
+1324158	Unknow
+1324172	Unknow
+1324192	Unknow
+1324208	Unknow
+1324381	Unknow
+1324396	Unknow
+1324415	Unknow
+1324460	Unknow
+1324474	Unknow
+1324485	Unknow
+1324500	paaI / Unknow
+1324512	Unknow
+1324616	Unknow / ogt
+1324641	Unknow
+1324693	Unknow
+1324873	manL-1 / ydaO / Unknow / kimA
+1324886	folC2 / Unknow / hk01-1
+1324914	Unknow
+1324995	Unknow
+1325045	plsC / Unknow
+1325105	Unknow
+1325314	pabB / Unknow / trpE
+1325340	pyrD1-1 / Unknow / pyrD1
+1325366	Unknow
+1325387	Unknow / merR / tipA
+1325507	Unknow
+1325518	Unknow
+1325665	insI / Unknow
+1325675	yicL / Unknow
+1325694	Unknow
+1325736	Unknow / gtf1
+1325750	Unknow
+1326084	hsdS2 / Unknow
+1326102	Unknow
+1326146	Unknow
+1326173	Unknow
+1326216	relA-2 / Unknow / cppA
+1326229	Unknow / blpX
+1326230	Unknow / blpK_2
+1326233	blpC / Unknow
+1326249	Unknow / blpB
+1326260	Unknow
+1326278	blpA / comA / Unknow
+1326318	Unknow / vanZ
+1326439	ytaD / Unknow / ytaD2
+1326454	Unknow
+1326472	Unknow
+1326481	Unknow
+1326491	Unknow
+1326506	yhaI / Unknow / yhaH
+1326517	Unknow
+1326525	Unknow / int
+1326548	Unknow
+1326560	fabF-1 / Unknow / lptB / ecsA_3 / ecsA
+1326561	Unknow
+1326595	Unknow
+1326609	Unknow
+1326624	Unknow
+1326744	Unknow
+1326848	bhtE / Unknow
+1326862	Unknow
+1326877	glrA / Unknow / ecsA_4 / mutF
+1326913	Unknow
+1326924	Unknow
+1326934	Unknow
+1326973	Unknow
+1327001	Unknow
+1327065	Unknow / livE / ygaZ
+1327134	Unknow
+1327172	Unknow
+1327342	hk02 / Unknow / hk / hpk
+1327370	yccU / Unknow / yneT
+1327555	Unknow / rnpA
+1327612	Unknow / amiA_2 / lrgA
+1327627	Unknow
+1327671	Unknow
+1327690	Unknow
+1327699	Unknow
+1327769	Unknow
+1327779	Unknow
+1327841	Unknow / leuC / yeeE
+1327908	Unknow
+1327933	Unknow / ackA
+1327995	comGB / gspF / Unknow
+1328010	pbp / Unknow / pbp1b
+1328049	adhE / Unknow
+1328051	adhE / Unknow / adhE_1
+1328054	adhE / adhE_2 / Unknow
+1328064	adhE / Unknow / adhE_3
+1328068	Unknow / treA
+1328069	Unknow / treC / treA
+1328071	Unknow
+1328072	Unknow
+1328075	Unknow
+1328084	Unknow
+1328088	Unknow
+1328093	Unknow
+1328099	Unknow
+1328102	Unknow
+1328105	Unknow
+1328110	Unknow
+1328127	Unknow
+1328166	pulA_1 / Unknow / pulA
+1328169	Unknow
+1328175	Unknow
+1328201	oatA / Unknow
+1328209	ptpA / Unknow / yfkJ
+1328220	flaR / Unknow
+1328229	Unknow / tetA
+1328231	Unknow / thiF
+1328246	Unknow / yaaA
+1328248	Unknow
+1328260	Unknow / yxjH
+1328268	Unknow / yxjH
+1328277	Unknow
+1328282	Unknow
+1328283	Unknow
+1328285	Unknow
+1328286	Unknow
+1328290	Unknow
+1328303	Unknow
+1328307	Unknow
+1328308	Unknow
+1328311	Unknow / epsK
+1328312	Unknow
+1328317	Unknow / eps
+1328320	Unknow
+1328322	Unknow / eps
+1328325	Unknow
+1328328	Unknow / eps
+1328331	Unknow
+1328335	Unknow
+1328339	Unknow / eps
+1328341	Unknow
+1328350	Unknow
+1328352	Unknow / xlyA
+1328353	Unknow / eps
+1328358	Unknow
+1328369	Unknow
+1328374	Unknow
+1328376	Unknow
+1328379	Unknow / cpsE / epsE / eps3E
+1328383	ymfH / mpp / Unknow
+1328403	yveI / Unknow
+1328409	Unknow / ybeA / rlmH
+1328411	Unknow / gat_2 / gat
+1328429	Unknow
+1328433	gbpC / Unknow
+1328487	Unknow
+1328527	Unknow
+1328528	Unknow
+1328529	Unknow / rgpF
+1328530	rgpE / Unknow / rgpEc
+1328531	rgpD / Unknow
+1328532	rgpC / Unknow
+1328533	Unknow / rgpX
+1328534	Unknow / rgpX3
+1328535	Unknow / mp
+1328536	Unknow
+1328537	Unknow
+1328538	Unknow
+1328540	blpI / Unknow
+1328541	blpI / Unknow
+1328542	blpT / blpG / Unknow
+1328543	Unknow
+1328544	Unknow
+1328545	Unknow
+1328546	Unknow
+1328547	Unknow
+1328548	Unknow / thmA
+1328549	Unknow
+1328552	adhE / Unknow
+1329341	Unknow
+1329342	Unknow
+1329343	Unknow
+1329344	Unknow
+1329351	Unknow
+1329354	Unknow
+1329355	Unknow
+1329356	Unknow
+1329357	Unknow
+1329358	Unknow
+1329359	Unknow
+1329360	Unknow
+1329361	Unknow
+1329365	Unknow
+1329367	Unknow
+1329368	Unknow
+1329369	Unknow
+1329372	Unknow
+1329374	Unknow
+1329376	Unknow
+1329378	Unknow
+1329381	Unknow
+1329382	Unknow
+1329383	Unknow
+1329385	Unknow
+1329387	Unknow
+1329388	Unknow
+1329389	Unknow
+1329390	Unknow
+1329392	Unknow
+1329393	Unknow
+1329395	Unknow
+1329396	bglA / Unknow / pbg
+1329397	Unknow
+1329398	Unknow
+1329402	Unknow
+1329404	Unknow
+1329406	Unknow
+1329407	Unknow
+1329409	Unknow
+1329411	Unknow
+1329412	Unknow
+1329415	Unknow
+1329416	Unknow
+1329417	Unknow
+1329422	Unknow
+1329425	Unknow
+1329426	Unknow
+1329427	Unknow
+1329428	Unknow
+1329429	Unknow
+1329431	Unknow
+1329432	Unknow
+1329433	Unknow
+1329434	Unknow
+1329436	Unknow
+1329437	Unknow
+1329440	Unknow
+1329443	Unknow
+1329446	Unknow
+1329447	Unknow
+1329449	Unknow
+1329450	Unknow
+1329451	Unknow
+1329452	Unknow
+1329453	Unknow
+1329455	Unknow
+1329458	Unknow
+1329459	Unknow
+1329462	Unknow
+1329559	Unknow
+1329623	Unknow
+1329672	Unknow
+1329677	Unknow
+1329700	Unknow
+1329709	Unknow
+1329710	yliB / Unknow
+1329715	Unknow / dppB
+1329719	dppC / Unknow
+1329727	Unknow / yliA
+1330064	Unknow
+1330112	Unknow
+1330116	Unknow
+1330174	Mobile element protein / Unknow
+1330275	Unknow
+1330365	Unknow
+1330437	Unknow
+1330443	Unknow
+1330446	Unknow
+1330790	Unknow
+1330829	Unknow
+1330864	Unknow
+1330866	Unknow / cbpD3
+1330919	Unknow
+1331012	Unknow
+1331034	Unknow
+1331056	Unknow
+1331063	Unknow
+1331068	Unknow
+1331080	Unknow
+1331091	Unknow
+1331207	Unknow / ybdG
+1331211	Unknow
+1331342	Unknow / rmlC
+1331349	Unknow
+1331382	Unknow
+1331520	Unknow
+1331547	Unknow
+1331634	Unknow
+1331642	Unknow
+1331664	Unknow
+1331668	Unknow
+1331679	Unknow
+1331684	Unknow
+1331687	Unknow
+1331692	Unknow
+1331809	Unknow
+1331952	Unknow / potC / potC trunc
+1332193	Unknow
+1332250	Unknow
+1332504	Unknow
+1332509	Unknow
+1332516	Unknow
+1332521	Unknow
+1332612	Unknow
+1332619	Unknow
+1332636	Unknow
+1332733	Unknow
+1332920	Unknow
+1332948	Unknow
+1332986	Unknow
+1332990	Unknow
+1333048	Unknow / ykgN
+1333115	Unknow
+1333157	Unknow
+1333199	Unknow
+1333213	pcrA-1 / Unknow / pcrA-1_2
+133328	Unknow / cysE
+133329	metB / metB2 / Unknow / mccB
+1333296	Unknow
+133330	mccA / Unknow / cysK / cysM2
+1333304	Unknow
+1333320	Unknow
+1333330	Unknow
+1333354	scrR / Unknow / adcB-1 / rbsR
+133352	Unknow / yxfA
+1333534	Unknow
+1333554	Unknow
+1333559	Unknow
+1333599	Unknow
+1333623	Unknow
+1333639	C-ter / Unknow / rip
+1333645	Unknow
+1333669	Unknow
+1333776	Unknow
+1333860	Unknow
+1333909	Unknow
+1333920	Unknow
+1333926	ugd / Unknow
+1334262	Unknow
+1334290	Unknow
+1334397	Unknow
+1334444	pilD / Unknow
+1334491	Unknow
+1334498	Unknow
+1334502	Unknow
+1334507	Unknow
+1334556	Unknow
+1334639	Unknow
+1334645	Unknow
+1334684	Unknow
+1334693	Unknow
+1334731	Unknow
+1334772	Unknow
+1334786	Unknow
+1334830	Unknow
+1334860	Unknow
+1334891	Unknow
+1334897	Unknow
+1334901	Unknow
+1334908	Unknow
+1334914	Unknow
+1334922	Unknow
+1334929	Unknow
+1334938	Unknow
+1334969	Unknow
+1334989	Unknow
+1335149	Unknow
+1335220	Unknow
+1335229	Unknow
+1335240	Unknow
+1335249	Unknow
+1335259	Unknow
+1335270	Unknow
+1335276	Unknow
+1335279	Unknow
+1335372	Unknow
+1335597	tnp1198 / Unknow / tnp1198-2 / tnp1198-1
+1335614	hisI / Unknow / hisIE
+1335634	Unknow / hisA
+1335642	Unknow / hisH
+1335671	Unknow / hisZ
+1335678	hisC / Unknow
+1335683	Unknow
+1335747	Unknow
+1335909	srtA / Unknow / strA
+1336048	Unknow
+1336108	Unknow / dsg-1
+1336113	Unknow
+1336117	Unknow / mutR
+1336122	Unknow
+1336129	Unknow
+1336137	Unknow
+1336141	Unknow
+1336147	Unknow
+1336271	Unknow
+133629	int3 / int / xerC / Unknow / yoeC
+1336294	Unknow
+1336303	Unknow
+1336317	Unknow
+1336324	Unknow
+1336333	Unknow
+1336338	Unknow
+1336345	kwcM / Unknow
+1336350	Unknow
+1336383	Unknow
+1336390	Unknow
+1336470	Unknow
+1336533	Unknow
+1336771	gpf / Unknow
+1336777	Unknow
+1336793	hyaD_2 / gpf / Unknow
+1336800	gpt / kfoC / Unknow
+1336818	Unknow
+1336956	Unknow
+1336970	Unknow
+1336993	csn / Unknow / csn2
+1337019	Unknow / cas9 / cas
+1337175	Unknow
+133731	Unknow
+1337465	Unknow / ywjE
+1337560	Unknow
+1337571	Unknow
+1337612	Unknow
+1337799	Unknow
+1337834	Unknow
+1337844	blpT / Unknow
+1337863	Unknow / blpF
+1337873	Unknow
+1337884	blpK / Unknow / blpK_1
+1337930	Unknow
+1337941	Unknow
+1337963	Unknow
+1338107	Unknow
+1338159	Unknow
+1338161	lytR / Unknow
+1338162	Unknow
+1338163	Unknow
+1338164	Unknow
+1338165	Unknow
+1338166	Unknow
+1338167	Unknow
+1338168	Unknow
+1338169	Unknow
+1338170	Unknow
+1338171	Unknow
+1338172	Unknow
+1338173	Unknow
+1338174	Unknow / treA
+1338175	Unknow
+1338176	Unknow
+1338177	Unknow
+1338178	Unknow
+1338179	Unknow
+1338180	Unknow
+1338181	Unknow
+1338182	Unknow
+1338183	Unknow
+1338184	Unknow
+1338185	Unknow / ykvI
+1338186	Unknow / bglF
+1338187	iolU / afr / Unknow
+1338188	pmrA / Unknow / mdtG
+1338189	pmrA / Unknow / mdtG
+1338190	Unknow
+1338191	Unknow
+1338192	Unknow
+1338193	Unknow / cas10
+1338194	Unknow / cas10
+1338195	Unknow
+1338196	Unknow
+1338197	Unknow
+1338198	Unknow
+1338199	Unknow
+1338200	Unknow
+1338201	Unknow
+1338202	Unknow
+1338203	Unknow
+1338204	Unknow
+1338205	pulA_2 / Unknow
+1338206	Unknow / amyX
+1338207	Unknow / amyA
+1338210	Unknow
+1338212	Unknow
+1338213	Unknow
+1338214	Unknow / pgm-1
+1338215	Unknow
+1338216	pdxK / Unknow / pdxK_2
+1338217	pdxK / Unknow / pdxK_1
+1338218	Unknow
+1338220	bglK / Unknow / bglK_2
+1338222	Unknow
+1338223	Unknow / spfH_3
+1338224	Unknow
+1338225	Unknow
+1338226	Unknow / treA
+1338227	Unknow / yxjH
+1338229	Unknow / yxjG / yxjH
+1338231	dagK / Unknow
+1338232	dagK / Unknow
+1341673	Unknow
+1344140	Unknow
+1344141	Unknow
+1344912	gnlP_2
+1344949	rlmH
+1345060	Unknow
+134571	Unknow
+1410976	Unknow
+1411175	Unknow / CpsW / cpsW
+1411189	Unknow
+1411190	Unknow
+1411390	hsdM / Unknow / hsdM-1
+1411391	hsdR / HsdR / Unknow
+1411514	Unknow
+1412106	Unknow
+1412229	Unknow
+1430034	Unknow
+1430561	Unknow
+1462421	Unknow
+1478472	Unknow
+1478546	dnaA / Unknow
+1478637	Unknow / amyL
+1478638	Unknow / lafA
+1478679	ascB / bglA
+1478685	Unknow
+1536160	Unknow
+1571410	Unknow
+1571415	Unknow / repR
+1571417	Unknow
+1571421	Unknow
+1571424	Unknow
+1571427	Unknow
+1571428	Unknow
+1571429	endA / endA_2
+1571431	Unknow
+1571435	topB / topB_2
+1571436	clpE_2 / clpE
+1571443	traG_3 / traG
+1571447	Unknow
+1571448	Unknow
+1571449	Unknow
+1571451	Unknow
+1571453	Unknow
+1571558	Unknow
+1571559	Unknow
+1722688	ruvB
+1722758	Unknow
+1722775	Unknow
+1722856	smc
+178925	prfC
+178956	Unknow
+185018	rmlC / rfbC
+185019	rfbD / Unknow
+1855544	asD
+1855546	Unknow
+1861633	Unknow
+1943126	sph / Unknow
+1944059	Unknow / tnpB-IS1077-like
+1973279	Unknow
+1981567	Unknow
+1986724	Unknow
+2015751	Unknow
+2029425	Unknow
+2029499	lspA_2 / lspA
+2029511	Unknow
+2030746	Unknow
+2030750	Unknow
+2035175	Unknow
+2037522	Unknow
+2038676	Unknow
+2038677	Unknow / tetS
+2043735	Unknow
+2043736	Unknow
+2043737	Unknow
+2072554	Unknow
+2076531	opuCD
+2086098	Unknow
+2092804	Unknow
+2093398	Unknow
+2253239	Unknow
+2321666	Unknow
+2321667	Unknow
+2321668	Unknow
+2321738	Unknow
+2321768	Unknow
+2321795	Unknow
+2425008	Unknow
+243018	engD / ychF / Unknow
+243036	Unknow
+243057	Unknow / purD
+243068	adhP / adhA / Unknow / adhA_2
+243080	Unknow
+243089	Unknow
+243095	Unknow
+243102	Unknow
+243108	Unknow / radA
+243124	fba / kbaY / Unknow / fbaA
+243127	Unknow / yloV
+243142	Unknow / oppB
+243143	oppC / dppC / Unknow
+243144	Unknow / oppD
+243145	optF / gsiA_5 / Unknow / oppF
+243193	pnp / Unknow / pnpA
+243261	ypsC / rlmKB / Unknow
+243270	Unknow / gmk
+243271	Unknow / rpoZ
+243279	rr08 / narL / Unknow / vraR / liaR
+243295	yhbH / raiA / Unknow / yfiA / hpf
+243322	Unknow / pbuG / yieG
+243333	Unknow / rimP / yhbC
+243377	Unknow
+243378	Unknow
+243400	galK / Unknow
+243497	yvcJ / yhbJ / Unknow / rapZ
+243498	glmR / Unknow / mgfK
+243793	murT / murE / Unknow / murE_2
+243804	Unknow / cas1 / cas
+243805	Unknow / cas2 / cas
+243837	Unknow / rpsT
+243871	ciaR / Unknow / copR
+243890	arsC / spxA / Unknow
+244000	Unknow
+244001	azr / Unknow / azr_2
+244105	rnjB / Unknow / rnj
+244111	alsS / Unknow / als / ilvB
+244133	Unknow / hflX
+244182	lacE
+244185	Unknow / immR_1
+244186	Unknow
+244187	xerD / xerD_2 / Unknow
+244244	msbA_2 / Unknow / msbA
+244260	trmD-1 / trmD / Unknow
+244261	Unknow / rimM
+244295	cmk / Unknow
+244367	Unknow
+244381	glgP / Unknow / malP
+244420	Unknow
+244432	atpD-1 / glnQ / Unknow / glnQ_2 / artR
+244457	Unknow
+244463	rpmG / Unknow
+244500	cvfB / Unknow
+244534	Unknow
+244700	trxA / trxA_1 / Unknow / trxA1-1
+244707	Unknow
+244749	Unknow / ytfP / yhiN
+244774	Unknow / pgk
+244836	Unknow
+244847	Unknow
+244851	Unknow / ahpC
+244852	Unknow
+244856	pepO / Unknow
+244889	msmX / Unknow
+244892	lacD
+244955	Unknow
+245013	phnC / Unknow / livF / atsC / cmpC
+245027	spxA_1 / trmA / spxA / Unknow
+245036	mutS / Unknow
+245039	argS / Unknow / rarS
+245084	lACR_E1 / Unknow
+245088	Unknow
+245094	Unknow
+245112	Unknow / ltrBE1
+245124	Unknow
+245126	Unknow
+245129	Unknow
+245131	Unknow
+245135	Unknow / ICESde3396_46
+245137	Unknow
+245140	Unknow
+245141	Unknow
+245144	Unknow / sdaA / sdaAA
+245145	ssp5_1 / Unknow
+245147	Unknow / abiGI
+245149	Unknow
+245151	Unknow
+245153	Unknow
+245155	Unknow
+245157	Unknow
+245159	Unknow
+245161	traG_2 / Unknow / traG
+245163	Unknow
+245165	Unknow
+245167	Unknow
+245169	Unknow
+245170	Unknow
+245172	hpaIIM_1 / Unknow / hpaIIM_2
+245174	repA / Unknow
+245176	Unknow
+245181	trpS / Unknow
+245189	Unknow
+245191	Unknow
+245193	Unknow
+245210	Unknow
+245211	Unknow
+245213	Unknow
+245214	Unknow
+245219	Unknow
+245220	Unknow / leuE
+245296	Unknow
+245297	Unknow
+245303	Unknow / repB
+245315	Unknow / virE / pri
+245344	xis / Unknow
+2530717	Unknow
+2530722	Unknow
+2530723	Unknow
+2530739	Unknow
+2531300	pp270 / Unknow
+2531566	Unknow
+2531589	Unknow
+2531784	Unknow
+253366	Unknow
+2533756	Unknow
+253381	Unknow / cadC
+253382	cadA / Unknow
+253403	Unknow
+2534573	Unknow
+2534574	Unknow
+254287	Unknow / ilvD
+254355	uvrB
+254440	trmF
+2562446	Unknow
+2563343	Unknow
+2563347	Unknow
+257061	Unknow
+2606915	Unknow
+2606916	Unknow
+2606969	Unknow
+2607025	Unknow
+2607026	eps7F / Unknow
+260976	sthIR / Unknow
+2723216	Unknow
+2750129	Unknow
+2755823	Unknow / sraP
+2756120	Unknow
+2756283	Unknow
+2832216	Unknow
+2832217	gst / Unknow / gltP
+2920008	Unknow
+2920051	Unknow
+2920208	Unknow
+2920240	Unknow
+2920242	Unknow
+2921090	Unknow
+2921150	Unknow
+2921292	Unknow
+2921338	Unknow
+3039390	Unknow
+3039471	Unknow
+3039482	Unknow
+3039564	Eps7J / Unknow / eps7J
+3039565	Unknow
+3039566	Unknow
+3039571	Unknow
+3039898	topB_1 / topB / Unknow / topB_3
+3040027	Unknow
+3040032	xis / Unknow
+3040176	Unknow
+3040177	Unknow
+3040191	Unknow
+3040201	Unknow
+3040318	Unknow
+3040321	Unknow
+3040519	Unknow
+3041017	Unknow
+3041452	pre
+3041458	Unknow
+3080019	Unknow
+3080020	Unknow
+3080021	Unknow
+3080049	Unknow
+3151796	Unknow
+3166422	Unknow
+3166539	Unknow
+3166557	Unknow
+3166594	Unknow
+3166780	eps11F / Unknow
+3166781	Unknow
+3166783	Unknow / epsP
+3166784	epsQ / Unknow
+3166785	Unknow
+3166786	Unknow / cpoA / cpsR
+3166787	Unknow / cpsT
+3166788	Unknow
+3166789	Unknow
+3166795	Unknow
+3166821	epsV / Unknow
+3166826	Unknow / epsH
+3166875	Unknow
+317832	Unknow / pnpA
+317833	Unknow
+317834	cadA
+317836	Unknow / cadC
+3225122	Unknow
+3392446	Unknow
+3516572	bcgIA
+3550548	Unknow / glf
+3558498	Unknow
+3643792	Unknow
+3643799	Unknow
+3643800	Unknow
+3643801	Unknow
+3643803	Unknow
+3643808	Unknow
+3643809	Unknow
+3643810	Unknow
+3643845	Unknow
+3643846	Unknow
+3643856	Unknow
+3643873	Unknow / nisX
+3652310	Unknow
+3673161	Unknow
+3692292	Unknow
+3692293	Unknow
+3692294	Unknow
+3692295	Unknow
+3692296	Unknow
+3692297	Unknow
+3692298	Unknow
+3692299	Unknow
+3692300	Unknow
+3692301	Unknow
+3692302	Unknow
+3692303	Unknow
+3692304	Unknow
+3692305	Unknow
+3692306	Unknow
+3692307	Unknow
+3692308	Unknow
+3692309	Unknow
+3692310	Unknow
+3692311	Unknow
+3692312	Unknow
+3692313	Unknow
+3692314	Unknow
+3692315	Unknow
+3692316	Unknow
+3692317	Unknow / lMOf6854_1153
+3692318	Unknow
+3692319	Unknow
+3692320	Unknow
+3692321	Unknow
+3692322	rep / Unknow
+3692323	Unknow
+3692324	Unknow / pepE
+3692325	Unknow / pig-1
+3692326	Unknow / pig-2
+3692327	pig-4 / Unknow
+3692328	Unknow / pig-5
+3692329	pig-6 / Unknow
+3692330	pig-7 / Unknow
+3692331	Unknow / pig8,trunc
+3692332	Unknow
+3692333	pig-9 / Unknow
+3692334	Unknow
+3692335	Unknow
+3692336	Unknow
+3692337	Unknow
+3692338	Unknow
+3692339	Unknow
+3692340	Unknow
+3692341	Unknow
+3692342	Unknow
+3692343	Unknow
+3692344	Unknow
+3692345	Unknow / mbar_A1826
+3692346	Unknow / int-3
+3692347	Unknow / int
+3692348	Unknow
+3692349	Unknow
+3692350	Unknow
+3692351	Unknow
+3692352	Unknow
+3692353	Unknow
+3692354	Unknow
+3692355	Unknow
+3692356	Unknow
+3692357	Unknow
+3692358	Unknow
+3692359	Unknow
+3692360	Unknow
+3692361	Unknow
+3692362	Unknow
+3692363	Unknow
+3692364	Unknow
+3692365	Unknow
+3692366	Unknow
+3692367	Unknow
+3692368	Unknow
+3692369	Unknow
+3692370	Unknow
+3692371	Unknow
+3692372	Unknow
+3692373	Unknow
+3692374	Unknow
+3692375	Unknow
+3692376	Unknow
+3692377	Unknow
+3692378	Unknow
+3692379	Unknow
+3692380	Unknow
+3692381	Unknow
+3692382	Unknow
+3692383	Unknow
+3692384	ciaH / Unknow / ciaH trunc
+3692385	Unknow
+3692386	Unknow
+3692387	Unknow
+3692388	Unknow
+3692389	Unknow / sthIM
+3692390	Unknow
+3692391	res97
+3692392	Unknow
+3692393	Unknow
+3692394	Unknow
+3692395	Unknow
+3692396	Unknow
+3692397	Unknow
+3692398	Unknow
+3692399	Unknow
+3692400	Unknow
+3692401	Unknow
+3692402	rgg2 / Unknow
+3692403	Unknow
+3692404	Unknow
+3692405	Unknow
+3692406	csm2 / Unknow / csm
+3692407	csm6 / Unknow
+3692408	csm6 / Unknow / csm
+3692409	Unknow
+3692410	Unknow
+3692411	Unknow
+3692412	Unknow
+3692413	Unknow / lysA-1
+3692414	Unknow
+3692415	Unknow / cas3
+3692416	Unknow
+3692417	Unknow
+3692418	Unknow
+3692419	Unknow / orf4E
+3692420	Unknow
+3692421	Unknow / epsN / eps6N
+3692422	wzx / eps6L / Unknow / eps10L / epsL
+3692423	Unknow / wzy
+3692424	eps6J / epsJ / Unknow
+3692425	eps9I / Unknow / eps6I / epsL / cpsI
+3692426	Unknow
+3692427	Unknow / wefB
+3692428	cotSA / eps5G / eps9G / Unknow / epsG
+3692429	Unknow
+3692430	Unknow
+3692431	Unknow
+3692432	Unknow
+3692433	Unknow
+3692434	Unknow
+3692435	Unknow
+3692436	Unknow
+3692437	Unknow
+3692438	Unknow
+3692439	Unknow
+3692440	Unknow
+3692441	Unknow
+3692442	Unknow
+3692443	Unknow
+3692444	Unknow
+3692445	Unknow
+3692446	Unknow
+3692447	Unknow
+3692448	Unknow
+3692449	Unknow
+3692450	Unknow
+3692451	Unknow
+3692452	Unknow
+3692453	Unknow
+3692454	Unknow
+3692455	Unknow / lMOf6854_1143
+3692456	Unknow
+3692457	Unknow
+3692458	Unknow
+3692459	Unknow
+3692460	Unknow / tnp-3
+3692461	Unknow
+3692462	Unknow / rgg
+3692463	Unknow
+3692464	Unknow / AF2009
+3692465	Unknow
+3692466	gpmA-1 / Unknow / gpmA
+3692467	Unknow
+3692468	Unknow
+3692469	Unknow
+3692470	Unknow
+3692471	Unknow
+3692472	Unknow
+3692473	Unknow
+3692474	Unknow
+3692475	Unknow
+3692476	Unknow
+3692477	Unknow
+3692478	Unknow
+3692479	Unknow
+3692480	bcaT-1
+3692481	Unknow
+3692482	Unknow
+3692483	Unknow
+3692484	int-1 / Unknow / int
+3692485	Unknow
+3692486	Unknow
+3692487	Unknow
+3692488	Unknow
+3692489	Unknow
+3692490	Unknow
+3692491	Unknow
+3692492	Unknow
+3692493	Unknow
+3692494	Unknow
+3692495	Unknow
+3692496	Unknow
+3692497	Unknow
+3692498	Unknow
+3692499	Unknow
+3692500	Unknow / epsW
+3692501	Unknow
+3692502	Unknow
+3692503	Unknow
+3692504	Unknow
+3692505	Unknow
+3692506	Unknow
+3692507	Unknow
+3692508	Unknow
+3692509	Unknow
+3692510	Unknow
+3692511	Unknow
+3692512	Unknow
+3692513	Unknow
+3692514	Unknow
+3692515	Unknow
+3692516	Unknow
+3692517	Unknow
+3692518	Unknow
+3692519	Unknow
+3692520	Unknow
+3692521	Unknow
+3692522	Unknow / bmrA
+3692523	Unknow
+3692524	Unknow
+3692525	Unknow
+3692526	Unknow
+3692527	Unknow
+3692528	Unknow
+3692529	Unknow
+3692530	Unknow
+3692531	Unknow
+3692532	Unknow
+3692533	Unknow
+3692534	Unknow
+3692535	Unknow
+3692536	Unknow
+3692537	Unknow
+3692538	Unknow
+3692539	Unknow
+3692540	Unknow
+3692541	Unknow
+3692542	Unknow
+3692543	Unknow
+3692544	Unknow
+3692545	Unknow
+3692546	Unknow
+3692547	Unknow
+3692548	Unknow
+3692549	Unknow
+3692550	Unknow
+3692551	yckA / Unknow / yecS_3
+3692552	Unknow
+3692553	Unknow
+3692554	Unknow
+3692555	Unknow
+3692556	Unknow
+3692557	Unknow
+3692558	Unknow
+3692559	Unknow
+3692560	Unknow
+3692561	Unknow
+3692562	Unknow
+3692563	Unknow
+3692564	Unknow
+3692565	Unknow
+3692566	Unknow
+3692567	Unknow
+3692568	Unknow
+3692569	Unknow
+3692570	Unknow
+3692571	Unknow
+3692572	Unknow
+3692573	Unknow
+3692574	Unknow
+3692575	Unknow
+3692576	Unknow
+3692577	gadA / Unknow
+3692578	Unknow
+3692579	Unknow
+3692580	Unknow
+3692581	fakBA / Unknow
+3692582	Unknow
+3692583	Unknow
+3692584	Unknow
+3692585	Unknow
+3692586	Unknow
+3692587	Unknow
+3692588	Unknow
+3692589	Unknow
+3692590	Unknow
+3692591	Unknow / ydfG
+3692592	Unknow
+3692593	Unknow
+3692594	Unknow
+3692595	Unknow
+3692596	Unknow
+3692597	Unknow
+3692598	Unknow
+3692599	Unknow
+3692600	Unknow
+3692601	Unknow
+3692602	Unknow
+3692603	Unknow
+3692604	Unknow
+3692605	Unknow
+3692606	Unknow
+3692607	Unknow
+3692608	Unknow
+3692609	Unknow
+3692610	Unknow
+3692611	Unknow
+3692612	optF / Unknow / oppF / gsiA_4
+3692613	Unknow
+3692614	glxK / Unknow
+3692615	Unknow
+3692616	Unknow
+3692617	Unknow / sdaAA
+3692618	Unknow
+3692619	Unknow
+3692620	Unknow / pulA / amyX
+3692621	Unknow
+3692622	Unknow
+3692623	Unknow
+3692624	Unknow
+3692625	Unknow
+3692626	Unknow
+3692627	Unknow
+3692628	Unknow / dacA
+3692629	Unknow
+3692630	Unknow
+3692631	Unknow
+3692632	Unknow
+3692633	Unknow / pulA
+3692634	pulA-1_3 / Unknow / pulA / pulA-1
+3692635	Unknow
+3692636	Unknow
+3692637	Unknow
+3692638	Unknow
+3692639	dagK / Unknow
+3692640	eps7G / Unknow
+3692641	Unknow
+3692642	wchF / Unknow / epsF
+3692643	Unknow
+3692644	Unknow
+3692645	Unknow
+3692646	Unknow
+3692647	Unknow
+3692648	Unknow
+3692649	Unknow
+3692650	Unknow
+3692651	Unknow
+3692652	Unknow
+3692653	Unknow
+3692654	Unknow
+3692655	Unknow
+3692656	Unknow
+3692657	Unknow
+3692658	Unknow
+3692659	Unknow
+3692660	Unknow
+3692661	Unknow
+3692662	Unknow
+3692663	Unknow
+3692664	Unknow
+3692665	Unknow
+3692666	Unknow
+3692667	Unknow
+3692668	Unknow / rip
+3692669	Unknow
+3692670	Unknow
+3692671	Unknow
+3692672	Unknow
+3692673	Unknow
+3692674	Unknow
+3692675	Unknow
+3692676	Unknow
+3692677	Unknow
+3692678	Unknow
+3692679	Unknow
+3692682	Unknow
+3692683	Unknow
+3692684	Unknow
+3692685	Unknow
+3692686	Unknow
+3692687	Unknow
+3692688	Unknow
+3692689	Unknow
+3692690	Unknow
+3692691	Unknow
+3692692	Unknow
+3692693	Unknow
+3692694	Unknow
+3692695	Unknow
+3692696	cpsN
+3692697	Unknow
+3692698	Unknow
+3692699	Unknow
+3692700	Unknow
+3692701	Unknow
+3692702	Unknow
+3692703	Unknow
+3692704	Unknow
+3692705	Unknow
+3692706	Unknow
+3692707	Unknow
+3692708	Unknow
+3692709	sdaAA
+3692711	Unknow
+3692712	Unknow
+3692713	Unknow
+3692714	Unknow
+3692715	Unknow
+3692716	Unknow
+3692717	Unknow
+3692718	Unknow
+3692719	Unknow
+3692720	Unknow
+3692721	Unknow
+3692722	immR / arp / Unknow
+3692723	Unknow
+3692724	Unknow
+3692725	Unknow
+3692726	Unknow
+3692727	Unknow
+3692728	ydeM / ydeM_1 / Unknow
+3692730	adhE
+3692732	Unknow
+3692733	Unknow
+3692734	Unknow
+3692735	Unknow
+3692736	Unknow
+3692737	Unknow
+3692738	Unknow
+3692739	Unknow
+3692740	Unknow
+3692741	Unknow
+3692742	Unknow
+3692743	Unknow
+3692744	Unknow
+3692745	Unknow
+3692746	Unknow
+3692747	Unknow
+3692748	Unknow
+3692749	Unknow
+3692750	Unknow
+3692751	Unknow
+3692752	Unknow
+3692753	Unknow
+3692754	Unknow
+3692755	Unknow
+3692756	Unknow
+3692758	Unknow
+3692759	Unknow
+3692760	Unknow
+3692761	Unknow
+3692762	Unknow
+3692768	Unknow
+3692775	Unknow
+3692777	Unknow
+3692779	Unknow
+3692780	Unknow
+3692781	Unknow
+3692782	Unknow / yckB
+3692784	Unknow
+3692785	Unknow
+3692787	trpB
+3692788	Unknow
+3692790	Unknow / cah_1 / cah
+3692791	Unknow
+3692797	Unknow
+3692798	Unknow
+3692799	Unknow
+3692800	Unknow
+3692802	Unknow
+3692803	Unknow
+3692805	Unknow
+3692807	Unknow
+3692811	Unknow
+3692813	Unknow
+3692814	Unknow
+3692815	Unknow
+3692816	Unknow
+3692820	Unknow
+3692823	Unknow
+3692825	Unknow
+3692826	Unknow
+3692827	Unknow
+3692829	Unknow
+3692830	Unknow
+3692831	glxK
+3692832	Unknow
+3692833	Unknow
+3692835	Unknow
+3692838	Unknow
+3692839	Unknow
+3692846	Unknow
+3692849	Unknow
+3692851	Unknow
+3692852	Unknow
+3692853	Unknow
+3692856	Unknow
+3692858	Unknow
+3692861	Unknow
+3692865	argD
+3692866	Unknow
+3692867	Unknow
+3692868	Unknow
+3692871	bglH / Unknow
+3692875	Unknow / ilvD
+3692880	Unknow
+3692881	Unknow
+3692882	yfkN / Unknow
+3692883	Unknow
+3692884	yfkN
+3692886	Unknow
+3692887	Unknow
+3692889	Unknow
+3692890	Unknow
+3692892	Unknow
+3692897	Unknow
+3692899	Unknow
+3692900	Unknow
+3692903	baeR
+3692904	Unknow
+3692905	Unknow
+3692906	Unknow
+3692907	Unknow
+3692908	Unknow
+3692909	Unknow
+3692911	Unknow
+3692914	Unknow
+3692917	Unknow
+3692919	Unknow
+3692920	Unknow
+3692922	Unknow
+3692923	Unknow
+3692924	recN
+3692925	Unknow
+3692927	Unknow
+3692931	Unknow
+3692932	Unknow
+3692936	Unknow
+3692938	Unknow
+3692939	Unknow
+3692941	Unknow
+3692942	Unknow
+3692947	Unknow
+3692949	Unknow
+3692951	Unknow
+3692961	Unknow
+3692962	Unknow
+3692963	Unknow / labC
+3692964	Unknow
+3692965	Unknow
+3692966	Unknow
+3692967	znuC
+3692968	Unknow
+3692969	Unknow
+3692970	Unknow
+3692971	Unknow
+3692972	Unknow
+3692973	Unknow
+3692974	Unknow
+3692975	Unknow
+3692976	Unknow
+3692977	Unknow
+3692978	Unknow
+3692979	Unknow
+3692980	fruK
+3692981	fruA / Unknow
+3692982	Unknow
+3692983	Unknow
+3692984	Unknow
+3692985	Unknow
+3692986	Unknow
+3692987	Unknow
+3692988	Unknow
+3692989	Unknow
+3692990	Unknow
+3692991	Unknow
+3692992	Unknow
+3692993	Unknow
+3692994	rlmCD
+3692995	Unknow
+3692996	Unknow
+3692997	Unknow
+3692998	Unknow
+3692999	Unknow
+3693000	Unknow
+3693001	Unknow
+3693002	Unknow
+3693003	Unknow
+3693004	Unknow
+3693005	Unknow
+3693006	Unknow
+3693007	Unknow
+3693008	adhP
+3693009	Unknow
+3693010	Unknow / yxjG
+3693011	Unknow
+3693012	Unknow
+3693013	Unknow
+3693014	Unknow / hemH
+3693015	Unknow
+3693016	Unknow
+3693017	Unknow
+3693018	Unknow
+3693019	Unknow
+3693020	glgP / Unknow
+3693021	Unknow
+3693022	Unknow
+3693023	Unknow
+3693024	Unknow
+3693025	Unknow
+3693026	Unknow
+3693027	Unknow
+3693028	Unknow
+3693029	Unknow
+3693030	Unknow
+3693031	Unknow
+3693032	Unknow
+3693033	Unknow
+3693034	yfnB / pynN / Unknow
+3693035	pynN / Unknow
+3693036	pynN / Unknow
+3693037	Unknow
+3693038	Unknow
+3693039	Unknow
+3693040	Unknow
+3693041	Unknow
+3693042	yocS
+3693043	yocS
+3693044	Unknow
+3693045	Unknow
+3693046	xpt
+3693047	pucK / ygfU
+3693048	Unknow
+3693049	Unknow
+3693050	Unknow
+3693051	Unknow
+3693052	galR_1 / Unknow / ebgR / galR
+3693053	Unknow
+3693054	Unknow
+3693055	Unknow
+3693056	Unknow
+3693057	Unknow
+3693058	Unknow
+3693059	Unknow
+3693060	Unknow
+3693061	Unknow
+3693062	Unknow
+3693063	Unknow
+3693064	Unknow
+3693065	kimA
+3693066	kimA
+3693067	kimA
+3693068	Unknow
+3693069	Unknow
+3693070	Unknow
+3693071	Unknow
+3693072	Unknow
+3693073	Unknow
+3693074	Unknow
+3693075	Unknow
+3693076	Unknow
+3693077	Unknow
+3693078	Unknow
+3693079	Unknow
+3693080	Unknow
+3693081	ilvD
+3693082	Unknow
+3693083	adhE
+3693084	adhE
+3693085	Unknow
+3693086	Unknow
+3693087	Unknow
+3693088	Unknow
+3693089	Unknow
+3693090	Unknow
+3693091	Unknow
+3693092	Unknow
+3693093	Unknow
+3693094	Unknow
+3693095	Unknow
+3693096	Unknow
+3693097	Unknow
+3693098	Unknow
+3693099	Unknow
+3693100	Unknow
+3693101	Unknow
+3693102	Unknow
+3693103	Unknow
+3693104	Unknow
+3693105	Unknow
+3693106	Unknow
+3693107	Unknow
+3693108	Unknow
+3693109	Unknow
+3693110	Unknow
+3693111	Unknow
+3693112	Unknow
+3693113	Unknow
+3693114	Unknow
+3693115	Unknow
+3693116	Unknow
+3693117	Unknow
+3693118	ybjI
+3693119	bglH
+3693120	bglH
+3693121	Unknow
+3693122	Unknow
+3693123	Unknow
+3693124	Unknow
+3693126	Unknow
+3693127	Unknow
+3693128	Unknow
+3693129	Unknow
+3693130	Unknow
+3693131	Unknow
+3693132	Unknow
+3693133	Unknow
+3693134	Unknow
+3693135	Unknow
+3693136	priA
+3693137	Unknow
+3693138	Unknow
+3693139	Unknow
+3693140	mnmA
+3693141	Unknow
+3693142	galE / Unknow
+3693143	Unknow
+3693144	Unknow
+3693145	Unknow
+3693146	Unknow
+3693147	Unknow
+3693148	Unknow
+3693149	Unknow
+3693150	Unknow
+3693151	Unknow
+3693152	Unknow
+3693153	Unknow
+3693154	Unknow
+3693155	Unknow
+3693156	Unknow
+3693157	Unknow
+3693158	Unknow
+3693159	Unknow
+3693160	Unknow
+3693161	Unknow
+3693162	Unknow
+3693163	Unknow
+3693164	Unknow
+3693165	Unknow
+3693166	Unknow
+3693167	Unknow / epsK
+3693168	Unknow
+3693169	Unknow
+3693170	Unknow
+3693171	Unknow
+3693172	Unknow
+3693173	Unknow
+3693174	Unknow
+3693175	Unknow
+3693176	Unknow
+3693177	Unknow
+3693178	Unknow
+3693179	Unknow
+3693180	Unknow
+3693181	Unknow
+3693182	Unknow
+3693183	Unknow
+3693184	Unknow
+3693185	Int-Tn / Unknow
+3693186	Unknow
+3693187	Unknow
+3693188	Unknow
+3693189	Unknow
+3693190	Unknow
+3693191	Unknow
+3693192	Unknow
+3693193	Unknow
+3693194	Unknow
+3693195	Unknow
+3693196	Unknow
+3693197	Unknow
+3693198	Unknow
+3693199	ymfH / Unknow
+3693200	Unknow
+3693201	Unknow
+3693202	Unknow
+3693203	Unknow
+3693204	Unknow
+3693205	Unknow
+3693206	Unknow
+3693207	Unknow
+3693208	Unknow / hdcB
+3693209	Unknow
+3693210	hdcA / Unknow
+3693211	Unknow
+3693212	Unknow
+3693213	Unknow
+3693214	Unknow
+3693215	Unknow
+3693216	Unknow
+3693217	Unknow
+3693218	Unknow
+3693219	Unknow
+3693220	Unknow
+3693221	Unknow
+3693222	Unknow
+3693223	Unknow
+3693224	Unknow
+3693225	Unknow
+3693226	Unknow / bglH
+3693234	Unknow
+3693235	Unknow
+3693236	Unknow
+3693237	Unknow
+3693238	Unknow
+3693239	Unknow
+3693240	Unknow
+3693241	Unknow
+3693242	Unknow
+3693243	Unknow
+3693244	Unknow
+3693245	Unknow / wzx
+3693246	cps2B / Unknow
+3693247	Unknow
+3693248	Unknow
+3693249	Unknow
+3693250	Unknow
+3693251	Unknow
+3693253	Unknow
+3693254	Unknow
+3693255	Unknow
+3693256	Unknow
+3693257	Unknow
+3693258	Unknow
+3693259	Unknow
+3693260	Unknow
+3693261	Unknow
+3693262	Unknow
+3693263	Unknow
+3693264	Unknow / hsdS
+3693265	Unknow
+3693266	Unknow
+3693267	Unknow
+3693268	Unknow / cas2e
+3693269	Unknow / cas
+3693270	cas6e / Unknow
+3693271	Unknow / cas5e
+3693272	casB / Unknow
+3693273	Unknow / cas
+3693274	cps2B / Unknow
+3693275	Unknow / cps2A / eps2C
+3693276	Unknow / epsG
+3693277	cpsG / Unknow / rfaG
+3693278	Unknow
+3693279	Unknow
+3693280	Unknow
+3693281	Unknow
+3693282	Unknow
+3693283	Unknow
+3693284	Unknow
+3693285	Unknow
+3693286	Unknow
+3693287	Unknow
+3693288	Unknow
+3693289	Unknow
+3693290	Unknow
+3693291	Unknow
+3693292	Unknow
+3693293	Unknow
+3693294	Unknow
+3693295	adhP / Unknow
+3693296	Unknow
+3693297	Unknow
+3693298	Unknow
+3693299	Unknow
+3693300	Unknow
+3693301	Unknow
+3693302	Unknow
+3693303	Unknow
+3693304	Unknow
+3693305	Unknow
+3693306	Unknow
+3693307	Unknow
+3693308	adhP / Unknow
+3693309	Unknow
+3693310	Unknow
+3693311	Unknow
+3693312	hsdR / Unknow
+3693313	Unknow
+3693314	Unknow
+3693315	Unknow
+3693316	kwcM / Unknow
+3693317	Unknow
+3693318	Unknow
+3693319	Unknow
+3693320	Unknow
+3693321	Unknow
+3693322	Unknow
+3693323	Unknow
+3693324	Unknow
+3693325	Unknow
+3693326	Unknow
+3693327	Unknow
+3693328	Unknow
+3693329	Unknow
+3693330	Unknow
+3693331	Unknow
+3693332	Unknow
+3693333	Unknow
+3693334	Unknow
+3693335	Unknow
+3693336	Unknow
+3693337	Unknow
+3693338	Unknow
+3693339	Unknow
+3693340	Unknow
+3693341	Unknow
+3693342	Unknow
+3693343	Unknow
+3693344	Unknow
+3693345	Unknow
+3693346	Unknow
+3693347	Unknow
+3693348	Unknow / wzy
+3693349	Unknow
+3693350	Unknow
+3693351	Unknow
+3693352	Unknow
+3693353	Unknow
+3693354	Unknow
+3693355	Unknow
+3693357	Unknow
+3693358	Unknow
+3693359	Unknow
+3693360	Unknow
+3693361	Unknow
+3693362	Unknow
+3693364	Unknow
+3693365	Unknow
+3693366	Unknow / hsdS
+3693367	Unknow
+3693371	Unknow
+3693372	Unknow
+3693373	Unknow
+3693374	Unknow
+3693375	Unknow
+3693376	Unknow
+3693377	Unknow
+3693378	Unknow
+3693379	Unknow
+3693380	Unknow
+3693381	Unknow
+3693382	Unknow
+3693383	Unknow
+3693384	Unknow
+3693385	Unknow
+3693386	Unknow
+3693387	Unknow
+3693388	Unknow
+3693389	Unknow
+3693390	Unknow
+3693391	Unknow
+3693392	Unknow
+3693393	Unknow
+3693394	Unknow
+3693395	Unknow
+3693396	Unknow
+3693397	Unknow
+3693398	Unknow
+3693399	Unknow
+3693400	Unknow
+3693401	Unknow
+3693402	Unknow
+3693403	Unknow
+3693404	Unknow
+3693405	Unknow
+3693407	Unknow
+3693408	Unknow
+3693409	glgB / Unknow
+3693410	Unknow
+3693411	Unknow
+3693412	Unknow
+3693413	Unknow
+3693414	Unknow
+3693415	Unknow
+3693416	Unknow
+3693417	Unknow
+3693418	Unknow
+3693419	Unknow
+3693420	Unknow
+3693421	Unknow
+3693422	Unknow
+3693423	Unknow / sdaB
+3693424	Unknow
+3693426	Unknow
+3693430	Unknow
+3693431	Unknow
+3693432	Unknow
+3693433	Unknow
+3693434	Unknow
+3693435	Unknow
+3693436	Unknow
+3693437	Unknow
+3693438	Unknow
+3693439	Unknow
+3693440	Unknow
+3693442	Unknow
+3693443	Unknow
+3693444	Unknow
+3693445	Unknow
+3693446	Unknow
+3693447	Unknow
+3693448	Unknow
+3693449	Unknow
+3693450	Unknow
+3693451	Unknow
+3693452	Unknow
+3693455	Unknow
+3693456	Unknow
+3693457	Unknow / liaL
+3693458	liaM / Unknow
+3693459	Unknow
+3693460	spiR / Unknow / spiR1
+3693461	spiR / Unknow / spiR2
+3693462	Unknow
+3693464	lcnD / Unknow
+3693466	Unknow
+3693468	Unknow
+3693469	Unknow
+3693471	Unknow / thmA
+3693473	Unknow / thmB
+3693475	Unknow / insK
+3693476	Unknow
+3693478	Unknow
+3693479	Unknow
+3693480	Unknow
+3693481	Unknow
+3693482	Unknow
+3693483	Unknow
+3693484	Unknow
+3693485	Unknow
+3693486	Unknow
+3693487	Unknow
+3693488	Unknow
+3693489	Unknow
+3693490	Unknow
+3693491	Unknow
+3693492	Unknow
+3693493	Unknow
+3693494	Unknow
+3693495	Unknow
+3693496	Unknow
+3693497	Unknow
+3693498	Unknow
+3693500	Unknow
+3693501	Unknow
+3693502	comA / Unknow
+3693503	Unknow
+3693504	Unknow
+3693505	Unknow
+3693506	Unknow
+3693507	Unknow
+3693508	Unknow
+3693509	Unknow
+3693510	Unknow
+3693511	Unknow
+3693512	infG / Unknow
+3693513	Unknow
+3693514	Unknow
+3693515	Unknow
+3693516	Unknow
+3693517	Unknow
+3693518	agrA / Unknow
+3693519	Unknow
+3693520	Unknow
+3693521	Unknow
+3693522	Unknow
+3693523	Unknow
+3693524	Unknow
+3693525	Unknow
+3693526	Unknow
+3693527	Unknow
+3693528	Unknow
+3693529	Unknow
+3693530	pulA-1_2 / Unknow
+3693531	Unknow
+3693532	Unknow
+3693533	Unknow
+3693534	amiA_3 / Unknow / amiA
+3693535	Unknow
+3693536	Unknow
+3693537	Unknow
+3693538	Unknow
+3693539	Unknow
+3693540	Unknow
+3693541	Unknow
+3693542	Unknow
+3693543	Unknow
+3693544	Unknow
+3693545	Unknow
+3693546	Unknow
+3693547	Unknow
+3693548	Unknow
+3693549	Unknow
+3693550	Unknow
+3693551	Unknow
+3693552	Unknow
+3693553	Unknow
+3693554	Unknow
+3693555	Unknow
+3693556	Unknow
+3693557	Unknow
+3693558	Unknow
+3693559	Unknow
+3693560	Unknow
+3693561	Unknow
+3693562	Unknow
+3693563	Unknow
+3693564	Unknow
+3693565	Unknow
+3693566	Unknow
+3693567	Unknow
+3693568	Unknow
+3693569	Unknow
+3693570	Unknow
+3693571	Unknow
+3693572	Unknow
+3693573	Unknow
+3693577	Unknow
+3693578	Unknow
+3693579	Unknow
+3693580	Unknow
+3693581	Unknow
+3693582	Unknow
+3693583	Unknow
+3693584	Unknow
+3693585	Unknow
+3693586	Unknow
+3693587	Unknow
+3693588	Unknow
+3693589	Unknow
+3693590	Unknow
+3693591	Unknow
+3693592	Unknow
+3693593	Unknow
+3693594	Unknow
+3693595	Unknow
+3693596	Unknow
+3693597	Unknow
+3693598	Unknow
+3693599	Unknow
+3693600	Unknow
+3693601	Unknow
+3693602	Unknow
+3693603	Unknow
+3693604	Unknow
+3693605	Unknow
+3693606	Unknow
+3693607	Unknow
+3693608	Unknow
+3693609	Unknow
+3693610	Unknow
+3693611	Unknow
+3693612	Unknow
+3693613	Unknow
+3693614	Unknow
+3693615	Unknow
+3693616	Unknow
+3693617	Unknow
+3693618	Unknow
+3693619	Unknow
+3693620	Unknow
+3693621	Unknow
+3693622	Unknow
+3693623	Unknow
+3693624	Unknow
+3693625	Unknow
+3693626	Unknow
+3693627	Unknow
+3693628	Unknow
+3693629	Unknow
+3693630	Unknow
+3693631	Unknow
+3693632	yocD / ldcA / Unknow
+3693633	Unknow
+3693634	Unknow
+3693635	Unknow
+3693636	Unknow
+3693637	Unknow
+3693638	Unknow
+3693639	Unknow
+3693640	Unknow
+3693641	Unknow
+3693642	Unknow
+3693643	Unknow
+3693644	Unknow
+3693645	Unknow
+3693646	Unknow
+3693647	Unknow
+3693648	Unknow
+3693649	Unknow
+3693650	comA_1 / comA / Unknow
+3693651	Unknow
+3693652	Unknow / yrdC
+3693655	Unknow / int2_2 / ps
+3693656	Unknow
+3693657	Unknow
+3693658	Unknow
+3693659	Unknow
+3693660	Unknow
+3693661	Unknow
+3693662	Unknow
+3693663	Unknow
+3693664	Unknow
+3693665	Unknow
+3693666	Unknow
+3693667	Unknow
+3693668	Unknow
+3693669	Unknow
+3693670	Unknow
+3693671	Unknow
+3693672	Unknow
+3693673	Unknow
+3693674	Unknow
+3693675	Unknow
+3693676	Unknow
+3693677	Unknow
+3693678	Unknow
+3693679	Unknow
+3693680	Unknow
+3693681	Unknow
+3693682	Unknow
+3693683	Unknow
+3693684	Unknow
+3693685	Unknow
+3693686	Unknow
+3693687	Unknow
+3693688	Unknow
+3693689	leuA_2 / Unknow
+3693690	Unknow
+3693691	Unknow / icd_2
+3693692	Unknow
+3693693	Unknow
+3693694	Unknow
+3693695	Unknow / yrdR
+3693696	czrA / Unknow / sdpR
+3693697	Unknow
+3693698	Unknow
+3693699	Unknow
+3693700	recX
+3693701	Unknow
+3693702	Unknow
+3693703	Unknow
+3693704	Unknow
+3693705	Unknow
+3693706	hsdFM / Unknow
+3693707	Unknow
+3693708	Unknow
+3693709	Unknow
+3693711	Unknow
+3693714	Unknow
+3693716	Unknow
+3693718	Unknow
+3693719	Unknow / pepDA_3
+3693723	Unknow
+3693724	Unknow
+3693725	Unknow
+3693726	Unknow
+3693727	Unknow
+3693728	Unknow
+3693729	Unknow
+3693730	Unknow / gldA
+3693731	Unknow
+3693732	Unknow
+3693733	Unknow / lytA
+3693734	Unknow / toxA
+3693735	Unknow
+3693736	Unknow
+3693737	tcyL / Unknow / tcyL_1
+3693738	tcyL / Unknow / tcyL_2
+3693739	tcyJ / Unknow
+3693740	Unknow
+3693741	Unknow / gpo
+3693742	Unknow
+3693743	Unknow
+3693744	Unknow / hsdR_2
+3693745	Unknow
+3693746	Unknow
+3693747	Unknow
+3693748	mazE / Unknow
+3693749	Unknow
+3693750	Unknow
+3693751	Unknow / pulA-1 / pulA-1_1
+3693752	mscL
+3693753	Unknow
+3693754	Unknow
+3693755	Unknow
+3693756	Unknow
+3693757	Unknow
+3693758	Unknow
+3693759	Unknow
+3693760	Unknow
+3693761	Unknow
+3693762	Unknow
+3693763	Unknow
+3693764	Unknow
+3693765	Unknow
+3693766	Unknow
+3693767	Unknow
+3693768	Unknow / cah_2
+3693769	Unknow
+3693770	Unknow
+3693771	Unknow
+3693772	Unknow
+3693773	Unknow
+3693774	Unknow
+3693775	Unknow
+3693776	Unknow
+3693777	Unknow
+3693778	Unknow
+3693779	Unknow
+3693780	Unknow
+3693781	Unknow
+3693782	Unknow
+3693783	Unknow
+3693784	Unknow / cbpD3_1 / cbpD3
+3693785	acuB / Unknow
+3693786	Unknow
+3693787	Unknow
+3693788	Unknow
+3693789	Unknow
+3693790	Unknow
+3693791	Unknow
+3693792	Unknow
+3693793	Unknow
+3693794	Unknow
+3693795	Unknow
+3693796	Unknow
+3693797	Unknow
+3693798	Unknow
+3693799	Unknow
+3693800	Unknow / bglF
+3693801	Unknow
+3693802	Unknow / cbpD3_2
+3693803	Unknow / ampS
+3693804	Unknow
+3693805	Unknow
+3693806	Unknow / ydhF
+3693807	Unknow
+3693808	Unknow / lolD
+3693809	Unknow
+3693810	Unknow
+3693811	Unknow
+3693812	Unknow
+3693813	Unknow
+3693814	Unknow
+3693815	Unknow
+3693816	Unknow
+3693817	Unknow
+3693818	Unknow
+3693819	Unknow
+3693820	Unknow
+3693821	Unknow
+3693822	Unknow
+3693823	Unknow
+3693824	Unknow
+3693825	Unknow
+3693826	Unknow
+3693827	Unknow / eps9L
+3693828	eps9K / eps5K / Unknow
+3693829	eps9H / Unknow / cpsH / wcwC
+3693832	Unknow
+3693833	Unknow
+3693834	Unknow
+3693835	Unknow
+3693836	Unknow
+3693837	Unknow
+3693838	Unknow / soj
+3693839	Unknow
+3693840	bin / Unknow / resP / bin3
+3693841	Unknow
+3693842	Unknow
+3693843	Unknow
+3693844	Unknow
+3693845	Unknow
+3693846	Unknow
+3693847	topB / Unknow
+3693848	Unknow
+3693849	Unknow
+3693850	Unknow
+3693851	Unknow
+3693852	Unknow
+3693853	Unknow
+3693854	Unknow
+3693855	Unknow
+3693856	Unknow
+3693857	Unknow
+3693858	Unknow
+3693859	Unknow
+3693860	Unknow
+3693861	Unknow
+3693862	Unknow
+3693863	Unknow
+3693864	Unknow
+3693865	Unknow
+3693866	Unknow
+3693867	Unknow
+3693868	Unknow
+3693869	Unknow
+3693870	Unknow
+3693871	Unknow
+3693872	Unknow
+3693873	Unknow
+3693874	yocD / Unknow
+3693875	Unknow
+3693876	Unknow
+3693877	Unknow
+3693878	Unknow
+3693879	Unknow
+3693881	Unknow
+3693884	Unknow
+3693885	Unknow
+3693886	Unknow
+3693888	oppC / Unknow
+3693891	Unknow
+3693892	Unknow
+3693894	Unknow
+3693895	Unknow
+3693896	Unknow
+3693897	Unknow
+3693898	Unknow
+3693899	Unknow
+3693901	Unknow
+3693902	Unknow
+3693904	Unknow
+3693905	Unknow
+3693906	Unknow
+3693907	Unknow
+3693908	Unknow
+3693909	Unknow
+3693910	Unknow
+3693911	Unknow
+3693912	Unknow
+3693913	Unknow
+3693914	Unknow
+3693915	Unknow
+3693916	Unknow
+3693917	Unknow
+3693918	Unknow
+3693919	Unknow
+3693920	Unknow
+3693921	Unknow
+3693922	Unknow
+3693924	Unknow
+3693925	Unknow
+3693926	Unknow
+3693927	Unknow
+3693928	Unknow
+3693929	Unknow
+3693930	Unknow
+3693931	Unknow
+3693932	Unknow
+3693935	Unknow
+3693936	Unknow
+3693937	Unknow
+3693938	Unknow
+3693939	fabG / Unknow / gdh
+3693940	Unknow
+3693941	Unknow
+3693942	Unknow
+3693943	Unknow
+3693944	Unknow
+3693945	Unknow
+3693946	Unknow
+3693947	Unknow
+3693948	Unknow
+3693949	Unknow
+3693950	Unknow
+3693951	Unknow
+3693952	Unknow
+3693953	Unknow
+3693954	Unknow
+3693955	spfH / Unknow / spfH_2
+3693956	Unknow
+3693957	Unknow
+3693958	Unknow
+3693959	Unknow
+3693960	Unknow
+3693961	Unknow
+3693963	Unknow
+3693964	Unknow
+3693965	Unknow
+3693966	Unknow
+3693967	Unknow
+3693968	Unknow
+3693969	Unknow
+3693970	Unknow
+3693972	Unknow
+3693973	Unknow
+3693974	Unknow
+3693975	Unknow
+3693976	Unknow
+3693977	Unknow
+3693978	Unknow
+3693979	Unknow
+3693980	Unknow
+3693981	Unknow
+3693982	Unknow
+3693983	Unknow / deoC
+3693984	Unknow
+3693985	Unknow
+3693986	Unknow
+3693987	Unknow
+3693988	Unknow
+3693989	Unknow
+3693990	Unknow
+3693991	Unknow
+3693992	Unknow
+3693996	Unknow
+3693998	Unknow
+3693999	Unknow
+3694000	Unknow
+3694001	Unknow
+3694002	Unknow
+3694003	Unknow
+3694004	Unknow
+3694005	Unknow
+3694006	Unknow
+3694007	Unknow
+3694008	Unknow
+3694009	Unknow
+3694010	Unknow
+3694012	Unknow
+3694013	Unknow
+3694014	Unknow
+3694015	Unknow
+3694017	Unknow
+3694018	Unknow
+3694019	Unknow
+3694020	Unknow
+3694021	Unknow
+3694022	Unknow
+3694023	Unknow
+3694024	cmoA
+3694025	Unknow
+3694026	Unknow
+3694027	Unknow
+3694028	Unknow
+3694029	Unknow
+3694030	Unknow
+3694031	Unknow
+3694032	Unknow
+3694033	Unknow
+3694034	Unknow
+3694035	Unknow / eps10G
+3694036	Unknow
+3694038	Unknow
+3694039	Unknow
+3694040	Unknow
+3694042	Unknow
+3694043	Unknow
+3694047	Unknow
+3694048	Unknow
+3694050	Unknow
+3694051	Unknow
+3694052	Unknow
+3694053	Unknow
+3694055	Unknow
+3694056	Unknow
+3694057	ltrA / Unknow
+3694058	Unknow
+3694059	Unknow
+3694060	Unknow
+3694061	Unknow
+3694062	Unknow
+3694063	pulA / amyX
+3694064	Unknow
+3694065	Unknow
+3694066	Unknow
+3694067	Unknow
+3694068	Unknow
+3694069	Unknow
+3694070	Unknow
+3694071	Unknow
+3717803	Unknow
+3755519	Unknow
+3755520	Unknow
+3755521	Unknow
+3755522	Unknow
+3755523	Unknow
+3755524	Unknow
+3755525	Unknow
+3755526	mscL
+3755527	Unknow
+3755528	Unknow
+3755529	Unknow
+3755530	Unknow
+3755531	Unknow / sthIM
+3755532	Unknow
+3755533	Unknow
+3755534	Unknow / gspA
+3755535	Unknow
+3755536	Unknow
+3755537	Unknow
+3755538	Unknow
+3755539	Unknow
+3755540	Unknow
+3755541	Unknow
+3755542	Unknow
+3755543	Unknow
+3755544	Unknow
+3755545	Unknow
+3755546	Unknow
+3755547	Unknow
+3755548	Unknow
+3755549	Unknow
+3755550	Unknow
+3755551	Unknow
+3755552	Unknow
+3945324	hflX
+3986232	Unknow
+3986233	Unknow
+3986234	Unknow
+3986235	Unknow
+3986243	Unknow
+3986245	Unknow
+3986249	ugd
+3986257	Unknow
+3986258	Unknow
+3986264	Unknow
+3986270	Unknow
+3986271	yeeE
+3986272	yeeE
+3986278	Unknow
+3986280	Unknow
+3986281	Unknow
+3986282	Unknow
+3986283	Unknow
+3986289	Unknow
+3986290	Unknow
+3986292	Unknow
+3986293	Unknow
+3986294	Unknow
+3986295	Unknow
+3986296	Unknow
+3986300	Unknow
+3986301	Unknow
+3986302	Unknow
+3986303	Unknow
+3986305	Unknow
+3986307	Unknow
+3986312	Unknow
+3986313	Unknow
+3986317	Unknow
+3986318	Unknow
+3986319	Unknow
+3986320	Unknow
+3986333	Unknow
+3986334	Unknow
+3986341	Unknow
+3986345	Unknow
+3986346	Unknow
+3986347	Unknow
+3986348	dnaC
+3986354	Unknow
+3986357	Unknow
+3986362	Unknow
+3986367	Unknow
+3986368	Unknow
+3986376	Unknow
+3986380	Unknow
+3986387	Unknow
+3990469	epsI / Unknow
+4034059	Unknow
+4042435	yfjO
+4105990	Unknow
+4205079	Unknow
+4205080	Unknow
+4205081	Unknow
+4205082	Unknow
+4205086	Unknow
+4205087	Unknow
+4205088	Unknow
+4205089	Unknow
+4205090	Unknow
+4205091	Unknow
+4205092	drrA / Unknow / drrA_1
+4205093	Unknow
+4205096	Unknow
+4232575	Unknow
+4232577	Unknow
+4232578	Unknow
+4232579	Unknow
+4232583	Unknow
+4232587	Unknow
+4232589	Unknow
+4232592	Unknow
+4232594	Unknow
+4232596	Unknow
+4232597	Unknow
+4232602	ybbM
+4232603	ybbM
+4232604	Unknow
+4232608	manA
+4232609	Unknow
+4232611	Unknow
+4232612	tsaD
+4232614	Unknow
+4232615	Unknow
+4232623	pepA / Unknow
+4232628	adhE
+4232629	treA
+4232650	Unknow
+4232653	rlmH
+4232668	Unknow
+4232671	Unknow
+4232673	Unknow
+4232683	rlmKB
+4232684	Unknow
+4232685	Unknow
+4232687	Unknow
+4232688	Unknow
+4232690	Unknow
+4232701	Unknow
+4232704	Unknow
+4232714	Unknow
+4232727	Unknow
+4232731	Unknow
+4232732	Unknow
+4232740	Unknow
+4232741	glxK
+4232752	Unknow
+4232753	Unknow
+4232754	Unknow
+4232761	Unknow
+4232762	Unknow
+4232763	Unknow
+4232764	Unknow / niaR
+4232765	Unknow
+4232768	Unknow
+4232769	Unknow
+4232771	Unknow
+4232774	Unknow
+4232775	Unknow
+4232776	Unknow
+4232783	pepT
+4232784	Unknow
+4232789	Unknow
+4232794	Unknow
+4232796	Unknow
+4232874	Unknow
+4232902	Unknow
+4232904	Unknow
+4232905	Unknow
+4233003	miaA / Unknow
+4233094	Unknow
+4233095	Unknow
+4233102	Unknow
+4233114	Unknow
+4233116	Unknow
+4233129	Unknow
+4233133	Unknow
+4233134	Unknow
+4233135	Unknow
+4233160	rsh
+4233165	Unknow
+4233168	Unknow
+4233169	Unknow
+4233171	Unknow
+4233172	Unknow
+4233173	Unknow
+4257539	Unknow
+4257540	opuCB
+4257541	opuCA
+4257542	pgl
+4257548	fhuC
+4257549	Unknow
+4257550	fhuB
+4257551	Unknow
+4257552	Unknow
+4257554	Unknow
+4257555	Unknow
+4257556	Unknow
+4257558	pgl
+4257559	Unknow
+4257846	Unknow
+4257847	Unknow
+4257848	Unknow
+4257849	Unknow
+4257850	Unknow
+4257851	Unknow
+4257852	Unknow
+4257856	Unknow
+4257857	Unknow
+4257858	Unknow
+4257860	Unknow
+4257861	Unknow
+4257862	Unknow
+4257863	Unknow
+4257864	Unknow
+4257865	Unknow
+4257866	Unknow
+4257867	Unknow / feoB
+4257868	Unknow
+4257869	Unknow
+4257870	Unknow
+4257871	Unknow
+4257872	hflX
+4257873	Unknow
+4257875	Unknow
+4257876	Unknow
+4257877	Unknow / feoB
+4257878	Unknow
+4257879	Unknow / bglH
+4257880	Unknow
+4257881	Unknow
+4257882	cpsK
+4257885	Unknow / eps5M
+4257886	Unknow / eps5L
+4257887	Unknow / cpsJ
+4257892	Unknow
+4257893	Unknow
+4257894	Unknow
+4257895	Unknow
+4257896	Unknow
+4257897	Unknow
+4257898	Unknow
+4257899	Unknow
+4257900	Unknow
+4257901	Unknow
+4257902	Unknow
+4257903	Unknow
+4257904	Unknow
+4257905	Unknow
+4257906	Unknow
+4257907	Unknow
+4257908	Unknow
+4257909	Unknow
+4257910	Unknow
+4257912	Unknow
+4257913	Unknow
+4257914	Unknow
+4257915	Unknow
+4257916	Unknow
+4257917	Unknow
+4257918	Unknow
+4257919	Unknow
+4257920	Unknow
+4257921	Unknow
+4257922	Unknow
+4257923	Unknow
+4257924	Unknow
+4257925	Unknow
+4257926	mutR / mutR2
+4257927	rgg
+4257928	Unknow
+4257929	Unknow
+4257930	Unknow
+4257931	pezA
+4257932	vrlS
+4257933	Unknow
+4257934	Unknow
+4257935	Unknow
+4257936	Unknow
+4257937	Unknow
+4257938	Unknow
+4257939	Unknow
+4257940	yfkN / cpdB_1
+4257941	Unknow / niaR
+4257942	Unknow
+4257943	Unknow
+4257944	Unknow
+4257945	Unknow
+4257946	Unknow
+4257947	Unknow
+4257948	Unknow
+4257949	Unknow
+4257950	Unknow
+4257951	Unknow
+4257952	Unknow
+4257953	Unknow
+4257954	Unknow
+4257955	Unknow
+4257956	Unknow
+4257957	Unknow
+4257958	Unknow
+4257959	Unknow
+4257960	soj_1 / soj
+4257961	Unknow
+4257962	Unknow
+4257963	Unknow
+4257964	Unknow
+4257965	Unknow
+4257966	Unknow
+4257967	sivK
+4257968	sivR
+4257969	sivA / Unknow
+4257970	sivT
+4257971	sivF / ycbN
+4257972	sivE
+4257973	sivG
+4257974	licT / licT_1
+4257975	Unknow
+4257976	Unknow
+4257977	Unknow
+4257978	Unknow
+4257979	Unknow
+4257980	dnaD_1 / dnaD
+4257981	ssb_1 / ssbA
+4257982	Unknow
+4257983	Unknow
+4257984	Unknow
+4257985	Unknow
+4257986	Unknow
+4257987	immR / immR_2
+4257988	Unknow
+4257989	Unknow
+4257990	Unknow
+4257991	Unknow
+4257992	Unknow
+4257993	Unknow
+4257994	Unknow
+4257995	Unknow
+4257996	Unknow
+4257997	Unknow
+4257998	hsdS1 / Unknow
+4257999	Unknow
+4258000	Unknow
+4258001	Unknow
+4258002	Unknow
+4258003	Unknow
+4258004	Unknow
+4258005	Unknow
+4258006	Unknow
+4258007	Unknow
+4258008	Unknow
+4258009	Unknow
+4258010	Unknow
+4258011	Unknow
+4258012	Unknow
+4258013	Unknow
+4258014	Unknow
+4258015	Unknow
+4258016	Unknow
+4258017	Unknow
+4258018	ssp5 / Unknow / ssp5_2
+4258019	Unknow / ssb_2
+4258020	ybbD
+4258021	Unknow
+4258022	Unknow
+4258023	Unknow
+4258024	Unknow
+4258025	ligA / ligA_1
+4258026	Unknow
+4258027	Unknow
+4258028	Unknow
+4258029	Unknow
+4258030	Unknow
+4258031	Unknow
+4258032	malR_1 / Unknow
+4258033	Unknow / malR_2
+4258034	epsH
+4258035	Unknow
+4258036	Unknow
+4258037	Unknow
+4258038	yicL / yicL_1
+4258039	yicL / yicL_2
+4258040	Unknow
+4258041	Unknow
+4258042	Unknow
+4258043	Unknow
+4258044	Unknow
+4258045	Unknow
+4258046	soj_2 / Unknow
+4258047	Unknow
+4258048	Unknow
+4258049	Unknow
+4258050	Unknow
+4258051	Unknow
+4258052	Unknow
+4258053	Unknow
+4258054	Unknow
+4258055	Unknow
+4258056	Unknow
+4258057	Unknow
+4258058	Unknow
+4258059	Unknow
+4258060	Unknow
+4258061	yvdD / Unknow
+4258062	Unknow
+4258063	Unknow
+4258064	Unknow
+4258065	Unknow
+4258066	Unknow
+4258067	Unknow
+4258068	Unknow
+4258069	Unknow
+4258070	rfbD
+4258071	Unknow
+4258072	Unknow
+4258073	Unknow
+4258074	Unknow
+4318745	Unknow
+4318746	Unknow
+4318747	Unknow
+4318748	Unknow
+4318750	Unknow
+4318751	Unknow
+4318752	Unknow
+4318753	Unknow
+4318754	Unknow
+4318755	Unknow
+4318756	Unknow
+4318757	Unknow
+4318758	eps9M
+4318759	Unknow
+4318760	Unknow
+4318761	Unknow
+4318762	Unknow
+4318763	Unknow
+4318764	wciB
+4318765	Unknow
+4318766	Unknow
+4318767	Unknow
+4318770	Unknow
+4318771	Unknow
+4318772	Unknow
+4318797	Unknow
+4318798	Unknow
+4318799	Unknow
+4318800	Unknow
+4318801	Unknow
+4318802	Unknow
+4318803	Unknow
+4318804	Unknow
+4318805	Unknow
+4318806	Unknow
+4318807	Unknow
+4318809	Unknow
+4318810	Unknow
+4318811	Unknow
+4318812	Unknow / yckB
+4318813	Unknow
+4318814	Unknow
+4318815	Unknow
+4318818	Unknow
+4318819	Unknow
+4318820	Unknow
+4318821	Unknow
+4318822	uvrB
+4318823	Unknow
+4318825	Unknow
+4318826	Unknow
+4318827	Unknow
+4318828	Unknow
+4318829	Unknow
+4318830	Unknow
+4318831	Unknow
+4318832	Unknow
+4318833	Unknow
+4318834	Unknow
+4318835	Unknow
+4318836	Unknow
+4318837	Unknow
+4318838	nagE / bglF
+4318839	Unknow
+4318840	Unknow
+4318841	Unknow
+4318842	Unknow
+4318843	Unknow
+4318844	Unknow
+4318845	Unknow
+4318846	Unknow
+4318847	Unknow
+4318848	Unknow
+4318849	Unknow
+4318850	epsT
+4318851	epsS
+4318852	Unknow
+4318853	Unknow
+4318854	Unknow
+4318855	epsN
+4318856	espM
+4318857	Unknow
+4318858	Unknow
+4318859	Unknow
+4318860	Unknow
+4318861	ugd
+4318862	Unknow
+4318863	Unknow
+4318864	Unknow
+4318865	Unknow
+4318866	Unknow
+4318867	Unknow
+4318868	Unknow
+4318869	Unknow
+4318870	copG
+4318871	Unknow
+4318872	Unknow
+4318873	Unknow
+4318874	Unknow
+4318875	Unknow
+4318876	Unknow
+4318877	Unknow
+4318878	Unknow
+4318879	Unknow
+4318880	Unknow
+4325334	Unknow
+4325339	Unknow
+4325765	Unknow
+4341555	Unknow
+4341556	Unknow
+4341558	Unknow
+4341560	Unknow
+4341561	Unknow
+4341562	Unknow
+4341563	Unknow
+4341564	Unknow
+4341565	Unknow
+4341566	Unknow
+4341567	Unknow
+4341568	Unknow
+4341569	Unknow
+4341570	Unknow
+4341571	Unknow
+4341572	Unknow
+4341573	Unknow
+4341574	Unknow
+4341575	Unknow
+4341576	Unknow
+4341577	trmF
+4341578	levF
+4341579	Unknow
+4341580	Unknow
+4341581	eps3O
+4341582	eps3N
+4341583	eps3M
+4341584	eps3L
+4341585	Unknow
+4341586	eps3J
+4341587	eps3I
+4341588	eps3H
+4341589	Unknow
+4341840	Unknow
+4341841	Unknow
+4341842	Unknow
+4341844	Unknow
+4341845	Unknow
+4341847	Unknow
+4341848	ugd
+4341849	Unknow
+4341854	Unknow
+4341857	Unknow
+4341858	Unknow
+4341861	Unknow
+4341863	pdp
+4341864	Unknow
+4341871	Unknow
+4341872	Unknow
+4341873	Unknow
+4341874	Unknow
+4341875	Unknow
+4341876	Unknow
+4341877	Unknow
+4341878	Unknow
+4341879	Unknow
+4341880	Unknow
+4351864	rep
+4351865	Unknow
+4351866	Unknow
+4351868	Unknow
+4351869	Unknow
+4351870	Unknow
+4351871	Unknow
+4351874	adhE
+4351875	Unknow
+4351878	Unknow
+4351879	Unknow
+4351880	Unknow
+4351881	Unknow
+4351882	Unknow
+4351883	Unknow
+4351884	Unknow
+4351885	Unknow
+4351886	Unknow
+4351887	Unknow
+4351888	Unknow
+4351889	Unknow
+4351890	Unknow
+4351891	Unknow
+4351892	Unknow
+4351893	Unknow
+4351894	Unknow
+4351895	Unknow
+4351896	Unknow
+4351897	Unknow
+4351898	Unknow
+4351899	Unknow
+4351900	Unknow
+4351901	Unknow
+4351902	Unknow
+4351903	Unknow
+4351904	Unknow
+4351905	Unknow
+4351906	Unknow
+4351907	Unknow
+4351908	Unknow
+4351909	Unknow
+4351910	Unknow
+4351911	Unknow
+4351912	Unknow
+4351913	Unknow
+4351914	Unknow
+4351915	Unknow
+4351916	Unknow
+4351917	Unknow
+4351918	Unknow
+4351919	Unknow
+4351920	Unknow
+4351921	Unknow
+4351922	Unknow
+4351923	Unknow
+4351924	Unknow
+4351925	Unknow
+4351926	Unknow
+4351927	Unknow
+4351928	Unknow
+4351929	Unknow
+4351930	Unknow
+4351931	Unknow
+4351932	Unknow
+4351933	Unknow
+4351934	Unknow
+4351935	Unknow
+4351936	Unknow
+4351937	Unknow
+4351938	Unknow
+4351939	immR
+4351940	Unknow
+4351941	Unknow
+4351942	Unknow
+4351943	Unknow
+4351944	Unknow
+4351945	Unknow
+4351946	Unknow
+4351947	Unknow
+4351948	Unknow
+4351949	Unknow
+4351950	Unknow
+4351951	ciaH
+4351952	pdp
+4351953	pdp
+4351954	pdp
+4351955	pdp
+4351956	Unknow
+4351957	deoC
+4351958	Unknow
+4351959	Unknow
+4351960	Unknow
+4351961	Unknow
+4351962	Unknow
+4351963	Unknow
+4351964	Unknow
+4351965	Unknow
+4351966	Unknow
+4351967	Unknow
+4351968	Unknow
+4351969	Unknow
+4351970	Unknow
+4351971	Unknow
+4351972	ganP
+4351973	Unknow
+4351974	Unknow
+4351975	Unknow
+4351976	Unknow
+4351977	Unknow
+4351978	Unknow
+4351979	Unknow
+4351980	Unknow
+4351981	Unknow
+4351982	Unknow
+4351983	Unknow
+4351984	Unknow
+4351985	Unknow
+4351986	Unknow
+4351987	Unknow
+4351988	Unknow
+4351989	Unknow
+4351990	Unknow
+4351991	Unknow
+4351992	Unknow
+4351993	Unknow
+4351994	Unknow
+4351995	Unknow
+4351996	Unknow
+4351997	mscL
+4351998	Unknow
+4351999	Unknow
+4352000	Unknow
+4352001	Unknow
+4352002	Unknow
+4352003	Unknow
+4352004	Unknow
+4352005	Unknow
+4352006	Unknow
+4352007	Unknow
+4352008	Unknow
+4352009	Unknow
+4352010	Unknow
+4352011	Unknow
+4352012	Unknow
+4352013	Unknow
+4352014	Unknow
+4352015	ascB / bglA
+4352016	Unknow
+4352017	Unknow
+4352018	Unknow
+4352019	Unknow
+4352020	Unknow
+4352021	Unknow
+4352022	Unknow
+4352023	Unknow
+4352024	Unknow
+4352025	Unknow
+4352026	Unknow
+4352027	Unknow
+4352028	Unknow
+4352029	adhE
+4352030	adhE
+4352031	Unknow
+4352032	Unknow
+4352033	Unknow
+4352034	Unknow
+4352035	Unknow
+4352036	Unknow
+4352037	Unknow
+4352038	Unknow
+4352039	Unknow
+4352040	Unknow
+4352041	Unknow
+4352042	Unknow
+4352043	Unknow
+4352044	Unknow
+4352045	Unknow
+4352046	Unknow
+4352047	Unknow
+4352048	opuCC
+4352049	Unknow
+4352050	Unknow
+4352051	Unknow
+4352052	Unknow
+4352053	Unknow
+4352054	Unknow
+4352055	Unknow
+4352056	ycbL
+4352057	Unknow
+4352058	ycbN
+4352059	Unknow
+4352060	bcrR
+4352061	bcrA / Unknow
+4352062	Unknow
+4352063	Unknow
+4352064	uppP
+4352065	Unknow
+4352066	Unknow
+4352067	Unknow
+4352068	Unknow
+4352069	Unknow
+4352070	Unknow
+4352071	Unknow
+4352072	Unknow
+4352073	Unknow
+4352074	Unknow
+4352075	Unknow
+4352076	Unknow
+4352077	Unknow
+4352078	Unknow
+4352079	Unknow
+4352080	Unknow
+4352081	Unknow
+4352082	Unknow
+4352083	Unknow
+4352084	Unknow
+4352085	Unknow
+4352086	Unknow
+4352087	Unknow
+4352088	opuD
+4352089	Unknow
+4352090	Unknow
+4352091	Unknow
+4352092	glxK
+4352093	Unknow
+4352094	Unknow
+4352095	Unknow
+4352096	Unknow
+4352097	Unknow
+4352098	Unknow
+4352099	Unknow
+4352100	Unknow
+4352101	Unknow
+4352102	Unknow
+4352103	fabF
+4352104	Unknow
+4352105	Unknow
+4352106	Unknow
+4352107	Unknow
+4352108	Unknow
+4352109	Unknow
+4352110	Unknow
+4352111	Unknow
+4352112	Unknow
+4352113	Unknow
+4352114	Unknow
+4352115	Unknow
+4352116	Unknow
+4352117	Unknow
+4352118	Unknow
+4352119	Unknow
+4352120	Unknow
+4352121	Unknow
+4352122	Unknow
+4352123	Unknow
+4352124	Unknow
+4352125	Unknow
+4352126	Unknow
+4352127	Unknow
+4352128	Unknow
+4352129	Unknow
+4352130	Unknow
+4352131	Unknow
+4352132	Unknow
+4352133	Unknow
+4352134	Unknow
+4352135	Unknow
+4352136	Unknow
+4352137	Unknow
+4352138	Unknow
+4352139	Unknow
+4352140	Unknow
+4352141	Unknow
+4352142	Unknow
+4352143	Unknow
+4352144	Unknow
+4352145	Unknow
+4352146	Unknow
+4352147	Unknow
+4352148	Unknow
+4352149	Unknow
+4352150	Unknow
+4352151	Unknow
+4352152	Unknow
+4352153	Unknow
+4352154	Unknow
+4352155	Unknow
+4352156	adhE
+4352157	adhE
+4352158	Unknow
+4352159	Unknow
+4352160	Unknow
+4352161	Unknow
+4352162	Unknow
+4352163	Unknow
+4352164	Unknow
+4352165	Unknow
+4352166	Unknow
+4352167	Unknow
+4352168	Unknow
+4352169	Unknow
+4352170	Unknow
+4352173	Unknow
+4352174	Unknow
+4352175	Unknow
+4352178	Unknow
+4352181	Unknow
+4352182	Unknow
+4352183	Unknow
+4352184	Unknow
+4352185	Unknow
+4352186	Unknow
+4352187	Unknow
+4352188	Unknow
+4352189	Unknow
+4352190	Unknow
+4352191	Unknow
+4352192	Unknow
+4352193	Unknow
+4352194	umuC / Unknow
+4352195	Unknow
+4352196	Unknow
+4352197	Unknow
+4352198	Unknow
+4352199	Unknow
+4352200	Unknow
+4352201	Unknow
+4352202	Unknow
+4352203	Unknow
+4352204	Unknow
+4352205	Unknow
+4352206	stsIM
+4352207	fokIR
+4352208	Unknow
+4352209	Unknow
+4352210	Unknow
+4352211	immR
+4352212	Unknow
+4352213	Unknow
+4352214	Unknow
+4352215	Unknow
+4352216	Unknow
+4352217	Unknow
+4352218	Unknow
+4352219	Unknow
+4352220	Unknow
+4352221	Unknow
+4352222	Unknow
+4352223	Unknow
+4352224	Unknow
+4352225	Unknow
+4352226	bcrB
+4352227	Unknow
+4352228	Unknow
+4352229	Unknow
+4352230	Unknow
+4352231	Unknow
+4352232	Unknow
+4352233	Unknow
+4352234	Unknow
+4352235	Unknow
+4352236	Unknow
+4352237	Unknow
+4352238	Unknow
+4352239	Unknow
+4352240	Unknow
+4352241	Unknow
+4352242	Unknow
+4352243	Unknow
+4352244	nrpB
+4352245	Unknow
+4352246	Unknow
+4352247	Unknow
+4352248	Unknow
+4352249	Unknow
+4352250	Unknow
+4352251	Unknow
+4352252	Unknow
+4352253	Unknow
+4352254	Unknow
+4352255	Unknow
+4352256	Unknow
+4352257	Unknow
+4352258	Unknow
+4352259	Unknow
+4352260	Unknow
+4352261	Unknow
+4352262	Unknow
+4352263	Unknow
+4352264	Unknow
+4352265	Unknow
+4352266	Unknow
+4352267	Unknow
+4352268	Unknow
+4352269	Unknow
+4352270	Unknow
+4352271	Unknow
+4352272	Unknow
+4352273	Unknow
+4352274	Unknow
+4352275	Unknow
+4352276	cps20G
+4352277	cps20H
+4352278	Unknow
+4352279	Unknow
+4352280	Unknow
+4352281	Unknow
+4352282	Unknow
+4352283	Unknow
+4352284	Unknow
+4352285	Unknow
+4352286	Unknow
+4352287	Unknow
+4352288	Unknow
+4352289	Unknow
+4352290	Unknow
+4352291	Unknow
+4352292	Unknow
+4352293	Unknow
+4352294	alsS
+4352295	Unknow
+4352296	Unknow
+4352297	Unknow
+4352298	Unknow
+4352299	Unknow
+4352300	Unknow
+4352301	Unknow
+4352302	Unknow
+4352303	Unknow
+4352304	Unknow
+4352305	Unknow
+4352306	Unknow
+4352307	Unknow
+4352308	Unknow
+4352309	Unknow
+4352310	Unknow
+4352311	Unknow
+4352312	Unknow
+4352313	Unknow
+4352314	Unknow
+4352315	Unknow
+4352316	Unknow
+4352317	Unknow
+4352318	Unknow
+4475493	Unknow
+4475495	Unknow
+4475496	Unknow
+4475497	Unknow
+4475498	Unknow
+4475586	Unknow
+4475587	Unknow
+4475588	Unknow
+56201	Unknow
+563360	Int-Tn_1 / Unknow / int
+581747	Unknow
+581748	Unknow / rip
+581749	Unknow
+581750	int / Int-Tn / Int-Tn_2 / Unknow / int-4
+581863	yecS_6 / Unknow / yecS / glnP_3
+582005	Unknow / yecD / pncA
+582028	Unknow
+582036	Unknow
+582050	Unknow / htpX
+582071	Unknow
+582275	Unknow
+582285	aldB / Unknow / aldC / budA / alsD
+582302	Unknow / metE_2
+582305	Unknow / adhB
+582460	efeM / Unknow
+582461	efeB / ywbN / Unknow / efeN
+582533	pyrC / Unknow / allB
+582565	Unknow / malE_2
+582567	Unknow / malF
+582568	Unknow
+582593	Unknow
+582595	Unknow
+582657	Unknow
+582659	Unknow
+582678	pacL1 / pacL / Unknow
+582689	Unknow / hisIE / hisE
+582691	Unknow / hisF
+582695	Unknow / hisB
+582697	Unknow / hisG
+582709	Unknow / thiQ
+582758	Unknow
+582767	gpf / Unknow / arnC
+582775	ebsC / Unknow / ybaK
+582780	Unknow
+582879	Unknow / macB_2 / bceA
+582898	yedW / bceR / Unknow / phoB / graR / tpeJ / rr07
+582900	Unknow
+582901	Unknow
+582902	Unknow
+582905	lacA
+582989	Unknow
+583026	Unknow
+583065	Unknow / oppF / amiF1
+583066	Unknow / gsiA_6 / amiE / oppD
+583067	amiD / oppC / Unknow
+583068	Unknow / amiC / gsiC
+583140	Unknow / rpsP / rpsP_3
+583173	Unknow / tcyN / tcyN_1
+583209	Unknow
+583354	Unknow
+583433	Unknow / sdaAB / sdaB
+625031	Unknow
+625555	Unknow
+62911	Unknow / rpmJ
+66515	rpsNA / rpsN / Unknow / rpsZ
+684121	ltrA / Unknow
+684164	Unknow
+684245	Unknow
+684246	Unknow
+684247	Unknow
+684248	Unknow
+684249	Unknow
+684250	Unknow
+684251	Unknow
+684252	Unknow
+684253	Unknow
+684254	Unknow
+684255	Unknow
+684282	Unknow / pezT
+684283	Unknow
+684284	Unknow
+684285	Unknow
+684287	Unknow
+684290	Unknow
+684477	rpmG / Unknow / rpmG2
+686502	Unknow
+686853	Unknow
+686854	Unknow
+686855	Unknow
+686863	Unknow
+686875	Unknow
+686924	Unknow
+686986	potD / Unknow
+686987	Unknow / eriC / clcA
+686988	prtS / Unknow
+687081	Unknow
+687155	Unknow
+687342	Unknow
+687409	Unknow
+687450	Unknow / ftsY
+688030	tnp / insI / Unknow
+688051	Unknow
+688193	Unknow
+688201	Unknow
+688802	Unknow
+688920	Unknow / int
+694658	Unknow
+694659	Unknow / insK
+694695	Unknow
+694729	Unknow / int-2
+694769	cas2A / Unknow / cas2 / cas
+694770	Unknow / cas1 / cas
+694787	Unknow
+745555	sdh / Unknow / ydfG
+745591	umuC_2 / umuC / Unknow / umuC1
+745592	arp / Unknow
+745647	Unknow
+745648	Unknow
+745818	Unknow
+745823	Unknow
+745938	epsJ / Unknow / glf / epsM
+745997	Unknow / cas7e
+746000	Unknow
+746002	Unknow
+746015	Unknow
+746139	Unknow / mntH
+746171	Unknow
+746238	Unknow / hemH
+746332	Unknow
+746425	Unknow / ygzD
+746480	Unknow
+746545	mdlB / Unknow / exp
+746551	uraA / pbuX / Unknow / ygfU_1 / pbuX-tr
+746553	sau3AIM / Unknow
+746611	Unknow
+746622	Unknow
+746663	tnpA-IS981 / Unknow
+746664	Unknow / tnp-IS981
+746665	umuC / Unknow
+746666	Unknow
+746667	Unknow
+746668	Unknow
+746669	Unknow
+746670	Unknow
+746671	Unknow
+746672	Unknow
+746673	Unknow
+746674	Unknow
+746675	Unknow
+746676	Unknow
+746677	Unknow
+746678	Unknow
+746723	Unknow
+746724	Unknow
+746730	Unknow / int
+746739	Unknow
+746841	xerD
+747121	copB
+747186	Unknow
+747187	Unknow / N-ter
+747205	hsdM1 / Unknow / hsdM
+747211	hsdR_1 / Unknow / hsdR1
+747224	Unknow
+747225	Unknow
+747292	Unknow
+747320	Unknow
+747321	Unknow
+747327	Unknow
+747328	Unknow
+747329	Unknow
+747330	Unknow
+747331	Unknow
+747332	Unknow
+747333	Unknow
+747334	Unknow
+747336	Unknow
+747337	Unknow
+747415	Unknow
+747568	Unknow
+747584	nudG / Unknow
+751211	Unknow
+751212	Unknow / lin0465
+751213	Unknow
+751269	Unknow
+751275	Unknow
+751334	Unknow
+751335	Unknow
+751339	Unknow
+751340	Unknow
+751341	traG_1 / Unknow / traG_4 / traG
+751342	Unknow
+751343	Unknow
+751344	Unknow / ydaF
+751347	Unknow
+751356	Unknow
+77032	glf
+77532	Unknow / rpsB
+78419	Unknow / hrtA / lBA1838 / OB3137 / lolD
+78677	Unknow
+78839	lr1816 / Unknow
+78862	muc / Unknow
+79109	Unknow
+79115	Unknow
+79303	Unknow
+84489	Unknow
+88166	Unknow
+985591	Unknow
+986359	Unknow / insK
+986940	insF / Unknow / nisX
+987151	tnp / Unknow / insH
+987211	Unknow
+singl0	Unknow
+singl1	Unknow
+singl2	Unknow
+singl3	Unknow
+singl4	Unknow
+singl5	Unknow
+singl6	Unknow
+singl7	Unknow
+singl8	Unknow
+singl9	Unknow
+singl10	Unknow
+singl11	Unknow
+singl12	Unknow
+singl13	Unknow
+singl14	Unknow
+singl15	Unknow
+singl16	Unknow
+singl17	Unknow
+singl18	Unknow
+singl19	Unknow
+singl20	Unknow
+singl21	Unknow
+singl22	Unknow
+singl23	Unknow
+singl24	Unknow
+singl25	Unknow
+singl26	Unknow
+singl27	Unknow
+singl28	Unknow
+singl29	Unknow
+singl30	Unknow
+singl31	Unknow
+singl32	Unknow
+singl33	Unknow
+singl34	Unknow
+singl35	Unknow
+singl36	Unknow
+singl37	Unknow
+singl38	Unknow
+singl39	argD
+singl40	Unknow
+singl41	Unknow
+singl42	Unknow
+singl43	Unknow
+singl44	Unknow
+singl45	Unknow
+singl46	Unknow
+singl47	Unknow
+singl48	Unknow
+singl49	Unknow
+singl50	Unknow
+singl51	Unknow
+singl52	Unknow
+singl53	Unknow
+singl54	Unknow
+singl55	Unknow
+singl56	Unknow
+singl57	Unknow
+singl58	Unknow
+singl59	Unknow
+singl60	Unknow
+singl61	Unknow
+singl62	Unknow
+singl63	Unknow
+singl64	Unknow
+singl65	Unknow
+singl66	Unknow
+singl67	Unknow
+singl68	Unknow
+singl69	Unknow
+singl70	Unknow
+singl71	Unknow
+singl72	Unknow
+singl73	Unknow
+singl74	Unknow
+singl75	Unknow
+singl76	Unknow
+singl77	Unknow
+singl78	Unknow
+singl79	Unknow
+singl80	Unknow
+singl81	Unknow
+singl82	Unknow
+singl83	Unknow
+singl84	Unknow
+singl85	Unknow
+singl86	Unknow
+singl87	Unknow
+singl88	Unknow
+singl89	Unknow
+singl90	Unknow
+singl91	Unknow
+singl92	Unknow
+singl93	Unknow
+singl94	Unknow
+singl95	Unknow
+singl96	Unknow
+singl97	Unknow
+singl98	Unknow
+singl99	Unknow
+singl100	Unknow
+singl101	Unknow
+singl102	Unknow
+singl103	Unknow
+singl104	Unknow
+singl105	Unknow
+singl106	Unknow
+singl107	Unknow
+singl108	Unknow
+singl109	Unknow
+singl110	Unknow
+singl111	Unknow
+singl112	Unknow
+singl113	Unknow
+singl114	Unknow
+singl115	Unknow
+singl116	Unknow
+singl117	Unknow
+singl118	Unknow
+singl119	Unknow
+singl120	Unknow
+singl121	Unknow
+singl122	Unknow
+singl123	Unknow
+singl124	Unknow
+singl125	Unknow
+singl126	Unknow
+singl127	Unknow
+singl128	Unknow
+singl129	Unknow
+singl130	Unknow
+singl131	Unknow
+singl132	Unknow
+singl133	Unknow
+singl134	Unknow
+singl135	Unknow
+singl136	Unknow
+singl137	Unknow
+singl138	Unknow
+singl139	Unknow
+singl140	Unknow
+singl141	Unknow
+singl142	Unknow
+singl143	Unknow
+singl144	Unknow
+singl145	Unknow
+singl146	Unknow
+singl147	Unknow
+singl148	Unknow
+singl149	Unknow
+singl150	Unknow
+singl151	Unknow
+singl152	Unknow
+singl153	Unknow
+singl154	Unknow
+singl155	Unknow
+singl156	Unknow
+singl157	Unknow
+singl158	Unknow
+singl159	Unknow
+singl160	Unknow
+singl161	Unknow
+singl162	Unknow
+singl163	Unknow
+singl164	Unknow
+singl165	Unknow
+singl166	Unknow
+singl167	Unknow
+singl168	Unknow
+singl169	Unknow
+singl170	Unknow
+singl171	Unknow
+singl172	Unknow
+singl173	Unknow
+singl174	rimP
+singl175	rimP
+singl176	Unknow
+singl177	Unknow
+singl178	Unknow
+singl179	Unknow
+singl180	Unknow
+singl181	Unknow
+singl182	Unknow
+singl183	Unknow
+singl184	Unknow
+singl185	Unknow
+singl186	Unknow
+singl187	Unknow
+singl188	Unknow
+singl189	Unknow
+singl190	Unknow
+singl191	Unknow
+singl192	Unknow
+singl193	Unknow
+singl194	Unknow
+singl195	dnaK
+singl196	dnaK
+singl197	Unknow
+singl198	Unknow
+singl199	Unknow
+singl200	Unknow
+singl201	Unknow
+singl202	Unknow
+singl203	Unknow
+singl204	Unknow
+singl205	Unknow
+singl206	Unknow
+singl207	Unknow
+singl208	Unknow
+singl209	Unknow
+singl210	Unknow
+singl211	Unknow
+singl212	Unknow
+singl213	hphIAM
+singl214	Unknow
+singl215	Unknow
+singl216	Unknow
+singl217	Unknow
+singl218	Unknow
+singl219	Unknow
+singl220	Unknow
+singl221	Unknow
+singl222	epsO
+singl223	Unknow
+singl224	Unknow
+singl225	Unknow
+singl226	Unknow
+singl227	Unknow
+singl228	Unknow
+singl229	Unknow
+singl230	Unknow
+singl231	Unknow
+singl232	Unknow
+singl233	Unknow
+singl234	Unknow
+singl235	Unknow
+singl236	Unknow
+singl237	Unknow
+singl238	Unknow
+singl239	Unknow
+singl240	Unknow
+singl241	Unknow
+singl242	Unknow
+singl243	Unknow
+singl244	Unknow
+singl245	Unknow
+singl246	Unknow
+singl247	Unknow
+singl248	Unknow
+singl249	Unknow
+singl250	pucK
+singl251	Unknow
+singl252	Unknow
+singl253	Unknow
+singl254	Unknow
+singl255	ilvD
+singl256	Unknow
+singl257	Unknow
+singl258	Unknow
+singl259	Unknow
+singl260	Unknow
+singl261	Unknow
+singl262	oppC
+singl263	Unknow
+singl264	Unknow
+singl265	Unknow
+singl266	Unknow
+singl267	Unknow
+singl268	Unknow
+singl269	Unknow
+singl270	Unknow
+singl271	Unknow
+singl272	Unknow
+singl273	Unknow
+singl274	Unknow
+singl275	Unknow
+singl276	Unknow
+singl277	Unknow
+singl278	Unknow
+singl279	hyaD
+singl280	Unknow
+singl281	Unknow
+singl282	Unknow
+singl283	Unknow
+singl284	Unknow
+singl285	Unknow
+singl286	Unknow
+singl287	Unknow
+singl288	Unknow
+singl289	Unknow
+singl290	Unknow
+singl291	Unknow
+singl292	Unknow
+singl293	Unknow
+singl294	Unknow
+singl295	Unknow
+singl296	Unknow
+singl297	Unknow
+singl298	Unknow
+singl299	Unknow
+singl300	Unknow
+singl301	Unknow
+singl302	Unknow
+singl303	Unknow
+singl304	Unknow
+singl305	Unknow
+singl306	Unknow
+singl307	Unknow
+singl308	Unknow
+singl309	Unknow
+singl310	Unknow
+singl311	Unknow
+singl312	Unknow
+singl313	Unknow
+singl314	Unknow
+singl315	Unknow
+singl316	rlmKB
+singl317	Unknow
+singl318	Unknow
+singl319	Unknow
+singl320	Unknow
+singl321	Unknow
+singl322	Unknow
+singl323	Unknow
+singl324	Unknow
+singl325	Unknow
+singl326	Unknow
+singl327	Unknow
+singl328	Unknow
+singl329	adhP
+singl330	adhP
+singl331	Unknow
+singl332	Unknow
+singl333	Unknow
+singl334	Unknow
+singl335	Unknow
+singl336	Unknow
+singl337	Unknow
+singl338	galE
+singl339	Unknow
+singl340	Unknow
+singl341	Unknow
+singl342	Unknow
+singl343	Unknow
+singl344	Unknow
+singl345	Unknow
+singl346	Unknow
+singl347	rfbF
+singl348	Unknow
+singl349	Unknow
+singl350	Unknow
+singl351	Unknow
+singl352	Unknow
+singl353	Unknow
+singl354	Unknow
+singl355	Unknow
+singl356	Unknow
+singl357	Unknow
+singl358	Unknow
+singl359	Unknow
+singl360	Unknow
+singl361	Unknow
+singl362	Unknow
+singl363	Unknow
+singl364	glgP
+singl365	citB
+singl366	Unknow
+singl367	Unknow
+singl368	Unknow
+singl369	mtnE
+singl370	mtnE
+singl371	Unknow
+singl372	Unknow
+singl373	Unknow
+singl374	Unknow
+singl375	Unknow
+singl376	Unknow
+singl377	Unknow
+singl378	Unknow
+singl379	Unknow
+singl380	Unknow
+singl381	Unknow
+singl382	Unknow
+singl383	Unknow
+singl384	Unknow
+singl385	pyrG
+singl386	Unknow
+singl387	Unknow
+singl388	Unknow
+singl389	Unknow
+singl390	Unknow
+singl391	Unknow
+singl392	Unknow
+singl393	Unknow
+singl394	Unknow
+singl395	Unknow
+singl396	Unknow
+singl397	Unknow
+singl398	Unknow
+singl399	Unknow
+singl400	Unknow
+singl401	Unknow
+singl402	Unknow
+singl403	Unknow
+singl404	Unknow
+singl405	Unknow
+singl406	Unknow
+singl407	Unknow
+singl408	Unknow
+singl409	Unknow
+singl410	Unknow
+singl411	Unknow
+singl412	Unknow
+singl413	Unknow
+singl414	Unknow
+singl415	Unknow
+singl416	Unknow
+singl417	Unknow
+singl418	Unknow
+singl419	Unknow
+singl420	Unknow
+singl421	Unknow
+singl422	Unknow
+singl423	Unknow
+singl424	Unknow
+singl425	Unknow
+singl426	Unknow
+singl427	Unknow
+singl428	Unknow
+singl429	Unknow
+singl430	Unknow
+singl431	Unknow
+singl432	Unknow
+singl433	Unknow
+singl434	Unknow
+singl435	Unknow
+singl436	Unknow
+singl437	Unknow
+singl438	Unknow
+singl439	Unknow
+singl440	Unknow
+singl441	Unknow
+singl442	Unknow
+singl443	Unknow
+singl444	Unknow
+singl445	Unknow
+singl446	Unknow
+singl447	Unknow
+singl448	Unknow
+singl449	Unknow
+singl450	Unknow
+singl451	Unknow
+singl452	Unknow
+singl453	Unknow
+singl454	Unknow
+singl455	Unknow
+singl456	immR
+singl457	Unknow
+singl458	Unknow
+singl459	Unknow
+singl460	Unknow
+singl461	Unknow
+singl462	Unknow
+singl463	Unknow
+singl464	Unknow
+singl465	Unknow
+singl466	Unknow
+singl467	Unknow
+singl468	Unknow
+singl469	Unknow
+singl470	Unknow
+singl471	Unknow
+singl472	Unknow
+singl473	Unknow
+singl474	Unknow
+singl475	Unknow
+singl476	Unknow
+singl477	Unknow
+singl478	Unknow
+singl479	Unknow
+singl480	Unknow
+singl481	Unknow
+singl482	Unknow
+singl483	Unknow
+singl484	Unknow
+singl485	Unknow
+singl486	Unknow
+singl487	Unknow
+singl488	Unknow
+singl489	Unknow
+singl490	Unknow
+singl491	Unknow
+singl492	Unknow
+singl493	Unknow
+singl494	Unknow
+singl495	Unknow
+singl496	Unknow
+singl497	Unknow
+singl498	Unknow
+singl499	Unknow
+singl500	Unknow
+singl501	Unknow
+singl502	pynN
+singl503	Unknow
+singl504	Unknow
+singl505	Unknow
+singl506	Unknow
+singl507	Unknow
+singl508	Unknow
+singl509	Unknow
+singl510	Unknow
+singl511	Unknow
+singl512	Unknow
+singl513	Unknow
+singl514	Unknow
+singl515	Unknow
+singl516	mtrA
+singl517	Unknow
+singl518	Unknow
+singl519	Unknow
+singl520	Unknow
+singl521	Unknow
+singl522	Unknow
+singl523	Unknow
+singl524	Unknow
+singl525	Unknow
+singl526	Unknow
+singl527	Unknow
+singl528	Unknow
+singl529	Unknow
+singl530	Unknow
+singl531	Unknow
+singl532	Unknow
+singl533	Unknow
+singl534	Unknow
+singl535	Unknow
+singl536	Unknow
+singl537	Unknow
+singl538	Unknow
+singl539	Unknow
+singl540	Unknow
+singl541	Unknow
+singl542	Unknow
+singl543	Unknow
+singl544	Unknow
+singl545	Unknow
+singl546	Unknow
+singl547	Unknow
+singl548	Unknow
+singl549	Unknow
+singl550	Unknow
+singl551	Unknow
+singl552	Unknow
+singl553	Unknow
+singl554	Unknow
+singl555	Unknow
+singl556	Unknow
+singl557	Unknow
+singl558	Unknow
+singl559	Unknow
+singl560	Unknow
+singl561	Unknow
+singl562	Unknow
+singl563	Unknow
+singl564	Unknow
+singl565	Unknow
+singl566	Unknow
+singl567	Unknow
+singl568	Unknow
+singl569	Unknow
+singl570	Unknow
+singl571	Unknow
+singl572	Unknow
+singl573	Unknow
+singl574	Unknow
+singl575	Unknow
+singl576	Unknow
+singl577	Unknow
+singl578	Unknow
+singl579	Unknow
+singl580	Unknow
+singl581	Unknow
+singl582	Unknow
+singl583	Unknow
+singl584	Unknow
+singl585	Unknow
+singl586	Unknow
+singl587	Unknow
+singl588	Unknow
+singl589	Unknow
+singl590	Unknow
+singl591	Unknow
+singl592	Unknow
+singl593	Unknow
+singl594	Unknow
+singl595	Unknow
+singl596	Unknow
+singl597	Unknow
+singl598	Unknow
+singl599	Unknow
+singl600	Unknow
+singl601	Unknow
+singl602	Unknow
+singl603	Unknow
+singl604	Unknow
+singl605	Unknow
+singl606	Unknow
+singl607	Unknow
+singl608	Unknow
+singl609	Unknow
+singl610	Unknow
+singl611	sndB
+singl612	Unknow
+singl613	Unknow
+singl614	Unknow
+singl615	Unknow
+singl616	Unknow
+singl617	Unknow
+singl618	Unknow
+singl619	Unknow
+singl620	Unknow
+singl621	Unknow
+singl622	Unknow
+singl623	Unknow
+singl624	Unknow
+singl625	Unknow
+singl626	Unknow
+singl627	Unknow
+singl628	Unknow
+singl629	Unknow
+singl630	Unknow
+singl631	Unknow
+singl632	Unknow
+singl633	Unknow
+singl634	Unknow
+singl635	Unknow
+singl636	Unknow
+singl637	Unknow
+singl638	Unknow
+singl639	Unknow
+singl640	Unknow
+singl641	Unknow
+singl642	Unknow
+singl643	Unknow
+singl644	Unknow
+singl645	Unknow
+singl646	Unknow
+singl647	Unknow
+singl648	Unknow
+singl649	Unknow
+singl650	Unknow
+singl651	Unknow
+singl652	Unknow
+singl653	Unknow
+singl654	Unknow
+singl655	Unknow
+singl656	Unknow
+singl657	pig-3
+singl658	Unknow
+singl659	endA
+singl660	Unknow
+singl661	Unknow
+singl662	Unknow
+singl663	Unknow
+singl664	Unknow
+singl665	Unknow
+singl666	Unknow
+singl667	Unknow
+singl668	Unknow
+singl669	Unknow
+singl670	Unknow
+singl671	Unknow
+singl672	acpP2-1
+singl673	Unknow
+singl674	Unknow
+singl675	Unknow
+singl676	Unknow
+singl677	Unknow
+singl678	Unknow
+singl679	Unknow
+singl680	mmuM-1
+singl681	Unknow
+singl682	hsdS
+singl683	Unknow
+singl684	Unknow
+singl685	Unknow
+singl686	Unknow
+singl687	Unknow
+singl688	Unknow
+singl689	Unknow
+singl690	Unknow
+singl691	Unknow
+singl692	Unknow
+singl693	Unknow
+singl694	Unknow
+singl695	Unknow
+singl696	Unknow
+singl697	Unknow
+singl698	Unknow
+singl699	Unknow
+singl700	Unknow
+singl701	Unknow
+singl702	Unknow
+singl703	Unknow
+singl704	Unknow
+singl705	Unknow
+singl706	Unknow
+singl707	Unknow
+singl708	Unknow
+singl709	Unknow
+singl710	Unknow
+singl711	Unknow
+singl712	Unknow
+singl713	Unknow
+singl714	Unknow
+singl715	Unknow
+singl716	Unknow
+singl717	Unknow
+singl718	Unknow
+singl719	Unknow
+singl720	Unknow
+singl721	Unknow
+singl722	Unknow
+singl723	Unknow
+singl724	Unknow
+singl725	Unknow
+singl726	Unknow
+singl727	Unknow
+singl728	Unknow
+singl729	Unknow
+singl730	Unknow
+singl731	Unknow
+singl732	Unknow
+singl733	Unknow
+singl734	Unknow
+singl735	Unknow
+singl736	Unknow
+singl737	Unknow
+singl738	Unknow
+singl739	Unknow
+singl740	Unknow
+singl741	Unknow
+singl742	Unknow
+singl743	Unknow
+singl744	Unknow
+singl745	Unknow
+singl746	Unknow
+singl747	Unknow
+singl748	Unknow
+singl749	Unknow
+singl750	Unknow
+singl751	Unknow
+singl752	Unknow
+singl753	Unknow
+singl754	Unknow
+singl755	Unknow
+singl756	Unknow
+singl757	Unknow
+singl758	Unknow
+singl759	Unknow
+singl760	Unknow
+singl761	Unknow
+singl762	Unknow
+singl763	Unknow
+singl764	Unknow
+singl765	Unknow
+singl766	Unknow
+singl767	Unknow
+singl768	Unknow
+singl769	Unknow
+singl770	Unknow
+singl771	Unknow
+singl772	Unknow
+singl773	Unknow
+singl774	Unknow
+singl775	Unknow
+singl776	Unknow
+singl777	Unknow
+singl778	Unknow
+singl779	Unknow
+singl780	Unknow
+singl781	Unknow
+singl782	Unknow
+singl783	Unknow
+singl784	Unknow
+singl785	Unknow
+singl786	Unknow
+singl787	Unknow
+singl788	Unknow
+singl789	Unknow
+singl790	Unknow
+singl791	Unknow
+singl792	Unknow
+singl793	Unknow
+singl794	Unknow
+singl795	Unknow
+singl796	Unknow
+singl797	Unknow
+singl798	Unknow
+singl799	Unknow
+singl800	Unknow
+singl801	Unknow
+singl802	Unknow
+singl803	Unknow
+singl804	Unknow
+singl805	Unknow
+singl806	Unknow
+singl807	Unknow
+singl808	Unknow
+singl809	Unknow
+singl810	Unknow
+singl811	Unknow
+singl812	Unknow
+singl813	Unknow
+singl814	Unknow
+singl815	Unknow
+singl816	Unknow
+singl817	Unknow
+singl818	Unknow
+singl819	Unknow
+singl820	Unknow
+singl821	Unknow
+singl822	Unknow
+singl823	Unknow
+singl824	Unknow
+singl825	Unknow
+singl826	Unknow
+singl827	Unknow
+singl828	Unknow
+singl829	Unknow
+singl830	Unknow
+singl831	Unknow
+singl832	Unknow
+singl833	Unknow
+singl834	Unknow
+singl835	Unknow
+singl836	Unknow
+singl837	Unknow
+singl838	Unknow
+singl839	Unknow
+singl840	Unknow
+singl841	Unknow
+singl842	Unknow
+singl843	Unknow
+singl844	Unknow
+singl845	Unknow
+singl846	Unknow
+singl847	Unknow
+singl848	Unknow
+singl849	Unknow
+singl850	Unknow
+singl851	Unknow
+singl852	Unknow
+singl853	Unknow
+singl854	Unknow
+singl855	Unknow
+singl856	Unknow
+singl857	Unknow
+singl858	Unknow
+singl859	Unknow
+singl860	Unknow
+singl861	Unknow
+singl862	Unknow
+singl863	Unknow
+singl864	Unknow
+singl865	Unknow
+singl866	Unknow
+singl867	Unknow
+singl868	Unknow
+singl869	Unknow
+singl870	Unknow
+singl871	Unknow
+singl872	Unknow
+singl873	Unknow
+singl874	Unknow
+singl875	Unknow
+singl876	Unknow
+singl877	Unknow
+singl878	Unknow
+singl879	Unknow
+singl880	Unknow
+singl881	Unknow
+singl882	Unknow
+singl883	Unknow
+singl884	Unknow
+singl885	Unknow
+singl886	Unknow
+singl887	Unknow
+singl888	Unknow
+singl889	Unknow
+singl890	Unknow
+singl891	Unknow
+singl892	Unknow
+singl893	Unknow
+singl894	Unknow
+singl895	Unknow
+singl896	Unknow
+singl897	Unknow
+singl898	Unknow
+singl899	Unknow
+singl900	Unknow
+singl901	Unknow
+singl902	Unknow
+singl903	Unknow
+singl904	Unknow
+singl905	Unknow
+singl906	Unknow
+singl907	Unknow
+singl908	Unknow
+singl909	Unknow
+singl910	Unknow
+singl911	Unknow
+singl912	Unknow
+singl913	Unknow
+singl914	Unknow
+singl915	Unknow
+singl916	Unknow
+singl917	Unknow
+singl918	Unknow
+singl919	Unknow
+singl920	Unknow
+singl921	Unknow
+singl922	Unknow
+singl923	Unknow
+singl924	Unknow
+singl925	Unknow
+singl926	Unknow
+singl927	Unknow
+singl928	Unknow
+singl929	Unknow
+singl930	Unknow
+singl931	Unknow
+singl932	Unknow
+singl933	groEL
+singl934	groEL
+singl935	groEL
+singl936	groEL
+singl937	Unknow
+singl938	Unknow
+singl939	Unknow
+singl940	dnaE
+singl941	Unknow
+singl942	Unknow
+singl943	Unknow
+singl944	Unknow
+singl945	Unknow
+singl946	Unknow
+singl947	Unknow
+singl948	Unknow
+singl949	Unknow
+singl950	rnpA
+singl951	Unknow
+singl952	Unknow
+singl953	Unknow
+singl954	Unknow
+singl955	Unknow
+singl956	Unknow
+singl957	Unknow
+singl958	Unknow
+singl959	Unknow
+singl960	Unknow
+singl961	Unknow
+singl962	Unknow
+singl963	Unknow
+singl964	Unknow
+singl965	queA
+singl966	ybgF
+singl967	Unknow
+singl968	Unknow
+singl969	Unknow
+singl970	Unknow
+singl971	Unknow
+singl972	Unknow
+singl973	Unknow
+singl974	Unknow
+singl975	Unknow
+singl976	Unknow
+singl977	Unknow
+singl978	Unknow
+singl979	Unknow
+singl980	Unknow
+singl981	Unknow
+singl982	yehX
+singl983	yehX
+singl984	pbuX
+singl985	pucK
+singl986	pbuX
+singl987	Unknow
+singl988	Unknow
+singl989	Unknow
+singl990	Unknow
+singl991	yfdH
+singl992	addA
+singl993	Unknow
+singl994	Unknow
+singl995	Unknow
+singl996	Unknow
+singl997	Unknow
+singl998	Unknow
+singl999	Unknow
+singl1000	Unknow
+singl1001	Unknow
+singl1002	Unknow
+singl1003	Unknow
+singl1004	Unknow
+singl1005	Unknow
+singl1006	Unknow
+singl1007	Unknow
+singl1008	Unknow
+singl1009	pbuX
+singl1010	Unknow
+singl1011	Unknow
+singl1012	Unknow
+singl1013	Unknow
+singl1014	Unknow
+singl1015	Unknow
+singl1016	Unknow
+singl1017	Unknow
+singl1018	Unknow
+singl1019	Unknow
+singl1020	Unknow
+singl1021	Unknow
+singl1022	Unknow
+singl1023	Unknow
+singl1024	Unknow
+singl1025	Unknow
+singl1026	Unknow
+singl1027	Unknow
+singl1028	Unknow
+singl1029	Unknow
+singl1030	Unknow
+singl1031	Unknow
+singl1032	Unknow
+singl1033	Unknow
+singl1034	Unknow
+singl1035	Unknow
+singl1036	Unknow
+singl1037	Unknow
+singl1038	Unknow
+singl1039	Unknow
+singl1040	Unknow
+singl1041	Unknow
+singl1042	Unknow
+singl1043	Unknow
+singl1044	Unknow
+singl1045	Unknow
+singl1046	Unknow
+singl1047	Unknow
+singl1048	Unknow
+singl1049	Unknow
+singl1050	Unknow
+singl1051	Unknow
+singl1052	Unknow
+singl1053	Unknow
+singl1054	Unknow
+singl1055	Unknow
+singl1056	Unknow
+singl1057	Unknow
+singl1058	Unknow
+singl1059	Unknow
+singl1060	Unknow
+singl1061	Unknow
+singl1062	Unknow
+singl1063	Unknow
+singl1064	Unknow
+singl1065	Unknow
+singl1066	Unknow
+singl1067	Unknow
+singl1068	Unknow
+singl1069	Unknow
+singl1070	Unknow
+singl1071	Unknow
+singl1072	Unknow
+singl1073	Unknow
+singl1074	Unknow
+singl1075	Unknow
+singl1076	Unknow
+singl1077	Unknow
+singl1078	Unknow
+singl1079	Unknow
+singl1080	Unknow
+singl1081	Unknow
+singl1082	Unknow
+singl1083	Unknow
+singl1084	Unknow
+singl1085	Unknow
+singl1086	Unknow
+singl1087	Unknow
+singl1088	Unknow
+singl1089	Unknow
+singl1090	Unknow
+singl1091	Unknow
+singl1092	Unknow
+singl1093	Unknow
+singl1094	Unknow
+singl1095	Unknow
+singl1096	Unknow
+singl1097	Unknow
+singl1098	Unknow
+singl1099	Unknow
+singl1100	Unknow
+singl1101	Unknow
+singl1102	Unknow
+singl1103	Unknow
+singl1104	Unknow
+singl1105	Unknow
+singl1106	Unknow
+singl1107	Unknow
+singl1108	Unknow
+singl1109	Unknow
+singl1110	Unknow
+singl1111	Unknow
+singl1112	Unknow
+singl1113	Unknow
+singl1114	Unknow
+singl1115	Unknow
+singl1116	Unknow
+singl1117	hsdS
+singl1118	Unknow
+singl1119	Unknow
+singl1120	Unknow
+singl1121	Unknow
+singl1122	bspRIM
+singl1123	Unknow
+singl1124	Unknow
+singl1125	Unknow
+singl1126	Unknow
+singl1127	Unknow
+singl1128	Unknow
+singl1129	Unknow
+singl1130	Unknow
+singl1131	Unknow
+singl1132	Unknow
+singl1133	Unknow
+singl1134	Unknow
+singl1135	Unknow
+singl1136	Unknow
+singl1137	hsdS
+singl1138	Unknow
+singl1139	Unknow
+singl1140	Unknow
+singl1141	Unknow
+singl1142	Unknow
+singl1143	Unknow
+singl1144	Unknow
+singl1145	Unknow
+singl1146	Unknow
+singl1147	Unknow
+singl1148	Unknow
+singl1149	Unknow
+singl1150	Unknow
+singl1151	Unknow
+singl1152	Unknow
+singl1153	htrA
+singl1154	Unknow
+singl1155	Unknow
+singl1156	Unknow
+singl1157	arp1
+singl1158	Unknow
+singl1159	Unknow
+singl1160	Unknow
+singl1161	Unknow
+singl1162	Unknow
+singl1163	Unknow
+singl1164	Unknow
+singl1165	Unknow
+singl1166	Unknow
+singl1167	Unknow
+singl1168	Unknow
+singl1169	Unknow
+singl1170	Unknow
+singl1171	Unknow
+singl1172	Unknow
+singl1173	Unknow
+singl1174	Unknow
+singl1175	Unknow
+singl1176	Unknow
+singl1177	Unknow
+singl1178	Unknow
+singl1179	Unknow
+singl1180	Unknow
+singl1181	Unknow
+singl1182	SHP?
+singl1183	Unknow
+singl1184	Unknow
+singl1185	Unknow
+singl1186	Unknow
+singl1187	Unknow
+singl1188	Unknow
+singl1189	Unknow
+singl1190	Unknow
+singl1191	Unknow
+singl1192	Unknow
+singl1193	Unknow
+singl1194	Unknow
+singl1195	Unknow
+singl1196	Unknow
+singl1197	Unknow
+singl1198	Unknow
+singl1199	Unknow
+singl1200	Unknow
+singl1201	Unknow
+singl1202	Unknow
+singl1203	Unknow
+singl1204	Unknow
+singl1205	Unknow
+singl1206	Unknow
+singl1207	Unknow
+singl1208	Unknow
+singl1209	Unknow
+singl1210	Unknow
+singl1211	Unknow
+singl1212	Unknow
+singl1213	Unknow
+singl1214	Unknow
+singl1215	Unknow
+singl1216	Unknow
+singl1217	Unknow
+singl1218	Unknow
+singl1219	Unknow
+singl1220	Unknow
+singl1221	Unknow
+singl1222	Unknow
+singl1223	Unknow
+singl1224	Unknow
+singl1225	Unknow
+singl1226	Unknow
+singl1227	Unknow
+singl1228	Unknow
+singl1229	Unknow
+singl1230	Unknow
+singl1231	Unknow
+singl1232	Unknow
+singl1233	Unknow
+singl1234	dnaA
+singl1235	mfd
+singl1236	Unknow
+singl1237	Unknow
+singl1238	Unknow
+singl1239	Unknow
+singl1240	Unknow
+singl1241	Unknow
+singl1242	Unknow
+singl1243	Unknow
+singl1244	Unknow
+singl1245	Unknow
+singl1246	Unknow
+singl1247	Unknow
+singl1248	Unknow
+singl1249	Unknow
+singl1250	Unknow
+singl1251	Unknow
+singl1252	sdaAA
+singl1253	Unknow
+singl1254	Unknow
+singl1255	Unknow
+singl1256	Unknow
+singl1257	thiT
+singl1258	Unknow
+singl1259	Unknow
+singl1260	Unknow
+singl1261	Unknow
+singl1262	lspA
+singl1263	Unknow
+singl1264	Unknow
+singl1265	Unknow
+singl1266	recA
+singl1267	Unknow
+singl1268	Unknow
+singl1269	Unknow
+singl1270	Unknow
+singl1271	Unknow
+singl1272	Unknow
+singl1273	Unknow
+singl1274	Unknow
+singl1275	Unknow
+singl1276	Unknow
+singl1277	Unknow
+singl1278	Unknow
+singl1279	lspA
+singl1280	Unknow
+singl1281	Unknow
+singl1282	Unknow
+singl1283	Unknow
+singl1284	Unknow
+singl1285	mfd
+singl1286	Unknow
+singl1287	Unknow
+singl1288	Unknow
+singl1289	Unknow
+singl1290	Unknow
+singl1291	Unknow
+singl1292	Unknow
+singl1293	Unknow
+singl1294	mprF
+singl1295	Unknow
+singl1296	Unknow
+singl1297	deoC
+singl1298	Unknow
+singl1299	Unknow
+singl1300	Unknow
+singl1301	Unknow
+singl1302	Unknow
+singl1303	cpdB
+singl1304	Unknow
+singl1305	Unknow
+singl1306	Unknow
+singl1307	Unknow
+singl1308	Unknow
+singl1309	Unknow
+singl1310	Unknow
+singl1311	Unknow
+singl1312	Unknow
+singl1313	Unknow
+singl1314	Unknow
+singl1315	Unknow
+singl1316	Unknow
+singl1317	Unknow
+singl1318	Unknow
+singl1319	Unknow
+singl1320	Unknow
+singl1321	Unknow
+singl1322	Unknow
+singl1323	Unknow
+singl1324	Unknow
+singl1325	Unknow
+singl1326	Unknow
+singl1327	Unknow
+singl1328	Unknow
+singl1329	Unknow
+singl1330	Unknow
+singl1331	Unknow
+singl1332	Unknow
+singl1333	Unknow
+singl1334	Unknow
+singl1335	Unknow
+singl1336	Unknow
+singl1337	Unknow
+singl1338	Unknow
+singl1339	Unknow
+singl1340	Unknow
+singl1341	Unknow
+singl1342	Unknow
+singl1343	Unknow
+singl1344	Unknow
+singl1345	Unknow
+singl1346	Unknow
+singl1347	Unknow
+singl1348	Unknow
+singl1349	Unknow
+singl1350	Unknow
+singl1351	Unknow
+singl1352	Unknow
+singl1353	Unknow
+singl1354	Unknow
+singl1355	Unknow
+singl1356	Unknow
+singl1357	Unknow
+singl1358	Unknow
+singl1359	Unknow
+singl1360	Unknow
+singl1361	Unknow
+singl1362	Unknow
+singl1363	Unknow
+singl1364	Unknow
+singl1365	Unknow
+singl1366	Unknow
+singl1367	Unknow
+singl1368	Unknow
+singl1369	Unknow
+singl1370	Unknow
+singl1371	Unknow
+singl1372	Unknow
+singl1373	Unknow
+singl1374	Unknow
+singl1375	Unknow
+singl1376	Unknow
+singl1377	Unknow
+singl1378	Unknow
+singl1379	Unknow
+singl1380	Unknow
+singl1381	Unknow
+singl1382	Unknow
+singl1383	Unknow
+singl1384	Unknow
+singl1385	Unknow
+singl1386	Unknow
+singl1387	Unknow
+singl1388	Unknow
+singl1389	Unknow
+singl1390	Unknow
+singl1391	Unknow
+singl1392	Unknow
+singl1393	Unknow
+singl1394	Unknow
+singl1395	Unknow
+singl1396	Unknow
+singl1397	Unknow
+singl1398	Unknow
+singl1399	Unknow
+singl1400	Unknow
+singl1401	Unknow
+singl1402	Unknow
+singl1403	Unknow
+singl1404	Unknow
+singl1405	Unknow
+singl1406	Unknow
+singl1407	Unknow
+singl1408	Unknow
+singl1409	Unknow
+singl1410	Unknow
+singl1411	Unknow
+singl1412	Unknow
+singl1413	Unknow
+singl1414	Unknow
+singl1415	Unknow
+singl1416	Unknow
+singl1417	Unknow
+singl1418	Unknow
+singl1419	Unknow
+singl1420	Unknow
+singl1421	Unknow
+singl1422	Unknow
+singl1423	Unknow
+singl1424	Unknow
+singl1425	Unknow
+singl1426	Unknow
+singl1427	Unknow
+singl1428	Unknow
+singl1429	Unknow
+singl1430	Unknow
+singl1431	Unknow
+singl1432	Unknow
+singl1433	Unknow
+singl1434	Unknow
+singl1435	Unknow
+singl1436	Unknow
+singl1437	Unknow
+singl1438	Unknow
+singl1439	Unknow
+singl1440	Unknow
+singl1441	Unknow
+singl1442	Unknow
+singl1443	Unknow
+singl1444	Unknow
+singl1445	Unknow
+singl1446	Unknow
+singl1447	Unknow
+singl1448	Unknow
+singl1449	Unknow
+singl1450	Unknow
+singl1451	Unknow
+singl1452	Unknow
+singl1453	Unknow
+singl1454	Unknow
+singl1455	Unknow
+singl1456	Unknow
+singl1457	Unknow
+singl1458	Unknow
+singl1459	Unknow
+singl1460	Unknow
+singl1461	Unknow
+singl1462	Unknow
+singl1463	Unknow
+singl1464	Unknow
+singl1465	Unknow
+singl1466	Unknow
+singl1467	Unknow
+singl1468	Unknow
+singl1469	Unknow
+singl1470	Unknow
+singl1471	Unknow
+singl1472	Unknow
+singl1473	Unknow
+singl1474	Unknow
+singl1475	Unknow
+singl1476	Unknow
+singl1477	Unknow
+singl1478	Unknow
+singl1479	Unknow
+singl1480	Unknow
+singl1481	Unknow
+singl1482	Unknow
+singl1483	Unknow
+singl1484	Unknow
+singl1485	Unknow
+singl1486	Unknow
+singl1487	Unknow
+singl1488	Unknow
+singl1489	Unknow
+singl1490	Unknow
+singl1491	Unknow
+singl1492	Unknow
+singl1493	Unknow
+singl1494	Unknow
+singl1495	Unknow
+singl1496	Unknow
+singl1497	Unknow
+singl1498	Unknow
+singl1499	Unknow
+singl1500	Unknow
+singl1501	Unknow
+singl1502	Unknow
+singl1503	Unknow
+singl1504	Unknow
+singl1505	Unknow
+singl1506	Unknow
+singl1507	Unknow
+singl1508	Unknow
+singl1509	Unknow
+singl1510	Unknow
+singl1511	Unknow
+singl1512	Unknow
+singl1513	Unknow
+singl1514	Unknow
+singl1515	Unknow
+singl1516	Unknow
+singl1517	Unknow
+singl1518	Unknow
+singl1519	Unknow
+singl1520	Unknow
+singl1521	Unknow
+singl1522	Unknow
+singl1523	Unknow
+singl1524	Unknow
+singl1525	Unknow
+singl1526	Unknow
+singl1527	Unknow
+singl1528	Unknow
+singl1529	metE
+singl1530	Unknow
+singl1531	Unknow
+singl1532	Unknow
+singl1533	Unknow
+singl1534	Unknow
+singl1535	Unknow
+singl1536	Unknow
+singl1537	rlmA
+singl1538	Unknow
+singl1539	Unknow
+singl1540	Unknow
+singl1541	Unknow
+singl1542	Unknow
+singl1543	Unknow
+4	rplNA / Unknow / rplN
+8	Unknow / rpsL
+15	Unknow / tufB / tuf / tufA
+16	rpsJ / Unknow
+26	Unknow / rpsK
+37	Unknow / atpD
+1584	groEL / Unknow / groL
+4192	rpmA / Unknow
+15197	Unknow / infA
+15198	Unknow / rpmH
+15535	Unknow / fusA
+61586	Unknow / rpsS
+61878	yjdM / Unknow / phnA
+66531	rplP / Unknow
+66562	rpsQ / Unknow
+67578	Unknow / rplS
+76931	rplK / Unknow
+76951	rpsR / Unknow
+77113	Unknow / pyrG
+77115	ykgM / rpmE / rpmE2 / Unknow / rpmEB
+77234	Unknow / galU / cap4C / gtaB
+77248	uvrA / Unknow
+77254	Unknow / clpP
+77315	upp / Unknow
+77323	atpA / Unknow
+77343	rpsD / Unknow / rpsD_2
+77465	Unknow / rpsO / rpso
+77559	Unknow / dnaK
+77563	lepA / Unknow
+77612	hstH-1 / Unknow / rpsU
+77619	glyQ / Unknow
+77622	lysS-1 / Unknow / rpoD / dnaG_1 / sigA
+77654	Unknow / hbs / hupB / hstH
+77780	sufB / Unknow
+77784	sufC / Unknow
+77888	fabK-1 / Unknow / rpsP / rpsP_2
+77906	rpmB / Unknow
+77930	Unknow / rplU
+77970	Unknow / rplT
+78019	Unknow / metK
+78042	PTSH / Unknow / ptsH
+78109	Unknow / rpsI
+78115	Unknow / rplQ
+78117	Unknow / rpsM
+78122	rpsE / Unknow
+78123	rl18 / Unknow / rplR
+78125	Unknow / rpsH
+78126	rplE / Unknow
+78129	rpsC / Unknow
+78130	Unknow / rplV
+78131	rplB / Unknow
+78133	Unknow / rplD
+78134	Unknow / rplC
+78136	Unknow / rpsG
+78140	Unknow / rpoC
+78211	Unknow / ymgE
+79251	rmlA / Unknow / rfbA / spsI
+79253	spsJ / Unknow / rffG / rmlB / rfbB
+79294	tnp / orF00044-1 / Unknow / tnp1216 / orF00044 / tnpA2
+88141	yebC / Unknow / yeeN / yeeI
+93426	rplL / rpiL / Unknow
+98622	eno / Unknow
+105749	Unknow / typA / bipA
+106504	Unknow / queF
+106896	Unknow / mnmA / trmU
+106911	Unknow / tgt
+107403	Unknow / rplO
+116971	gyrB / Unknow
+116973	Unknow / rpsF
+116978	Unknow / purA
+117284	rpmG / rpmGA / Unknow
+117334	Unknow / ygaC
+117342	ptsP / Unknow / ptsI / PTSI
+117446	queA / Unknow
+117476	rpmI / Unknow
+117683	ruvX / yqgF / ybeB / Unknow / yrrK / rimF
+117996	mioC / Unknow / fldP / fld
+118071	nrdD_2 / nrdD / Unknow
+118226	Unknow / nrdF2 / nrdF
+118263	clpE_1 / Unknow / clpA / clpE
+118416	yitW / paaD / Unknow
+118514	pyrAB / Unknow / carB
+118546	pstA / Unknow / pstC2
+118721	yfgB / rlmN / Unknow
+118845	purB / Unknow / purB1
+119027	Unknow / pncB
+119220	Unknow / valS
+119429	Unknow / houQ / yegQ / yrrO / yhbU
+119436	Unknow / guaB
+119509	Unknow / rplM
+243016	yyzM / Unknow / yaaA
+243021	hslR / yaab / Unknow
+243026	hprT / Unknow / hpt
+243031	prsA / Unknow / prs / prsA1
+243032	Unknow / araT / dapX / patA / yfdZ
+243038	purC / Unknow
+243039	Unknow / purL
+243040	purF / Unknow
+243041	Unknow / purM
+243042	Unknow / purN
+243044	purH / Unknow
+243058	purE / Unknow / pure
+243063	Unknow / ruvB
+243071	rplW / Unknow
+243072	rpmC / Unknow
+243073	Unknow / rplX
+243074	rplF / Unknow
+243075	Unknow / rpmD
+243076	Unknow / secY
+243077	Unknow / adk
+243078	rpoA / Unknow
+243096	Unknow / grpE
+243097	Unknow / dnaJ
+243104	Unknow / tig
+243105	Unknow / rpoE
+243107	dut / Unknow
+243109	cynT / mtcA / Unknow / cah
+243111	gltX / Unknow
+243122	Unknow / argG
+243126	Unknow / yloU / asp
+243128	spfH_1 / Unknow
+243130	artM_1 / Unknow / hisP / artR / glnQ2
+243136	Unknow / sufD
+243137	sufS / Unknow / nifS1
+243138	nifU / Unknow / sufU / iscU
+243149	adcC / Unknow / znuC
+243153	tyrS / Unknow
+243155	Unknow / rpoB
+243174	ssb_4 / Unknow / ssb / ssbA
+243195	Unknow / cysE / cysE1
+243197	cysS / Unknow
+243199	Unknow / yjfH / rlmB
+243200	Unknow / raeA
+243231	Unknow / ynzC
+243242	Unknow / proB
+243244	mraW / rsmH / Unknow
+243248	Unknow / cshB / rheB
+243250	Unknow / yxeN_2 / tcyB
+243251	tcyN_2 / Unknow / tcyN / yecC
+243255	NADE / Unknow / nadE
+243256	pepC / Unknow
+243258	Unknow / recU
+243263	luxS / Unknow
+243264	Unknow / rny
+243292	yvyE / Unknow / yigZ
+243301	Unknow / acpP2 / acpB / acpP / acpA
+243303	fabK / Unknow
+243305	fabG / Unknow / fabG2
+243308	fabZ / Unknow
+243309	Unknow / accC
+243310	Unknow / accD
+243311	Unknow / accA
+243313	serS / Unknow
+243316	manN / levG / Unknow / manZ
+243317	manY / manM / Unknow / levF
+243318	Unknow / manX / manL
+243332	Unknow / trmB
+243334	nusA / Unknow
+243335	ylxR / rulR / Unknow
+243338	Unknow / rbfA
+243356	pgi / Unknow
+243360	gpsA / Unknow
+243402	galE1 / Unknow / galE_3 / galE / galE_2
+243420	Unknow / asnA
+243424	rsmD / Unknow
+243442	Unknow / glk / glcK
+243449	Unknow / ftsZ
+243455	iarS / Unknow / ileS
+243458	Unknow
+243460	artM_2 / gltL / glnQ / Unknow / artR / glnQ2
+243465	xseB / Unknow
+243467	tlyA / Unknow / yqxC
+243474	pyrDa / Unknow / pyrD2 / pyrD
+243481	pacL / pacL2 / Unknow
+243484	aa23 / Unknow / queG
+243485	Unknow / prfB / prfA
+243486	Unknow / ftsE
+243490	Unknow / ucpA / butA_2
+243492	aspC1 / aspB / Unknow / aatA
+243493	asnC / Unknow / asnS
+243611	pepQ / Unknow
+243612	Unknow / ccpA
+243617	Unknow / thrS
+243624	gltL / glnQ / Unknow / artP / artM_3
+243626	vicR / Unknow / rr05 / walR / cpxR
+243628	Unknow / walJ / vicX
+243642	Unknow / hprK / PTSK
+243648	Unknow
+243656	Unknow / lysS / lysU
+243657	Unknow / yjjG
+243669	tpiA / Unknow
+243670	Unknow / gpmA / gpmA_2
+243672	Unknow / recR
+243673	ddlA / Unknow / ddl
+243678	prfC / Unknow
+243679	yjqA / Unknow
+243683	deaD / rheA / deaD_2 / Unknow / cshA
+243684	Unknow / yazA
+243685	trmNF / Unknow
+243689	Unknow / purK
+243698	sodA / Unknow
+243718	aarS / Unknow / alaS
+243726	nrdA / Unknow / nrdE
+243727	nrdH / Unknow
+243731	Unknow / udk
+243751	murAB / Unknow / murZ / murA
+243754	pepM / Unknow / map
+243759	dagK / Unknow
+243765	atpE / Unknow
+243772	Unknow / murAA / murA
+243775	Unknow / pheS
+243784	trmE / Unknow / mnmE
+243788	Unknow / acoB
+243790	lpdA / Unknow / acoL / lpd
+243792	cobQ / Unknow / gatD
+243796	Unknow / glmM
+243799	Unknow / hemW / hemN
+243828	pfkA / Unknow / pfk
+243830	Unknow / pyk / pykF
+243833	Unknow / glmS
+243834	yecS_2 / Unknow / yecS
+243842	nupO / Unknow / rbsA / mglA
+243846	ldhA / ldh / Unknow / lctE
+243847	Unknow / gyrA
+243852	Unknow / guaA
+243854	gid / Unknow / trmFO
+243863	Unknow / xerS / xerC
+243867	Unknow / ffh
+243868	Unknow / ylxM
+243877	pstB_2 / Unknow / pstB2 / pstBA / pstB
+243879	pstB1 / pstB_1 / Unknow / pstBA / pstB
+243880	pstC1 / Unknow / pstC
+243910	Unknow / topA
+243926	rbgA / Unknow / ylqF
+243973	ybiT / Unknow / ettM
+243974	Unknow / nrdD_1 / rnhB
+243978	fhs / Unknow
+243989	manB / Unknow / pgmA / pgcA
+243992	Unknow / ndpA
+243993	Unknow / glyA / glyA-1
+243996	Unknow / prfA
+243998	4-OT / xylH / Unknow
+244004	Unknow / xpt
+244012	relA-1 / relP / Unknow / yjbM
+244014	prsA / Unknow / prs / prsA2
+244027	Unknow / potC
+244028	Unknow / potB
+244029	potA / Unknow / cysA / potA_2
+244030	murB / Unknow
+244034	folEA / Unknow / arcT / folE
+244056	Unknow / pcrA / uvrD
+244065	Unknow / rpsA
+244068	ilvE / Unknow / bcaT
+244069	Unknow / parC / gyrA
+244070	gyrB / parE / Unknow
+244095	cysB / cmhR / Unknow / cpsY
+244097	deoD_3 / Unknow / deoD
+244099	pnp / Unknow / punA / pupG / xapA
+244101	Unknow / deoB
+244106	potA / livG / Unknow / potA_1
+244107	Unknow / lsrC_2
+244116	Unknow / mutT / mutT_2 / mutX
+244119	cps19fO / Unknow / rmlC / rfbC
+244124	aptA / Unknow / apt
+244130	elaC / Unknow / rnz
+244135	Unknow / ORF 3
+244207	rpIJ / Unknow / rplJ
+244208	clpE / Unknow / clpL / clpB / clpC
+244210	mmuP / Unknow / lysP_1 / rocE / ybgF
+244216	engB / Unknow / yihA / ysxC
+244217	Unknow / clpX
+244220	thyA / Unknow
+244241	Unknow / gdhA
+244246	yfmR / yjjK / Unknow / uup
+244252	fruA / Unknow
+244253	fruB / pfkB / Unknow / fruK
+244263	Unknow / rgg2-1
+244272	rluD / Unknow
+244282	trmG / thiI / Unknow
+244283	iscS / Unknow / nifS2 / iscS_1 / iscSB
+244288	aroC / Unknow / aroF
+244294	Unknow / infC
+244313	Unknow / ppaC / ppa
+244315	pflA / Unknow / act
+244317	hlyX / Unknow / tlyC
+244321	yhcC / Unknow / ytqA / miaB
+244360	spsK / Unknow / rmlD / rfbD
+244376	ybfQ / Unknow / glpE
+244426	uvrB / Unknow
+244436	Unknow
+244438	obg / Unknow / obgE
+244456	Unknow / gloA
+244460	Unknow / smpB
+244461	Unknow / rnr
+244481	Unknow / era
+244485	ybeY / Unknow / rnrY / ykjF
+244496	phoH / Unknow / ybeZ
+244498	Unknow / yozE
+244499	msrA2 / msrA / Unknow
+244501	frr / Unknow
+244502	Unknow / pyrH
+244508	Unknow / rplA
+244522	Unknow / glmU / gcaD
+244547	metS / Unknow / metG
+244554	exoA / Unknow / xth / xthA
+244566	Unknow / livF
+244567	Unknow / livG
+244569	Unknow / livH
+244573	Unknow / trmL / yibK
+244578	Unknow / rluB / yjbC
+244590	Unknow
+244598	Unknow / greA
+244601	Unknow / murC
+244604	der / engA / Unknow
+244609	yedW / Unknow / ykoG / rr01 / arlR
+244639	Unknow
+244647	trxB2-1 / nadD / Unknow
+244648	yhbY / yqeI / Unknow
+244649	yqeH / rgpH / Unknow
+244652	gatB / Unknow
+244653	Unknow / gatA
+244654	Unknow / gatC
+244661	codY / Unknow
+244662	aspC2 / Unknow / alaA / yfbQ
+244673	Unknow / secA
+244680	Unknow / asp2
+244681	efp / Unknow
+244690	Unknow / comEB
+244695	corA2 / Unknow / corA
+244696	ssb / ssbA / Unknow / ssb_3 / ssbB
+244714	Unknow / pfl / pflB
+244744	ybaB / Unknow
+244757	gcp / Unknow / tsaD
+244763	Unknow / rnpZA
+244765	Unknow / rnjA
+244769	Unknow / glnA / gnlA
+244776	Unknow / purR
+244777	yhaM / cbf / Unknow
+244780	rpe / Unknow
+244781	rsgA / Unknow
+244783	Unknow / rsmA / ksgA
+244786	Unknow / rnmV
+244787	dayD / ycfH / Unknow / yabD / tatD
+244794	Unknow / dltC
+244796	Unknow / dltA
+244838	hslO / Unknow
+244840	nifR / Unknow / dusB
+244849	Unknow / qacE
+244850	Unknow / tsf
+244861	defB / Unknow / def / def_1
+244875	polC / Unknow
+244877	Unknow / proS / parS
+244904	Unknow / rsh / relA / spoT
+244939	prmA / Unknow
+244945	Unknow
+244947	cshA / Unknow / ycaJ / rarA
+244996	Unknow / leuS
+244999	Unknow / nusG
+245019	Unknow / nrdG
+245025	Unknow / yrzB
+245026	Unknow
+245028	Unknow / recA
+245043	Unknow / aspS
+245044	Unknow / hisS
+245045	Unknow / rpmF
+245130	Unknow
+245132	dnaB_2 / Unknow / dnaC / dnaB / cppA
+245134	rplI / Unknow
+245156	pgsA / Unknow / pgsA_2
+245184	yheS_2 / Unknow / ykpA / ybiT
+245804	Unknow
+371595	Unknow / ilvD_2 / ilvD
+581725	miaA / Unknow
+581792	Unknow / glnR
+581860	fliY / Unknow / glnH_1 / glnH
+581861	glnQ_3 / Unknow / glnQ / tcyC
+581862	yecS_5 / Unknow / glnP / glnP_2
+581879	metE / Unknow
+581880	Unknow / metF
+581989	aroG2 / Unknow / aroH / aroG / aroG1 / aroF
+582047	Unknow / lemA
+582074	trpC / Unknow
+582076	trpB / Unknow
+582087	murD / Unknow
+582121	acnA / Unknow / citB
+582213	Unknow / ridA / tdcF / yjgF / yabJ
+582248	cysD / mdeA / Unknow / metY / metB
+582255	Unknow / yidA
+582342	Unknow / leuA / leuA_1
+582343	Unknow / leuB
+582345	valS-1 / Unknow / leuC
+582346	leuD / Unknow
+582347	Unknow / yebC-1
+582432	Unknow / dapB
+582445	lmrA / yfiC / Unknow / msbA
+582458	Unknow / nox
+582503	dapA / Unknow
+582504	asd / Unknow / usg
+582537	Unknow / pyrE
+582539	Unknow / pyrD1 / pyrD
+582585	Unknow / pepT
+582603	pyrAA / Unknow / carA
+582605	uraA / pyrP / Unknow
+582716	Unknow / aroA
+582719	Unknow / aroB
+582816	ugtP / SPT14 / Unknow
+582817	Unknow / dgs
+582914	Unknow / serA
+582915	Unknow / serC
+582965	racE / Unknow / rcmE / murI
+582986	exp / exp5 / Unknow / ptsG_2 / ptsG
+583004	cysM1 / Unknow / cysK
+583050	Unknow / manO
+583056	mip / Unknow
+583084	Unknow / ilvA
+583085	ilvC / Unknow
+583086	ilvN / Unknow / ilvH
+583087	Unknow / ilvI / ilvB
+583118	Unknow
+583134	Unknow / mrnC
+583147	repS / Unknow / ampS / pepS
+583155	tktA / Unknow / tkt
+583207	Unknow
+583236	dapD / Unknow / dapH
+583243	Unknow / tadA
+583313	thrC / Unknow
+583381	Unknow / ilvD1 / ilvD / ilvD_1
+583412	dltB / Unknow
+684110	tra / tnp1191_1 / tnp1191_7 / tnp1191_10 / tnp-IS1191 / tnp-IS1191-1 / tnp1191_6 / tnp1191_11 / tnp1191_5 / tnp1191_8 / tnp1191_4 / tnp-1 / tnp / Unknow / tnp1191_9 / tnp1191_3 / xis / tnp1191_13 / tnp1191_12 / tnp1191_2 / tnp1191 / tnp-2
+684135	Mobile element protein / Unknow / insK
+686978	pyrB / Unknow
+687003	Unknow
+687025	Unknow / hlyIII / yqfA
+687154	lysC / Unknow / thrD
+687825	gmuE / Unknow / scrK
+687830	Unknow / lplA / lplJ
+688043	TnpIS204-1 / tnpIS / Unknow / TnpIS204
+745802	Unknow
+746070	Unknow / pyrF
+746513	queC / Unknow
+746514	ptpS / Unknow / queD / ygcM
+746515	Unknow / queE
+746547	Unknow / bmrC / mdlA / yheI
+746695	Unknow / insJ
+747580	Unknow
+751315	Unknow / dsg-2 / yvgN / dkgA
+1072881	Unknow / ybbL
+1218499	Unknow / ureA
+1218501	Unknow / ureC
+1309814	hipO1 / Unknow / yxeP / sndB / hipO2 / ytnL
+1309819	dapI / Unknow / hipO3
+1309820	argH / Unknow
+1309824	Unknow / argJ
+1309825	Unknow / gabD / gapN
+1309830	rlmCD / Unknow / rlmD / rumA
+1309832	Unknow / csbB / yfdH / gt
+1309837	hom / Unknow
+1309852	yecS_4 / Unknow / yecS
+1309983	tnp / tnp-IS1193_6 / tnp-IS1193 / tnp-IS1193_5 / tnp-IS1193_1 / tnp4 / tnp1193-2 / tnp-IS / Unknow / tnp1193-3 / tnp1193 / tnp1193-1 / tnp3 / tnp-IS1193_4 / tnp-IS1193_2 / tnp-IS1193_3
+1310010	Unknow / mutY
+1310405	Unknow / serB
+1310522	hisK / Unknow / hisJ
+1310527	pheT_1 / Unknow / pheT
+1310563	lysA / Unknow
+1310577	Unknow / fabF
+1310580	Unknow / fabD
+1310673	Unknow
+1311598	ytpR / Unknow / pheT_2
+1311986	amd-1 / rsfS / ybeB / Unknow
+1313293	Unknow / rpiA
+1313445	Unknow / nth
+1313643	pdhA / acoA / Unknow
+1313665	Unknow / uvrC
+1314171	Unknow / xseA
+1314253	Unknow / glyS
+1314427	ruvA / Unknow
+1319386	yaaC / Unknow
+1319415	Unknow
+1319428	Unknow
+1319452	Unknow
+1319456	Unknow
+1319465	Unknow
+1319492	Unknow
+1319545	Unknow
+1319571	Unknow
+1319579	Unknow
+1319602	Unknow
+1319603	Unknow
+1319628	Unknow
+1319630	Unknow
+1319650	Unknow / dnaN
+1319651	pth / Unknow / pth1
+1319652	mfd / Unknow
+1319653	Unknow / divIC
+1319654	yaaD / Unknow
+1319655	tilS / Unknow
+1319656	Unknow / ftsH
+1319657	mreC / Unknow
+1319658	mreD / Unknow
+1319659	Unknow / pcsB
+1319660	recO / Unknow
+1319661	plsX / Unknow
+1319662	acpP1 / Unknow / acpP
+1319667	Unknow
+1319669	Unknow
+1319672	Unknow / cinA
+1319676	Unknow
+1319681	Unknow
+1319683	Unknow
+1319684	degV / Unknow / degV_1
+1319686	panE / Unknow
+1319693	pgsA / Unknow / pgsA_1
+1319696	dacB / Unknow
+1319698	Unknow / hrcA
+1319699	Unknow / truA
+1319700	Unknow / thiD
+1319705	comX / comX1_2 / Unknow
+1319706	Unknow / mutT
+1319707	rsmE / Unknow
+1319711	cpdB / yfkN / cpdB_2 / Unknow
+1319712	Unknow / dtd
+1319713	dex_1 / Unknow / dex
+1319714	Unknow / dex / dex_2
+1319715	Unknow
+1319716	msf / Unknow
+1319720	Unknow / mecA
+1319721	rgpG / Unknow / wecA
+1319733	dsg / Unknow
+1319734	adcR / Unknow
+1319735	Unknow / znuB / adcB
+1319741	yajC / Unknow
+1319742	uppS / Unknow / ispU
+1319743	cdsA / Unknow / cds1
+1319744	Unknow / rseP / eep
+1319745	lsrC_1 / Unknow / lsrC
+1319746	Unknow / groES / groS
+1319747	Unknow / pbp2A
+1319749	Unknow / bcrC_1
+1319754	yhaI_1 / yhaI / Unknow / yhaH
+1319755	Unknow / ypsA
+1319756	gpsB / Unknow
+1319759	Unknow / SalivA0238
+1319760	Unknow
+1319761	Unknow / pabC / mltG
+1319762	Unknow / ysgA / spoU
+1319763	fstH / Unknow / ybhL
+1319764	Unknow
+1319765	rdgB / Unknow
+1319766	ysnB / Unknow / yfcE
+1319767	Unknow / ykuL
+1319768	xerD / xerD_1 / Unknow
+1319769	scpA / Unknow
+1319770	Unknow / scpB / spcB
+1319772	Unknow / ribU
+1319773	bcrC / Unknow / bcrC_2
+1319774	Unknow / plcR
+1319781	ureI / Unknow
+1319782	Unknow / ureB
+1319783	ureE / Unknow
+1319784	Unknow / ureF
+1319785	Unknow / ureG
+1319786	Unknow / ureD
+1319787	larMN / Unknow / ureM / cbiM / nikMN
+1319788	Unknow / ureQ
+1319789	cbiO / Unknow / ureO
+1319795	metN / Unknow
+1319796	metI / Unknow / metP
+1319797	dctA / Unknow / sstT
+1319799	Unknow / ykoD / sdcBA
+1319801	Unknow
+1319803	Unknow / nrdR
+1319804	dnaB_1 / Unknow / dnaB
+1319805	Unknow / dnaI
+1319806	yjeE / ydiB / Unknow / tsaE
+1319807	Unknow / yhhY
+1319808	Unknow / brpA
+1319809	Unknow / rulQ
+1319810	Unknow / infB
+1319814	ytgP / mviN / Unknow
+1319817	hly / patB / malY / Unknow
+1319819	Unknow
+1319820	Unknow
+1319821	Unknow / livK / livJ
+1319822	braE / Unknow / livM
+1319825	comFA / Unknow
+1319826	comFC / Unknow
+1319827	Unknow
+1319828	rlmCD / Unknow / rlmD / yfjO / rumA
+1319829	ycjU / Unknow
+1319830	paaG / fabM / Unknow / phaB
+1319832	Unknow / fabHA / fabH
+1319833	Unknow / accB
+1319835	Unknow / ygbI / fruR
+1319840	Unknow / gsr / gor
+1319841	Unknow / gtf1 / gtf / tagE / gtfA
+1319842	gtfB / gtf2 / Unknow / gtf
+1319845	Unknow
+1319847	Unknow
+1319849	fakBA / degV / degV_3 / Unknow
+1319850	cca / papL / Unknow
+1319851	def_2 / defA / Unknow / def
+1319853	lmrA1 / Unknow / msbA_1 / lmrA / msbA
+1319854	Unknow / yheH / lmrA2
+1319856	Unknow
+1319862	coiA / Unknow
+1319863	Unknow / pepF / pepB
+1319864	Unknow
+1319865	prsA / Unknow / prtM
+1319872	argC / Unknow
+1319873	argB / Unknow
+1319875	thrB / Unknow
+1319876	Unknow / rarD
+1319877	Unknow
+1319878	Unknow
+1319880	Unknow / atpB
+1319881	Unknow / atpF
+1319882	atpH / Unknow
+1319883	atpG / Unknow
+1319884	atpC / Unknow
+1319885	Unknow / ftsW
+1319886	tmk / Unknow
+1319887	holB / Unknow / dnaH
+1319888	sip / Unknow / ricT / tpl
+1319889	yabA / Unknow
+1319890	yraL / Unknow / rsmI
+1319891	amt / Unknow / amtB
+1319892	glnB / gnlB / Unknow / glnK
+1319893	Unknow / mur / mur1
+1319900	Unknow / aapA / serP / cycA
+1319903	bglF_2 / Unknow / bglF / nagE / bglP / ptbA
+1319908	oxyR / cpsY / cpsY2 / Unknow
+1319909	Unknow / lspA / lspA_1
+1319910	Unknow / pyrR
+1319911	rsmJ / Unknow
+1319918	Unknow / nagB / gamA
+1319923	Unknow
+1319926	ytzG / rsuA1 / Unknow / rsuA
+1319927	alaD-tr2 / Unknow / ald / ald2
+1319928	Unknow / rclA / merA / ykgC
+1319929	Unknow / mvk / mvaK1
+1319930	Unknow / mvaD
+1319931	mvaK2 / Unknow
+1319932	fni / Unknow / idi
+1319933	yffH / nudF / Unknow / act
+1319934	Unknow
+1319935	mtnN / Unknow / pfs
+1319940	Unknow
+1319941	dhfR / Unknow / folA
+1319943	mmuM / ybgG / Unknow
+1319944	Unknow
+1319946	Unknow
+1319950	murN / Unknow
+1319955	argF / Unknow / argI
+1319956	yecS_1 / artQ / Unknow / yecS
+1319957	Unknow / feoA
+1319961	Unknow / folD
+1319962	Unknow / nnrD
+1319966	Unknow / dgk / dgkA
+1319967	Unknow / mutM
+1319968	Unknow / coaE
+1319970	Unknow / secG
+1319972	gsp13 / Unknow
+1319974	mmcQ / Unknow
+1319976	ywbD / Unknow / rlmI / mtt
+1319977	aroD / Unknow / arod
+1319978	aroE / Unknow / ydiB
+1319980	Unknow
+1319982	aroL / Unknow / aroK
+1319983	Unknow / pheA2 / pheA
+1319990	Unknow
+1319992	Unknow
+1319993	Unknow / lgt
+1319994	Unknow
+1319995	Unknow
+1319996	yuhB / Unknow
+1320018	Unknow
+1320019	Unknow
+1320020	Unknow / ppc
+1320021	holA / Unknow
+1320022	Unknow
+1320023	dps_2 / dpr / Unknow / dps_1 / dps
+1320024	Unknow / perR / fur
+1320025	ORF 2 / Unknow / yqgQ
+1320026	Unknow
+1320027	murG / Unknow
+1320028	divIB / Unknow
+1320029	ftsA / Unknow
+1320030	ylmE / yggS / Unknow
+1320031	sepF / Unknow
+1320032	Unknow / ylmG
+1320033	Unknow
+1320034	Unknow / divIVA
+1320035	Unknow / add / ada
+1320036	Unknow / tdk
+1320037	Unknow / hemK / prmC
+1320038	Unknow / ywlC / rimN
+1320039	pvaA / Unknow
+1320040	Unknow / msbA_3 / msbA
+1320041	Unknow / msbA
+1320043	Unknow / dltD
+1320046	Unknow
+1320057	Unknow / cdd_1 / cdd
+1320058	bmpB / tmpC / Unknow / nupN
+1320059	ytfT / Unknow / mglC / nupP
+1320060	Unknow / nupQ
+1320062	Unknow
+1320144	aatB / artP_1 / Unknow / artJ
+1320149	mngR / gntR / Unknow / gntR_1
+1320152	umuD / Unknow
+1320154	bglK / Unknow / bglK_1
+1320155	Unknow / smf / dprA
+1320156	Unknow
+1320157	baeR / spaR / Unknow / rr04
+1320158	Unknow / hk04
+1320159	Unknow / ndk
+1320160	Unknow / pspE
+1320162	butA_1 / Unknow / butA / ucpA
+1320192	laaN / Unknow
+1320196	thiJ / yajL / Unknow
+1320199	pyrK / Unknow
+1320224	psaD / tpx / Unknow
+1320225	hsdS2 / Unknow / hsdS
+1320227	truB / Unknow
+1320228	ribC / Unknow / ribF
+1320231	Unknow
+1320232	suhB / Unknow
+1320234	Unknow / pstS
+1320237	Unknow / phoU
+1320238	pepN / Unknow
+1320262	Unknow
+1320268	fliY / Unknow / peb1 / peb1A
+1320270	Unknow / glnP / tcyB / gltK
+1320274	yfmL / deaD / Unknow / deaD_1
+1320313	Unknow
+1320439	mdtK / Unknow / norM
+1320442	rpsD / Unknow / rpsD_1
+1320632	yjbK / Unknow / cyaA
+1320644	nifS3 / Unknow / iscS_2 / iscS
+1320651	Unknow
+1320703	Unknow / gnlP / gnlP_1
+1320837	amyS / Unknow / amyA / amyL
+1320849	Unknow / tehB
+1320884	Unknow
+1321058	Unknow
+1321097	hinT / hit / Unknow
+1321115	Unknow
+1321134	Unknow
+1321150	hmuV / abcX / Unknow
+1321198	pepXP / Unknow / pepX
+1321316	ansA / Unknow / aspQ / ansB
+1321332	sacA / scrB / Unknow
+1321401	Unknow
+1321419	gor-1 / Unknow / gor
+1321452	Unknow
+1321479	mutS / mutS2 / Unknow
+1321497	rnhC / Unknow
+1321512	sipA / Unknow / lepB
+1321530	yrrC / Unknow / recD
+1321641	ymdB / Unknow / ymdB_2
+1321659	Unknow
+1321718	Unknow / frvX / pepA / ytoP / tig-1
+1321737	proC / Unknow
+1322025	Unknow
+1322041	amaP / Unknow
+1322061	Unknow
+1322092	adcR / Unknow / adcR-1
+1322107	Unknow / yaaA
+1322120	Unknow / recF
+1322148	Unknow
+1322178	cbpD / Unknow / cbpD1
+1322371	ykuT / Unknow / mscS
+1322379	Unknow / nrdI
+1322406	yeiL / Unknow
+1322430	Unknow
+1322448	Unknow / glnP
+1322508	Unknow
+1322522	rluD / Unknow / rluC
+1322547	Unknow
+1322563	Unknow / glcR / glpR
+1322632	yidC / Unknow / oxaA1
+1322692	Unknow
+1322708	Unknow / trkH1 / trkH
+1322747	trkA2 / Unknow
+1322750	Unknow / trkH2
+1322783	yhaX / Unknow / yidA
+1322785	murE_1 / Unknow / murE / mure
+1322814	folC1 / Unknow / folC
+1322824	Unknow
+1322870	cynR / Unknow / cpsY_2
+1322893	Unknow
+1322897	Unknow / ppiA
+1322939	Unknow / mvaA
+1322940	Unknow / mvaS
+1322941	Unknow / plsY
+1322942	Unknow
+1322943	Unknow / mutT / mutT_1
+1322944	e1 / Unknow
+1322945	ltaS2 / Unknow / ltaS
+1322947	acrC / Unknow
+1322948	Unknow
+1322949	Unknow / ycgR
+1322950	Unknow
+1322951	bioY1 / Unknow / bioY
+1322953	Unknow
+1322956	Unknow / ytjC / gpmC
+1322957	Unknow
+1322958	Unknow
+1322959	Unknow
+1322961	Unknow / apbE
+1322962	Unknow / nrnA
+1322963	Unknow / yghU
+1322964	pabB / Unknow
+1322976	panT / panT_2 / Unknow
+1322977	Unknow / dfp1 / coaC
+1322978	Unknow / dfp2
+1322979	coaA / Unknow
+1322980	Unknow / ycbL
+1323086	rqcH / fbp / Unknow
+1323093	dagA / Unknow / yaaJ
+1323094	Unknow / malQ
+1323118	Unknow / ung
+1323119	rssA / Unknow
+1323120	neuA / Unknow
+1323121	abc1 / Unknow / ubiB
+1323122	Unknow
+1323123	Unknow / bglH / bglB
+1323127	cpsX / Unknow / epsX
+1323143	eps3A / ywtF / Unknow / eps5A
+1323144	yfeJ / Unknow / gat_1 / gat
+1323147	Unknow / ung
+1323148	pepV / Unknow
+1323151	Unknow
+1323152	Unknow
+1323153	Unknow / lepB / sipB
+1323154	Unknow
+1323155	Unknow / yhhT
+1323156	Unknow / ftsX
+1323157	nfsA / Unknow / nfrA
+1323158	Unknow
+1323163	hpk2 / Unknow / hpk / vicK
+1323164	endA / endA-1 / endA_3 / Unknow
+1323165	Unknow / epuA
+1323166	Unknow
+1323168	galE_1 / galE / Unknow / galE2
+1323170	dnaX / Unknow / folC2
+1323171	fabG-1 / Unknow / ytsP / msrC
+1323172	miaA / Unknow / trmD
+1323174	aroH / Unknow
+1323177	Unknow
+1323179	estA / Unknow
+1323180	Unknow
+1323185	Unknow / dnaE
+1323186	ORF3-1 / Unknow
+1323189	Unknow
+1323190	Unknow / recN
+1323191	argR1 / Unknow / argR / argR_2
+1323192	ispA / Unknow
+1323194	dNAD / Unknow / dnaD_2
+1323195	metA / metAA / Unknow
+1323196	recJ / Unknow
+1323198	Unknow
+1323199	mrdB / Unknow / rodA
+1323201	Unknow
+1323202	Unknow
+1323203	yutF / Unknow / nucF / pho2 / nagD
+1323204	Unknow / fat
+1323209	thiO / Unknow / yurR
+1323211	Unknow
+1323213	Unknow
+1323214	Unknow
+1323215	ossG / cdaA / Unknow
+1323216	Unknow / mprF
+1323217	pip / Unknow / cpo
+1323219	icd / icd_1 / Unknow
+1323220	gltA / Unknow / citZ / prpC
+1323221	Unknow
+1323227	Unknow
+1323228	Unknow
+1323231	Unknow / paiA
+1323232	smc / Unknow
+1323233	Unknow / rncS / rnc
+1323238	pat / Unknow / yncA
+1323239	Unknow / cls
+1323267	msrA / Unknow / msrAB / msrA1 / msrB
+1323278	brnQ / Unknow
+1323281	lysP_2 / Unknow / yfnA / mtrA
+1323285	Unknow
+1323288	Unknow / catE
+1323289	ywnA / Unknow
+1323290	Unknow
+1323292	Unknow / celB
+1323293	yodC / Unknow / ydgI / nrd
+1323294	Unknow
+1323301	Unknow
+1323304	Unknow
+1323309	csp2K_3 / hyaD_1 / Unknow / glyA
+1323929	Unknow / pta / eutD
+1323949	rluD / Unknow / yjbO
+1323963	ppnKA / Unknow / nadK / ppnK
+1323990	yicR / Unknow / radC
+1324267	dnaG / Unknow / dnaG_2
+1324302	glnH / Unknow / glnH_3 / artP_2 / artP / fliY
+1324316	aspC / Unknow
+1324326	artP_3 / glnH / Unknow / ackA / artP
+1324334	artP_4 / Unknow / artP
+1324444	rsuA2 / ytzG / Unknow / rsuA
+1324539	ezrA / Unknow
+1324562	Unknow
+1324577	Unknow / yohK / lrgB
+1324587	Unknow / yohJ
+1324607	Unknow / yusI / spxA_2
+1324674	nanK / Unknow
+1324728	Unknow / potD / potD-1
+1324802	Unknow / folK
+1324814	folQ_2 / Unknow / folQ / folB
+1324834	Unknow / folP
+1324942	ligA_2 / ligA / Unknow
+1324959	queT / Unknow
+1324968	yihY / Unknow
+1324989	str1558 / Unknow
+1324997	rimL / Unknow
+1325021	comEC / Unknow
+1325032	Unknow / comEA
+1325064	corA1 / Unknow / corA
+1325118	Unknow / murF
+1325181	Unknow / copZ
+1325194	Unknow / copA
+1325206	copY / Unknow
+1325219	trpA / Unknow
+1325254	Unknow / trpF
+1325285	Unknow / trpD
+1325296	pabA / Unknow / trpG
+1325328	tyrA / Unknow
+1325357	Unknow / ctpE / CTPE / exp
+1325376	Unknow
+1325399	Unknow / dnaQ
+1325416	Unknow
+1325469	Unknow
+1325478	Unknow
+1325488	Unknow / ecsA / ecsA_2
+1325547	Unknow / tmcAL
+1325589	Unknow
+1325654	rplS-1 / Unknow / yqeG
+1325796	Unknow / metQ
+1325857	Unknow
+1325897	Unknow / nha
+1325913	Unknow
+1325925	ytqB / Unknow
+1325945	Unknow / atpH-1 / lon
+1325960	Unknow / kdtB / coaD
+1325985	trxB1 / Unknow / trxB / trxB_2
+1325993	trxA / Unknow / trxA1
+1326033	Unknow / tcyA_2 / tcyA
+1326048	Unknow
+1326064	Unknow / dinB
+1326200	pbpX_1 / Unknow
+1326227	gla / Unknow
+1326347	Unknow / yutD
+1326357	Unknow / yfkN_2
+1326372	Unknow / mraY
+1326388	ftsI / pbp2X / Unknow / pbpX
+1326405	Unknow / ftsL
+1326540	Unknow / proA
+1326559	Unknow
+1326564	Unknow / addA / rexA
+1326577	rexB / Unknow
+1326640	Unknow / rr06-1
+1326660	Unknow / yidA
+1326677	recG / Unknow
+1326690	dadX / alrA / Unknow / alr
+1326703	Unknow / acpS
+1326762	pmi1 / Unknow / manA
+1326791	scrA / Unknow / bglF
+1326799	nusB / Unknow
+1326837	pepP / Unknow / papA / ypdF
+1326895	Unknow
+1326984	Unknow
+1327013	Unknow / polA
+1327029	Unknow / cvpA
+1327035	Unknow
+1327045	Unknow
+1327100	rimI / Unknow
+1327116	yeaZ / Unknow / ydiC / tsaB
+1327275	Unknow / rmuC
+1327285	Unknow / thiN
+1327403	bta / Unknow
+1327527	jag / Unknow
+1327540	yidC / Unknow / misCA
+1327704	Unknow
+1327738	Unknow / gluP
+1327741	Unknow / fthC / yqgN
+1327791	rrmA / Unknow / rlmA
+1327829	yeeD / Unknow
+1327864	trxA_2 / Unknow / trxA2 / ytpP
+1327877	Unknow
+1327887	Unknow
+1327945	mleP-1 / Unknow / mleP
+1327961	Unknow
+1327969	Unknow / comGF
+1327980	Unknow / pulG
+1327987	Unknow / rsuA1-1 / comGD
+1327992	Unknow / cglC / comGC
+1327996	Unknow / comGA
+1328004	Unknow
+1328045	Unknow / norN
+1328080	treB / Unknow
+1328086	Unknow / ywlG
+1328204	Unknow
+1328255	Unknow
+1328310	Unknow / smc_3
+1328330	Unknow
+1328347	Unknow / isaA
+1328355	Unknow / ecfT
+1328362	ecfA / cbiO / Unknow / cbiO_1 / ecfAB
+1328366	ecfA / cbiO_2 / Unknow / cbiO
+1328388	Unknow
