@@ -123,10 +123,6 @@ def GenesVar (asp):
             elif res[0] == 'spgene':
                 genes.add((res[1][0][1:-1],res[1][1][1:-1]))
         strains = frozenset(strains)
-        if strains == frozenset(['Streptococcus thermophilus 1F8CT', 'Streptococcus thermophilus CIRM30']):
-            print(strains,genes)
-        if strains == frozenset(['Streptococcus thermophilus LMG 18311', 'Streptococcus thermophilus CIRM23']):
-            print(strains,genes)
         if strains != set():
             dictionary['var'][strains]=genes
     return dictionary
@@ -157,11 +153,12 @@ def readmatrix(filename):
                 strain=[x.strip() for x in sline]
     rel = str('. '.join(l))+'.'
     return(rel)
-      
+            
+    
 ########
 ##### CREATION    
 
-def newickTreatment(newick,coreDict,varDict,out_tree,output,speciesname,out_dir,ngn=None):
+def newickTreatment(newick,coreDict,varDict,out_tree,output,speciesname,out_dir,name,ngn=None):
     
     repositryname = out_dir+'/'+'_'.join(speciesname.split(' '))+'_data'
     if not os.path.exists(repositryname):
@@ -174,9 +171,10 @@ def newickTreatment(newick,coreDict,varDict,out_tree,output,speciesname,out_dir,
 
     GeneTree.info(f'the newick file contains: \n {t}')
     
+    where_data = 'https://raw.githubusercontent.com/'+name+'/GeneTree/master/'+out_dir+'/'+'_'.join(speciesname.split(' '))+'_data'+'/'
+    
     with open(output,'w') as popup:
         popup.write('POPUP_INFO\nSEPARATOR TAB\nDATA\n')
-    
         number = 0
         # Tree walk
         #print(sorted(list(coreDict['spe'].keys())))
@@ -186,33 +184,60 @@ def newickTreatment(newick,coreDict,varDict,out_tree,output,speciesname,out_dir,
                 pass
             elif node.name == 'root':
                 with open(str(repositryname)+'/root.txt','w') as out:
-                    itol_str += f"{node.name}\t {node.name} \t <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='https://raw.githubusercontent.com/gsiekaniec/GeneTree/master/Streptococcus_thermophilus/output/Streptococcus_thermophilus_data/root.txt'>&dagger;</a> </p>"
+                    itol_str += f"{node.name}\t {node.name} \t <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='{where_data}root.txt'>&dagger;</a> </p>"
+                    unknows = set()
                     for gene in coreDict['core']:
                         if not ngn:
-                            itol_str += f"id: {gene[0]} - name: {gene[1]} "
+                            if gene[1] != 'Unknow':
+                                itol_str += f" id: {gene[0]} - name: {gene[1]} ;"
+                            else:
+                                unknows.add(gene[0])
                             out.write(f"id: {gene[0]} - name: {gene[1]}\n")
                         else:
-                            itol_str += f"id: {gene[0]} - name: {ngn[gene[0]]} ; "
+                            if ngn[gene[0]] != 'Unknow':
+                                itol_str += f" id: {gene[0]} - name: {ngn[gene[0]]} ;"
+                            else:
+                                unknows.add(gene[0])
                             out.write(f"id: {gene[0]} - name: {ngn[gene[0]]}\n")
-                    popup.write(itol_str[:-1])
+                    if len(unknows) > 0:
+                        itol_str += f" Unknows x {len(unknows)} "
+                    else:
+                        itol_str = itol_str[:-1]
+                    popup.write(itol_str)
             elif node.is_leaf():
                 filename = '_'.join(str(node.name).split(' '))+'.txt'
                 with open(str(repositryname)+'/'+filename,'w') as out:
-                    itol_str += f"{node.name}\t {node.name} \t  <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='https://raw.githubusercontent.com/gsiekaniec/GeneTree/master/Streptococcus_thermophilus/output/Streptococcus_thermophilus_data/{filename}'>&dagger;</a></p>"
+                    itol_str += f"{node.name}\t {node.name} \t  <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='{where_data}{filename}'>&dagger;</a></p>"
                     name = node.name.strip()
+                    
+                    unknows = set()
+                    
                     if name in sorted(list(coreDict['spe'].keys())):
                         for i,gene in enumerate(coreDict['spe'][name]):
                             if not ngn:
-                                itol_str +=  f"id: {gene[0]} - name: {gene[1]} "
+                                if gene[1] != '"Unknow"':
+                                    itol_str +=  f" id: {gene[0]} - name: {gene[1]} ;"
+                                else:
+                                    unknows.add(gene[0])
                                 out.write(f"id: {gene[0]} - name: {gene[1]}\n")
+                                
                             else:
-                                itol_str += f"id: {gene[0]} - name: {ngn[gene[0]]} "
-                                out.write(f"id: {gene[0]} - name: {ngn[gene[0]]}\n")
-                            if i != int(len(coreDict['spe'][name])-1):
-                                itol_str += " ; "
+                                new_gene = ''.join(gene[0].split('"'))
+                                if ngn[new_gene] != 'Unknow':
+                                    itol_str += f" id: {gene[0]} - name: {ngn[new_gene]} ;"
+                                else:
+                                    unknows.add(gene[0])
+                                out.write(f"id: {gene[0]} - name: {ngn[new_gene]}\n")
+                            
+                        if len(unknows) > 0:
+                            itol_str += f" Unknows x {len(unknows)} "
+                        else:
+                            itol_str = itol_str[:-1]
+                            
+                            
                     else:
                         GeneTree.info(f'Info : {name} do not contains specific genes')
-                        itol_str +=  f"<p style='color:blue'>No specific genes </p>"
+                        itol_str +=  f"<p style='color:blue'>No specific genes </p> ;"
                     popup.write(itol_str)
             elif node.name == '':
                 node.name = 'node '+str(number)
@@ -220,24 +245,38 @@ def newickTreatment(newick,coreDict,varDict,out_tree,output,speciesname,out_dir,
                 with open(str(repositryname)+'/'+filename,'w') as out:
                     strains = set()
                     genes = ''
-                    itol_str = f"node {str(number)}\tnode {str(number)}\t  <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='https://raw.githubusercontent.com/gsiekaniec/GeneTree/master/Streptococcus_thermophilus/output/Streptococcus_thermophilus_data/{filename}'>&dagger;</a></p>"
+                    itol_str = f"node {str(number)}\tnode {str(number)}\t  <p><FONT size='4pt'><b>Genes list</b></FONT>  <a href='{where_data}{filename}'>&dagger;</a></p>"
+                    
+                    unknows = set()
+                    
                     for leaf in node:
                         strains.add(str(leaf.name).strip())
                     try :
                         genes = varDict['var'][frozenset(strains)]
                         for i,g in enumerate(genes):
                             if not ngn:
-                                itol_str +=  f"id: {g[0]} - name: {g[1]} "
+                                if g[1] != '"Unknow"':
+                                    itol_str +=  f" id: {g[0]} - name: {g[1]} ;"
+                                else:
+                                    unknows.add(g[0])
                                 out.write(f"id: {g[0]} - name: {g[1]}\n")
                             else:
-                                itol_str += f"id: {g[0]} - name: {ngn[g[0]]} "
+                                if ngn[g[0]] != 'Unknow':
+                                    itol_str += f" id: {g[0]} - name: {ngn[g[0]]} ;"
+                                else:
+                                    unknows.add(g[0])
                                 out.write(f"id: {g[0]} - name: {ngn[g[0]]}\n")
-                            if i != int(len(genes)-1):
-                                itol_str += " ; "
+                            '''if i != int(len(genes)-1):
+                                itol_str += " ; "'''
                     except KeyError:
-                        itol_str += f"<p style='color:blue'>No specific genes </p> "
+                        itol_str += f"<p style='color:blue'>No specific genes </p> ;"
                         out.write("No specific genes\n")
                     number += 1
+                    
+                    if len(unknows) > 0:
+                        itol_str += f" Unknows x {len(unknows)} "
+                    else:
+                        itol_str = itol_str[:-1]
                     popup.write(itol_str)
             popup.write('\n')
             
@@ -275,6 +314,7 @@ def main(args):
     if args.outfile == N_OUT:
         args.outfile = args.output_directory+'/popup.txt'
         
+        
     params = f'\tnums X names file -> {args.ncorespe}\n\
                \tmatrice file -> {args.matrice}\n\
                \tnewick file -> {args.newick_file}\n\
@@ -282,6 +322,7 @@ def main(args):
                \tout newick file -> {args.outtree}\n\
                \tout popup file -> {args.outfile}\n\
                \tout directory -> {args.output_directory}\n\
+               \tgithub name -> {args.github_name}\n\
                '
     GeneTree.info(f'Parameters:\n \t{params}')
     
@@ -302,6 +343,7 @@ def main(args):
             coreSpe = GenesCoreSpe(asp)
         GeneTree.info(f'core/spe genes extraction done in: {coreSpe_time.t}')
         
+        var = {}
         GeneTree.info(f'maximal biclusters (strains)X(genes) extraction...')
         with Timer() as var_time:
             # Dictionary Var
@@ -309,7 +351,7 @@ def main(args):
         GeneTree.info(f'maximal biclusters (strains)X(genes) extraction done in: {var_time.t}')
         
         
-       
+        ngn = args.new_genes_name
         if args.new_genes_name:
             import pickle
             with open(args.new_genes_name,'rb') as infile:
@@ -318,7 +360,7 @@ def main(args):
             ngn = None
             
         with Timer() as tree_creation_time:
-            newickTreatment(args.newick_file,coreSpe,var,args.outtree,args.outfile,args.speciesname,args.output_directory,ngn)
+            newickTreatment(args.newick_file,coreSpe,var,args.outtree,args.outfile,args.speciesname,args.output_directory,args.github_name,ngn)
         GeneTree.info(f'tree creation done in: {tree_creation_time.t}')
         
     GeneTree.info(f'done in: {full_time.t}')

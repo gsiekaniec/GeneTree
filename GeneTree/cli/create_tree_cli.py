@@ -36,6 +36,11 @@ def subparser(subparsers):
         help='Path to clingo.'
     )
     
+    required.add_argument('-github', '--github_name', metavar='GITHUB_NAME',
+        required=True,                  
+        help='Name of the git owner of te repository.'
+    )
+    
     optional.add_argument('-outT', '--outtree', metavar='OUT_TREE', 
         default='<outfile>.nwk',
         help='Output newick file.'
