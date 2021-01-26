@@ -1,6 +1,6 @@
 # GeneTree
 
-## *Streptococcus thermophilus* information
+## *Streptococcus thermophilus* informations
 
 File from [MicroScope](https://mage.genoscope.cns.fr/microscope/home/index.php) can be found [here](https://github.com/gsiekaniec/GeneTree/tree/master/Streptococcus_thermophilus/data) : .tsv files contains genes information and .nwk contain the tree.
 
