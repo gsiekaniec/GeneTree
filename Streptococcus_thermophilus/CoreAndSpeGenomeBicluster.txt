@@ -1,0 +1,3721 @@
+"Statistics"
+
+nb(strain,88).
+nb(gene,8364). %surement sans tout les Unknows
+
+% vargene: Genes absent in at least one strain
+nb(vargene,7750).
+
+%coregene: Genes present in all strains
+nb(coregene,614).
+
+%specgene: Genes present in a single strain (specific, signature gene)
+nb(specgene,3085).
+
+
+
+% Genes present in all strains (core genome)
+
+coregene("0","rplK").
+coregene("2","rpsJ").
+coregene("26","ymgE").
+coregene("96","lepA").
+coregene("111","dnaK").
+coregene("200","tufA / tufB / tuf").
+coregene("361","atpD").
+coregene("363","atpA").
+coregene("371","upp").
+coregene("441","uvrA").
+coregene("456","cap4C / galU / gtaB").
+coregene("470","groEL / groL").
+coregene("583","rpmE2 / rpmE / ykgM / rpmEB").
+coregene("585","pyrG").
+coregene("743","rpsR").
+coregene("1026","rpoC").
+coregene("1035","rplB").
+coregene("1037","rplV").
+coregene("1038","rpsC").
+coregene("1039","rplP").
+coregene("1041","rpsQ").
+coregene("1042","rplNA / rplN").
+coregene("1044","rplE").
+coregene("1046","rpsH").
+coregene("1048","rplR / rl18").
+coregene("1049","rpsE").
+coregene("1054","infA").
+coregene("1065","rpsI").
+coregene("1137","PTSH / ptsH").
+coregene("1164","metK").
+coregene("1256","rpmA").
+coregene("1398","sufC").
+coregene("1402","sufB").
+coregene("56846","fusA").
+coregene("87377","queF").
+coregene("87769","trmU / mnmA").
+coregene("88275","rplO").
+coregene("97751","tnp1216 / tnpA2 / tnp / orF00044-1 / orF00044").
+coregene("97908","purA").
+coregene("98215","rpmG / rpmGA").
+coregene("98265","ygaC").
+coregene("99002","nrdD_2 / nrdD").
+coregene("99157","nrdF2 / nrdF").
+coregene("99194","clpE / clpA / clpE_1").
+coregene("99445","pyrAB / carB").
+coregene("99477","pstA / pstC2").
+coregene("99713","rffG / rmlB / spsJ / rfbB").
+coregene("99715","rfbA / spsI / rmlA").
+coregene("99778","purB1 / purB").
+coregene("99960","pncB").
+coregene("100153","valS").
+coregene("100363","yhbU / houQ / yrrO / yegQ").
+coregene("100370","guaB").
+coregene("100443","rplM").
+coregene("231972","yaaA / yyzM").
+coregene("231977","hslR / yaab").
+coregene("231982","hpt / hprT").
+coregene("231987","prsA / prs / prsA1").
+coregene("231988","patA / araT / yfdZ / dapX").
+coregene("231994","purC").
+coregene("231995","purL").
+coregene("231996","purF").
+coregene("232000","purH").
+coregene("232014","purE / pure").
+coregene("232019","ruvB").
+coregene("232027","rplW").
+coregene("232028","rpmC").
+coregene("232029","rplX").
+coregene("232030","rplF").
+coregene("232031","rpmD").
+coregene("232032","secY").
+coregene("232034","rpoA").
+coregene("232052","grpE").
+coregene("232060","tig").
+coregene("232063","dut").
+coregene("232065","cynT / mtcA / cah").
+coregene("232078","argG").
+coregene("232084","spfH_1").
+coregene("232092","sufD").
+coregene("232094","nifU / iscU / sufU").
+coregene("232109","tyrS").
+coregene("232111","rpoB").
+coregene("232151","cysE1 / cysE").
+coregene("232153","cysS").
+coregene("232155","yjfH / rlmB").
+coregene("232156","raeA").
+coregene("232198","proB").
+coregene("232200","mraW / rsmH").
+coregene("232204","rheB / cshB").
+coregene("232211","nadE / NADE").
+coregene("232212","pepC").
+coregene("232219","luxS").
+coregene("232220","rny").
+coregene("232248","yigZ / yvyE").
+coregene("232259","fabK").
+coregene("232261","fabG / fabG2").
+coregene("232264","fabZ").
+coregene("232266","accD").
+coregene("232267","accA").
+coregene("232269","serS").
+coregene("232272","levG / manN / manZ").
+coregene("232288","trmB").
+coregene("232290","nusA").
+coregene("232291","rulR / ylxR").
+coregene("232294","rbfA").
+coregene("232316","gpsA").
+coregene("232358","galE / galE_2 / galE1 / galE_3").
+coregene("232411","iarS / ileS").
+coregene("232437","pacL2 / pacL").
+coregene("232440","aa23 / queG").
+coregene("232446","ucpA / butA_2").
+coregene("232448","aspB / aspC1 / aatA").
+coregene("232449","asnC / asnS").
+coregene("232568","ccpA").
+coregene("232580","artM_3 / gltL / glnQ / artP").
+coregene("232584","walJ / vicX").
+coregene("232598","hprK / PTSK").
+coregene("232613","yjjG").
+coregene("232625","tpiA").
+coregene("232629","ddl / ddlA").
+coregene("232634","prfC").
+coregene("232635","yjqA").
+coregene("232639","deaD_2 / rheA / deaD / cshA").
+coregene("232640","yazA").
+coregene("232641","trmNF").
+coregene("232645","purK").
+coregene("232654","sodA").
+coregene("232687","udk").
+coregene("232710","pepM / map").
+coregene("232715","dagK").
+coregene("232728","murA / murAA").
+coregene("232731","pheS").
+coregene("232740","trmE / mnmE").
+coregene("232744","acoB").
+coregene("232746","acoL / lpd / lpdA").
+coregene("232748","cobQ / gatD").
+coregene("232752","glmM").
+coregene("232755","hemN / hemW").
+coregene("232786","pyk / pykF").
+coregene("232790","yecS / yecS_2").
+coregene("232798","mglA / nupO / rbsA").
+coregene("232810","gid / trmFO").
+coregene("232833","pstB_2 / pstB / pstBA / pstB2").
+coregene("232835","pstB1 / pstB / pstBA / pstB_1").
+coregene("232882","rbgA / ylqF").
+coregene("232929","ettM / ybiT").
+coregene("232930","rnhB / nrdD_1").
+coregene("232934","fhs").
+coregene("232945","manB / pgcA / pgmA").
+coregene("232948","ndpA").
+coregene("232949","glyA / glyA-1").
+coregene("232952","prfA").
+coregene("232954","4-OT / xylH").
+coregene("232960","xpt").
+coregene("232986","murB").
+coregene("232990","arcT / folEA / folE").
+coregene("233021","rpsA").
+coregene("233026","gyrB / parE").
+coregene("233051","cmhR / cpsY / cysB").
+coregene("233053","deoD / deoD_3").
+coregene("233055","punA / pnp / xapA / pupG").
+coregene("233057","deoB").
+coregene("233062","potA / potA_1 / livG").
+coregene("233063","lsrC_2").
+coregene("233075","rmlC / cps19fO / rfbC").
+coregene("233080","apt / aptA").
+coregene("233086","rnz / elaC").
+coregene("233091","ORF 3").
+coregene("233163","rpIJ / rplJ").
+coregene("233164","clpL / clpE / clpC / clpB").
+coregene("233172","ysxC / engB / yihA").
+coregene("233176","thyA").
+coregene("233202","ettA / yfmR / uup / yjjK").
+coregene("233208","fruA").
+coregene("233209","pfkB / fruK / fruB").
+coregene("233244","aroC / aroF").
+coregene("233271","act / pflA").
+coregene("233273","hlyX / tlyC").
+coregene("233316","rmlD / spsK / rfbD").
+coregene("233332","ybfQ / glpE").
+coregene("233416","smpB").
+coregene("233417","rnr").
+coregene("233437","era").
+coregene("233452","phoH / ybeZ").
+coregene("233454","yozE").
+coregene("233455","msrA2 / msrA").
+coregene("233458","pyrH").
+coregene("233464","rplA").
+coregene("233478","gcaD / glmU").
+coregene("233503","metG / metS").
+coregene("233522","livF").
+coregene("233523","livG").
+coregene("233529","trmL / yibK").
+coregene("233534","yjbC / rluB").
+coregene("233546","Unknow").
+coregene("233554","greA").
+coregene("233557","murC").
+coregene("233560","der / engA").
+coregene("233565","ykoG / yedW / arlR / rr01").
+coregene("233605","yqeH / rgpH").
+coregene("233608","gatB").
+coregene("233609","gatA").
+coregene("233610","gatC").
+coregene("233617","codY").
+coregene("233629","secA").
+coregene("233646","comEB").
+coregene("233651","corA2 / corA").
+coregene("233652","ssbB / ssbA / ssb_3 / ssb").
+coregene("233670","pfl / pflB").
+coregene("233713","gcp / tsaD").
+coregene("233719","rnpZA").
+coregene("233721","rnjA").
+coregene("233725","gnlA / glnA").
+coregene("233736","rpe").
+coregene("233737","rsgA").
+coregene("233742","rnmV").
+coregene("233743","ycfH / yabD / tatD / dayD").
+coregene("233752","dltA").
+coregene("233794","hslO").
+coregene("233805","qacE").
+coregene("233895","prmA").
+coregene("233901","Unknow").
+coregene("233952","leuS").
+coregene("233955","nusG").
+coregene("233975","nrdG").
+coregene("233984","recA").
+coregene("234000","hisS").
+coregene("234086","Unknow").
+coregene("234090","rplI").
+coregene("234112","pgsA / pgsA_2").
+coregene("234140","ykpA / yheS_2 / ybiT").
+coregene("577809","glnR").
+coregene("577877","glnH_1 / fliY / glnH").
+coregene("577878","glnQ_3 / glnQ / tcyC").
+coregene("577896","metE").
+coregene("577897","metF").
+coregene("578006","aroG / aroG1 / aroG2 / aroH / aroF").
+coregene("578064","lemA").
+coregene("578093","trpB").
+coregene("578138","citB / acnA").
+coregene("578272","yidA").
+coregene("578359","leuA / leuA_1").
+coregene("578360","leuB").
+coregene("578364","yebC-1").
+coregene("578449","dapB").
+coregene("578462","lmrA / yfiC / msbA").
+coregene("578475","nox").
+coregene("578520","dapA").
+coregene("578521","asd / usg").
+coregene("578554","pyrE").
+coregene("578620","carA / pyrAA").
+coregene("578622","uraA / pyrP").
+coregene("578733","aroA").
+coregene("578736","aroB").
+coregene("578834","dgs").
+coregene("578931","serA").
+coregene("578932","serC").
+coregene("578982","rcmE / racE / murI").
+coregene("579021","cysM1 / cysK").
+coregene("579067","manO").
+coregene("579073","mip").
+coregene("579102","ilvC").
+coregene("579103","ilvN / ilvH").
+coregene("579104","ilvB / ilvI").
+coregene("579135","Unknow").
+coregene("579151","mrnC").
+coregene("579164","repS / pepS / ampS").
+coregene("579172","tkt / tktA").
+coregene("579260","tadA").
+coregene("579330","thrC").
+coregene("579429","dltB").
+coregene("680531","tnp1191_6 / tnp-2 / tnp1191_12 / tnp1191_5 / tnp1191_3 / tnp1191_9 / tra / tnp / tnp1191_4 / xis / tnp1191_10 / tnp1191_2 / tnp1191_11 / tnp1191_13 / tnp1191 / tnp-IS1191 / tnp1191_1 / tnp-1 / tnp1191_7 / tnp-IS1191-1 / tnp1191_8").
+coregene("680556","Mobile element protein / insK").
+coregene("683404","pyrB").
+coregene("684251","gmuE / scrK").
+coregene("684469","TnpIS204 / tnpIS / TnpIS204-1").
+coregene("743109","pyrF").
+coregene("743552","queC").
+coregene("743553","queD / ygcM / ptpS").
+coregene("743734","insJ").
+coregene("744619","Unknow").
+coregene("1308834","ytnL / yxeP / hipO2 / sndB / sndA / hipO1").
+coregene("1308850","rumA / rlmCD / rlmD").
+coregene("1308852","yfdH / csbB / gt").
+coregene("1308857","hom").
+coregene("1309003","tnp-IS / tnp1193-1 / tnp-IS1193_6 / tnp-IS1193 / tnp / tnp1193 / tnp-IS1193_2 / tnp-IS1193_5 / tnp-IS1193_3 / tnp1193-2 / tnp1193-3 / tnp3 / tnp-IS1193_4 / tnp4 / tnp-IS1193_1").
+coregene("1309426","serB").
+coregene("1309548","pheT / pheT_1").
+coregene("1309584","lysA").
+coregene("1309694","Unknow").
+coregene("1312466","nth").
+coregene("1312664","acoA / pdhA").
+coregene("1312686","uvrC").
+coregene("1313192","xseA").
+coregene("1313274","glyS").
+coregene("1318407","yaaC").
+coregene("1318436","Unknow").
+coregene("1318449","Unknow").
+coregene("1318477","Unknow").
+coregene("1318513","Unknow").
+coregene("1318624","Unknow").
+coregene("1318649","Unknow").
+coregene("1318651","Unknow").
+coregene("1318671","dnaN").
+coregene("1318672","pth1 / pth").
+coregene("1318673","mfd").
+coregene("1318674","divIC").
+coregene("1318675","yaaD").
+coregene("1318676","tilS").
+coregene("1318677","ftsH").
+coregene("1318679","mreD").
+coregene("1318680","pcsB").
+coregene("1318681","recO").
+coregene("1318682","plsX").
+coregene("1318693","cinA").
+coregene("1318697","Unknow").
+coregene("1318702","Unknow").
+coregene("1318704","Unknow").
+coregene("1318705","degV / degV_1").
+coregene("1318707","panE").
+coregene("1318714","pgsA / pgsA_1").
+coregene("1318717","dacB").
+coregene("1318719","hrcA").
+coregene("1318720","truA").
+coregene("1318721","thiD").
+coregene("1318726","comX / comX1_2").
+coregene("1318727","mutT").
+coregene("1318728","rsmE").
+coregene("1318733","dtd").
+coregene("1318734","dex / dex_1").
+coregene("1318735","dex_2 / dex").
+coregene("1318736","Unknow").
+coregene("1318741","mecA").
+coregene("1318742","wecA / rgpG").
+coregene("1318768","pbp2A").
+coregene("1318775","yhaH / yhaI / yhaI_1").
+coregene("1318776","ypsA").
+coregene("1318780","SalivA0238").
+coregene("1318781","Unknow").
+coregene("1318784","fstH / ybhL").
+coregene("1318786","rdgB").
+coregene("1318787","ysnB / yfcE").
+coregene("1318788","ykuL").
+coregene("1318789","xerD / xerD_1").
+coregene("1318790","scpA").
+coregene("1318791","spcB / scpB").
+coregene("1318793","ribU").
+coregene("1318795","plcR").
+coregene("1318807","ureD").
+coregene("1318808","ureM / cbiM / nikMN / larMN").
+coregene("1318820","ykoD / sdcBA").
+coregene("1318822","Unknow").
+coregene("1318826","dnaI").
+coregene("1318828","yhhY").
+coregene("1318829","brpA").
+coregene("1318830","rulQ").
+coregene("1318831","infB").
+coregene("1318835","ytgP / mviN").
+coregene("1318838","patB / hly / malY").
+coregene("1318840","Unknow").
+coregene("1318841","Unknow").
+coregene("1318848","Unknow").
+coregene("1318849","yfjO / rumA / rlmCD / rlmD").
+coregene("1318861","gsr / gor").
+coregene("1318862","tagE / gtfA / gtf / gtf1").
+coregene("1318866","Unknow").
+coregene("1318870","degV / fakBA / degV_3").
+coregene("1318871","cca / papL").
+coregene("1318875","yheH / lmrA2").
+coregene("1318877","Unknow").
+coregene("1318883","coiA").
+coregene("1318884","pepB / pepF").
+coregene("1318885","Unknow").
+coregene("1318886","prsA / prtM").
+coregene("1318897","rarD").
+coregene("1318902","atpF").
+coregene("1318903","atpH").
+coregene("1318904","atpG").
+coregene("1318906","ftsW").
+coregene("1318907","tmk").
+coregene("1318908","dnaH / holB").
+coregene("1318909","ricT / sip / tpl").
+coregene("1318910","yabA").
+coregene("1318924","ptbA / bglP / bglF / nagE / bglF_2").
+coregene("1318929","cpsY / cpsY2 / oxyR").
+coregene("1318930","lspA / lspA_1").
+coregene("1318931","pyrR").
+coregene("1318932","rsmJ").
+coregene("1318939","nagB / gamA").
+coregene("1318949","ykgC / merA / rclA").
+coregene("1318950","mvaK1 / mvk").
+coregene("1318951","mvaD").
+coregene("1318952","mvaK2 / mvaK").
+coregene("1318953","fni / idi").
+coregene("1318954","act / nudF / yffH").
+coregene("1318955","Unknow").
+coregene("1318956","mtnN / pfs").
+coregene("1318961","Unknow").
+coregene("1318971","murN").
+coregene("1318978","feoA").
+coregene("1318982","folD").
+coregene("1318983","nnrD").
+coregene("1318987","dgk / dgkA").
+coregene("1318988","mutM").
+coregene("1318995","mmcQ").
+coregene("1318998","arod / aroD").
+coregene("1318999","aroE / ydiB").
+coregene("1319001","Unknow").
+coregene("1319004","pheA2 / pheA").
+coregene("1319011","Unknow").
+coregene("1319013","Unknow").
+coregene("1319015","Unknow").
+coregene("1319016","Unknow").
+coregene("1319039","Unknow").
+coregene("1319040","Unknow").
+coregene("1319042","holA").
+coregene("1319043","Unknow").
+coregene("1319044","dps_2 / dps / dps_1 / dpr").
+coregene("1319045","fur / perR").
+coregene("1319047","Unknow").
+coregene("1319048","murG").
+coregene("1319049","divIB").
+coregene("1319053","ylmG").
+coregene("1319054","Unknow").
+coregene("1319055","divIVA").
+coregene("1319057","tdk").
+coregene("1319058","hemK / prmC").
+coregene("1319059","rimN / ywlC").
+coregene("1319060","pvaA").
+coregene("1319061","msbA_3 / msbA").
+coregene("1319064","dltD").
+coregene("1319078","cdd_1 / cdd").
+coregene("1319079","tmpC / nupN / bmpB").
+coregene("1319080","mglC / ytfT / nupP").
+coregene("1319081","nupQ").
+coregene("1319173","umuD").
+coregene("1319175","bglK_1 / bglK").
+coregene("1319176","smf / dprA").
+coregene("1319177","Unknow").
+coregene("1319179","hk04 / hk").
+coregene("1319180","ndk").
+coregene("1319183","butA_1 / ucpA / butA").
+coregene("1319213","laaN").
+coregene("1319217","yajL / thiJ").
+coregene("1319220","pyrK").
+coregene("1319245","tpx / psaD").
+coregene("1319246","hsdS / hsdS2").
+coregene("1319248","truB").
+coregene("1319252","Unknow").
+coregene("1319253","suhB").
+coregene("1319258","phoU").
+coregene("1319259","pepN").
+coregene("1319295","deaD / deaD_1 / yfmL").
+coregene("1319334","Unknow").
+coregene("1319460","mdtK / norM").
+coregene("1319463","rpsD / rpsD_1").
+coregene("1319653","yjbK / cyaA").
+coregene("1319665","nifS3 / iscS / iscS_2").
+coregene("1319672","Unknow").
+coregene("1319724","gnlP_1 / gnlP").
+coregene("1319905","Unknow").
+coregene("1320079","Unknow").
+coregene("1320118","hit / hinT").
+coregene("1320136","Unknow").
+coregene("1320155","Unknow").
+coregene("1320500","mutS2 / mutS").
+coregene("1320533","sipA / lepB").
+coregene("1321046","Unknow").
+coregene("1321062","amaP").
+coregene("1321082","Unknow").
+coregene("1321113","adcR-1 / adcR").
+coregene("1321128","yaaA").
+coregene("1321141","recF").
+coregene("1321169","Unknow").
+coregene("1321392","ykuT / mscS").
+coregene("1321529","Unknow").
+coregene("1321543","rluC / rluD").
+coregene("1321568","Unknow").
+coregene("1321584","glcR / glpR").
+coregene("1321653","oxaA1 / yidC").
+coregene("1321713","Unknow").
+coregene("1321729","trkH / trkH1").
+coregene("1321768","trkA2").
+coregene("1321771","trkH / trkH2").
+coregene("1321835","folC / folC1").
+coregene("1321891","cpsY_2 / cynR").
+coregene("1321961","mvaS").
+coregene("1321963","Unknow").
+coregene("1321964","mutT / mutT_1").
+coregene("1321965","e1").
+coregene("1321966","ltaS2 / ltaS").
+coregene("1321968","acrC").
+coregene("1321969","Unknow").
+coregene("1321971","Unknow").
+coregene("1321972","bioY1 / bioY").
+coregene("1321977","ytjC / gpmC").
+coregene("1321978","Unknow").
+coregene("1321979","Unknow").
+coregene("1321980","Unknow").
+coregene("1321982","apbE").
+coregene("1321983","nrnA").
+coregene("1321997","panT_2 / panT").
+coregene("1321998","dfp1 / coaC").
+coregene("1321999","dfp2").
+coregene("1322000","coaA").
+coregene("1322001","ycbL").
+coregene("1322107","rqcH / fbp").
+coregene("1322115","malQ").
+coregene("1322141","neuA").
+coregene("1322143","Unknow").
+coregene("1322144","bglH / bglB").
+coregene("1322148","cpsX / epsX").
+coregene("1322164","eps5A / eps3A / epsA / ywtF").
+coregene("1322165","gat / yfeJ / gat_1").
+coregene("1322173","Unknow").
+coregene("1322174","lepB / sipB").
+coregene("1322176","yhhT").
+coregene("1322184","hpk / vicK / hpk2").
+coregene("1322187","Unknow").
+coregene("1322189","galE / galE2 / galE_1").
+coregene("1322191","dnaX / folC2").
+coregene("1322192","msrC / ytsP / fabG-1").
+coregene("1322193","trmD / miaA").
+coregene("1322200","estA").
+coregene("1322206","dnaE / dnaEC").
+coregene("1322212","argR_2 / argR / argR1").
+coregene("1322213","ispA").
+coregene("1322215","dnaD_2 / dNAD").
+coregene("1322216","metA / metAA").
+coregene("1322217","recJ").
+coregene("1322219","Unknow").
+coregene("1322225","fat").
+coregene("1322230","yurR / thiO").
+coregene("1322235","Unknow").
+coregene("1322241","prpC / gltA / citZ").
+coregene("1322252","paiA").
+coregene("1322253","smc").
+coregene("1322254","rncS / rnc").
+coregene("1322260","cls").
+coregene("1322288","msrA / msrB / msrA1 / msrAB").
+coregene("1322311","Unknow").
+coregene("1322315","Unknow").
+coregene("1322322","Unknow").
+coregene("1322325","Unknow").
+coregene("1322330","glyA / hyaD_1 / csp2K_3").
+coregene("1322970","yjbO / rluD").
+coregene("1323011","radC / yicR").
+coregene("1323583","Unknow").
+coregene("1323695","nanK").
+coregene("1323855","folP").
+coregene("1323963","ligA_2 / ligA").
+coregene("1323980","queT").
+coregene("1323989","yihY").
+coregene("1324010","str1558").
+coregene("1324139","murF").
+coregene("1324202","copZ").
+coregene("1324215","copA").
+coregene("1324227","copY").
+coregene("1324240","trpA").
+coregene("1324275","trpC / trpF").
+coregene("1324306","trpD").
+coregene("1324317","pabA / trpG").
+coregene("1324349","tyrA").
+coregene("1324397","Unknow").
+coregene("1324490","Unknow").
+coregene("1324499","Unknow").
+coregene("1324509","ecsA / ecsA_2").
+coregene("1324568","tmcAL").
+coregene("1324878","Unknow").
+coregene("1324946","ytqB").
+coregene("1324966","atpH-1 / lon").
+coregene("1325069","Unknow").
+coregene("1325085","dinB").
+coregene("1325367","yutD").
+coregene("1325377","yfkN_2").
+coregene("1325392","mraY").
+coregene("1325425","ftsL").
+coregene("1325560","proA").
+coregene("1325579","Unknow").
+coregene("1325584","addA / rexA").
+coregene("1325680","yidA").
+coregene("1325697","recG").
+coregene("1325710","dadX / alr / alrA").
+coregene("1325723","acpS").
+coregene("1325782","pmi1 / manA").
+coregene("1325857","papA / ypdF / pepP / yqhT").
+coregene("1325915","Unknow").
+coregene("1326033","polA").
+coregene("1326049","cvpA").
+coregene("1326055","Unknow").
+coregene("1326065","Unknow").
+coregene("1326136","ydiC / yeaZ / tsaB").
+coregene("1326295","rmuC").
+coregene("1326305","thiN").
+coregene("1326560","misCA / yidC").
+coregene("1326724","Unknow").
+coregene("1326758","gluP").
+coregene("1326849","yeeD").
+coregene("1326884","ytpP / trxA_2 / trxA2").
+coregene("1326907","Unknow").
+coregene("1326965","mleP / mleP-1").
+coregene("1327000","pulG").
+coregene("1327012","comGC / cglC").
+coregene("1327065","norN").
+coregene("1327106","ywlG").
+coregene("1327224","Unknow").
+coregene("1327275","Unknow").
+coregene("1327330","smc_3").
+coregene("1327350","Unknow").
+coregene("1327367","isaA").
+coregene("1327375","ecfT").
+coregene("1327382","ecfA / cbiO_1 / cbiO / ecfAB").
+coregene("1327386","ecfA / cbiO / cbiO_2").
+coregene("1327408","Unknow").
+
+
+"Genes present in a single strain (specific)
+
+specgene("TH1477","1083567","Unknow").
+specgene("BIO1488","1119752","Unknow").
+specgene("TH982","1162351","Unknow").
+specgene("CNCM I-1630","1251746","Unknow").
+specgene("CNCM I-1630","1253658","leuD").
+specgene("B59671","1253681","Unknow").
+specgene("M17PTZA496","1308418","Unknow").
+specgene("B59671","1308483","Unknow").
+specgene("B59671","1308489","Unknow").
+specgene("B59671","1308494","Unknow").
+specgene("M17PTZA496","1308817","Unknow").
+specgene("M17PTZA496","1308833","Unknow").
+specgene("M17PTZA496","1308835","Unknow").
+specgene("TH1477","1309639","Unknow").
+specgene("CNCM I-1630","1311151","rsmI").
+specgene("CNCM I-1630","1313779","Unknow").
+specgene("CIRM24","1313831","Unknow").
+specgene("M17PTZA496","1316466","Unknow").
+specgene("LMG 18311","1319118","Unknow").
+specgene("LMG 18311","1325501","Unknow").
+specgene("LMD-9","1328399","Unknow").
+specgene("LMD-9","1328430","Unknow").
+specgene("LMD-9","1328453","Unknow").
+specgene("LMD-9","1328461","Unknow").
+specgene("LMD-9","1329086","Unknow").
+specgene("TH985","133142","Unknow").
+specgene("LMD-9","1335557","Unknow").
+specgene("LMD-9","1337237","Unknow").
+specgene("M17PTZA496","1340702","Unknow").
+specgene("CNCM I-1630","1340732","purC").
+specgene("CNRZ21N","1342335","engD").
+specgene("CNCM I-1630","1343181","Unknow").
+specgene("CNCM I-1630","1343616","Unknow").
+specgene("ST106","1343980","rlmH").
+specgene("ACA-DC 2","1413899","Unknow").
+specgene("S1N","1414075","Unknow").
+specgene("TH1435","14683","Unknow").
+specgene("S2N_ST20","1480791","alaS").
+specgene("ST109","1480794","Unknow").
+specgene("JIM1081","1573653","Unknow").
+specgene("JIM1081","1573667","Unknow").
+specgene("JIM1081","1573698","Unknow").
+specgene("JIM1081","1573720","Unknow").
+specgene("JIM 8232","1573802","Unknow").
+specgene("JIM 8232","1573803","Unknow").
+specgene("CNCM I-1630","1614392","Unknow").
+specgene("CIRM1860","1632","Unknow").
+specgene("CNCM I-1630","1721647","Unknow").
+specgene("CNCM I-1630","1721665","ytfP").
+specgene("CNCM I-1630","1721705","rnjA").
+specgene("CNCM I-1630","1721733","polC").
+specgene("MTCC 5460","1721735","ruvB").
+specgene("CNCM I-1630","1721737","rpoA").
+specgene("KU30","1721805","Unknow").
+specgene("ST106","1721905","smc").
+specgene("TH982","17647","Unknow").
+specgene("ST106","1860296","Unknow").
+specgene("JIM 8232","2030116","Unknow").
+specgene("CIRM30","2036887","Unknow").
+specgene("TH985","2043090","Unknow").
+specgene("TH985","2043091","Unknow").
+specgene("TH985","2043092","Unknow").
+specgene("CIRM1860","2080","Unknow").
+specgene("CIRM1860","2081","Unknow").
+specgene("CNCM I-1630","2087451","Unknow").
+specgene("MTH17CL396","2092750","Unknow").
+specgene("M17PTZA496","231992","Unknow").
+specgene("M17PTZA496","232036","Unknow").
+specgene("KLDS 3.1003","232045","Unknow").
+specgene("M17PTZA496","232051","Unknow").
+specgene("M17PTZA496","232058","Unknow").
+specgene("CAG:236","2320913","Unknow").
+specgene("M17PTZA496","233663","Unknow").
+specgene("MTH17CL396","2338","Unknow").
+specgene("M17PTZA496","233803","Unknow").
+specgene("S1N","235300","parC").
+specgene("MTH17CL396","242321","Unknow").
+specgene("CIRM1860","242359","Unknow").
+specgene("CNCM I-1630","242463","walR").
+specgene("CIRM1051","243397","trmF").
+specgene("CNCM I-1630","243417","ilvD").
+specgene("CNCM I-1630","243771","Unknow").
+specgene("CAG:236","2439","prfC").
+specgene("CIRM1860","246616","Unknow").
+specgene("KLDS 3.1003","2526103","Unknow").
+specgene("S1N","2528143","Unknow").
+specgene("CNCM I-1630","25303","Unknow").
+specgene("TH1477","2556966","Unknow").
+specgene("CIRM368","2557864","Unknow").
+specgene("CIRM1860","2561946","Unknow").
+specgene("JIM1081","2717348","copG").
+specgene("JIM1081","2725814","Unknow").
+specgene("B59671","2744694","Unknow").
+specgene("S2N_ST20","2744719","deoD").
+specgene("CNCM I-1630","2744722","Unknow").
+specgene("KLDS 3.1003","2768","Unknow").
+specgene("CIRM1050","2914974","Unknow").
+specgene("CIRM1050","2916073","Unknow").
+specgene("C106","2916259","Unknow").
+specgene("CNCM I-1630","2917030","Unknow").
+specgene("CNCM I-1630","3033864","Unknow").
+specgene("CNCM I-1630","3033909","tsaD").
+specgene("TH982","3034434","Unknow").
+specgene("TH982","3034534","Unknow").
+specgene("M17PTZA496","3035139","Unknow").
+specgene("B59671","3035140","Unknow").
+specgene("CIRM998","3035154","Unknow").
+specgene("TH1435","3035164","Unknow").
+specgene("CIRM67","3035482","Unknow").
+specgene("S1N","3036037","dnaK").
+specgene("TH1477","3074972","Unknow").
+specgene("TH1477","3074973","Unknow").
+specgene("CIRM16","3074974","Unknow").
+specgene("ST109","3075002","Unknow").
+specgene("M17PTZA496","3127","Unknow").
+specgene("TH1435","3146797","Unknow").
+specgene("CNCM I-1630","3160687","clpX").
+specgene("1F8CT","3160725","Unknow").
+specgene("TH985","3160780","Unknow").
+specgene("MN-ZLW-002","3160978","Unknow").
+specgene("CIRM998","3509606","bcgIA").
+specgene("CNCM I-1630","363420","atpA").
+specgene("TH1477","3637213","Unknow").
+specgene("B59671","3637215","Unknow").
+specgene("M17PTZA496","3637268","Unknow").
+specgene("CIRM967","3645722","Unknow").
+specgene("CNCM I-1630","3665530","Unknow").
+specgene("MTH17CL396","3666568","Unknow").
+specgene("JIM 8232","3685718","Unknow").
+specgene("JIM 8232","3685730","Unknow").
+specgene("JIM 8232","3685732","Unknow").
+specgene("JIM 8232","3685736","Unknow").
+specgene("JIM 8232","3685777","Unknow").
+specgene("JIM 8232","3685792","Unknow").
+specgene("JIM 8232","3685793","Unknow").
+specgene("JIM 8232","3685804","Unknow").
+specgene("JIM 8232","3685816","Unknow").
+specgene("JIM 8232","3685817","Unknow").
+specgene("JIM 8232","3685876","Unknow").
+specgene("JIM 8232","3685905","Unknow").
+specgene("JIM 8232","3685906","Unknow").
+specgene("MN-ZLW-002","3685965","Unknow").
+specgene("MN-ZLW-002","3686007","Unknow").
+specgene("CNCM I-1630","3686103","yfgB").
+specgene("CNCM I-1630","3686104","Unknow").
+specgene("CNCM I-1630","3686133","Unknow").
+specgene("CNCM I-1630","3686154","pgcA").
+specgene("CNCM I-1630","3686180","rnhC").
+specgene("CNCM I-1630","3686186","ecfT").
+specgene("CNCM I-1630","3686187","guaB").
+specgene("CNCM I-1630","3686188","Unknow").
+specgene("CNCM I-1630","3686189","rlmKB").
+specgene("CNCM I-1630","3686190","spoIIIE").
+specgene("CNCM I-1630","3686192","galT").
+specgene("CNCM I-1630","3686193","galE").
+specgene("CNCM I-1630","3686196","sufS").
+specgene("CNCM I-1630","3686197","Unknow").
+specgene("CNCM I-1630","3686199","smc").
+specgene("CNCM I-1630","3686201","lplJ").
+specgene("CNCM I-1630","3686206","Unknow").
+specgene("CNCM I-1630","3686209","Unknow").
+specgene("CNCM I-1630","3686212","Unknow").
+specgene("CNCM I-1630","3686215","yfbQ").
+specgene("CNCM I-1630","3686216","groEL").
+specgene("CNCM I-1630","3686217","priA").
+specgene("CNCM I-1630","3686218","purM").
+specgene("CNCM I-1630","3686219","Unknow").
+specgene("CNCM I-1630","3686224","Unknow").
+specgene("CNCM I-1630","3686229","pbpA").
+specgene("CNCM I-1630","3686231","Unknow").
+specgene("CNCM I-1630","3686232","Unknow").
+specgene("CNCM I-1630","3686233","Unknow").
+specgene("CNCM I-1630","3686235","Unknow").
+specgene("CNCM I-1630","3686240","Unknow").
+specgene("CNCM I-1630","3686241","nrdE").
+specgene("CNCM I-1630","3686242","Unknow").
+specgene("CNCM I-1630","3686244","Unknow").
+specgene("CNCM I-1630","3686245","murD").
+specgene("CNCM I-1630","3686247","ptsI").
+specgene("CNCM I-1630","3686251","rsmI").
+specgene("CNCM I-1630","3686257","Unknow").
+specgene("CNCM I-1630","3686259","Unknow").
+specgene("CNCM I-1630","3686260","Unknow").
+specgene("CNCM I-1630","3686263","walR").
+specgene("CNCM I-1630","3686264","asnA").
+specgene("CNCM I-1630","3686265","asnA").
+specgene("CNCM I-1630","3686266","thrD").
+specgene("CNCM I-1630","3686267","Unknow").
+specgene("CNCM I-1630","3686268","Unknow").
+specgene("CNCM I-1630","3686270","adk").
+specgene("CNCM I-1630","3686271","Unknow").
+specgene("CNCM I-1630","3686273","Unknow").
+specgene("CNCM I-1630","3686277","Unknow").
+specgene("CNCM I-1630","3686278","Unknow").
+specgene("CNCM I-1630","3686280","Unknow").
+specgene("CNCM I-1630","3686282","Unknow").
+specgene("CNCM I-1630","3686283","Unknow").
+specgene("CNCM I-1630","3686285","Unknow").
+specgene("CNCM I-1630","3686286","Unknow").
+specgene("CNCM I-1630","3686287","amyA").
+specgene("CNCM I-1630","3686292","fruR").
+specgene("CNCM I-1630","3686293","fruR").
+specgene("CNCM I-1630","3686295","argH").
+specgene("CNCM I-1630","3686296","argH").
+specgene("CNCM I-1630","3686297","Unknow").
+specgene("CNCM I-1630","3686299","ilvD").
+specgene("CNCM I-1630","3686300","Unknow").
+specgene("CNCM I-1630","3686301","Unknow").
+specgene("CNCM I-1630","3686302","Unknow").
+specgene("CNCM I-1630","3686308","Unknow").
+specgene("CNCM I-1630","3686311","Unknow").
+specgene("CNCM I-1630","3686314","Unknow").
+specgene("CNCM I-1630","3686316","Unknow").
+specgene("CNCM I-1630","3686317","Unknow").
+specgene("CNCM I-1630","3686318","Unknow").
+specgene("CNCM I-1630","3686319","Unknow").
+specgene("CNCM I-1630","3686321","Unknow").
+specgene("CNCM I-1630","3686324","lysS").
+specgene("CNCM I-1630","3686325","Unknow").
+specgene("CNCM I-1630","3686333","Unknow").
+specgene("CNCM I-1630","3686335","Unknow").
+specgene("CNCM I-1630","3686336","Unknow").
+specgene("CNCM I-1630","3686338","Unknow").
+specgene("CNCM I-1630","3686339","Unknow").
+specgene("CNCM I-1630","3686341","Unknow").
+specgene("CNCM I-1630","3686344","mgfK").
+specgene("CNCM I-1630","3686349","Unknow").
+specgene("CNCM I-1630","3686352","murAB").
+specgene("CNCM I-1630","3686353","Unknow").
+specgene("CNCM I-1630","3686356","aapA").
+specgene("CNCM I-1630","3686357","tsf").
+specgene("CNCM I-1630","3686358","Unknow").
+specgene("CNCM I-1630","3686360","Unknow").
+specgene("CNCM I-1630","3686363","Unknow").
+specgene("CNCM I-1630","3686366","Unknow").
+specgene("CNCM I-1630","3686367","Unknow").
+specgene("CNCM I-1630","3686368","Unknow").
+specgene("CNCM I-1630","3686369","gyrA").
+specgene("CNCM I-1630","3686371","Unknow").
+specgene("CNCM I-1630","3686373","Unknow").
+specgene("CNCM I-1630","3686375","Unknow").
+specgene("CNCM I-1630","3686376","Unknow").
+specgene("CNCM I-1630","3686377","Unknow").
+specgene("CNCM I-1630","3686378","Unknow").
+specgene("CNCM I-1630","3686379","Unknow").
+specgene("CNCM I-1630","3686380","Unknow").
+specgene("CNCM I-1630","3686381","Unknow").
+specgene("CNCM I-1630","3686382","Unknow").
+specgene("CNCM I-1630","3686383","Unknow").
+specgene("MTCC 5460","3686400","Unknow").
+specgene("MTCC 5460","3686417","rlmCD").
+specgene("MTCC 5460","3686423","Unknow").
+specgene("MTCC 5460","3686451","Unknow").
+specgene("MTCC 5461","3686517","Unknow").
+specgene("MTCC 5461","3686518","Unknow").
+specgene("CAG:236","3686530","Unknow").
+specgene("CAG:236","3686534","Unknow").
+specgene("CAG:236","3686544","Unknow").
+specgene("CAG:236","3686551","Unknow").
+specgene("CAG:236","3686559","priA").
+specgene("CAG:236","3686563","mnmA").
+specgene("TH1436","3686583","Unknow").
+specgene("TH1436","3686588","Unknow").
+specgene("TH1436","3686617","Unknow").
+specgene("TH1436","3686620","Unknow").
+specgene("TH1435","3686624","Unknow").
+specgene("TH1435","3686628","Unknow").
+specgene("TH1435","3686640","Unknow").
+specgene("TH1435","3686645","Unknow").
+specgene("ASCC 1275","3686690","Unknow").
+specgene("ASCC 1275","3686734","Unknow").
+specgene("MN-BM-A01","3686753","Unknow").
+specgene("SMQ-301","3686760","Unknow").
+specgene("KLDS SM","3686784","Unknow").
+specgene("MN-BM-A01","3686795","Unknow").
+specgene("MN-BM-A01","3686797","Unknow").
+specgene("MN-BM-A01","3686798","Unknow").
+specgene("MN-BM-A01","3686802","Unknow").
+specgene("MN-BM-A01","3686806","Unknow").
+specgene("MN-BM-A01","3686809","Unknow").
+specgene("MN-BM-A01","3686810","Unknow").
+specgene("MN-BM-A01","3686813","Unknow").
+specgene("S9","3686814","Unknow").
+specgene("KLDS 3.1003","3686817","Unknow").
+specgene("KLDS 3.1003","3686839","Unknow").
+specgene("APC151","3686840","Unknow").
+specgene("CS8","3686842","Unknow").
+specgene("S9","3686855","Unknow").
+specgene("ACA-DC 2","3686882","Unknow").
+specgene("ND07","3686911","Unknow").
+specgene("ACA-DC 2","3686961","Unknow").
+specgene("ND07","3686964","Unknow").
+specgene("ST3","3686977","Unknow").
+specgene("M17PTZA496","3687000","Unknow").
+specgene("M17PTZA496","3687001","Unknow").
+specgene("M17PTZA496","3687002","Unknow").
+specgene("M17PTZA496","3687003","Unknow").
+specgene("M17PTZA496","3687004","Unknow").
+specgene("M17PTZA496","3687005","Unknow").
+specgene("M17PTZA496","3687006","Unknow").
+specgene("M17PTZA496","3687007","Unknow").
+specgene("M17PTZA496","3687008","Unknow").
+specgene("M17PTZA496","3687009","Unknow").
+specgene("M17PTZA496","3687010","Unknow").
+specgene("M17PTZA496","3687011","Unknow").
+specgene("M17PTZA496","3687012","Unknow").
+specgene("M17PTZA496","3687013","Unknow").
+specgene("M17PTZA496","3687014","Unknow").
+specgene("M17PTZA496","3687015","Unknow").
+specgene("M17PTZA496","3687016","Unknow").
+specgene("M17PTZA496","3687017","Unknow").
+specgene("M17PTZA496","3687018","Unknow").
+specgene("M17PTZA496","3687019","Unknow").
+specgene("M17PTZA496","3687020","Unknow").
+specgene("M17PTZA496","3687021","Unknow").
+specgene("M17PTZA496","3687022","Unknow").
+specgene("M17PTZA496","3687023","Unknow").
+specgene("M17PTZA496","3687024","Unknow").
+specgene("M17PTZA496","3687025","Unknow").
+specgene("M17PTZA496","3687026","Unknow").
+specgene("M17PTZA496","3687031","Unknow").
+specgene("M17PTZA496","3687032","Unknow").
+specgene("M17PTZA496","3687039","Unknow").
+specgene("M17PTZA496","3687040","Unknow").
+specgene("M17PTZA496","3687042","Unknow").
+specgene("M17PTZA496","3687043","Unknow").
+specgene("M17PTZA496","3687046","Unknow").
+specgene("M17PTZA496","3687059","Unknow").
+specgene("M17PTZA496","3687060","Unknow").
+specgene("M17PTZA496","3687061","Unknow").
+specgene("M17PTZA496","3687062","Unknow").
+specgene("M17PTZA496","3687063","Unknow").
+specgene("M17PTZA496","3687064","Unknow").
+specgene("M17PTZA496","3687065","Unknow").
+specgene("M17PTZA496","3687066","Unknow").
+specgene("M17PTZA496","3687067","Unknow").
+specgene("M17PTZA496","3687068","Unknow").
+specgene("M17PTZA496","3687069","Unknow").
+specgene("M17PTZA496","3687070","Unknow").
+specgene("M17PTZA496","3687122","Unknow").
+specgene("M17PTZA496","3687123","recX").
+specgene("M17PTZA496","3687124","Unknow").
+specgene("M17PTZA496","3687125","Unknow").
+specgene("M17PTZA496","3687126","Unknow").
+specgene("M17PTZA496","3687137","Unknow").
+specgene("M17PTZA496","3687148","Unknow").
+specgene("M17PTZA496","3687149","Unknow").
+specgene("M17PTZA496","3687150","Unknow").
+specgene("M17PTZA496","3687173","Unknow").
+specgene("M17PTZA496","3687200","Unknow").
+specgene("M17PTZA496","3687201","Unknow").
+specgene("M17PTZA496","3687202","Unknow").
+specgene("M17PTZA496","3687203","Unknow").
+specgene("M17PTZA496","3687211","Unknow").
+specgene("M17PTZA496","3687227","Unknow").
+specgene("MTH17CL396","3687238","Unknow").
+specgene("MTH17CL396","3687258","Unknow").
+specgene("TH982","3687303","Unknow").
+specgene("TH982","3687324","Unknow").
+specgene("TH1477","3687333","Unknow").
+specgene("TH1477","3687334","Unknow").
+specgene("TH1477","3687335","Unknow").
+specgene("TH1477","3687336","Unknow").
+specgene("TH1477","3687337","Unknow").
+specgene("TH1477","3687338","Unknow").
+specgene("TH1477","3687339","Unknow").
+specgene("1F8CT","3687352","Unknow").
+specgene("1F8CT","3687359","Unknow").
+specgene("1F8CT","3687360","Unknow").
+specgene("1F8CT","3687362","Unknow").
+specgene("1F8CT","3687373","Unknow").
+specgene("TH985","3687378","Unknow").
+specgene("TH985","3687390","Unknow").
+specgene("TH985","3687391","Unknow").
+specgene("TH1477","3687402","Unknow").
+specgene("TH1477","3687403","Unknow").
+specgene("TH1477","3687404","Unknow").
+specgene("TH1477","3687407","Unknow").
+specgene("TH1477","3687409","Unknow").
+specgene("TH1477","3687410","Unknow").
+specgene("TH1477","3687411","Unknow").
+specgene("TH1477","3687412","Unknow").
+specgene("TH985","3687413","Unknow").
+specgene("TH1477","3687425","Unknow").
+specgene("TH1477","3687436","Unknow").
+specgene("B59671","3687440","Unknow").
+specgene("B59671","3687442","Unknow").
+specgene("B59671","3687444","Unknow").
+specgene("B59671","3687451","Unknow").
+specgene("B59671","3687452","Unknow").
+specgene("B59671","3687453","Unknow").
+specgene("B59671","3687455","Unknow").
+specgene("B59671","3687456","Unknow").
+specgene("B59671","3687461","Unknow").
+specgene("B59671","3687462","Unknow").
+specgene("B59671","3687464","Unknow").
+specgene("B59671","3687484","Unknow").
+specgene("B59671","3687493","Unknow").
+specgene("GABA","3749025","Unknow").
+specgene("GABA","3749027","Unknow").
+specgene("GABA","3749030","Unknow").
+specgene("EPS","3749041","Unknow").
+specgene("EPS","3749043","Unknow").
+specgene("EPS","3749044","Unknow").
+specgene("EPS","3749045","Unknow").
+specgene("EPS","3749046","Unknow").
+specgene("EPS","3749047","Unknow").
+specgene("S1N","3974532","Unknow").
+specgene("S1N","3974533","Unknow").
+specgene("S1N","3974534","aspS").
+specgene("S1N","3974535","aspS").
+specgene("S1N","3974536","Unknow").
+specgene("S1N","3974537","Unknow").
+specgene("S1N","3974538","Unknow").
+specgene("S1N","3974540","Unknow").
+specgene("S1N","3974542","dnaK").
+specgene("S1N","3974543","Unknow").
+specgene("S1N","3974544","Unknow").
+specgene("S1N","3974546","Unknow").
+specgene("S1N","3974547","Unknow").
+specgene("S1N","3974548","Unknow").
+specgene("S1N","3974549","Unknow").
+specgene("S1N","3974550","Unknow").
+specgene("S1N","3974551","aspS").
+specgene("S1N","3974552","Unknow").
+specgene("S2N_ST20","3974555","alaS").
+specgene("S2N_ST20","3974556","Unknow").
+specgene("S2N_ST20","3974557","parC").
+specgene("S2N_ST20","3974558","Unknow").
+specgene("S2N_ST20","3974559","Unknow").
+specgene("S2N_ST20","3974561","Unknow").
+specgene("S2N_ST20","3974562","Unknow").
+specgene("S2N_ST20","3974563","galK").
+specgene("S2N_ST20","3974564","Unknow").
+specgene("S2N_ST20","3974565","bmrC").
+specgene("S2N_ST20","3974569","Unknow").
+specgene("CNRZ21N","3974575","era").
+specgene("CNRZ21N","3974581","Unknow").
+specgene("S7N","3974583","Unknow").
+specgene("CIRM1121","3974596","Unknow").
+specgene("CIRM368","3974597","Unknow").
+specgene("CIRM24","3974611","hisD").
+specgene("CIRM24","3974612","hisD").
+specgene("CIRM1050","3974616","Unknow").
+specgene("CIRM24","3974618","Unknow").
+specgene("CIRM24","3974625","Unknow").
+specgene("CIRM24","3974626","Unknow").
+specgene("CIRM24","3974631","Unknow").
+specgene("CIRM24","3974632","Unknow").
+specgene("CIRM24","3974634","Unknow").
+specgene("CIRM24","3974635","Unknow").
+specgene("CIRM24","3974636","Unknow").
+specgene("CIRM24","3974638","Unknow").
+specgene("CIRM24","3974639","ssbA").
+specgene("CIRM24","3974640","Unknow").
+specgene("CIRM24","3974645","Unknow").
+specgene("CIRM24","3974646","Unknow").
+specgene("CIRM24","3974647","Unknow").
+specgene("LMG S-29186","3974650","Unknow").
+specgene("CIRM336","3974653","Unknow").
+specgene("CIRM24","3974668","Unknow").
+specgene("S7N","3974680","Unknow").
+specgene("S7N","3974681","Unknow").
+specgene("PB385","3974682","Unknow").
+specgene("CIRM967","4020722","Unknow").
+specgene("CIRM998","4029308","yfjO").
+specgene("ST106","4092860","Unknow").
+specgene("CIRM2103","4191975","Unknow").
+specgene("CIRM2103","4191976","Unknow").
+specgene("CIRM1050","4219141","Unknow").
+specgene("ST106","4219143","Unknow").
+specgene("CIRM1050","4219144","Unknow").
+specgene("CIRM29","4219145","Unknow").
+specgene("N4L","4219155","Unknow").
+specgene("CIRM1050","4219158","Unknow").
+specgene("N4L","4219162","Unknow").
+specgene("ST109","4219175","Unknow").
+specgene("JIM10116","4219176","Unknow").
+specgene("CIRM1050","4219177","Unknow").
+specgene("ST106","4219178","tsaD").
+specgene("ST109","4219181","Unknow").
+specgene("ST109","4219216","Unknow").
+specgene("ST106","4219219","rlmH").
+specgene("CIRM1358","4219239","Unknow").
+specgene("CIRM1125","4219249","rlmKB").
+specgene("CIRM1125","4219251","Unknow").
+specgene("CIRM336","4219254","Unknow").
+specgene("CIRM1051","4219256","Unknow").
+specgene("CIRM19","4219267","Unknow").
+specgene("ST109","4219270","Unknow").
+specgene("CIRM1046","4219293","Unknow").
+specgene("CIRM772","4219297","Unknow").
+specgene("CIRM336","4219298","Unknow").
+specgene("CIRM961","4219306","Unknow").
+specgene("NCTC12958","4219318","Unknow").
+specgene("ST109","4219320","Unknow").
+specgene("ST106","4219327","Unknow").
+specgene("ST109","4219329","Unknow").
+specgene("CIRM368","4219334","Unknow").
+specgene("CIRM1121","4219335","Unknow").
+specgene("CIRM30","4219349","pepT").
+specgene("CIRM1046","4219350","Unknow").
+specgene("CIRM1046","4219355","Unknow").
+specgene("ST106","4219360","Unknow").
+specgene("JIM1081","4219379","Unknow").
+specgene("LMG S-29186","4219682","Unknow").
+specgene("ST109","4219695","Unknow").
+specgene("CIRM1116","4219726","rsh").
+specgene("CIRM368","4219737","Unknow").
+specgene("CIRM956","4243998","Unknow").
+specgene("CIRM967","4244000","Unknow").
+specgene("CIRM956","4244005","Unknow").
+specgene("N4L","4244295","Unknow").
+specgene("N4L","4244298","Unknow").
+specgene("N4L","4244304","Unknow").
+specgene("ST106","4244514","Unknow").
+specgene("CIRM67","4304745","Unknow").
+specgene("CIRM1050","4304760","Unknow").
+specgene("CIRM1050","4304761","Unknow").
+specgene("CIRM1051","4327528","trmF").
+specgene("CIRM30","4327798","Unknow").
+specgene("CIRM30","4327799","ugd").
+specgene("CIRM19","4327814","pdp").
+specgene("CIRM19","4327815","Unknow").
+specgene("JIM1081","4337748","Unknow").
+specgene("CIRM1125","4337752","Unknow").
+specgene("KLDS3.1012","4459020","Unknow").
+specgene("FAM 13496","4459021","Unknow").
+specgene("05-34","4459022","Unknow").
+specgene("ATCC 19258","4459110","Unknow").
+specgene("ATCC 19258","4459111","Unknow").
+specgene("ATCC 19258","4459112","Unknow").
+specgene("MTH17CL396","579043","Unknow").
+specgene("ST106","680585","Unknow").
+specgene("JIM 8232","680704","Unknow").
+specgene("ST106","680711","Unknow").
+specgene("ST106","683279","Unknow").
+specgene("ST106","683280","Unknow").
+specgene("ST106","683281","Unknow").
+specgene("JIM 8232","683581","Unknow").
+specgene("TH1477","683768","Unknow").
+specgene("JIM 8232","684619","Unknow").
+specgene("CNCM I-1630","685443","argG").
+specgene("TH985","691125","Unknow").
+specgene("CNCM I-1630","71812","uvrA").
+specgene("CIRM1046","742857","Unknow").
+specgene("TH1436","743039","Unknow").
+specgene("TH1436","743519","Unknow").
+specgene("TH1477","743650","Unknow").
+specgene("CNCM I-1630","743776","polC").
+specgene("M17PTZA496","743778","Unknow").
+specgene("CIRM1035","743880","xerD").
+specgene("B59671","744225","Unknow").
+specgene("CIRM1122","744263","Unknow").
+specgene("CIRM1122","744264","Unknow").
+specgene("M17PTZA496","744359","Unknow").
+specgene("CIRM2103","744441","Unknow").
+specgene("ST106","748301","Unknow").
+specgene("CIRM1125","748379","Unknow").
+specgene("CNCM I-1630","88460","gtaB").
+specgene("MTCC 5461","97816","Unknow").
+specgene("MTCC 5460","97821","Unknow").
+specgene("JIM10116","984960","Unknow").
+specgene("05-34","singl0","Unknow").
+specgene("05-34","singl1","Unknow").
+specgene("05-34","singl2","Unknow").
+specgene("05-34","singl3","Unknow").
+specgene("1F8CT","singl4","Unknow").
+specgene("1F8CT","singl5","Unknow").
+specgene("1F8CT","singl6","Unknow").
+specgene("1F8CT","singl7","Unknow").
+specgene("1F8CT","singl8","Unknow").
+specgene("1F8CT","singl9","Unknow").
+specgene("1F8CT","singl10","Unknow").
+specgene("1F8CT","singl11","Unknow").
+specgene("1F8CT","singl12","Unknow").
+specgene("1F8CT","singl13","Unknow").
+specgene("1F8CT","singl14","Unknow").
+specgene("1F8CT","singl15","Unknow").
+specgene("1F8CT","singl16","Unknow").
+specgene("1F8CT","singl17","Unknow").
+specgene("1F8CT","singl18","Unknow").
+specgene("1F8CT","singl19","Unknow").
+specgene("1F8CT","singl20","Unknow").
+specgene("1F8CT","singl21","Unknow").
+specgene("1F8CT","singl22","Unknow").
+specgene("1F8CT","singl23","Unknow").
+specgene("1F8CT","singl24","Unknow").
+specgene("1F8CT","singl25","Unknow").
+specgene("1F8CT","singl26","Unknow").
+specgene("1F8CT","singl27","Unknow").
+specgene("1F8CT","singl28","Unknow").
+specgene("1F8CT","singl29","Unknow").
+specgene("1F8CT","singl30","Unknow").
+specgene("1F8CT","singl31","Unknow").
+specgene("1F8CT","singl32","Unknow").
+specgene("1F8CT","singl33","Unknow").
+specgene("1F8CT","singl34","Unknow").
+specgene("1F8CT","singl35","Unknow").
+specgene("1F8CT","singl36","Unknow").
+specgene("1F8CT","singl37","Unknow").
+specgene("1F8CT","singl38","Unknow").
+specgene("1F8CT","singl39","argD").
+specgene("1F8CT","singl40","Unknow").
+specgene("1F8CT","singl41","Unknow").
+specgene("1F8CT","singl42","Unknow").
+specgene("1F8CT","singl43","Unknow").
+specgene("1F8CT","singl44","Unknow").
+specgene("1F8CT","singl45","Unknow").
+specgene("1F8CT","singl46","Unknow").
+specgene("1F8CT","singl47","Unknow").
+specgene("1F8CT","singl48","Unknow").
+specgene("1F8CT","singl49","Unknow").
+specgene("1F8CT","singl50","Unknow").
+specgene("1F8CT","singl51","Unknow").
+specgene("1F8CT","singl52","Unknow").
+specgene("1F8CT","singl53","Unknow").
+specgene("1F8CT","singl54","Unknow").
+specgene("1F8CT","singl55","Unknow").
+specgene("1F8CT","singl56","Unknow").
+specgene("1F8CT","singl57","Unknow").
+specgene("ACA-DC 2","singl58","Unknow").
+specgene("ACA-DC 2","singl59","Unknow").
+specgene("ACA-DC 2","singl60","Unknow").
+specgene("ACA-DC 2","singl61","Unknow").
+specgene("ACA-DC 2","singl62","Unknow").
+specgene("ACA-DC 2","singl63","Unknow").
+specgene("ACA-DC 2","singl64","Unknow").
+specgene("ACA-DC 2","singl65","Unknow").
+specgene("ACA-DC 2","singl66","Unknow").
+specgene("ACA-DC 2","singl67","Unknow").
+specgene("ACA-DC 2","singl68","Unknow").
+specgene("ACA-DC 2","singl69","Unknow").
+specgene("ACA-DC 2","singl70","Unknow").
+specgene("ACA-DC 2","singl71","Unknow").
+specgene("ACA-DC 2","singl72","Unknow").
+specgene("ACA-DC 2","singl73","Unknow").
+specgene("ACA-DC 2","singl74","Unknow").
+specgene("ACA-DC 2","singl75","Unknow").
+specgene("ACA-DC 2","singl76","Unknow").
+specgene("ACA-DC 2","singl77","Unknow").
+specgene("ACA-DC 2","singl78","Unknow").
+specgene("ACA-DC 2","singl79","Unknow").
+specgene("ACA-DC 2","singl80","Unknow").
+specgene("ACA-DC 2","singl81","Unknow").
+specgene("ACA-DC 2","singl82","Unknow").
+specgene("ACA-DC 2","singl83","Unknow").
+specgene("ACA-DC 2","singl84","Unknow").
+specgene("ACA-DC 2","singl85","Unknow").
+specgene("ACA-DC 2","singl86","Unknow").
+specgene("APC151","singl87","Unknow").
+specgene("APC151","singl88","Unknow").
+specgene("APC151","singl89","Unknow").
+specgene("APC151","singl90","Unknow").
+specgene("APC151","singl91","Unknow").
+specgene("APC151","singl92","Unknow").
+specgene("APC151","singl93","Unknow").
+specgene("ASCC 1275","singl94","Unknow").
+specgene("ASCC 1275","singl95","Unknow").
+specgene("ASCC 1275","singl96","Unknow").
+specgene("ASCC 1275","singl97","Unknow").
+specgene("ASCC 1275","singl98","Unknow").
+specgene("ASCC 1275","singl99","Unknow").
+specgene("ASCC 1275","singl100","Unknow").
+specgene("ASCC 1275","singl101","Unknow").
+specgene("ATCC 19258","singl102","Unknow").
+specgene("ATCC 19258","singl103","Unknow").
+specgene("ATCC 19258","singl104","Unknow").
+specgene("ATCC 19258","singl105","Unknow").
+specgene("ATCC 19258","singl106","Unknow").
+specgene("ATCC 19258","singl107","Unknow").
+specgene("ATCC 19258","singl108","Unknow").
+specgene("ATCC 19258","singl109","Unknow").
+specgene("ATCC 19258","singl110","Unknow").
+specgene("B59671","singl111","Unknow").
+specgene("B59671","singl112","Unknow").
+specgene("B59671","singl113","Unknow").
+specgene("B59671","singl114","Unknow").
+specgene("B59671","singl115","Unknow").
+specgene("B59671","singl116","Unknow").
+specgene("B59671","singl117","Unknow").
+specgene("B59671","singl118","Unknow").
+specgene("B59671","singl119","Unknow").
+specgene("B59671","singl120","Unknow").
+specgene("B59671","singl121","Unknow").
+specgene("B59671","singl122","Unknow").
+specgene("B59671","singl123","Unknow").
+specgene("B59671","singl124","Unknow").
+specgene("B59671","singl125","Unknow").
+specgene("B59671","singl126","Unknow").
+specgene("B59671","singl127","Unknow").
+specgene("B59671","singl128","Unknow").
+specgene("B59671","singl129","Unknow").
+specgene("B59671","singl130","Unknow").
+specgene("B59671","singl131","Unknow").
+specgene("B59671","singl132","Unknow").
+specgene("B59671","singl133","Unknow").
+specgene("B59671","singl134","Unknow").
+specgene("B59671","singl135","Unknow").
+specgene("B59671","singl136","Unknow").
+specgene("B59671","singl137","Unknow").
+specgene("B59671","singl138","Unknow").
+specgene("B59671","singl139","Unknow").
+specgene("B59671","singl140","Unknow").
+specgene("B59671","singl141","Unknow").
+specgene("B59671","singl142","Unknow").
+specgene("B59671","singl143","Unknow").
+specgene("B59671","singl144","Unknow").
+specgene("B59671","singl145","Unknow").
+specgene("B59671","singl146","Unknow").
+specgene("B59671","singl147","Unknow").
+specgene("B59671","singl148","Unknow").
+specgene("B59671","singl149","Unknow").
+specgene("B59671","singl150","Unknow").
+specgene("B59671","singl151","Unknow").
+specgene("BIO1488","singl152","Unknow").
+specgene("BIO1488","singl153","Unknow").
+specgene("C106","singl154","Unknow").
+specgene("C106","singl155","Unknow").
+specgene("C106","singl156","Unknow").
+specgene("C106","singl157","Unknow").
+specgene("C106","singl158","Unknow").
+specgene("CIRM1035","singl159","Unknow").
+specgene("CIRM1035","singl160","Unknow").
+specgene("CIRM1035","singl161","Unknow").
+specgene("CIRM1035","singl162","Unknow").
+specgene("CIRM1035","singl163","Unknow").
+specgene("CIRM1035","singl164","Unknow").
+specgene("CIRM1035","singl165","Unknow").
+specgene("CIRM1035","singl166","Unknow").
+specgene("CIRM1035","singl167","Unknow").
+specgene("CIRM1035","singl168","Unknow").
+specgene("CIRM1035","singl169","Unknow").
+specgene("CIRM1035","singl170","Unknow").
+specgene("CIRM1035","singl171","Unknow").
+specgene("CIRM1035","singl172","Unknow").
+specgene("CIRM1046","singl173","Unknow").
+specgene("CIRM1046","singl174","rimP").
+specgene("CIRM1046","singl175","rimP").
+specgene("CIRM1046","singl176","Unknow").
+specgene("CIRM1046","singl177","Unknow").
+specgene("CIRM1046","singl178","Unknow").
+specgene("CIRM1046","singl179","Unknow").
+specgene("CIRM1046","singl180","Unknow").
+specgene("CIRM1046","singl181","Unknow").
+specgene("CIRM1046","singl182","Unknow").
+specgene("CIRM1046","singl183","Unknow").
+specgene("CIRM1046","singl184","Unknow").
+specgene("CIRM1046","singl185","Unknow").
+specgene("CIRM1046","singl186","Unknow").
+specgene("CIRM1046","singl187","Unknow").
+specgene("CIRM1046","singl188","Unknow").
+specgene("CIRM1046","singl189","Unknow").
+specgene("CIRM1046","singl190","Unknow").
+specgene("CIRM1046","singl191","Unknow").
+specgene("CIRM1046","singl192","Unknow").
+specgene("CIRM1046","singl193","Unknow").
+specgene("CIRM1046","singl194","Unknow").
+specgene("CIRM1046","singl195","dnaK").
+specgene("CIRM1046","singl196","dnaK").
+specgene("CIRM1046","singl197","Unknow").
+specgene("CIRM1046","singl198","Unknow").
+specgene("CIRM1046","singl199","Unknow").
+specgene("CIRM1046","singl200","Unknow").
+specgene("CIRM1046","singl201","Unknow").
+specgene("CIRM1046","singl202","Unknow").
+specgene("CIRM1046","singl203","Unknow").
+specgene("CIRM1046","singl204","Unknow").
+specgene("CIRM1046","singl205","Unknow").
+specgene("CIRM1046","singl206","Unknow").
+specgene("CIRM1046","singl207","Unknow").
+specgene("CIRM1046","singl208","Unknow").
+specgene("CIRM1046","singl209","Unknow").
+specgene("CIRM1046","singl210","Unknow").
+specgene("CIRM1046","singl211","Unknow").
+specgene("CIRM1046","singl212","Unknow").
+specgene("CIRM1046","singl213","hphIAM").
+specgene("CIRM1046","singl214","Unknow").
+specgene("CIRM1046","singl215","Unknow").
+specgene("CIRM1046","singl216","Unknow").
+specgene("CIRM1046","singl217","Unknow").
+specgene("CIRM1046","singl218","Unknow").
+specgene("CIRM1047","singl219","Unknow").
+specgene("CIRM1047","singl220","Unknow").
+specgene("CIRM1047","singl221","Unknow").
+specgene("CIRM1047","singl222","epsO").
+specgene("CIRM1047","singl223","Unknow").
+specgene("CIRM1047","singl224","Unknow").
+specgene("CIRM1047","singl225","Unknow").
+specgene("CIRM1048","singl226","Unknow").
+specgene("CIRM1048","singl227","Unknow").
+specgene("CIRM1049","singl228","Unknow").
+specgene("CIRM1050","singl229","Unknow").
+specgene("CIRM1050","singl230","Unknow").
+specgene("CIRM1050","singl231","Unknow").
+specgene("CIRM1050","singl232","Unknow").
+specgene("CIRM1050","singl233","Unknow").
+specgene("CIRM1050","singl234","Unknow").
+specgene("CIRM1050","singl235","Unknow").
+specgene("CIRM1050","singl236","Unknow").
+specgene("CIRM1050","singl237","Unknow").
+specgene("CIRM1050","singl238","Unknow").
+specgene("CIRM1050","singl239","Unknow").
+specgene("CIRM1050","singl240","Unknow").
+specgene("CIRM1050","singl241","Unknow").
+specgene("CIRM1050","singl242","Unknow").
+specgene("CIRM1050","singl243","Unknow").
+specgene("CIRM1050","singl244","Unknow").
+specgene("CIRM1050","singl245","Unknow").
+specgene("CIRM1050","singl246","Unknow").
+specgene("CIRM1050","singl247","Unknow").
+specgene("CIRM1050","singl248","Unknow").
+specgene("CIRM1050","singl249","Unknow").
+specgene("CIRM1050","singl250","pucK").
+specgene("CIRM1050","singl251","Unknow").
+specgene("CIRM1050","singl252","Unknow").
+specgene("CIRM1050","singl253","Unknow").
+specgene("CIRM1050","singl254","Unknow").
+specgene("CIRM1050","singl255","ilvD").
+specgene("CIRM1050","singl256","Unknow").
+specgene("CIRM1050","singl257","Unknow").
+specgene("CIRM1116","singl258","Unknow").
+specgene("CIRM1116","singl259","Unknow").
+specgene("CIRM1121","singl260","Unknow").
+specgene("CIRM1121","singl261","Unknow").
+specgene("CIRM1121","singl262","oppC").
+specgene("CIRM1121","singl263","Unknow").
+specgene("CIRM1121","singl264","Unknow").
+specgene("CIRM1121","singl265","Unknow").
+specgene("CIRM1121","singl266","Unknow").
+specgene("CIRM1121","singl267","Unknow").
+specgene("CIRM1121","singl268","Unknow").
+specgene("CIRM1121","singl269","Unknow").
+specgene("CIRM1121","singl270","Unknow").
+specgene("CIRM1121","singl271","Unknow").
+specgene("CIRM1121","singl272","Unknow").
+specgene("CIRM1121","singl273","Unknow").
+specgene("CIRM1121","singl274","Unknow").
+specgene("CIRM1121","singl275","Unknow").
+specgene("CIRM1121","singl276","Unknow").
+specgene("CIRM1121","singl277","Unknow").
+specgene("CIRM1121","singl278","Unknow").
+specgene("CIRM1121","singl279","hyaD").
+specgene("CIRM1121","singl280","Unknow").
+specgene("CIRM1121","singl281","Unknow").
+specgene("CIRM1121","singl282","Unknow").
+specgene("CIRM1121","singl283","Unknow").
+specgene("CIRM1121","singl284","Unknow").
+specgene("CIRM1121","singl285","Unknow").
+specgene("CIRM1121","singl286","Unknow").
+specgene("CIRM1121","singl287","Unknow").
+specgene("CIRM1121","singl288","Unknow").
+specgene("CIRM1121","singl289","Unknow").
+specgene("CIRM1121","singl290","Unknow").
+specgene("CIRM1121","singl291","Unknow").
+specgene("CIRM1121","singl292","Unknow").
+specgene("CIRM1121","singl293","Unknow").
+specgene("CIRM1121","singl294","Unknow").
+specgene("CIRM1121","singl295","Unknow").
+specgene("CIRM1121","singl296","Unknow").
+specgene("CIRM1121","singl297","Unknow").
+specgene("CIRM1121","singl298","Unknow").
+specgene("CIRM1121","singl299","Unknow").
+specgene("CIRM1121","singl300","Unknow").
+specgene("CIRM1121","singl301","Unknow").
+specgene("CIRM1121","singl302","Unknow").
+specgene("CIRM1121","singl303","Unknow").
+specgene("CIRM1121","singl304","Unknow").
+specgene("CIRM1121","singl305","Unknow").
+specgene("CIRM1121","singl306","Unknow").
+specgene("CIRM1122","singl307","Unknow").
+specgene("CIRM1122","singl308","Unknow").
+specgene("CIRM1122","singl309","Unknow").
+specgene("CIRM1122","singl310","Unknow").
+specgene("CIRM1122","singl311","Unknow").
+specgene("CIRM1122","singl312","Unknow").
+specgene("CIRM1122","singl313","Unknow").
+specgene("CIRM1125","singl314","Unknow").
+specgene("CIRM1125","singl315","Unknow").
+specgene("CIRM1125","singl316","rlmKB").
+specgene("CIRM1125","singl317","Unknow").
+specgene("CIRM1125","singl318","Unknow").
+specgene("CIRM1125","singl319","Unknow").
+specgene("CIRM1125","singl320","Unknow").
+specgene("CIRM1125","singl321","Unknow").
+specgene("CIRM1125","singl322","Unknow").
+specgene("CIRM1125","singl323","Unknow").
+specgene("CIRM1125","singl324","Unknow").
+specgene("CIRM1125","singl325","Unknow").
+specgene("CIRM1125","singl326","Unknow").
+specgene("CIRM1125","singl327","Unknow").
+specgene("CIRM1125","singl328","Unknow").
+specgene("CIRM1125","singl329","adhP").
+specgene("CIRM1125","singl330","adhP").
+specgene("CIRM1125","singl331","Unknow").
+specgene("CIRM1125","singl332","Unknow").
+specgene("CIRM1125","singl333","Unknow").
+specgene("CIRM1125","singl334","Unknow").
+specgene("CIRM1125","singl335","Unknow").
+specgene("CIRM1125","singl336","Unknow").
+specgene("CIRM1125","singl337","Unknow").
+specgene("CIRM1125","singl338","galE").
+specgene("CIRM1125","singl339","Unknow").
+specgene("CIRM1125","singl340","Unknow").
+specgene("CIRM1125","singl341","Unknow").
+specgene("CIRM1125","singl342","Unknow").
+specgene("CIRM1125","singl343","Unknow").
+specgene("CIRM1358","singl344","Unknow").
+specgene("CIRM1358","singl345","Unknow").
+specgene("CIRM1358","singl346","Unknow").
+specgene("CIRM1358","singl347","rfbF").
+specgene("CIRM1358","singl348","Unknow").
+specgene("CIRM1358","singl349","Unknow").
+specgene("CIRM1358","singl350","Unknow").
+specgene("CIRM16","singl351","Unknow").
+specgene("CIRM16","singl352","Unknow").
+specgene("CIRM16","singl353","Unknow").
+specgene("CIRM16","singl354","Unknow").
+specgene("CIRM16","singl355","Unknow").
+specgene("CIRM16","singl356","Unknow").
+specgene("CIRM16","singl357","Unknow").
+specgene("CIRM16","singl358","Unknow").
+specgene("CIRM16","singl359","Unknow").
+specgene("CIRM16","singl360","Unknow").
+specgene("CIRM16","singl361","Unknow").
+specgene("CIRM16","singl362","Unknow").
+specgene("CIRM16","singl363","Unknow").
+specgene("CIRM16","singl364","glgP").
+specgene("CIRM16","singl365","citB").
+specgene("CIRM18","singl366","Unknow").
+specgene("CIRM1860","singl367","Unknow").
+specgene("CIRM1860","singl368","Unknow").
+specgene("CIRM1860","singl369","nadR").
+specgene("CIRM1860","singl370","Unknow").
+specgene("CIRM1860","singl371","Unknow").
+specgene("CIRM1860","singl372","Unknow").
+specgene("CIRM1860","singl373","Unknow").
+specgene("CIRM1860","singl374","queE").
+specgene("CIRM1860","singl375","queE").
+specgene("CIRM1860","singl376","Unknow").
+specgene("CIRM1860","singl377","Unknow").
+specgene("CIRM1860","singl378","Unknow").
+specgene("CIRM1860","singl379","Unknow").
+specgene("CIRM1860","singl380","Unknow").
+specgene("CIRM1860","singl381","Unknow").
+specgene("CIRM1860","singl382","Unknow").
+specgene("CIRM1860","singl383","Unknow").
+specgene("CIRM1860","singl384","Unknow").
+specgene("CIRM19","singl385","Unknow").
+specgene("CIRM19","singl386","Unknow").
+specgene("CIRM19","singl387","mtnE").
+specgene("CIRM19","singl388","mtnE").
+specgene("CIRM19","singl389","Unknow").
+specgene("CIRM19","singl390","Unknow").
+specgene("CIRM19","singl391","Unknow").
+specgene("CIRM19","singl392","Unknow").
+specgene("CIRM19","singl393","Unknow").
+specgene("CIRM19","singl394","Unknow").
+specgene("CIRM19","singl395","Unknow").
+specgene("CIRM19","singl396","Unknow").
+specgene("CIRM19","singl397","Unknow").
+specgene("CIRM19","singl398","Unknow").
+specgene("CIRM2101","singl399","Unknow").
+specgene("CIRM2101","singl400","Unknow").
+specgene("CIRM2103","singl401","Unknow").
+specgene("CIRM2103","singl402","Unknow").
+specgene("CIRM2103","singl403","Unknow").
+specgene("CIRM2103","singl404","Unknow").
+specgene("CIRM2103","singl405","Unknow").
+specgene("CIRM2103","singl406","Unknow").
+specgene("CIRM2103","singl407","Unknow").
+specgene("CIRM2103","singl408","licT").
+specgene("CIRM2103","singl409","Unknow").
+specgene("CIRM2103","singl410","Unknow").
+specgene("CIRM2103","singl411","Unknow").
+specgene("CIRM2103","singl412","Unknow").
+specgene("CIRM2103","singl413","Unknow").
+specgene("CIRM23","singl414","Unknow").
+specgene("CIRM23","singl415","Unknow").
+specgene("CIRM24","singl416","Unknow").
+specgene("CIRM24","singl417","Unknow").
+specgene("CIRM24","singl418","Unknow").
+specgene("CIRM24","singl419","Unknow").
+specgene("CIRM24","singl420","Unknow").
+specgene("CIRM24","singl421","Unknow").
+specgene("CIRM24","singl422","Unknow").
+specgene("CIRM24","singl423","Unknow").
+specgene("CIRM29","singl424","pyrG").
+specgene("CIRM29","singl425","Unknow").
+specgene("CIRM30","singl426","Unknow").
+specgene("CIRM30","singl427","Unknow").
+specgene("CIRM30","singl428","Unknow").
+specgene("CIRM30","singl429","Unknow").
+specgene("CIRM30","singl430","Unknow").
+specgene("CIRM30","singl431","Unknow").
+specgene("CIRM30","singl432","Unknow").
+specgene("CIRM30","singl433","Unknow").
+specgene("CIRM30","singl434","Unknow").
+specgene("CIRM30","singl435","Unknow").
+specgene("CIRM30","singl436","Unknow").
+specgene("CIRM30","singl437","Unknow").
+specgene("CIRM30","singl438","Unknow").
+specgene("CIRM30","singl439","Unknow").
+specgene("CIRM30","singl440","Unknow").
+specgene("CIRM30","singl441","Unknow").
+specgene("CIRM30","singl442","Unknow").
+specgene("CIRM30","singl443","Unknow").
+specgene("CIRM30","singl444","Unknow").
+specgene("CIRM30","singl445","Unknow").
+specgene("CIRM30","singl446","Unknow").
+specgene("CIRM30","singl447","Unknow").
+specgene("CIRM30","singl448","Unknow").
+specgene("CIRM30","singl449","Unknow").
+specgene("CIRM30","singl450","Unknow").
+specgene("CIRM30","singl451","Unknow").
+specgene("CIRM30","singl452","Unknow").
+specgene("CIRM30","singl453","Unknow").
+specgene("CIRM32","singl454","Unknow").
+specgene("CIRM336","singl455","Unknow").
+specgene("CIRM336","singl456","Unknow").
+specgene("CIRM336","singl457","Unknow").
+specgene("CIRM336","singl458","Unknow").
+specgene("CIRM336","singl459","Unknow").
+specgene("CIRM336","singl460","Unknow").
+specgene("CIRM336","singl461","Unknow").
+specgene("CIRM336","singl462","Unknow").
+specgene("CIRM336","singl463","Unknow").
+specgene("CIRM336","singl464","Unknow").
+specgene("CIRM336","singl465","Unknow").
+specgene("CIRM336","singl466","Unknow").
+specgene("CIRM336","singl467","Unknow").
+specgene("CIRM336","singl468","Unknow").
+specgene("CIRM336","singl469","Unknow").
+specgene("CIRM336","singl470","Unknow").
+specgene("CIRM336","singl471","Unknow").
+specgene("CIRM336","singl472","Unknow").
+specgene("CIRM336","singl473","Unknow").
+specgene("CIRM336","singl474","Unknow").
+specgene("CIRM336","singl475","Unknow").
+specgene("CIRM336","singl476","Unknow").
+specgene("CIRM336","singl477","Unknow").
+specgene("CIRM336","singl478","Unknow").
+specgene("CIRM336","singl479","Unknow").
+specgene("CIRM336","singl480","Unknow").
+specgene("CIRM336","singl481","Unknow").
+specgene("CIRM336","singl482","Unknow").
+specgene("CIRM336","singl483","Unknow").
+specgene("CIRM336","singl484","Unknow").
+specgene("CIRM336","singl485","Unknow").
+specgene("CIRM336","singl486","Unknow").
+specgene("CIRM36","singl487","Unknow").
+specgene("CIRM36","singl488","Unknow").
+specgene("CIRM36","singl489","Unknow").
+specgene("CIRM36","singl490","Unknow").
+specgene("CIRM368","singl491","Unknow").
+specgene("CIRM368","singl492","Unknow").
+specgene("CIRM368","singl493","Unknow").
+specgene("CIRM368","singl494","Unknow").
+specgene("CIRM368","singl495","immR").
+specgene("CIRM368","singl496","Unknow").
+specgene("CIRM368","singl497","Unknow").
+specgene("CIRM368","singl498","Unknow").
+specgene("CIRM368","singl499","Unknow").
+specgene("CIRM368","singl500","Unknow").
+specgene("CIRM368","singl501","Unknow").
+specgene("CIRM368","singl502","Unknow").
+specgene("CIRM368","singl503","Unknow").
+specgene("CIRM368","singl504","Unknow").
+specgene("CIRM368","singl505","Unknow").
+specgene("CIRM368","singl506","Unknow").
+specgene("CIRM368","singl507","Unknow").
+specgene("CIRM368","singl508","Unknow").
+specgene("CIRM368","singl509","Unknow").
+specgene("CIRM368","singl510","Unknow").
+specgene("CIRM368","singl511","Unknow").
+specgene("CIRM65","singl512","Unknow").
+specgene("CIRM65","singl513","Unknow").
+specgene("CIRM65","singl514","Unknow").
+specgene("CIRM65","singl515","Unknow").
+specgene("CIRM65","singl516","Unknow").
+specgene("CIRM67","singl517","Unknow").
+specgene("CIRM67","singl518","Unknow").
+specgene("CIRM772","singl519","Unknow").
+specgene("CIRM772","singl520","Unknow").
+specgene("CIRM772","singl521","Unknow").
+specgene("CIRM772","singl522","Unknow").
+specgene("CIRM772","singl523","Unknow").
+specgene("CIRM772","singl524","Unknow").
+specgene("CIRM772","singl525","Unknow").
+specgene("CIRM772","singl526","Unknow").
+specgene("CIRM772","singl527","Unknow").
+specgene("CIRM772","singl528","Unknow").
+specgene("CIRM772","singl529","Unknow").
+specgene("CIRM772","singl530","Unknow").
+specgene("CIRM772","singl531","Unknow").
+specgene("CIRM772","singl532","Unknow").
+specgene("CIRM772","singl533","Unknow").
+specgene("CIRM772","singl534","Unknow").
+specgene("CIRM772","singl535","Unknow").
+specgene("CIRM772","singl536","Unknow").
+specgene("CIRM772","singl537","Unknow").
+specgene("CIRM772","singl538","Unknow").
+specgene("CIRM772","singl539","Unknow").
+specgene("CIRM772","singl540","Unknow").
+specgene("CIRM772","singl541","pynN").
+specgene("CIRM772","singl542","Unknow").
+specgene("CIRM772","singl543","Unknow").
+specgene("CIRM772","singl544","Unknow").
+specgene("CIRM772","singl545","Unknow").
+specgene("CIRM772","singl546","Unknow").
+specgene("CIRM772","singl547","Unknow").
+specgene("CIRM772","singl548","Unknow").
+specgene("CIRM772","singl549","Unknow").
+specgene("CIRM772","singl550","Unknow").
+specgene("CIRM956","singl551","Unknow").
+specgene("CIRM956","singl552","Unknow").
+specgene("CIRM956","singl553","Unknow").
+specgene("CIRM956","singl554","Unknow").
+specgene("CIRM956","singl555","mtrA").
+specgene("CIRM956","singl556","Unknow").
+specgene("CIRM956","singl557","Unknow").
+specgene("CIRM956","singl558","Unknow").
+specgene("CIRM956","singl559","Unknow").
+specgene("CIRM956","singl560","Unknow").
+specgene("CIRM956","singl561","Unknow").
+specgene("CIRM956","singl562","Unknow").
+specgene("CIRM956","singl563","Unknow").
+specgene("CIRM956","singl564","Unknow").
+specgene("CIRM956","singl565","Unknow").
+specgene("CIRM956","singl566","Unknow").
+specgene("CIRM956","singl567","Unknow").
+specgene("CIRM956","singl568","Unknow").
+specgene("CIRM956","singl569","Unknow").
+specgene("CIRM956","singl570","Unknow").
+specgene("CIRM956","singl571","Unknow").
+specgene("CIRM956","singl572","Unknow").
+specgene("CIRM956","singl573","Unknow").
+specgene("CIRM956","singl574","Unknow").
+specgene("CIRM961","singl575","Unknow").
+specgene("CIRM961","singl576","Unknow").
+specgene("CIRM961","singl577","Unknow").
+specgene("CIRM961","singl578","Unknow").
+specgene("CIRM961","singl579","Unknow").
+specgene("CIRM961","singl580","Unknow").
+specgene("CIRM961","singl581","Unknow").
+specgene("CIRM961","singl582","Unknow").
+specgene("CIRM967","singl583","Unknow").
+specgene("CIRM967","singl584","Unknow").
+specgene("CIRM967","singl585","Unknow").
+specgene("CIRM967","singl586","Unknow").
+specgene("CIRM967","singl587","Unknow").
+specgene("CIRM967","singl588","Unknow").
+specgene("CIRM967","singl589","Unknow").
+specgene("CIRM967","singl590","Unknow").
+specgene("CIRM998","singl591","Unknow").
+specgene("CIRM998","singl592","Unknow").
+specgene("CIRM998","singl593","Unknow").
+specgene("CIRM998","singl594","Unknow").
+specgene("CIRM998","singl595","Unknow").
+specgene("CIRM998","singl596","Unknow").
+specgene("CIRM998","singl597","Unknow").
+specgene("CIRM998","singl598","Unknow").
+specgene("CIRM998","singl599","Unknow").
+specgene("CIRM998","singl600","Unknow").
+specgene("CIRM998","singl601","Unknow").
+specgene("CIRM998","singl602","Unknow").
+specgene("CIRM998","singl603","Unknow").
+specgene("CIRM998","singl604","Unknow").
+specgene("CNCM I-1630","singl605","Unknow").
+specgene("CNCM I-1630","singl606","Unknow").
+specgene("CNCM I-1630","singl607","Unknow").
+specgene("CNCM I-1630","singl608","Unknow").
+specgene("CNCM I-1630","singl609","yfgB").
+specgene("CNCM I-1630","singl610","Unknow").
+specgene("CNCM I-1630","singl611","Unknow").
+specgene("CNCM I-1630","singl612","Unknow").
+specgene("CNCM I-1630","singl613","Unknow").
+specgene("CNCM I-1630","singl614","Unknow").
+specgene("CNCM I-1630","singl615","Unknow").
+specgene("CNCM I-1630","singl616","Unknow").
+specgene("CNCM I-1630","singl617","Unknow").
+specgene("CNCM I-1630","singl618","rpiA").
+specgene("CNCM I-1630","singl619","rpiA").
+specgene("CNCM I-1630","singl620","Unknow").
+specgene("CNCM I-1630","singl621","Unknow").
+specgene("CNCM I-1630","singl622","Unknow").
+specgene("CNCM I-1630","singl623","Unknow").
+specgene("CNCM I-1630","singl624","dltB").
+specgene("CNCM I-1630","singl625","Unknow").
+specgene("CNCM I-1630","singl626","Unknow").
+specgene("CNCM I-1630","singl627","Unknow").
+specgene("CNCM I-1630","singl628","Unknow").
+specgene("CNCM I-1630","singl629","Unknow").
+specgene("CNCM I-1630","singl630","Unknow").
+specgene("CNCM I-1630","singl631","Unknow").
+specgene("CNCM I-1630","singl632","Unknow").
+specgene("CNCM I-1630","singl633","Unknow").
+specgene("CNCM I-1630","singl634","Unknow").
+specgene("CNCM I-1630","singl635","Unknow").
+specgene("CNCM I-1630","singl636","Unknow").
+specgene("CNCM I-1630","singl637","Unknow").
+specgene("CNCM I-1630","singl638","Unknow").
+specgene("CNCM I-1630","singl639","Unknow").
+specgene("CNCM I-1630","singl640","Unknow").
+specgene("CNCM I-1630","singl641","Unknow").
+specgene("CNCM I-1630","singl642","Unknow").
+specgene("CNCM I-1630","singl643","Unknow").
+specgene("CNCM I-1630","singl644","Unknow").
+specgene("CNCM I-1630","singl645","Unknow").
+specgene("CNCM I-1630","singl646","Unknow").
+specgene("CNCM I-1630","singl647","Unknow").
+specgene("CNCM I-1630","singl648","Unknow").
+specgene("CNCM I-1630","singl649","Unknow").
+specgene("CNCM I-1630","singl650","Unknow").
+specgene("CNCM I-1630","singl651","Unknow").
+specgene("CNCM I-1630","singl652","Unknow").
+specgene("CNCM I-1630","singl653","Unknow").
+specgene("CNCM I-1630","singl654","Unknow").
+specgene("CNCM I-1630","singl655","Unknow").
+specgene("CNCM I-1630","singl656","glmU").
+specgene("CNCM I-1630","singl657","Unknow").
+specgene("CNCM I-1630","singl658","Unknow").
+specgene("CNCM I-1630","singl659","Unknow").
+specgene("CNCM I-1630","singl660","Unknow").
+specgene("CNCM I-1630","singl661","Unknow").
+specgene("CNCM I-1630","singl662","Unknow").
+specgene("CNCM I-1630","singl663","rnhC").
+specgene("CNCM I-1630","singl664","Unknow").
+specgene("CNCM I-1630","singl665","Unknow").
+specgene("CNCM I-1630","singl666","Unknow").
+specgene("CNCM I-1630","singl667","Unknow").
+specgene("CNCM I-1630","singl668","Unknow").
+specgene("CNCM I-1630","singl669","Unknow").
+specgene("CNCM I-1630","singl670","rlmKB").
+specgene("CNCM I-1630","singl671","Unknow").
+specgene("CNCM I-1630","singl672","Unknow").
+specgene("CNCM I-1630","singl673","Unknow").
+specgene("CNCM I-1630","singl674","Unknow").
+specgene("CNCM I-1630","singl675","Unknow").
+specgene("CNCM I-1630","singl676","spoIIIE").
+specgene("CNCM I-1630","singl677","Unknow").
+specgene("CNCM I-1630","singl678","Unknow").
+specgene("CNCM I-1630","singl679","galT").
+specgene("CNCM I-1630","singl680","Unknow").
+specgene("CNCM I-1630","singl681","sufS").
+specgene("CNCM I-1630","singl682","Unknow").
+specgene("CNCM I-1630","singl683","Unknow").
+specgene("CNCM I-1630","singl684","clpE").
+specgene("CNCM I-1630","singl685","ilvD").
+specgene("CNCM I-1630","singl686","Unknow").
+specgene("CNCM I-1630","singl687","ilvD").
+specgene("CNCM I-1630","singl688","trkH").
+specgene("CNCM I-1630","singl689","rcmE").
+specgene("CNCM I-1630","singl690","Unknow").
+specgene("CNCM I-1630","singl691","Unknow").
+specgene("CNCM I-1630","singl692","Unknow").
+specgene("CNCM I-1630","singl693","ycxD").
+specgene("CNCM I-1630","singl694","ycxD").
+specgene("CNCM I-1630","singl695","rnc").
+specgene("CNCM I-1630","singl696","Unknow").
+specgene("CNCM I-1630","singl697","yqfO").
+specgene("CNCM I-1630","singl698","Unknow").
+specgene("CNCM I-1630","singl699","yqfO").
+specgene("CNCM I-1630","singl700","Unknow").
+specgene("CNCM I-1630","singl701","Unknow").
+specgene("CNCM I-1630","singl702","efeB").
+specgene("CNCM I-1630","singl703","lplJ").
+specgene("CNCM I-1630","singl704","Unknow").
+specgene("CNCM I-1630","singl705","Unknow").
+specgene("CNCM I-1630","singl706","Unknow").
+specgene("CNCM I-1630","singl707","rpoC").
+specgene("CNCM I-1630","singl708","Unknow").
+specgene("CNCM I-1630","singl709","Unknow").
+specgene("CNCM I-1630","singl710","pyrP").
+specgene("CNCM I-1630","singl711","Unknow").
+specgene("CNCM I-1630","singl712","Unknow").
+specgene("CNCM I-1630","singl713","Unknow").
+specgene("CNCM I-1630","singl714","mnmE").
+specgene("CNCM I-1630","singl715","Unknow").
+specgene("CNCM I-1630","singl716","Unknow").
+specgene("CNCM I-1630","singl717","Unknow").
+specgene("CNCM I-1630","singl718","Unknow").
+specgene("CNCM I-1630","singl719","Unknow").
+specgene("CNCM I-1630","singl720","Unknow").
+specgene("CNCM I-1630","singl721","Unknow").
+specgene("CNCM I-1630","singl722","Unknow").
+specgene("CNCM I-1630","singl723","Unknow").
+specgene("CNCM I-1630","singl724","Unknow").
+specgene("CNCM I-1630","singl725","glnA").
+specgene("CNCM I-1630","singl726","Unknow").
+specgene("CNCM I-1630","singl727","Unknow").
+specgene("CNCM I-1630","singl728","Unknow").
+specgene("CNCM I-1630","singl729","trpC").
+specgene("CNCM I-1630","singl730","trpC").
+specgene("CNCM I-1630","singl731","Unknow").
+specgene("CNCM I-1630","singl732","radA").
+specgene("CNCM I-1630","singl733","Unknow").
+specgene("CNCM I-1630","singl734","Unknow").
+specgene("CNCM I-1630","singl735","gpsA").
+specgene("CNCM I-1630","singl736","Unknow").
+specgene("CNCM I-1630","singl737","yfbQ").
+specgene("CNCM I-1630","singl738","codY").
+specgene("CNCM I-1630","singl739","Unknow").
+specgene("CNCM I-1630","singl740","Unknow").
+specgene("CNCM I-1630","singl741","Unknow").
+specgene("CNCM I-1630","singl742","Unknow").
+specgene("CNCM I-1630","singl743","Unknow").
+specgene("CNCM I-1630","singl744","Unknow").
+specgene("CNCM I-1630","singl745","Unknow").
+specgene("CNCM I-1630","singl746","Unknow").
+specgene("CNCM I-1630","singl747","priA").
+specgene("CNCM I-1630","singl748","priA").
+specgene("CNCM I-1630","singl749","purM").
+specgene("CNCM I-1630","singl750","purM").
+specgene("CNCM I-1630","singl751","purM").
+specgene("CNCM I-1630","singl752","Unknow").
+specgene("CNCM I-1630","singl753","Unknow").
+specgene("CNCM I-1630","singl754","Unknow").
+specgene("CNCM I-1630","singl755","Unknow").
+specgene("CNCM I-1630","singl756","yvjA").
+specgene("CNCM I-1630","singl757","Unknow").
+specgene("CNCM I-1630","singl758","Unknow").
+specgene("CNCM I-1630","singl759","Unknow").
+specgene("CNCM I-1630","singl760","Unknow").
+specgene("CNCM I-1630","singl761","Unknow").
+specgene("CNCM I-1630","singl762","Unknow").
+specgene("CNCM I-1630","singl763","Unknow").
+specgene("CNCM I-1630","singl764","Unknow").
+specgene("CNCM I-1630","singl765","clpP").
+specgene("CNCM I-1630","singl766","clpP").
+specgene("CNCM I-1630","singl767","pbpA").
+specgene("CNCM I-1630","singl768","Unknow").
+specgene("CNCM I-1630","singl769","Unknow").
+specgene("CNCM I-1630","singl770","Unknow").
+specgene("CNCM I-1630","singl771","Unknow").
+specgene("CNCM I-1630","singl772","Unknow").
+specgene("CNCM I-1630","singl773","Unknow").
+specgene("CNCM I-1630","singl774","Unknow").
+specgene("CNCM I-1630","singl775","Unknow").
+specgene("CNCM I-1630","singl776","Unknow").
+specgene("CNCM I-1630","singl777","Unknow").
+specgene("CNCM I-1630","singl778","Unknow").
+specgene("CNCM I-1630","singl779","Unknow").
+specgene("CNCM I-1630","singl780","Unknow").
+specgene("CNCM I-1630","singl781","Unknow").
+specgene("CNCM I-1630","singl782","Unknow").
+specgene("CNCM I-1630","singl783","Unknow").
+specgene("CNCM I-1630","singl784","dnaC").
+specgene("CNCM I-1630","singl785","dnaC").
+specgene("CNCM I-1630","singl786","polC").
+specgene("CNCM I-1630","singl787","ydiF").
+specgene("CNCM I-1630","singl788","ydiF").
+specgene("CNCM I-1630","singl789","gabD").
+specgene("CNCM I-1630","singl790","gabD").
+specgene("CNCM I-1630","singl791","Unknow").
+specgene("CNCM I-1630","singl792","Unknow").
+specgene("CNCM I-1630","singl793","Unknow").
+specgene("CNCM I-1630","singl794","nrdE").
+specgene("CNCM I-1630","singl795","nrdE").
+specgene("CNCM I-1630","singl796","Unknow").
+specgene("CNCM I-1630","singl797","Unknow").
+specgene("CNCM I-1630","singl798","Unknow").
+specgene("CNCM I-1630","singl799","Unknow").
+specgene("CNCM I-1630","singl800","Unknow").
+specgene("CNCM I-1630","singl801","Unknow").
+specgene("CNCM I-1630","singl802","Unknow").
+specgene("CNCM I-1630","singl803","Unknow").
+specgene("CNCM I-1630","singl804","Unknow").
+specgene("CNCM I-1630","singl805","Unknow").
+specgene("CNCM I-1630","singl806","Unknow").
+specgene("CNCM I-1630","singl807","Unknow").
+specgene("CNCM I-1630","singl808","Unknow").
+specgene("CNCM I-1630","singl809","Unknow").
+specgene("CNCM I-1630","singl810","murD").
+specgene("CNCM I-1630","singl811","aspS").
+specgene("CNCM I-1630","singl812","yitT").
+specgene("CNCM I-1630","singl813","ptsI").
+specgene("CNCM I-1630","singl814","icd").
+specgene("CNCM I-1630","singl815","icd").
+specgene("CNCM I-1630","singl816","icd").
+specgene("CNCM I-1630","singl817","citB").
+specgene("CNCM I-1630","singl818","citB").
+specgene("CNCM I-1630","singl819","Unknow").
+specgene("CNCM I-1630","singl820","Unknow").
+specgene("CNCM I-1630","singl821","Unknow").
+specgene("CNCM I-1630","singl822","Unknow").
+specgene("CNCM I-1630","singl823","Unknow").
+specgene("CNCM I-1630","singl824","prs").
+specgene("CNCM I-1630","singl825","Unknow").
+specgene("CNCM I-1630","singl826","Unknow").
+specgene("CNCM I-1630","singl827","Unknow").
+specgene("CNCM I-1630","singl828","Unknow").
+specgene("CNCM I-1630","singl829","Unknow").
+specgene("CNCM I-1630","singl830","Unknow").
+specgene("CNCM I-1630","singl831","ilvA").
+specgene("CNCM I-1630","singl832","ilvA").
+specgene("CNCM I-1630","singl833","Unknow").
+specgene("CNCM I-1630","singl834","Unknow").
+specgene("CNCM I-1630","singl835","Unknow").
+specgene("CNCM I-1630","singl836","Unknow").
+specgene("CNCM I-1630","singl837","mprF").
+specgene("CNCM I-1630","singl838","mprF").
+specgene("CNCM I-1630","singl839","Unknow").
+specgene("CNCM I-1630","singl840","Unknow").
+specgene("CNCM I-1630","singl841","thrD").
+specgene("CNCM I-1630","singl842","Unknow").
+specgene("CNCM I-1630","singl843","ettA").
+specgene("CNCM I-1630","singl844","Unknow").
+specgene("CNCM I-1630","singl845","Unknow").
+specgene("CNCM I-1630","singl846","Unknow").
+specgene("CNCM I-1630","singl847","Unknow").
+specgene("CNCM I-1630","singl848","Unknow").
+specgene("CNCM I-1630","singl849","Unknow").
+specgene("CNCM I-1630","singl850","Unknow").
+specgene("CNCM I-1630","singl851","Unknow").
+specgene("CNCM I-1630","singl852","Unknow").
+specgene("CNCM I-1630","singl853","Unknow").
+specgene("CNCM I-1630","singl854","Unknow").
+specgene("CNCM I-1630","singl855","Unknow").
+specgene("CNCM I-1630","singl856","Unknow").
+specgene("CNCM I-1630","singl857","Unknow").
+specgene("CNCM I-1630","singl858","Unknow").
+specgene("CNCM I-1630","singl859","Unknow").
+specgene("CNCM I-1630","singl860","Unknow").
+specgene("CNCM I-1630","singl861","secY").
+specgene("CNCM I-1630","singl862","adk").
+specgene("CNCM I-1630","singl863","Unknow").
+specgene("CNCM I-1630","singl864","Unknow").
+specgene("CNCM I-1630","singl865","Unknow").
+specgene("CNCM I-1630","singl866","Unknow").
+specgene("CNCM I-1630","singl867","Unknow").
+specgene("CNCM I-1630","singl868","Unknow").
+specgene("CNCM I-1630","singl869","Unknow").
+specgene("CNCM I-1630","singl870","Unknow").
+specgene("CNCM I-1630","singl871","Unknow").
+specgene("CNCM I-1630","singl872","Unknow").
+specgene("CNCM I-1630","singl873","Unknow").
+specgene("CNCM I-1630","singl874","Unknow").
+specgene("CNCM I-1630","singl875","Unknow").
+specgene("CNCM I-1630","singl876","Unknow").
+specgene("CNCM I-1630","singl877","Unknow").
+specgene("CNCM I-1630","singl878","Unknow").
+specgene("CNCM I-1630","singl879","Unknow").
+specgene("CNCM I-1630","singl880","Unknow").
+specgene("CNCM I-1630","singl881","Unknow").
+specgene("CNCM I-1630","singl882","Unknow").
+specgene("CNCM I-1630","singl883","Unknow").
+specgene("CNCM I-1630","singl884","tex").
+specgene("CNCM I-1630","singl885","Unknow").
+specgene("CNCM I-1630","singl886","Unknow").
+specgene("CNCM I-1630","singl887","sstT").
+specgene("CNCM I-1630","singl888","sstT").
+specgene("CNCM I-1630","singl889","Unknow").
+specgene("CNCM I-1630","singl890","Unknow").
+specgene("CNCM I-1630","singl891","Unknow").
+specgene("CNCM I-1630","singl892","Unknow").
+specgene("CNCM I-1630","singl893","Unknow").
+specgene("CNCM I-1630","singl894","pepF").
+specgene("CNCM I-1630","singl895","Unknow").
+specgene("CNCM I-1630","singl896","Unknow").
+specgene("CNCM I-1630","singl897","Unknow").
+specgene("CNCM I-1630","singl898","Unknow").
+specgene("CNCM I-1630","singl899","Unknow").
+specgene("CNCM I-1630","singl900","Unknow").
+specgene("CNCM I-1630","singl901","Unknow").
+specgene("CNCM I-1630","singl902","pepT").
+specgene("CNCM I-1630","singl903","pepT").
+specgene("CNCM I-1630","singl904","Unknow").
+specgene("CNCM I-1630","singl905","Unknow").
+specgene("CNCM I-1630","singl906","nrnA").
+specgene("CNCM I-1630","singl907","yghU").
+specgene("CNCM I-1630","singl908","yghU").
+specgene("CNCM I-1630","singl909","Unknow").
+specgene("CNCM I-1630","singl910","valS").
+specgene("CNCM I-1630","singl911","Unknow").
+specgene("CNCM I-1630","singl912","Unknow").
+specgene("CNCM I-1630","singl913","Unknow").
+specgene("CNCM I-1630","singl914","Unknow").
+specgene("CNCM I-1630","singl915","Unknow").
+specgene("CNCM I-1630","singl916","Unknow").
+specgene("CNCM I-1630","singl917","Unknow").
+specgene("CNCM I-1630","singl918","Unknow").
+specgene("CNCM I-1630","singl919","Unknow").
+specgene("CNCM I-1630","singl920","Unknow").
+specgene("CNCM I-1630","singl921","Unknow").
+specgene("CNCM I-1630","singl922","dnaEC").
+specgene("CNCM I-1630","singl923","Unknow").
+specgene("CNCM I-1630","singl924","Unknow").
+specgene("CNCM I-1630","singl925","leuD").
+specgene("CNCM I-1630","singl926","Unknow").
+specgene("CNCM I-1630","singl927","Unknow").
+specgene("CNCM I-1630","singl928","Unknow").
+specgene("CNCM I-1630","singl929","Unknow").
+specgene("CNCM I-1630","singl930","Unknow").
+specgene("CNCM I-1630","singl931","Unknow").
+specgene("CNCM I-1630","singl932","Unknow").
+specgene("CNCM I-1630","singl933","Unknow").
+specgene("CNCM I-1630","singl934","Unknow").
+specgene("CNCM I-1630","singl935","Unknow").
+specgene("CNCM I-1630","singl936","amyA").
+specgene("CNCM I-1630","singl937","Unknow").
+specgene("CNCM I-1630","singl938","Unknow").
+specgene("CNCM I-1630","singl939","Unknow").
+specgene("CNCM I-1630","singl940","Unknow").
+specgene("CNCM I-1630","singl941","argD").
+specgene("CNCM I-1630","singl942","Unknow").
+specgene("CNCM I-1630","singl943","Unknow").
+specgene("CNCM I-1630","singl944","Unknow").
+specgene("CNCM I-1630","singl945","Unknow").
+specgene("CNCM I-1630","singl946","Unknow").
+specgene("CNCM I-1630","singl947","Unknow").
+specgene("CNCM I-1630","singl948","Unknow").
+specgene("CNCM I-1630","singl949","glyQ").
+specgene("CNCM I-1630","singl950","glyQ").
+specgene("CNCM I-1630","singl951","ilvH").
+specgene("CNCM I-1630","singl952","Unknow").
+specgene("CNCM I-1630","singl953","Unknow").
+specgene("CNCM I-1630","singl954","Unknow").
+specgene("CNCM I-1630","singl955","Unknow").
+specgene("CNCM I-1630","singl956","yeeE").
+specgene("CNCM I-1630","singl957","yeeE").
+specgene("CNCM I-1630","singl958","Unknow").
+specgene("CNCM I-1630","singl959","Unknow").
+specgene("CNCM I-1630","singl960","clpX").
+specgene("CNCM I-1630","singl961","Unknow").
+specgene("CNCM I-1630","singl962","Unknow").
+specgene("CNCM I-1630","singl963","argH").
+specgene("CNCM I-1630","singl964","Unknow").
+specgene("CNCM I-1630","singl965","Unknow").
+specgene("CNCM I-1630","singl966","Unknow").
+specgene("CNCM I-1630","singl967","Unknow").
+specgene("CNCM I-1630","singl968","Unknow").
+specgene("CNCM I-1630","singl969","Unknow").
+specgene("CNCM I-1630","singl970","Unknow").
+specgene("CNCM I-1630","singl971","Unknow").
+specgene("CNCM I-1630","singl972","Unknow").
+specgene("CNCM I-1630","singl973","Unknow").
+specgene("CNCM I-1630","singl974","thrS").
+specgene("CNCM I-1630","singl975","thrS").
+specgene("CNCM I-1630","singl976","Unknow").
+specgene("CNCM I-1630","singl977","ilvD").
+specgene("CNCM I-1630","singl978","yloV").
+specgene("CNCM I-1630","singl979","yloV").
+specgene("CNCM I-1630","singl980","yloV").
+specgene("CNCM I-1630","singl981","Unknow").
+specgene("CNCM I-1630","singl982","Unknow").
+specgene("CNCM I-1630","singl983","Unknow").
+specgene("CNCM I-1630","singl984","Unknow").
+specgene("CNCM I-1630","singl985","Unknow").
+specgene("CNCM I-1630","singl986","Unknow").
+specgene("CNCM I-1630","singl987","Unknow").
+specgene("CNCM I-1630","singl988","Unknow").
+specgene("CNCM I-1630","singl989","Unknow").
+specgene("CNCM I-1630","singl990","leuB").
+specgene("CNCM I-1630","singl991","leuC").
+specgene("CNCM I-1630","singl992","Unknow").
+specgene("CNCM I-1630","singl993","leuC").
+specgene("CNCM I-1630","singl994","Unknow").
+specgene("CNCM I-1630","singl995","Unknow").
+specgene("CNCM I-1630","singl996","Unknow").
+specgene("CNCM I-1630","singl997","Unknow").
+specgene("CNCM I-1630","singl998","Unknow").
+specgene("CNCM I-1630","singl999","Unknow").
+specgene("CNCM I-1630","singl1000","Unknow").
+specgene("CNCM I-1630","singl1001","Unknow").
+specgene("CNCM I-1630","singl1002","Unknow").
+specgene("CNCM I-1630","singl1003","Unknow").
+specgene("CNCM I-1630","singl1004","Unknow").
+specgene("CNCM I-1630","singl1005","Unknow").
+specgene("CNCM I-1630","singl1006","Unknow").
+specgene("CNCM I-1630","singl1007","Unknow").
+specgene("CNCM I-1630","singl1008","Unknow").
+specgene("CNCM I-1630","singl1009","Unknow").
+specgene("CNCM I-1630","singl1010","Unknow").
+specgene("CNCM I-1630","singl1011","Unknow").
+specgene("CNCM I-1630","singl1012","Unknow").
+specgene("CNCM I-1630","singl1013","Unknow").
+specgene("CNCM I-1630","singl1014","Unknow").
+specgene("CNCM I-1630","singl1015","Unknow").
+specgene("CNCM I-1630","singl1016","Unknow").
+specgene("CNCM I-1630","singl1017","Unknow").
+specgene("CNCM I-1630","singl1018","Unknow").
+specgene("CNCM I-1630","singl1019","manX").
+specgene("CNCM I-1630","singl1020","manX").
+specgene("CNCM I-1630","singl1021","Unknow").
+specgene("CNCM I-1630","singl1022","Unknow").
+specgene("CNCM I-1630","singl1023","Unknow").
+specgene("CNCM I-1630","singl1024","Unknow").
+specgene("CNCM I-1630","singl1025","Unknow").
+specgene("CNCM I-1630","singl1026","Unknow").
+specgene("CNCM I-1630","singl1027","Unknow").
+specgene("CNCM I-1630","singl1028","Unknow").
+specgene("CNCM I-1630","singl1029","Unknow").
+specgene("CNCM I-1630","singl1030","Unknow").
+specgene("CNCM I-1630","singl1031","lysS").
+specgene("CNCM I-1630","singl1032","Unknow").
+specgene("CNCM I-1630","singl1033","Unknow").
+specgene("CNCM I-1630","singl1034","Unknow").
+specgene("CNCM I-1630","singl1035","Unknow").
+specgene("CNCM I-1630","singl1036","Unknow").
+specgene("CNCM I-1630","singl1037","Unknow").
+specgene("CNCM I-1630","singl1038","Unknow").
+specgene("CNCM I-1630","singl1039","Unknow").
+specgene("CNCM I-1630","singl1040","Unknow").
+specgene("CNCM I-1630","singl1041","Unknow").
+specgene("CNCM I-1630","singl1042","Unknow").
+specgene("CNCM I-1630","singl1043","Unknow").
+specgene("CNCM I-1630","singl1044","Unknow").
+specgene("CNCM I-1630","singl1045","Unknow").
+specgene("CNCM I-1630","singl1046","Unknow").
+specgene("CNCM I-1630","singl1047","Unknow").
+specgene("CNCM I-1630","singl1048","Unknow").
+specgene("CNCM I-1630","singl1049","Unknow").
+specgene("CNCM I-1630","singl1050","Unknow").
+specgene("CNCM I-1630","singl1051","Unknow").
+specgene("CNCM I-1630","singl1052","Unknow").
+specgene("CNCM I-1630","singl1053","Unknow").
+specgene("CNCM I-1630","singl1054","ytpR").
+specgene("CNCM I-1630","singl1055","ytpR").
+specgene("CNCM I-1630","singl1056","Unknow").
+specgene("CNCM I-1630","singl1057","Unknow").
+specgene("CNCM I-1630","singl1058","Unknow").
+specgene("CNCM I-1630","singl1059","Unknow").
+specgene("CNCM I-1630","singl1060","atpA").
+specgene("CNCM I-1630","singl1061","Unknow").
+specgene("CNCM I-1630","singl1062","Unknow").
+specgene("CNCM I-1630","singl1063","Unknow").
+specgene("CNCM I-1630","singl1064","Unknow").
+specgene("CNCM I-1630","singl1065","Unknow").
+specgene("CNCM I-1630","singl1066","Unknow").
+specgene("CNCM I-1630","singl1067","Unknow").
+specgene("CNCM I-1630","singl1068","Unknow").
+specgene("CNCM I-1630","singl1069","Unknow").
+specgene("CNCM I-1630","singl1070","Unknow").
+specgene("CNCM I-1630","singl1071","Unknow").
+specgene("CNCM I-1630","singl1072","Unknow").
+specgene("CNCM I-1630","singl1073","Unknow").
+specgene("CNCM I-1630","singl1074","Unknow").
+specgene("CNCM I-1630","singl1075","Unknow").
+specgene("CNCM I-1630","singl1076","Unknow").
+specgene("CNCM I-1630","singl1077","Unknow").
+specgene("CNCM I-1630","singl1078","Unknow").
+specgene("CNCM I-1630","singl1079","Unknow").
+specgene("CNCM I-1630","singl1080","Unknow").
+specgene("CNCM I-1630","singl1081","pyrC").
+specgene("CNCM I-1630","singl1082","Unknow").
+specgene("CNCM I-1630","singl1083","Unknow").
+specgene("CNCM I-1630","singl1084","Unknow").
+specgene("CNCM I-1630","singl1085","Unknow").
+specgene("CNCM I-1630","singl1086","Unknow").
+specgene("CNCM I-1630","singl1087","Unknow").
+specgene("CNCM I-1630","singl1088","yvcJ").
+specgene("CNCM I-1630","singl1089","yvcJ").
+specgene("CNCM I-1630","singl1090","Unknow").
+specgene("CNCM I-1630","singl1091","Unknow").
+specgene("CNCM I-1630","singl1092","Unknow").
+specgene("CNCM I-1630","singl1093","Unknow").
+specgene("CNCM I-1630","singl1094","Unknow").
+specgene("CNCM I-1630","singl1095","Unknow").
+specgene("CNCM I-1630","singl1096","Unknow").
+specgene("CNCM I-1630","singl1097","Unknow").
+specgene("CNCM I-1630","singl1098","gapA").
+specgene("CNCM I-1630","singl1099","Unknow").
+specgene("CNCM I-1630","singl1100","liaR").
+specgene("CNCM I-1630","singl1101","Unknow").
+specgene("CNCM I-1630","singl1102","Unknow").
+specgene("CNCM I-1630","singl1103","gyrB").
+specgene("CNCM I-1630","singl1104","Unknow").
+specgene("CNCM I-1630","singl1105","gyrB").
+specgene("CNCM I-1630","singl1106","gyrB").
+specgene("CNCM I-1630","singl1107","Unknow").
+specgene("CNCM I-1630","singl1108","Unknow").
+specgene("CNCM I-1630","singl1109","Unknow").
+specgene("CNCM I-1630","singl1110","Unknow").
+specgene("CNCM I-1630","singl1111","Unknow").
+specgene("CNCM I-1630","singl1112","Unknow").
+specgene("CNCM I-1630","singl1113","Unknow").
+specgene("CNCM I-1630","singl1114","Unknow").
+specgene("CNCM I-1630","singl1115","rpoZ").
+specgene("CNCM I-1630","singl1116","Unknow").
+specgene("CNCM I-1630","singl1117","Unknow").
+specgene("CNCM I-1630","singl1118","Unknow").
+specgene("CNCM I-1630","singl1119","Unknow").
+specgene("CNCM I-1630","singl1120","Unknow").
+specgene("CNCM I-1630","singl1121","Unknow").
+specgene("CNCM I-1630","singl1122","Unknow").
+specgene("CNCM I-1630","singl1123","Unknow").
+specgene("CNCM I-1630","singl1124","Unknow").
+specgene("CNCM I-1630","singl1125","Unknow").
+specgene("CNCM I-1630","singl1126","Unknow").
+specgene("CNCM I-1630","singl1127","Unknow").
+specgene("CNCM I-1630","singl1128","murAB").
+specgene("CNCM I-1630","singl1129","Unknow").
+specgene("CNCM I-1630","singl1130","Unknow").
+specgene("CNCM I-1630","singl1131","Unknow").
+specgene("CNCM I-1630","singl1132","Unknow").
+specgene("CNCM I-1630","singl1133","Unknow").
+specgene("CNCM I-1630","singl1134","Unknow").
+specgene("CNCM I-1630","singl1135","Unknow").
+specgene("CNCM I-1630","singl1136","Unknow").
+specgene("CNCM I-1630","singl1137","Unknow").
+specgene("CNCM I-1630","singl1138","Unknow").
+specgene("CNCM I-1630","singl1139","Unknow").
+specgene("CNCM I-1630","singl1140","Unknow").
+specgene("CNCM I-1630","singl1141","Unknow").
+specgene("CNCM I-1630","singl1142","Unknow").
+specgene("CNCM I-1630","singl1143","Unknow").
+specgene("CNCM I-1630","singl1144","Unknow").
+specgene("CNCM I-1630","singl1145","Unknow").
+specgene("CNCM I-1630","singl1146","Unknow").
+specgene("CNCM I-1630","singl1147","Unknow").
+specgene("CNCM I-1630","singl1148","Unknow").
+specgene("CNCM I-1630","singl1149","Unknow").
+specgene("CNCM I-1630","singl1150","Unknow").
+specgene("CNCM I-1630","singl1151","Unknow").
+specgene("CNCM I-1630","singl1152","Unknow").
+specgene("CNCM I-1630","singl1153","Unknow").
+specgene("CNCM I-1630","singl1154","Unknow").
+specgene("CNCM I-1630","singl1155","ftsX").
+specgene("CNCM I-1630","singl1156","Unknow").
+specgene("CNCM I-1630","singl1157","ftsX").
+specgene("CNCM I-1630","singl1158","Unknow").
+specgene("CNCM I-1630","singl1159","Unknow").
+specgene("CNCM I-1630","singl1160","Unknow").
+specgene("CNCM I-1630","singl1161","Unknow").
+specgene("CNCM I-1630","singl1162","Unknow").
+specgene("CNCM I-1630","singl1163","Unknow").
+specgene("CNCM I-1630","singl1164","aapA").
+specgene("CNCM I-1630","singl1165","Unknow").
+specgene("CNCM I-1630","singl1166","hslO").
+specgene("CNCM I-1630","singl1167","Unknow").
+specgene("CNCM I-1630","singl1168","Unknow").
+specgene("CNCM I-1630","singl1169","Unknow").
+specgene("CNCM I-1630","singl1170","Unknow").
+specgene("CNCM I-1630","singl1171","Unknow").
+specgene("CNCM I-1630","singl1172","Unknow").
+specgene("CNCM I-1630","singl1173","Unknow").
+specgene("CNCM I-1630","singl1174","tsf").
+specgene("CNCM I-1630","singl1175","Unknow").
+specgene("CNCM I-1630","singl1176","Unknow").
+specgene("CNCM I-1630","singl1177","Unknow").
+specgene("CNCM I-1630","singl1178","Unknow").
+specgene("CNCM I-1630","singl1179","Unknow").
+specgene("CNCM I-1630","singl1180","Unknow").
+specgene("CNCM I-1630","singl1181","Unknow").
+specgene("CNCM I-1630","singl1182","Unknow").
+specgene("CNCM I-1630","singl1183","Unknow").
+specgene("CNCM I-1630","singl1184","Unknow").
+specgene("CNCM I-1630","singl1185","Unknow").
+specgene("CNCM I-1630","singl1186","Unknow").
+specgene("CNCM I-1630","singl1187","Unknow").
+specgene("CNCM I-1630","singl1188","Unknow").
+specgene("CNCM I-1630","singl1189","Unknow").
+specgene("CNCM I-1630","singl1190","Unknow").
+specgene("CNCM I-1630","singl1191","Unknow").
+specgene("CNCM I-1630","singl1192","Unknow").
+specgene("CNCM I-1630","singl1193","Unknow").
+specgene("CNCM I-1630","singl1194","Unknow").
+specgene("CNCM I-1630","singl1195","Unknow").
+specgene("CNCM I-1630","singl1196","Unknow").
+specgene("CNCM I-1630","singl1197","Unknow").
+specgene("CNCM I-1630","singl1198","Unknow").
+specgene("CNCM I-1630","singl1199","Unknow").
+specgene("CNCM I-1630","singl1200","Unknow").
+specgene("CNCM I-1630","singl1201","Unknow").
+specgene("CNCM I-1630","singl1202","Unknow").
+specgene("CNCM I-1630","singl1203","Unknow").
+specgene("CNCM I-1630","singl1204","Unknow").
+specgene("CNCM I-1630","singl1205","Unknow").
+specgene("CNCM I-1630","singl1206","Unknow").
+specgene("CNCM I-1630","singl1207","Unknow").
+specgene("CNCM I-1630","singl1208","Unknow").
+specgene("CNCM I-1630","singl1209","Unknow").
+specgene("CNCM I-1630","singl1210","obgE").
+specgene("CNCM I-1630","singl1211","obgE").
+specgene("CNCM I-1630","singl1212","obgE").
+specgene("CNCM I-1630","singl1213","Unknow").
+specgene("CNCM I-1630","singl1214","Unknow").
+specgene("CNCM I-1630","singl1215","Unknow").
+specgene("CNCM I-1630","singl1216","Unknow").
+specgene("CNCM I-1630","singl1217","gyrA").
+specgene("CNCM I-1630","singl1218","Unknow").
+specgene("CNCM I-1630","singl1219","Unknow").
+specgene("CNCM I-1630","singl1220","Unknow").
+specgene("CNCM I-1630","singl1221","Unknow").
+specgene("CNCM I-1630","singl1222","Unknow").
+specgene("CNCM I-1630","singl1223","Unknow").
+specgene("CNCM I-1630","singl1224","Unknow").
+specgene("CNCM I-1630","singl1225","Unknow").
+specgene("CNCM I-1630","singl1226","Unknow").
+specgene("CNCM I-1630","singl1227","Unknow").
+specgene("CNCM I-1630","singl1228","Unknow").
+specgene("CNCM I-1630","singl1229","Unknow").
+specgene("CNCM I-1630","singl1230","Unknow").
+specgene("CNCM I-1630","singl1231","Unknow").
+specgene("CNCM I-1630","singl1232","Unknow").
+specgene("CNCM I-1630","singl1233","Unknow").
+specgene("CNCM I-1630","singl1234","potD").
+specgene("CNCM I-1630","singl1235","potD").
+specgene("CNCM I-1630","singl1236","Unknow").
+specgene("CNCM I-1630","singl1237","Unknow").
+specgene("CNCM I-1630","singl1238","Unknow").
+specgene("CNCM I-1630","singl1239","Unknow").
+specgene("CNCM I-1630","singl1240","yhaR").
+specgene("CNCM I-1630","singl1241","yhaR").
+specgene("CNCM I-1630","singl1242","Unknow").
+specgene("CNCM I-1630","singl1243","Unknow").
+specgene("CNCM I-1630","singl1244","Unknow").
+specgene("CNCM I-1630","singl1245","Unknow").
+specgene("CNCM I-1630","singl1246","Unknow").
+specgene("CNCM I-1630","singl1247","Unknow").
+specgene("CNCM I-1630","singl1248","Unknow").
+specgene("CNCM I-1630","singl1249","Unknow").
+specgene("CNCM I-1630","singl1250","Unknow").
+specgene("CNCM I-1630","singl1251","Unknow").
+specgene("CNCM I-1630","singl1252","Unknow").
+specgene("CNCM I-1630","singl1253","Unknow").
+specgene("CNCM I-1630","singl1254","Unknow").
+specgene("CNCM I-1630","singl1255","Unknow").
+specgene("CNCM I-1630","singl1256","Unknow").
+specgene("CNCM I-1630","singl1257","Unknow").
+specgene("CNCM I-1630","singl1258","Unknow").
+specgene("CNCM I-1630","singl1259","Unknow").
+specgene("CNCM I-1630","singl1260","Unknow").
+specgene("CNCM I-1630","singl1261","Unknow").
+specgene("CNCM I-1630","singl1262","Unknow").
+specgene("CNCM I-1630","singl1263","Unknow").
+specgene("CNCM I-1630","singl1264","Unknow").
+specgene("CNCM I-1630","singl1265","Unknow").
+specgene("CNCM I-1630","singl1266","Unknow").
+specgene("CNCM I-1630","singl1267","Unknow").
+specgene("CNCM I-1630","singl1268","Unknow").
+specgene("CNCM I-1630","singl1269","Unknow").
+specgene("CNCM I-1630","singl1270","Unknow").
+specgene("CNRZ1066","singl1271","Unknow").
+specgene("CNRZ1066","singl1272","Unknow").
+specgene("CNRZ1066","singl1273","Unknow").
+specgene("CNRZ1066","singl1274","Unknow").
+specgene("CNRZ1066","singl1275","Unknow").
+specgene("CNRZ1066","singl1276","Unknow").
+specgene("CNRZ1066","singl1277","Unknow").
+specgene("CNRZ1066","singl1278","Unknow").
+specgene("CNRZ1066","singl1279","Unknow").
+specgene("CNRZ1066","singl1280","Unknow").
+specgene("CNRZ1066","singl1281","Unknow").
+specgene("CNRZ1066","singl1282","Unknow").
+specgene("CNRZ1066","singl1283","Unknow").
+specgene("CNRZ1066","singl1284","Unknow").
+specgene("CNRZ1066","singl1285","Unknow").
+specgene("CNRZ1066","singl1286","Unknow").
+specgene("CNRZ1066","singl1287","Unknow").
+specgene("CNRZ21N","singl1288","Unknow").
+specgene("CNRZ21N","singl1289","Unknow").
+specgene("CNRZ21N","singl1290","tyrS").
+specgene("CNRZ21N","singl1291","tyrS").
+specgene("CNRZ21N","singl1292","Unknow").
+specgene("CNRZ21N","singl1293","Unknow").
+specgene("CNRZ21N","singl1294","Unknow").
+specgene("CNRZ21N","singl1295","Unknow").
+specgene("CNRZ21N","singl1296","Unknow").
+specgene("CNRZ21N","singl1297","Unknow").
+specgene("CNRZ21N","singl1298","rplL").
+specgene("CNRZ21N","singl1299","Unknow").
+specgene("CNRZ21N","singl1300","Unknow").
+specgene("CNRZ21N","singl1301","Unknow").
+specgene("CNRZ21N","singl1302","Unknow").
+specgene("CNRZ21N","singl1303","Unknow").
+specgene("CNRZ21N","singl1304","Unknow").
+specgene("CNRZ21N","singl1305","Unknow").
+specgene("CNRZ21N","singl1306","Unknow").
+specgene("CNRZ21N","singl1307","Unknow").
+specgene("CNRZ21N","singl1308","Unknow").
+specgene("CNRZ21N","singl1309","Unknow").
+specgene("CNRZ21N","singl1310","Unknow").
+specgene("CNRZ21N","singl1311","Unknow").
+specgene("CNRZ21N","singl1312","Unknow").
+specgene("CNRZ21N","singl1313","Unknow").
+specgene("CNRZ21N","singl1314","Unknow").
+specgene("CNRZ21N","singl1315","Unknow").
+specgene("CNRZ21N","singl1316","Unknow").
+specgene("CNRZ21N","singl1317","Unknow").
+specgene("CS8","singl1318","Unknow").
+specgene("DGCC 7710 complete","singl1319","Unknow").
+specgene("DGCC 7710 complete","singl1320","Unknow").
+specgene("EPS","singl1321","Unknow").
+specgene("EPS","singl1322","Unknow").
+specgene("EPS","singl1323","Unknow").
+specgene("EPS","singl1324","Unknow").
+specgene("EPS","singl1325","Unknow").
+specgene("EPS","singl1326","Unknow").
+specgene("EPS","singl1327","Unknow").
+specgene("EPS","singl1328","Unknow").
+specgene("EPS","singl1329","Unknow").
+specgene("EPS","singl1330","Unknow").
+specgene("EPS","singl1331","Unknow").
+specgene("EPS","singl1332","Unknow").
+specgene("EPS","singl1333","Unknow").
+specgene("EPS","singl1334","Unknow").
+specgene("EPS","singl1335","Unknow").
+specgene("EPS","singl1336","Unknow").
+specgene("EPS","singl1337","Unknow").
+specgene("EPS","singl1338","Unknow").
+specgene("EPS","singl1339","Unknow").
+specgene("EPS","singl1340","Unknow").
+specgene("FAM 13496","singl1341","Unknow").
+specgene("FAM 13496","singl1342","Unknow").
+specgene("FAM 13496","singl1343","Unknow").
+specgene("FAM 13496","singl1344","Unknow").
+specgene("FAM 13496","singl1345","Unknow").
+specgene("FAM 13496","singl1346","sndB").
+specgene("FAM 13496","singl1347","Unknow").
+specgene("FAM 13496","singl1348","Unknow").
+specgene("FAM 13496","singl1349","Unknow").
+specgene("FAM 13496","singl1350","Unknow").
+specgene("FAM 13496","singl1351","Unknow").
+specgene("FAM 13496","singl1352","Unknow").
+specgene("FAM 13496","singl1353","Unknow").
+specgene("FAM 13496","singl1354","Unknow").
+specgene("FAM 13496","singl1355","Unknow").
+specgene("FAM 13496","singl1356","Unknow").
+specgene("FAM 13496","singl1357","Unknow").
+specgene("FAM 13496","singl1358","Unknow").
+specgene("FAM 13496","singl1359","Unknow").
+specgene("GABA","singl1360","Unknow").
+specgene("GABA","singl1361","Unknow").
+specgene("GABA","singl1362","Unknow").
+specgene("GABA","singl1363","Unknow").
+specgene("GABA","singl1364","Unknow").
+specgene("GABA","singl1365","Unknow").
+specgene("GABA","singl1366","Unknow").
+specgene("GABA","singl1367","Unknow").
+specgene("GABA","singl1368","Unknow").
+specgene("GABA","singl1369","Unknow").
+specgene("GABA","singl1370","Unknow").
+specgene("GABA","singl1371","Unknow").
+specgene("GABA","singl1372","Unknow").
+specgene("GABA","singl1373","Unknow").
+specgene("GABA","singl1374","Unknow").
+specgene("GABA","singl1375","Unknow").
+specgene("GABA","singl1376","Unknow").
+specgene("GABA","singl1377","Unknow").
+specgene("GABA","singl1378","Unknow").
+specgene("GABA","singl1379","Unknow").
+specgene("GABA","singl1380","Unknow").
+specgene("GABA","singl1381","Unknow").
+specgene("GABA","singl1382","Unknow").
+specgene("GABA","singl1383","Unknow").
+specgene("GABA","singl1384","Unknow").
+specgene("IDCC2201","singl1385","Unknow").
+specgene("JIM 8232","singl1386","Unknow").
+specgene("JIM 8232","singl1387","Unknow").
+specgene("JIM 8232","singl1388","Unknow").
+specgene("JIM 8232","singl1389","Unknow").
+specgene("JIM 8232","singl1390","Unknow").
+specgene("JIM 8232","singl1391","Unknow").
+specgene("JIM 8232","singl1392","Unknow").
+specgene("JIM 8232","singl1393","pig-3").
+specgene("JIM 8232","singl1394","Unknow").
+specgene("JIM 8232","singl1395","endA").
+specgene("JIM 8232","singl1396","Unknow").
+specgene("JIM 8232","singl1397","Unknow").
+specgene("JIM 8232","singl1398","Unknow").
+specgene("JIM 8232","singl1399","Unknow").
+specgene("JIM 8232","singl1400","Unknow").
+specgene("JIM 8232","singl1401","Unknow").
+specgene("JIM 8232","singl1402","Unknow").
+specgene("JIM 8232","singl1403","Unknow").
+specgene("JIM 8232","singl1404","Unknow").
+specgene("JIM 8232","singl1405","Unknow").
+specgene("JIM 8232","singl1406","Unknow").
+specgene("JIM 8232","singl1407","Unknow").
+specgene("JIM 8232","singl1408","acpP2-1").
+specgene("JIM 8232","singl1409","Unknow").
+specgene("JIM 8232","singl1410","Unknow").
+specgene("JIM 8232","singl1411","Unknow").
+specgene("JIM 8232","singl1412","Unknow").
+specgene("JIM 8232","singl1413","Unknow").
+specgene("JIM 8232","singl1414","Unknow").
+specgene("JIM 8232","singl1415","Unknow").
+specgene("JIM 8232","singl1416","mmuM-1").
+specgene("JIM 8232","singl1417","Unknow").
+specgene("JIM 8232","singl1418","hsdS").
+specgene("JIM 8232","singl1419","Unknow").
+specgene("JIM10116","singl1420","Unknow").
+specgene("JIM10116","singl1421","Unknow").
+specgene("JIM10116","singl1422","Unknow").
+specgene("JIM10116","singl1423","Unknow").
+specgene("JIM10116","singl1424","Unknow").
+specgene("JIM10116","singl1425","Unknow").
+specgene("JIM10116","singl1426","Unknow").
+specgene("JIM10116","singl1427","Unknow").
+specgene("JIM10116","singl1428","Unknow").
+specgene("JIM10116","singl1429","Unknow").
+specgene("JIM10116","singl1430","Unknow").
+specgene("JIM10116","singl1431","Unknow").
+specgene("JIM10116","singl1432","Unknow").
+specgene("JIM10116","singl1433","Unknow").
+specgene("JIM10116","singl1434","Unknow").
+specgene("JIM10116","singl1435","Unknow").
+specgene("JIM10116","singl1436","Unknow").
+specgene("JIM10116","singl1437","Unknow").
+specgene("JIM10116","singl1438","Unknow").
+specgene("JIM10116","singl1439","Unknow").
+specgene("JIM10116","singl1440","Unknow").
+specgene("JIM10116","singl1441","Unknow").
+specgene("JIM10116","singl1442","Unknow").
+specgene("JIM10116","singl1443","Unknow").
+specgene("JIM10116","singl1444","Unknow").
+specgene("JIM10116","singl1445","Unknow").
+specgene("JIM10116","singl1446","Unknow").
+specgene("JIM10116","singl1447","Unknow").
+specgene("JIM10116","singl1448","Unknow").
+specgene("JIM10116","singl1449","Unknow").
+specgene("JIM10116","singl1450","Unknow").
+specgene("JIM10116","singl1451","Unknow").
+specgene("JIM10116","singl1452","Unknow").
+specgene("JIM10116","singl1453","Unknow").
+specgene("JIM10116","singl1454","Unknow").
+specgene("JIM10116","singl1455","Unknow").
+specgene("JIM10116","singl1456","Unknow").
+specgene("JIM10116","singl1457","Unknow").
+specgene("JIM10116","singl1458","Unknow").
+specgene("JIM10116","singl1459","Unknow").
+specgene("JIM10116","singl1460","Unknow").
+specgene("JIM10116","singl1461","Unknow").
+specgene("JIM10116","singl1462","Unknow").
+specgene("JIM10116","singl1463","Unknow").
+specgene("JIM10116","singl1464","Unknow").
+specgene("JIM10116","singl1465","Unknow").
+specgene("JIM10116","singl1466","Unknow").
+specgene("JIM10116","singl1467","Unknow").
+specgene("JIM10116","singl1468","Unknow").
+specgene("JIM10116","singl1469","Unknow").
+specgene("JIM10116","singl1470","Unknow").
+specgene("JIM10116","singl1471","Unknow").
+specgene("JIM10116","singl1472","Unknow").
+specgene("JIM10116","singl1473","Unknow").
+specgene("JIM10116","singl1474","Unknow").
+specgene("JIM10116","singl1475","Unknow").
+specgene("JIM10116","singl1476","Unknow").
+specgene("JIM10116","singl1477","Unknow").
+specgene("JIM10116","singl1478","Unknow").
+specgene("JIM10116","singl1479","Unknow").
+specgene("JIM10116","singl1480","Unknow").
+specgene("JIM1081","singl1481","Unknow").
+specgene("JIM1081","singl1482","Unknow").
+specgene("JIM1081","singl1483","Unknow").
+specgene("JIM1081","singl1484","Unknow").
+specgene("JIM1081","singl1485","Unknow").
+specgene("JIM1081","singl1486","Unknow").
+specgene("JIM1081","singl1487","Unknow").
+specgene("JIM1081","singl1488","Unknow").
+specgene("JIM1081","singl1489","Unknow").
+specgene("JIM1081","singl1490","Unknow").
+specgene("JIM1081","singl1491","Unknow").
+specgene("JIM1081","singl1492","Unknow").
+specgene("JIM1081","singl1493","Unknow").
+specgene("JIM1081","singl1494","Unknow").
+specgene("JIM1081","singl1495","Unknow").
+specgene("JIM1081","singl1496","Unknow").
+specgene("JIM1081","singl1497","Unknow").
+specgene("JIM1081","singl1498","Unknow").
+specgene("JIM1081","singl1499","Unknow").
+specgene("JIM1081","singl1500","Unknow").
+specgene("JIM1081","singl1501","Unknow").
+specgene("JIM1081","singl1502","Unknow").
+specgene("JIM1081","singl1503","Unknow").
+specgene("JIM1081","singl1504","Unknow").
+specgene("JIM1081","singl1505","Unknow").
+specgene("JIM1081","singl1506","Unknow").
+specgene("JIM1081","singl1507","Unknow").
+specgene("JIM1081","singl1508","Unknow").
+specgene("JIM1081","singl1509","adhP").
+specgene("JIM1081","singl1510","Unknow").
+specgene("JIM1081","singl1511","Unknow").
+specgene("JIM1081","singl1512","Unknow").
+specgene("JIM1081","singl1513","Unknow").
+specgene("JIM1081","singl1514","Unknow").
+specgene("JIM1081","singl1515","Unknow").
+specgene("JIM1081","singl1516","Unknow").
+specgene("JIM1081","singl1517","Unknow").
+specgene("JIM1081","singl1518","Unknow").
+specgene("JIM1081","singl1519","Unknow").
+specgene("JIM1081","singl1520","Unknow").
+specgene("JIM1081","singl1521","Unknow").
+specgene("JIM1081","singl1522","Unknow").
+specgene("JIM1081","singl1523","Unknow").
+specgene("JIM1081","singl1524","Unknow").
+specgene("JIM1081","singl1525","Unknow").
+specgene("JIM1081","singl1526","Unknow").
+specgene("JIM1081","singl1527","Unknow").
+specgene("JIM1081","singl1528","Unknow").
+specgene("JIM1081","singl1529","Unknow").
+specgene("JIM1081","singl1530","Unknow").
+specgene("JIM1081","singl1531","Unknow").
+specgene("JIM1081","singl1532","Unknow").
+specgene("JIM1081","singl1533","Unknow").
+specgene("JIM1081","singl1534","Unknow").
+specgene("JIM1081","singl1535","Unknow").
+specgene("JIM1081","singl1536","Unknow").
+specgene("JIM1081","singl1537","Unknow").
+specgene("KLDS 3.1003","singl1538","Unknow").
+specgene("KLDS 3.1003","singl1539","Unknow").
+specgene("KLDS 3.1003","singl1540","Unknow").
+specgene("KLDS 3.1003","singl1541","Unknow").
+specgene("KLDS 3.1003","singl1542","Unknow").
+specgene("KLDS 3.1003","singl1543","Unknow").
+specgene("KLDS 3.1003","singl1544","Unknow").
+specgene("KLDS 3.1003","singl1545","Unknow").
+specgene("KLDS 3.1003","singl1546","Unknow").
+specgene("KLDS 3.1003","singl1547","Unknow").
+specgene("KLDS 3.1003","singl1548","Unknow").
+specgene("KLDS 3.1003","singl1549","Unknow").
+specgene("KLDS 3.1003","singl1550","Unknow").
+specgene("KLDS 3.1003","singl1551","Unknow").
+specgene("KLDS 3.1003","singl1552","Unknow").
+specgene("KLDS 3.1003","singl1553","Unknow").
+specgene("KLDS 3.1003","singl1554","Unknow").
+specgene("KLDS 3.1003","singl1555","Unknow").
+specgene("KLDS 3.1003","singl1556","Unknow").
+specgene("KLDS 3.1003","singl1557","Unknow").
+specgene("KLDS 3.1003","singl1558","Unknow").
+specgene("KLDS 3.1003","singl1559","Unknow").
+specgene("KLDS 3.1003","singl1560","Unknow").
+specgene("KLDS 3.1003","singl1561","Unknow").
+specgene("KLDS 3.1003","singl1562","Unknow").
+specgene("KLDS 3.1003","singl1563","Unknow").
+specgene("KLDS 3.1003","singl1564","Unknow").
+specgene("KLDS 3.1003","singl1565","Unknow").
+specgene("KLDS 3.1003","singl1566","Unknow").
+specgene("KLDS 3.1003","singl1567","Unknow").
+specgene("KLDS 3.1003","singl1568","Unknow").
+specgene("KLDS 3.1003","singl1569","Unknow").
+specgene("KLDS 3.1003","singl1570","Unknow").
+specgene("KLDS 3.1003","singl1571","Unknow").
+specgene("KLDS 3.1003","singl1572","Unknow").
+specgene("KLDS 3.1003","singl1573","Unknow").
+specgene("KLDS 3.1003","singl1574","Unknow").
+specgene("KLDS 3.1003","singl1575","Unknow").
+specgene("KLDS 3.1003","singl1576","Unknow").
+specgene("KLDS 3.1003","singl1577","Unknow").
+specgene("KLDS 3.1003","singl1578","Unknow").
+specgene("KLDS 3.1003","singl1579","Unknow").
+specgene("KLDS 3.1003","singl1580","Unknow").
+specgene("KLDS 3.1003","singl1581","Unknow").
+specgene("KLDS 3.1003","singl1582","Unknow").
+specgene("KLDS 3.1003","singl1583","Unknow").
+specgene("KLDS 3.1003","singl1584","Unknow").
+specgene("KLDS 3.1003","singl1585","Unknow").
+specgene("KLDS 3.1003","singl1586","Unknow").
+specgene("KLDS 3.1003","singl1587","Unknow").
+specgene("KLDS 3.1003","singl1588","Unknow").
+specgene("KLDS 3.1003","singl1589","Unknow").
+specgene("KLDS 3.1003","singl1590","Unknow").
+specgene("KLDS 3.1003","singl1591","Unknow").
+specgene("KLDS 3.1003","singl1592","Unknow").
+specgene("KLDS 3.1003","singl1593","Unknow").
+specgene("KLDS 3.1003","singl1594","Unknow").
+specgene("KLDS 3.1003","singl1595","Unknow").
+specgene("KLDS 3.1003","singl1596","Unknow").
+specgene("KLDS 3.1003","singl1597","Unknow").
+specgene("KLDS SM","singl1598","Unknow").
+specgene("KLDS SM","singl1599","Unknow").
+specgene("KLDS3.1012","singl1600","Unknow").
+specgene("KLDS3.1012","singl1601","Unknow").
+specgene("KLDS3.1012","singl1602","Unknow").
+specgene("LMD-9","singl1603","Unknow").
+specgene("LMD-9","singl1604","Unknow").
+specgene("LMD-9","singl1605","Unknow").
+specgene("LMD-9","singl1606","Unknow").
+specgene("LMD-9","singl1607","Unknow").
+specgene("LMD-9","singl1608","Unknow").
+specgene("LMD-9","singl1609","Unknow").
+specgene("LMD-9","singl1610","Unknow").
+specgene("LMD-9","singl1611","Unknow").
+specgene("LMD-9","singl1612","Unknow").
+specgene("LMD-9","singl1613","Unknow").
+specgene("LMD-9","singl1614","Unknow").
+specgene("LMD-9","singl1615","Unknow").
+specgene("LMD-9","singl1616","Unknow").
+specgene("LMD-9","singl1617","Unknow").
+specgene("LMD-9","singl1618","Unknow").
+specgene("LMD-9","singl1619","Unknow").
+specgene("LMD-9","singl1620","Unknow").
+specgene("LMD-9","singl1621","Unknow").
+specgene("LMD-9","singl1622","Unknow").
+specgene("LMD-9","singl1623","Unknow").
+specgene("LMD-9","singl1624","Unknow").
+specgene("LMD-9","singl1625","Unknow").
+specgene("LMD-9","singl1626","Unknow").
+specgene("LMD-9","singl1627","Unknow").
+specgene("LMD-9","singl1628","Unknow").
+specgene("LMD-9","singl1629","Unknow").
+specgene("LMD-9","singl1630","Unknow").
+specgene("LMD-9","singl1631","Unknow").
+specgene("LMD-9","singl1632","Unknow").
+specgene("LMD-9","singl1633","Unknow").
+specgene("LMD-9","singl1634","Unknow").
+specgene("LMG 18311","singl1635","Unknow").
+specgene("LMG 18311","singl1636","Unknow").
+specgene("LMG 18311","singl1637","Unknow").
+specgene("LMG 18311","singl1638","Unknow").
+specgene("LMG 18311","singl1639","Unknow").
+specgene("LMG 18311","singl1640","Unknow").
+specgene("LMG 18311","singl1641","Unknow").
+specgene("LMG 18311","singl1642","Unknow").
+specgene("LMG 18311","singl1643","Unknow").
+specgene("LMG 18311","singl1644","Unknow").
+specgene("LMG 18311","singl1645","Unknow").
+specgene("LMG 18311","singl1646","Unknow").
+specgene("LMG 18311","singl1647","Unknow").
+specgene("LMG 18311","singl1648","Unknow").
+specgene("LMG 18311","singl1649","Unknow").
+specgene("LMG 18311","singl1650","Unknow").
+specgene("LMG S-29186","singl1651","Unknow").
+specgene("LMG S-29186","singl1652","Unknow").
+specgene("LMG S-29186","singl1653","Unknow").
+specgene("LMG S-29186","singl1654","Unknow").
+specgene("LMG S-29186","singl1655","Unknow").
+specgene("LMG S-29186","singl1656","Unknow").
+specgene("M17PTZA496","singl1657","Unknow").
+specgene("M17PTZA496","singl1658","Unknow").
+specgene("M17PTZA496","singl1659","Unknow").
+specgene("M17PTZA496","singl1660","Unknow").
+specgene("M17PTZA496","singl1661","Unknow").
+specgene("M17PTZA496","singl1662","Unknow").
+specgene("M17PTZA496","singl1663","Unknow").
+specgene("M17PTZA496","singl1664","Unknow").
+specgene("M17PTZA496","singl1665","Unknow").
+specgene("M17PTZA496","singl1666","Unknow").
+specgene("M17PTZA496","singl1667","Unknow").
+specgene("M17PTZA496","singl1668","Unknow").
+specgene("M17PTZA496","singl1669","Unknow").
+specgene("M17PTZA496","singl1670","Unknow").
+specgene("M17PTZA496","singl1671","Unknow").
+specgene("M17PTZA496","singl1672","Unknow").
+specgene("M17PTZA496","singl1673","Unknow").
+specgene("M17PTZA496","singl1674","Unknow").
+specgene("M17PTZA496","singl1675","Unknow").
+specgene("M17PTZA496","singl1676","Unknow").
+specgene("M17PTZA496","singl1677","Unknow").
+specgene("M17PTZA496","singl1678","Unknow").
+specgene("M17PTZA496","singl1679","Unknow").
+specgene("M17PTZA496","singl1680","Unknow").
+specgene("M17PTZA496","singl1681","Unknow").
+specgene("M17PTZA496","singl1682","Unknow").
+specgene("M17PTZA496","singl1683","Unknow").
+specgene("M17PTZA496","singl1684","Unknow").
+specgene("M17PTZA496","singl1685","Unknow").
+specgene("M17PTZA496","singl1686","Unknow").
+specgene("M17PTZA496","singl1687","Unknow").
+specgene("M17PTZA496","singl1688","Unknow").
+specgene("M17PTZA496","singl1689","Unknow").
+specgene("M17PTZA496","singl1690","Unknow").
+specgene("M17PTZA496","singl1691","Unknow").
+specgene("M17PTZA496","singl1692","Unknow").
+specgene("M17PTZA496","singl1693","Unknow").
+specgene("M17PTZA496","singl1694","Unknow").
+specgene("M17PTZA496","singl1695","Unknow").
+specgene("M17PTZA496","singl1696","Unknow").
+specgene("M17PTZA496","singl1697","Unknow").
+specgene("M17PTZA496","singl1698","Unknow").
+specgene("M17PTZA496","singl1699","Unknow").
+specgene("M17PTZA496","singl1700","Unknow").
+specgene("M17PTZA496","singl1701","Unknow").
+specgene("M17PTZA496","singl1702","Unknow").
+specgene("M17PTZA496","singl1703","Unknow").
+specgene("M17PTZA496","singl1704","Unknow").
+specgene("M17PTZA496","singl1705","Unknow").
+specgene("M17PTZA496","singl1706","Unknow").
+specgene("M17PTZA496","singl1707","Unknow").
+specgene("M17PTZA496","singl1708","Unknow").
+specgene("M17PTZA496","singl1709","Unknow").
+specgene("M17PTZA496","singl1710","Unknow").
+specgene("M17PTZA496","singl1711","Unknow").
+specgene("M17PTZA496","singl1712","Unknow").
+specgene("M17PTZA496","singl1713","Unknow").
+specgene("M17PTZA496","singl1714","Unknow").
+specgene("M17PTZA496","singl1715","Unknow").
+specgene("M17PTZA496","singl1716","Unknow").
+specgene("M17PTZA496","singl1717","Unknow").
+specgene("M17PTZA496","singl1718","Unknow").
+specgene("M17PTZA496","singl1719","Unknow").
+specgene("M17PTZA496","singl1720","Unknow").
+specgene("M17PTZA496","singl1721","Unknow").
+specgene("M17PTZA496","singl1722","Unknow").
+specgene("M17PTZA496","singl1723","Unknow").
+specgene("M17PTZA496","singl1724","Unknow").
+specgene("M17PTZA496","singl1725","Unknow").
+specgene("M17PTZA496","singl1726","Unknow").
+specgene("M17PTZA496","singl1727","Unknow").
+specgene("M17PTZA496","singl1728","Unknow").
+specgene("M17PTZA496","singl1729","Unknow").
+specgene("M17PTZA496","singl1730","Unknow").
+specgene("M17PTZA496","singl1731","Unknow").
+specgene("M17PTZA496","singl1732","Unknow").
+specgene("M17PTZA496","singl1733","Unknow").
+specgene("M17PTZA496","singl1734","Unknow").
+specgene("M17PTZA496","singl1735","Unknow").
+specgene("M17PTZA496","singl1736","Unknow").
+specgene("M17PTZA496","singl1737","Unknow").
+specgene("M17PTZA496","singl1738","Unknow").
+specgene("M17PTZA496","singl1739","Unknow").
+specgene("M17PTZA496","singl1740","Unknow").
+specgene("M17PTZA496","singl1741","Unknow").
+specgene("M17PTZA496","singl1742","Unknow").
+specgene("M17PTZA496","singl1743","Unknow").
+specgene("M17PTZA496","singl1744","Unknow").
+specgene("M17PTZA496","singl1745","Unknow").
+specgene("M17PTZA496","singl1746","Unknow").
+specgene("M17PTZA496","singl1747","Unknow").
+specgene("M17PTZA496","singl1748","Unknow").
+specgene("M17PTZA496","singl1749","Unknow").
+specgene("M17PTZA496","singl1750","Unknow").
+specgene("M17PTZA496","singl1751","Unknow").
+specgene("M17PTZA496","singl1752","Unknow").
+specgene("M17PTZA496","singl1753","Unknow").
+specgene("M17PTZA496","singl1754","Unknow").
+specgene("M17PTZA496","singl1755","Unknow").
+specgene("M17PTZA496","singl1756","Unknow").
+specgene("M17PTZA496","singl1757","Unknow").
+specgene("M17PTZA496","singl1758","Unknow").
+specgene("M17PTZA496","singl1759","Unknow").
+specgene("M17PTZA496","singl1760","Unknow").
+specgene("M17PTZA496","singl1761","Unknow").
+specgene("M17PTZA496","singl1762","Unknow").
+specgene("M17PTZA496","singl1763","Unknow").
+specgene("M17PTZA496","singl1764","Unknow").
+specgene("MN-BM-A01","singl1765","Unknow").
+specgene("MN-BM-A01","singl1766","Unknow").
+specgene("MN-BM-A01","singl1767","Unknow").
+specgene("MN-BM-A01","singl1768","Unknow").
+specgene("MN-BM-A01","singl1769","Unknow").
+specgene("MN-BM-A01","singl1770","Unknow").
+specgene("MN-BM-A01","singl1771","Unknow").
+specgene("MN-BM-A01","singl1772","Unknow").
+specgene("MN-BM-A01","singl1773","Unknow").
+specgene("MN-BM-A01","singl1774","Unknow").
+specgene("MN-BM-A01","singl1775","Unknow").
+specgene("MN-BM-A01","singl1776","Unknow").
+specgene("MN-BM-A01","singl1777","Unknow").
+specgene("MN-BM-A01","singl1778","Unknow").
+specgene("MN-BM-A01","singl1779","Unknow").
+specgene("MN-BM-A01","singl1780","Unknow").
+specgene("MN-BM-A01","singl1781","Unknow").
+specgene("MN-BM-A01","singl1782","Unknow").
+specgene("MN-BM-A01","singl1783","Unknow").
+specgene("MN-BM-A01","singl1784","Unknow").
+specgene("MN-BM-A01","singl1785","Unknow").
+specgene("MN-BM-A01","singl1786","Unknow").
+specgene("MN-BM-A01","singl1787","groEL").
+specgene("MN-BM-A01","singl1788","groEL").
+specgene("MN-BM-A01","singl1789","groEL").
+specgene("MN-BM-A01","singl1790","groEL").
+specgene("MN-BM-A01","singl1791","Unknow").
+specgene("MN-BM-A01","singl1792","Unknow").
+specgene("MN-BM-A01","singl1793","Unknow").
+specgene("MN-BM-A01","singl1794","dnaE").
+specgene("MN-BM-A01","singl1795","Unknow").
+specgene("MN-BM-A01","singl1796","Unknow").
+specgene("MN-BM-A01","singl1797","Unknow").
+specgene("MN-BM-A01","singl1798","Unknow").
+specgene("MN-BM-A01","singl1799","Unknow").
+specgene("MN-BM-A01","singl1800","Unknow").
+specgene("MN-BM-A02","singl1801","Unknow").
+specgene("MN-BM-A02","singl1802","Unknow").
+specgene("MN-BM-A02","singl1803","Unknow").
+specgene("MN-BM-A02","singl1804","rnpA").
+specgene("MN-BM-A02","singl1805","Unknow").
+specgene("MN-ZLW-002","singl1806","Unknow").
+specgene("MN-ZLW-002","singl1807","Unknow").
+specgene("MN-ZLW-002","singl1808","Unknow").
+specgene("MN-ZLW-002","singl1809","Unknow").
+specgene("MN-ZLW-002","singl1810","Unknow").
+specgene("MN-ZLW-002","singl1811","Unknow").
+specgene("MN-ZLW-002","singl1812","Unknow").
+specgene("MN-ZLW-002","singl1813","Unknow").
+specgene("MTCC 5460","singl1814","Unknow").
+specgene("MTCC 5460","singl1815","Unknow").
+specgene("MTCC 5460","singl1816","Unknow").
+specgene("MTCC 5460","singl1817","Unknow").
+specgene("MTCC 5460","singl1818","Unknow").
+specgene("MTCC 5460","singl1819","queA").
+specgene("MTCC 5460","singl1820","ybgF").
+specgene("MTCC 5460","singl1821","Unknow").
+specgene("MTCC 5460","singl1822","Unknow").
+specgene("MTCC 5460","singl1823","Unknow").
+specgene("MTCC 5460","singl1824","Unknow").
+specgene("MTCC 5460","singl1825","Unknow").
+specgene("MTCC 5460","singl1826","Unknow").
+specgene("MTCC 5460","singl1827","Unknow").
+specgene("MTCC 5460","singl1828","Unknow").
+specgene("MTCC 5460","singl1829","Unknow").
+specgene("MTCC 5460","singl1830","Unknow").
+specgene("MTCC 5460","singl1831","Unknow").
+specgene("MTCC 5460","singl1832","Unknow").
+specgene("MTCC 5460","singl1833","Unknow").
+specgene("MTCC 5460","singl1834","Unknow").
+specgene("MTCC 5460","singl1835","Unknow").
+specgene("MTCC 5460","singl1836","yehX").
+specgene("MTCC 5460","singl1837","yehX").
+specgene("MTCC 5460","singl1838","pbuX").
+specgene("MTCC 5460","singl1839","pucK").
+specgene("MTCC 5460","singl1840","pbuX").
+specgene("MTCC 5460","singl1841","Unknow").
+specgene("MTCC 5460","singl1842","Unknow").
+specgene("MTCC 5460","singl1843","Unknow").
+specgene("MTCC 5460","singl1844","Unknow").
+specgene("MTCC 5460","singl1845","yfdH").
+specgene("MTCC 5460","singl1846","addA").
+specgene("MTCC 5460","singl1847","Unknow").
+specgene("MTCC 5461","singl1848","Unknow").
+specgene("MTCC 5461","singl1849","Unknow").
+specgene("MTCC 5461","singl1850","Unknow").
+specgene("MTCC 5461","singl1851","Unknow").
+specgene("MTCC 5461","singl1852","Unknow").
+specgene("MTCC 5461","singl1853","Unknow").
+specgene("MTCC 5461","singl1854","Unknow").
+specgene("MTCC 5461","singl1855","Unknow").
+specgene("MTCC 5461","singl1856","Unknow").
+specgene("MTCC 5461","singl1857","Unknow").
+specgene("MTCC 5461","singl1858","Unknow").
+specgene("MTCC 5461","singl1859","Unknow").
+specgene("MTCC 5461","singl1860","Unknow").
+specgene("MTCC 5461","singl1861","Unknow").
+specgene("MTCC 5461","singl1862","Unknow").
+specgene("MTCC 5461","singl1863","pbuX").
+specgene("MTCC 5461","singl1864","Unknow").
+specgene("MTCC 5461","singl1865","Unknow").
+specgene("MTCC 5461","singl1866","Unknow").
+specgene("MTCC 5461","singl1867","Unknow").
+specgene("MTCC 5461","singl1868","Unknow").
+specgene("MTCC 5461","singl1869","Unknow").
+specgene("MTCC 5461","singl1870","Unknow").
+specgene("MTCC 5461","singl1871","Unknow").
+specgene("MTCC 5461","singl1872","Unknow").
+specgene("MTCC 5461","singl1873","Unknow").
+specgene("MTCC 5461","singl1874","Unknow").
+specgene("MTH17CL396","singl1875","Unknow").
+specgene("MTH17CL396","singl1876","Unknow").
+specgene("MTH17CL396","singl1877","Unknow").
+specgene("MTH17CL396","singl1878","Unknow").
+specgene("MTH17CL396","singl1879","Unknow").
+specgene("MTH17CL396","singl1880","Unknow").
+specgene("MTH17CL396","singl1881","Unknow").
+specgene("MTH17CL396","singl1882","Unknow").
+specgene("MTH17CL396","singl1883","Unknow").
+specgene("MTH17CL396","singl1884","Unknow").
+specgene("MTH17CL396","singl1885","Unknow").
+specgene("MTH17CL396","singl1886","Unknow").
+specgene("MTH17CL396","singl1887","Unknow").
+specgene("MTH17CL396","singl1888","Unknow").
+specgene("MTH17CL396","singl1889","Unknow").
+specgene("MTH17CL396","singl1890","Unknow").
+specgene("MTH17CL396","singl1891","Unknow").
+specgene("MTH17CL396","singl1892","Unknow").
+specgene("MTH17CL396","singl1893","Unknow").
+specgene("MTH17CL396","singl1894","Unknow").
+specgene("MTH17CL396","singl1895","Unknow").
+specgene("MTH17CL396","singl1896","Unknow").
+specgene("MTH17CL396","singl1897","Unknow").
+specgene("MTH17CL396","singl1898","Unknow").
+specgene("MTH17CL396","singl1899","Unknow").
+specgene("MTH17CL396","singl1900","Unknow").
+specgene("MTH17CL396","singl1901","Unknow").
+specgene("MTH17CL396","singl1902","Unknow").
+specgene("MTH17CL396","singl1903","Unknow").
+specgene("MTH17CL396","singl1904","Unknow").
+specgene("MTH17CL396","singl1905","Unknow").
+specgene("MTH17CL396","singl1906","Unknow").
+specgene("MTH17CL396","singl1907","Unknow").
+specgene("MTH17CL396","singl1908","Unknow").
+specgene("MTH17CL396","singl1909","Unknow").
+specgene("MTH17CL396","singl1910","Unknow").
+specgene("MTH17CL396","singl1911","Unknow").
+specgene("MTH17CL396","singl1912","Unknow").
+specgene("MTH17CL396","singl1913","Unknow").
+specgene("MTH17CL396","singl1914","Unknow").
+specgene("MTH17CL396","singl1915","Unknow").
+specgene("MTH17CL396","singl1916","Unknow").
+specgene("MTH17CL396","singl1917","Unknow").
+specgene("MTH17CL396","singl1918","Unknow").
+specgene("MTH17CL396","singl1919","Unknow").
+specgene("MTH17CL396","singl1920","Unknow").
+specgene("MTH17CL396","singl1921","Unknow").
+specgene("MTH17CL396","singl1922","Unknow").
+specgene("N4L","singl1923","Unknow").
+specgene("N4L","singl1924","Unknow").
+specgene("N4L","singl1925","Unknow").
+specgene("N4L","singl1926","Unknow").
+specgene("N4L","singl1927","Unknow").
+specgene("N4L","singl1928","Unknow").
+specgene("N4L","singl1929","Unknow").
+specgene("N4L","singl1930","Unknow").
+specgene("N4L","singl1931","Unknow").
+specgene("N4L","singl1932","Unknow").
+specgene("N4L","singl1933","Unknow").
+specgene("N4L","singl1934","Unknow").
+specgene("N4L","singl1935","Unknow").
+specgene("N4L","singl1936","Unknow").
+specgene("N4L","singl1937","Unknow").
+specgene("N4L","singl1938","Unknow").
+specgene("N4L","singl1939","Unknow").
+specgene("N4L","singl1940","Unknow").
+specgene("N4L","singl1941","Unknow").
+specgene("N4L","singl1942","Unknow").
+specgene("N4L","singl1943","Unknow").
+specgene("N4L","singl1944","Unknow").
+specgene("N4L","singl1945","Unknow").
+specgene("N4L","singl1946","Unknow").
+specgene("N4L","singl1947","Unknow").
+specgene("N4L","singl1948","Unknow").
+specgene("N4L","singl1949","Unknow").
+specgene("N4L","singl1950","Unknow").
+specgene("N4L","singl1951","Unknow").
+specgene("N4L","singl1952","Unknow").
+specgene("N4L","singl1953","Unknow").
+specgene("N4L","singl1954","Unknow").
+specgene("N4L","singl1955","Unknow").
+specgene("N4L","singl1956","Unknow").
+specgene("N4L","singl1957","Unknow").
+specgene("N4L","singl1958","Unknow").
+specgene("N4L","singl1959","Unknow").
+specgene("N4L","singl1960","Unknow").
+specgene("N4L","singl1961","Unknow").
+specgene("N4L","singl1962","Unknow").
+specgene("N4L","singl1963","Unknow").
+specgene("N4L","singl1964","Unknow").
+specgene("N4L","singl1965","Unknow").
+specgene("N4L","singl1966","Unknow").
+specgene("N4L","singl1967","Unknow").
+specgene("N4L","singl1968","Unknow").
+specgene("N4L","singl1969","Unknow").
+specgene("N4L","singl1970","Unknow").
+specgene("N4L","singl1971","hsdS").
+specgene("N4L","singl1972","Unknow").
+specgene("N4L","singl1973","Unknow").
+specgene("N4L","singl1974","Unknow").
+specgene("N4L","singl1975","Unknow").
+specgene("N4L","singl1976","bspRIM").
+specgene("N4L","singl1977","Unknow").
+specgene("N4L","singl1978","Unknow").
+specgene("N4L","singl1979","Unknow").
+specgene("N4L","singl1980","Unknow").
+specgene("N4L","singl1981","Unknow").
+specgene("N4L","singl1982","Unknow").
+specgene("N4L","singl1983","Unknow").
+specgene("N4L","singl1984","Unknow").
+specgene("N4L","singl1985","Unknow").
+specgene("N4L","singl1986","Unknow").
+specgene("N4L","singl1987","Unknow").
+specgene("N4L","singl1988","Unknow").
+specgene("N4L","singl1989","Unknow").
+specgene("N4L","singl1990","Unknow").
+specgene("N4L","singl1991","hsdS").
+specgene("N4L","singl1992","Unknow").
+specgene("N4L","singl1993","Unknow").
+specgene("N4L","singl1994","Unknow").
+specgene("N4L","singl1995","Unknow").
+specgene("N4L","singl1996","Unknow").
+specgene("N4L","singl1997","Unknow").
+specgene("N4L","singl1998","Unknow").
+specgene("N4L","singl1999","Unknow").
+specgene("N4L","singl2000","Unknow").
+specgene("N4L","singl2001","Unknow").
+specgene("N4L","singl2002","Unknow").
+specgene("N4L","singl2003","Unknow").
+specgene("N4L","singl2004","Unknow").
+specgene("N4L","singl2005","Unknow").
+specgene("N4L","singl2006","Unknow").
+specgene("N4L","singl2007","htrA").
+specgene("N4L","singl2008","Unknow").
+specgene("N4L","singl2009","Unknow").
+specgene("N4L","singl2010","Unknow").
+specgene("N4L","singl2011","arp1").
+specgene("N4L","singl2012","Unknow").
+specgene("N4L","singl2013","Unknow").
+specgene("N4L","singl2014","Unknow").
+specgene("N4L","singl2015","Unknow").
+specgene("N4L","singl2016","Unknow").
+specgene("N4L","singl2017","Unknow").
+specgene("N4L","singl2018","Unknow").
+specgene("N4L","singl2019","Unknow").
+specgene("N4L","singl2020","Unknow").
+specgene("N4L","singl2021","Unknow").
+specgene("N4L","singl2022","Unknow").
+specgene("N4L","singl2023","Unknow").
+specgene("N4L","singl2024","Unknow").
+specgene("N4L","singl2025","Unknow").
+specgene("N4L","singl2026","Unknow").
+specgene("N4L","singl2027","Unknow").
+specgene("N4L","singl2028","Unknow").
+specgene("N4L","singl2029","Unknow").
+specgene("N4L","singl2030","Unknow").
+specgene("N4L","singl2031","Unknow").
+specgene("N4L","singl2032","Unknow").
+specgene("N4L","singl2033","Unknow").
+specgene("N4L","singl2034","Unknow").
+specgene("N4L","singl2035","Unknow").
+specgene("N4L","singl2036","SHP?").
+specgene("N4L","singl2037","Unknow").
+specgene("N4L","singl2038","Unknow").
+specgene("NCTC12958","singl2039","Unknow").
+specgene("NCTC12958","singl2040","Unknow").
+specgene("NCTC12958","singl2041","Unknow").
+specgene("NCTC12958","singl2042","Unknow").
+specgene("NCTC12958","singl2043","Unknow").
+specgene("NCTC12958","singl2044","Unknow").
+specgene("NCTC12958","singl2045","Unknow").
+specgene("NCTC12958","singl2046","Unknow").
+specgene("NCTC12958","singl2047","Unknow").
+specgene("NCTC12958","singl2048","Unknow").
+specgene("NCTC12958","singl2049","Unknow").
+specgene("NCTC12958","singl2050","Unknow").
+specgene("NCTC12958","singl2051","Unknow").
+specgene("NCTC12958","singl2052","Unknow").
+specgene("NCTC12958","singl2053","Unknow").
+specgene("NCTC12958","singl2054","Unknow").
+specgene("NCTC12958","singl2055","Unknow").
+specgene("NCTC12958","singl2056","Unknow").
+specgene("ND03","singl2057","Unknow").
+specgene("ND03","singl2058","Unknow").
+specgene("ND03","singl2059","Unknow").
+specgene("ND03","singl2060","Unknow").
+specgene("ND07","singl2061","Unknow").
+specgene("ND07","singl2062","Unknow").
+specgene("ND07","singl2063","Unknow").
+specgene("ND07","singl2064","Unknow").
+specgene("ND07","singl2065","Unknow").
+specgene("ND07","singl2066","Unknow").
+specgene("PB385","singl2067","Unknow").
+specgene("PB385","singl2068","Unknow").
+specgene("PB385","singl2069","Unknow").
+specgene("PB385","singl2070","Unknow").
+specgene("S1N","singl2071","xseA").
+specgene("S1N","singl2072","Unknow").
+specgene("S1N","singl2073","Unknow").
+specgene("S1N","singl2074","Unknow").
+specgene("S1N","singl2075","Unknow").
+specgene("S1N","singl2076","aspS").
+specgene("S1N","singl2077","Unknow").
+specgene("S1N","singl2078","aspS").
+specgene("S1N","singl2079","Unknow").
+specgene("S1N","singl2080","Unknow").
+specgene("S1N","singl2081","hisS").
+specgene("S1N","singl2082","hisS").
+specgene("S1N","singl2083","Unknow").
+specgene("S1N","singl2084","Unknow").
+specgene("S1N","singl2085","Unknow").
+specgene("S1N","singl2086","Unknow").
+specgene("S1N","singl2087","parC").
+specgene("S1N","singl2088","Unknow").
+specgene("S1N","singl2089","ypsA").
+specgene("S1N","singl2090","dnaJ").
+specgene("S1N","singl2091","dnaJ").
+specgene("S1N","singl2092","Unknow").
+specgene("S1N","singl2093","Unknow").
+specgene("S1N","singl2094","Unknow").
+specgene("S1N","singl2095","Unknow").
+specgene("S1N","singl2096","ugd").
+specgene("S1N","singl2097","ugd").
+specgene("S1N","singl2098","Unknow").
+specgene("S1N","singl2099","Unknow").
+specgene("S1N","singl2100","Unknow").
+specgene("S1N","singl2101","Unknow").
+specgene("S1N","singl2102","Unknow").
+specgene("S1N","singl2103","Unknow").
+specgene("S1N","singl2104","Unknow").
+specgene("S1N","singl2105","Unknow").
+specgene("S1N","singl2106","Unknow").
+specgene("S1N","singl2107","Unknow").
+specgene("S1N","singl2108","Unknow").
+specgene("S1N","singl2109","Unknow").
+specgene("S1N","singl2110","Unknow").
+specgene("S1N","singl2111","Unknow").
+specgene("S1N","singl2112","Unknow").
+specgene("S1N","singl2113","Unknow").
+specgene("S1N","singl2114","Unknow").
+specgene("S1N","singl2115","Unknow").
+specgene("S1N","singl2116","Unknow").
+specgene("S1N","singl2117","Unknow").
+specgene("S1N","singl2118","Unknow").
+specgene("S1N","singl2119","Unknow").
+specgene("S1N","singl2120","Unknow").
+specgene("S1N","singl2121","aspS").
+specgene("S1N","singl2122","Unknow").
+specgene("S1N","singl2123","Unknow").
+specgene("S1N","singl2124","Unknow").
+specgene("S1N","singl2125","Unknow").
+specgene("S1N","singl2126","Unknow").
+specgene("S1N","singl2127","Unknow").
+specgene("S1N","singl2128","Unknow").
+specgene("S1N","singl2129","Unknow").
+specgene("S1N","singl2130","Unknow").
+specgene("S1N","singl2131","Unknow").
+specgene("S1N","singl2132","Unknow").
+specgene("S1N","singl2133","Unknow").
+specgene("S1N","singl2134","dnaJ").
+specgene("S1N","singl2135","dnaJ").
+specgene("S1N","singl2136","Unknow").
+specgene("S1N","singl2137","Unknow").
+specgene("S2N_ST20","singl2138","Unknow").
+specgene("S2N_ST20","singl2139","Unknow").
+specgene("S2N_ST20","singl2140","Unknow").
+specgene("S2N_ST20","singl2141","Unknow").
+specgene("S2N_ST20","singl2142","Unknow").
+specgene("S2N_ST20","singl2143","Unknow").
+specgene("S2N_ST20","singl2144","Unknow").
+specgene("S2N_ST20","singl2145","Unknow").
+specgene("S2N_ST20","singl2146","alaS").
+specgene("S2N_ST20","singl2147","Unknow").
+specgene("S2N_ST20","singl2148","Unknow").
+specgene("S2N_ST20","singl2149","Unknow").
+specgene("S2N_ST20","singl2150","Unknow").
+specgene("S2N_ST20","singl2151","Unknow").
+specgene("S2N_ST20","singl2152","sndA").
+specgene("S2N_ST20","singl2153","Unknow").
+specgene("S2N_ST20","singl2154","Unknow").
+specgene("S2N_ST20","singl2155","Unknow").
+specgene("S2N_ST20","singl2156","Unknow").
+specgene("S2N_ST20","singl2157","rlmI").
+specgene("S2N_ST20","singl2158","rlmI").
+specgene("S2N_ST20","singl2159","rlmI").
+specgene("S2N_ST20","singl2160","Unknow").
+specgene("S2N_ST20","singl2161","Unknow").
+specgene("S2N_ST20","singl2162","ycgR").
+specgene("S2N_ST20","singl2163","Unknow").
+specgene("S2N_ST20","singl2164","Unknow").
+specgene("S2N_ST20","singl2165","Unknow").
+specgene("S2N_ST20","singl2166","Unknow").
+specgene("S2N_ST20","singl2167","Unknow").
+specgene("S2N_ST20","singl2168","Unknow").
+specgene("S2N_ST20","singl2169","Unknow").
+specgene("S2N_ST20","singl2170","Unknow").
+specgene("S2N_ST20","singl2171","Unknow").
+specgene("S2N_ST20","singl2172","Unknow").
+specgene("S2N_ST20","singl2173","Unknow").
+specgene("S2N_ST20","singl2174","Unknow").
+specgene("S2N_ST20","singl2175","citZ").
+specgene("S2N_ST20","singl2176","mtrA").
+specgene("S2N_ST20","singl2177","Unknow").
+specgene("S2N_ST20","singl2178","Unknow").
+specgene("S2N_ST20","singl2179","pgoN").
+specgene("S2N_ST20","singl2180","galK").
+specgene("S2N_ST20","singl2181","galK").
+specgene("S2N_ST20","singl2182","Unknow").
+specgene("S2N_ST20","singl2183","Unknow").
+specgene("S2N_ST20","singl2184","bmrC").
+specgene("S2N_ST20","singl2185","Unknow").
+specgene("S2N_ST20","singl2186","yeeD").
+specgene("S2N_ST20","singl2187","Unknow").
+specgene("S7N","singl2188","Unknow").
+specgene("S7N","singl2189","dayD").
+specgene("S7N","singl2190","Unknow").
+specgene("S9","singl2191","Unknow").
+specgene("S9","singl2192","Unknow").
+specgene("S9","singl2193","Unknow").
+specgene("SMQ-301","singl2194","Unknow").
+specgene("SMQ-301","singl2195","Unknow").
+specgene("SMQ-301","singl2196","Unknow").
+specgene("SMQ-301","singl2197","Unknow").
+specgene("SMQ-301","singl2198","Unknow").
+specgene("SMQ-301","singl2199","Unknow").
+specgene("SMQ-301","singl2200","Unknow").
+specgene("ST106","singl2201","Unknow").
+specgene("ST106","singl2202","Unknow").
+specgene("ST106","singl2203","Unknow").
+specgene("ST106","singl2204","Unknow").
+specgene("ST106","singl2205","Unknow").
+specgene("ST106","singl2206","Unknow").
+specgene("ST106","singl2207","Unknow").
+specgene("ST106","singl2208","Unknow").
+specgene("ST106","singl2209","Unknow").
+specgene("ST106","singl2210","Unknow").
+specgene("ST106","singl2211","Unknow").
+specgene("ST106","singl2212","dnaA").
+specgene("ST106","singl2213","mfd").
+specgene("ST106","singl2214","Unknow").
+specgene("ST106","singl2215","Unknow").
+specgene("ST106","singl2216","Unknow").
+specgene("ST106","singl2217","Unknow").
+specgene("ST106","singl2218","Unknow").
+specgene("ST106","singl2219","Unknow").
+specgene("ST106","singl2220","Unknow").
+specgene("ST106","singl2221","Unknow").
+specgene("ST106","singl2222","Unknow").
+specgene("ST106","singl2223","Unknow").
+specgene("ST106","singl2224","Unknow").
+specgene("ST106","singl2225","Unknow").
+specgene("ST106","singl2226","Unknow").
+specgene("ST106","singl2227","Unknow").
+specgene("ST106","singl2228","Unknow").
+specgene("ST106","singl2229","Unknow").
+specgene("ST106","singl2230","sdaAA").
+specgene("ST106","singl2231","Unknow").
+specgene("ST106","singl2232","Unknow").
+specgene("ST106","singl2233","Unknow").
+specgene("ST106","singl2234","Unknow").
+specgene("ST106","singl2235","thiT").
+specgene("ST106","singl2236","Unknow").
+specgene("ST106","singl2237","Unknow").
+specgene("ST106","singl2238","Unknow").
+specgene("ST106","singl2239","Unknow").
+specgene("ST106","singl2240","lspA").
+specgene("ST106","singl2241","Unknow").
+specgene("ST106","singl2242","Unknow").
+specgene("ST106","singl2243","Unknow").
+specgene("ST106","singl2244","recA").
+specgene("ST106","singl2245","Unknow").
+specgene("ST106","singl2246","Unknow").
+specgene("ST106","singl2247","Unknow").
+specgene("ST106","singl2248","Unknow").
+specgene("ST106","singl2249","Unknow").
+specgene("ST106","singl2250","Unknow").
+specgene("ST106","singl2251","Unknow").
+specgene("ST106","singl2252","Unknow").
+specgene("ST106","singl2253","Unknow").
+specgene("ST106","singl2254","Unknow").
+specgene("ST106","singl2255","Unknow").
+specgene("ST106","singl2256","Unknow").
+specgene("ST106","singl2257","lspA").
+specgene("ST106","singl2258","Unknow").
+specgene("ST109","singl2259","Unknow").
+specgene("ST109","singl2260","Unknow").
+specgene("ST109","singl2261","Unknow").
+specgene("ST109","singl2262","Unknow").
+specgene("ST109","singl2263","mfd").
+specgene("ST109","singl2264","Unknow").
+specgene("ST109","singl2265","Unknow").
+specgene("ST109","singl2266","Unknow").
+specgene("ST109","singl2267","Unknow").
+specgene("ST109","singl2268","Unknow").
+specgene("ST109","singl2269","Unknow").
+specgene("ST109","singl2270","Unknow").
+specgene("ST109","singl2271","Unknow").
+specgene("ST109","singl2272","mprF").
+specgene("ST109","singl2273","Unknow").
+specgene("ST109","singl2274","Unknow").
+specgene("ST109","singl2275","deoC").
+specgene("ST109","singl2276","Unknow").
+specgene("ST3","singl2277","Unknow").
+specgene("ST3","singl2278","Unknow").
+specgene("ST3","singl2279","Unknow").
+specgene("ST3","singl2280","Unknow").
+specgene("ST3","singl2281","cpdB").
+specgene("ST3","singl2282","Unknow").
+specgene("ST3","singl2283","Unknow").
+specgene("ST3","singl2284","Unknow").
+specgene("ST3","singl2285","Unknow").
+specgene("ST3","singl2286","Unknow").
+specgene("ST3","singl2287","Unknow").
+specgene("ST3","singl2288","Unknow").
+specgene("ST3","singl2289","Unknow").
+specgene("ST3","singl2290","Unknow").
+specgene("TH1435","singl2291","Unknow").
+specgene("TH1435","singl2292","Unknow").
+specgene("TH1435","singl2293","Unknow").
+specgene("TH1435","singl2294","Unknow").
+specgene("TH1435","singl2295","Unknow").
+specgene("TH1435","singl2296","Unknow").
+specgene("TH1435","singl2297","Unknow").
+specgene("TH1435","singl2298","Unknow").
+specgene("TH1435","singl2299","Unknow").
+specgene("TH1435","singl2300","Unknow").
+specgene("TH1435","singl2301","Unknow").
+specgene("TH1435","singl2302","Unknow").
+specgene("TH1435","singl2303","Unknow").
+specgene("TH1435","singl2304","Unknow").
+specgene("TH1435","singl2305","Unknow").
+specgene("TH1435","singl2306","Unknow").
+specgene("TH1435","singl2307","Unknow").
+specgene("TH1435","singl2308","Unknow").
+specgene("TH1435","singl2309","Unknow").
+specgene("TH1435","singl2310","Unknow").
+specgene("TH1435","singl2311","Unknow").
+specgene("TH1435","singl2312","Unknow").
+specgene("TH1435","singl2313","Unknow").
+specgene("TH1435","singl2314","Unknow").
+specgene("TH1435","singl2315","Unknow").
+specgene("TH1436","singl2316","Unknow").
+specgene("TH1436","singl2317","Unknow").
+specgene("TH1436","singl2318","Unknow").
+specgene("TH1436","singl2319","Unknow").
+specgene("TH1436","singl2320","Unknow").
+specgene("TH1436","singl2321","Unknow").
+specgene("TH1436","singl2322","Unknow").
+specgene("TH1436","singl2323","Unknow").
+specgene("TH1436","singl2324","Unknow").
+specgene("TH1436","singl2325","Unknow").
+specgene("TH1436","singl2326","Unknow").
+specgene("TH1436","singl2327","Unknow").
+specgene("TH1436","singl2328","Unknow").
+specgene("TH1436","singl2329","Unknow").
+specgene("TH1436","singl2330","Unknow").
+specgene("TH1436","singl2331","Unknow").
+specgene("TH1436","singl2332","Unknow").
+specgene("TH1436","singl2333","Unknow").
+specgene("TH1436","singl2334","Unknow").
+specgene("TH1436","singl2335","Unknow").
+specgene("TH1436","singl2336","Unknow").
+specgene("TH1436","singl2337","Unknow").
+specgene("TH1477","singl2338","Unknow").
+specgene("TH1477","singl2339","Unknow").
+specgene("TH1477","singl2340","Unknow").
+specgene("TH1477","singl2341","Unknow").
+specgene("TH1477","singl2342","Unknow").
+specgene("TH1477","singl2343","Unknow").
+specgene("TH1477","singl2344","Unknow").
+specgene("TH1477","singl2345","Unknow").
+specgene("TH1477","singl2346","Unknow").
+specgene("TH1477","singl2347","Unknow").
+specgene("TH1477","singl2348","Unknow").
+specgene("TH1477","singl2349","Unknow").
+specgene("TH1477","singl2350","Unknow").
+specgene("TH1477","singl2351","Unknow").
+specgene("TH1477","singl2352","Unknow").
+specgene("TH1477","singl2353","Unknow").
+specgene("TH1477","singl2354","Unknow").
+specgene("TH1477","singl2355","Unknow").
+specgene("TH1477","singl2356","Unknow").
+specgene("TH1477","singl2357","Unknow").
+specgene("TH1477","singl2358","Unknow").
+specgene("TH1477","singl2359","Unknow").
+specgene("TH1477","singl2360","Unknow").
+specgene("TH1477","singl2361","Unknow").
+specgene("TH1477","singl2362","Unknow").
+specgene("TH1477","singl2363","Unknow").
+specgene("TH1477","singl2364","Unknow").
+specgene("TH1477","singl2365","Unknow").
+specgene("TH1477","singl2366","Unknow").
+specgene("TH1477","singl2367","Unknow").
+specgene("TH1477","singl2368","Unknow").
+specgene("TH1477","singl2369","Unknow").
+specgene("TH1477","singl2370","Unknow").
+specgene("TH1477","singl2371","Unknow").
+specgene("TH1477","singl2372","Unknow").
+specgene("TH1477","singl2373","Unknow").
+specgene("TH1477","singl2374","Unknow").
+specgene("TH1477","singl2375","Unknow").
+specgene("TH1477","singl2376","Unknow").
+specgene("TH1477","singl2377","Unknow").
+specgene("TH1477","singl2378","Unknow").
+specgene("TH1477","singl2379","Unknow").
+specgene("TH1477","singl2380","Unknow").
+specgene("TH1477","singl2381","Unknow").
+specgene("TH1477","singl2382","Unknow").
+specgene("TH1477","singl2383","Unknow").
+specgene("TH1477","singl2384","Unknow").
+specgene("TH1477","singl2385","Unknow").
+specgene("TH1477","singl2386","Unknow").
+specgene("TH1477","singl2387","Unknow").
+specgene("TH1477","singl2388","Unknow").
+specgene("TH1477","singl2389","Unknow").
+specgene("TH1477","singl2390","Unknow").
+specgene("TH1477","singl2391","Unknow").
+specgene("TH1477","singl2392","Unknow").
+specgene("TH1477","singl2393","Unknow").
+specgene("TH1477","singl2394","Unknow").
+specgene("TH1477","singl2395","Unknow").
+specgene("TH1477","singl2396","Unknow").
+specgene("TH1477","singl2397","Unknow").
+specgene("TH1477","singl2398","Unknow").
+specgene("TH1477","singl2399","Unknow").
+specgene("TH1477","singl2400","Unknow").
+specgene("TH1477","singl2401","Unknow").
+specgene("TH1477","singl2402","Unknow").
+specgene("TH1477","singl2403","Unknow").
+specgene("TH1477","singl2404","Unknow").
+specgene("TH1477","singl2405","Unknow").
+specgene("TH1477","singl2406","Unknow").
+specgene("TH1477","singl2407","Unknow").
+specgene("TH982","singl2408","Unknow").
+specgene("TH982","singl2409","Unknow").
+specgene("TH982","singl2410","Unknow").
+specgene("TH982","singl2411","Unknow").
+specgene("TH982","singl2412","Unknow").
+specgene("TH982","singl2413","Unknow").
+specgene("TH982","singl2414","Unknow").
+specgene("TH982","singl2415","Unknow").
+specgene("TH982","singl2416","Unknow").
+specgene("TH982","singl2417","Unknow").
+specgene("TH982","singl2418","Unknow").
+specgene("TH982","singl2419","Unknow").
+specgene("TH982","singl2420","Unknow").
+specgene("TH982","singl2421","Unknow").
+specgene("TH982","singl2422","Unknow").
+specgene("TH982","singl2423","Unknow").
+specgene("TH982","singl2424","Unknow").
+specgene("TH982","singl2425","Unknow").
+specgene("TH982","singl2426","Unknow").
+specgene("TH982","singl2427","Unknow").
+specgene("TH982","singl2428","Unknow").
+specgene("TH982","singl2429","Unknow").
+specgene("TH982","singl2430","Unknow").
+specgene("TH982","singl2431","Unknow").
+specgene("TH982","singl2432","Unknow").
+specgene("TH982","singl2433","Unknow").
+specgene("TH982","singl2434","Unknow").
+specgene("TH982","singl2435","Unknow").
+specgene("TH982","singl2436","Unknow").
+specgene("TH982","singl2437","Unknow").
+specgene("TH982","singl2438","Unknow").
+specgene("TH982","singl2439","Unknow").
+specgene("TH982","singl2440","Unknow").
+specgene("TH982","singl2441","Unknow").
+specgene("TH985","singl2442","Unknow").
+specgene("TH985","singl2443","Unknow").
+specgene("TH985","singl2444","Unknow").
+specgene("TH985","singl2445","Unknow").
+specgene("TH985","singl2446","Unknow").
+specgene("TH985","singl2447","Unknow").
+specgene("TH985","singl2448","Unknow").
+specgene("TH985","singl2449","Unknow").
+specgene("TH985","singl2450","Unknow").
+specgene("TH985","singl2451","Unknow").
+specgene("TH985","singl2452","Unknow").
+specgene("TH985","singl2453","Unknow").
+specgene("TH985","singl2454","Unknow").
+specgene("TH985","singl2455","Unknow").
+specgene("TH985","singl2456","Unknow").
+specgene("TH985","singl2457","Unknow").
+specgene("TH985","singl2458","Unknow").
+specgene("TH985","singl2459","Unknow").
+specgene("TH985","singl2460","Unknow").
+specgene("TH985","singl2461","Unknow").
+specgene("TH985","singl2462","Unknow").
+specgene("TH985","singl2463","Unknow").
+specgene("TH985","singl2464","Unknow").
+specgene("TH985","singl2465","Unknow").
+specgene("TH985","singl2466","Unknow").
+specgene("TH985","singl2467","Unknow").
+specgene("TH985","singl2468","Unknow").
+specgene("TH985","singl2469","Unknow").
+specgene("TH985","singl2470","Unknow").
+specgene("TH985","singl2471","Unknow").
+specgene("TH985","singl2472","Unknow").
+specgene("TH985","singl2473","Unknow").
+specgene("TH985","singl2474","Unknow").
+specgene("TH985","singl2475","Unknow").
+specgene("TH985","singl2476","Unknow").
+specgene("TH985","singl2477","Unknow").
+specgene("TH985","singl2478","Unknow").
+specgene("TH985","singl2479","Unknow").
+specgene("TH985","singl2480","Unknow").
+specgene("TH985","singl2481","Unknow").
+specgene("TH985","singl2482","Unknow").
+specgene("TH985","singl2483","Unknow").
+specgene("TH985","singl2484","Unknow").
+specgene("TH985","singl2485","Unknow").
+specgene("TH985","singl2486","Unknow").
+specgene("TH985","singl2487","Unknow").
+specgene("TH985","singl2488","Unknow").
+specgene("TH985","singl2489","Unknow").
+specgene("TH985","singl2490","Unknow").
+specgene("TH985","singl2491","Unknow").
+specgene("TH985","singl2492","Unknow").
+specgene("TH985","singl2493","Unknow").
+specgene("TH985","singl2494","Unknow").
+specgene("TH985","singl2495","Unknow").
+specgene("TH985","singl2496","Unknow").
+specgene("TH985","singl2497","Unknow").
+specgene("TH985","singl2498","Unknow").
+specgene("TH985","singl2499","Unknow").
+specgene("TH985","singl2500","Unknow").
+specgene("TH985","singl2501","Unknow").
+specgene("TH985","singl2502","Unknow").
+specgene("TH985","singl2503","Unknow").
+specgene("CAG:236","singl2504","Unknow").
+specgene("CAG:236","singl2505","Unknow").
+specgene("CAG:236","singl2506","Unknow").
+specgene("CAG:236","singl2507","metE").
+specgene("CAG:236","singl2508","Unknow").
+specgene("CAG:236","singl2509","Unknow").
+specgene("CAG:236","singl2510","Unknow").
+specgene("CAG:236","singl2511","Unknow").
+specgene("CAG:236","singl2512","Unknow").
+specgene("CAG:236","singl2513","Unknow").
+specgene("CAG:236","singl2514","Unknow").
+specgene("CAG:236","singl2515","rlmA").
+specgene("CAG:236","singl2516","Unknow").
+specgene("CAG:236","singl2517","Unknow").
+specgene("CAG:236","singl2518","Unknow").
+specgene("CAG:236","singl2519","Unknow").
+specgene("CAG:236","singl2520","Unknow").
+specgene("CAG:236","singl2521","Unknow")
